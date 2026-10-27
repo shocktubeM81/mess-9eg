@@ -3,7 +3,7 @@ layout: default
 title: Proposition de modifications — Constitution du Mess et Instituts
 ---
 
-> **DOCUMENT DE TRAVAIL — NON APPROUVÉ.** Ce document reproduit la transcription de la constitution actuelle pour préparer les amendements. Aucune modification de fond n'a encore été inscrite. La version publiée demeure celle de la branche `main`.
+> **DOCUMENT DE TRAVAIL — NON APPROUVÉ.** Cette proposition annotée ne constitue ni une constitution adoptée ni une autorisation de dépenses. Les suppressions sont barrées en rouge; les ajouts sont soulignés en vert. Le texte original demeure dans `constitution.md` et sur la branche `main`. Les articles non annotés restent inchangés. Les dispositions sur le fonds de cadeaux et les procédures doivent être validées avant toute ratification.
 
 # Statuts et règlements du Mess et Instituts du 9e Escadron du génie
 
@@ -34,11 +34,13 @@ Capitaine R. Poirier
 
 ## Dispositions
 
-<a id="article-1"></a>**1.** Les dispositions de la DOAD 5045-0 et du A-PS-110-001/AG-002 sont applicables au 9e Escadron du Génie (9 EG).
+<a id="article-1"></a>**1.** <del class="suppression">Les dispositions de la DOAD 5045-0 et du A-PS-110-001/AG-002 sont applicables au 9e Escadron du Génie (9 EG).</del><ins class="ajout">Les dispositions de la DOAD 5045-0, du A-PS-110-001/AG-002 et du Manuel des politiques des PSP, notamment ses chapitres 9-1, 9-2 et 9-4, s'appliquent au Mess et Instituts du 9e Escadron du génie (9 EG). En cas d'incompatibilité, les lois, règlements et politiques des FAC et des BNP applicables prévalent sur les présents statuts et règlements.</ins>
 
 * Note 1. Pour faciliter la rédaction du texte, les positions des membres du comité du mess sont indiquées au masculin mais doivent être interprétées dans l'un ou l'autre des deux sexes selon la personne en position.
 
 * Note 2. Le terme commandant spécifie le commandant du 9 EG.
+
+<ins class="ajout">Les statuts et les règlements du mess peuvent être publiés dans des documents distincts. Ils demeurent soumis à la ratification de l'assemblée générale et à l'approbation du commandant avant leur entrée en vigueur. Les procédures administratives en précisent l'exécution sans modifier les pouvoirs, droits ou obligations établis dans les statuts et règlements.</ins>
 
 ## Nom
 
@@ -124,32 +126,35 @@ apporter quelque chose de bénéfique ou de prestige à l'unité.
 
 ## Réunions
 
-<a id="article-5"></a>**5.** Les réunions du mess devraient avoir lieu trimestriellement ou tel que décidé par le commandant ou le président du Mess.
+<a id="article-5"></a>**5.** <del class="suppression">Les réunions du mess devraient avoir lieu trimestriellement ou tel que décidé par le commandant ou le président du Mess.</del><ins class="ajout">Le comité du mess se réunit au moins une fois par mois, sous réserve de la clarification des modalités particulières applicables aux mess de la Réserve. Une assemblée générale est tenue au moins tous les six mois. Les réunions du comité et les assemblées générales ont des compétences distinctes conformément à l'article 12.</ins>
 
 <a id="article-6"></a>**6.** Lors d'une réunion spéciale, généralement au mois de décembre, les membres du comité du mess seront élus. Lors de toute élection, normalement pas plus de 50% des membres du comité ne sera substitué à une même assemblée.
 
 <a id="article-7"></a>**7.** Un rapport financier sommaire sera présenté à chaque réunion du mess.
 
-<a id="article-8"></a>**8.** Le quorum doit être formé par plus de 50% des membres ordinaires en règle et disponibles en région. Une assemblée doit être annulée dans la mesure où, 30 minutes après l'heure d'ouverture, il n'y a pas quorum.
+<ins class="ajout">Les états financiers et les décisions financières du comité sont consignés au procès-verbal. Le comité veille à la préparation du budget annuel et présente les questions réservées aux membres à une assemblée générale.</ins>
+<a id="article-8"></a>**8.** Le quorum doit être formé par <del class="suppression">plus de 50% des membres ordinaires en règle et disponibles en région</del><ins class="ajout">au moins 50 % des membres ordinaires</ins>. Une assemblée doit être annulée dans la mesure où, 30 minutes après l'heure d'ouverture, il n'y a pas quorum.
 
+<ins class="ajout">Pour une assemblée particulière, le commandant ou l'autorité déléguée peut exceptionnellement valider un quorum inférieur; les circonstances et cette autorisation doivent être annexées au procès-verbal. Les participants admissibles présents par un moyen virtuel autorisé sont pris en compte selon les modalités approuvées.</ins>
 <a id="article-9"></a>**9.** Les membres honoraires et associés peuvent assister aux réunions et participer aux discussions, mais n'ont aucun droit de vote.
 
 <a id="article-10"></a>**10.** Le commandant pourra être présent aux réunions s'il le désire, mais il ne participera pas au vote. Par contre, il pourra exprimer son opinion. Lors de la révision du procès verbale, le commandant pourra annuler un vote avec son droit de véto. Il ne peut pas seulement modifier la proposition.
 
-<a id="article-11"></a>**11.** Il faut noter que les réunions extraordinaires peuvent être convoquées par le commandant, le président du comité du mess ou par une demande écrite d'au moins 25% des membres ordinaires en règle.
+<a id="article-11"></a>**11.** Il faut noter que les réunions extraordinaires peuvent être convoquées <del class="suppression">par le commandant, le président du comité du mess ou par une demande écrite d'au moins 25% des membres ordinaires en règle</del><ins class="ajout">par le commandant, le président du comité du mess, l'officier superviseur du mess ou à la demande écrite d'au moins 25 % des membres ordinaires</ins>.
 
 
 <!-- Source : PDF, page 6/20 ; pagination imprimée 4/17 (la dernière page affiche 18/17). -->
 
 <a id="article-12"></a>**12.** Au niveau des réunions du comité du mess, c'est le commandant ou le président de ce comité qui les convoque.
 
-<a id="article-13"></a>**13.** Il ne pourra y avoir d'assemblée entre le 30 mai et le 30 août de chaque année, puisque la majorité des membres ne sera pas disponible en région.
+<ins class="ajout">Les réunions du comité servent à assurer l'administration courante, à planifier et organiser les activités, à examiner les états financiers, à préparer le budget et à prendre les décisions dans les limites des pouvoirs délégués et du budget approuvé. Les assemblées générales demeurent compétentes pour les élections, l'approbation des cotisations et du budget annuel, la ratification des statuts et règlements ainsi que toute question que les politiques ou les présents statuts réservent aux membres. Toutes les décisions restent soumises aux approbations du commandant et aux autorisations financières requises. Les délibérations du comité font l'objet d'un procès-verbal.</ins>
+<a id="article-13"></a>**13.** <del class="suppression">Il ne pourra y avoir d'assemblée entre le 30 mai et le 30 août de chaque année, puisque la majorité des membres ne sera pas disponible en région.</del><ins class="ajout">Les assemblées générales sont, dans la mesure du possible, planifiées hors de la période du 30 mai au 30 août, compte tenu des disponibilités des membres. Cette préférence ne peut empêcher la tenue des assemblées exigées par les politiques ni la convocation d'une assemblée extraordinaire.</ins>
 
 ## Procédures d'assemblées
 
 <a id="article-14"></a>**14.** Introduction. Une assemblée générale vise à permettre aux membres de discuter à fond, d'une manière démocratique, de sujets reliés à l'exploitation du mess et de prendre des décisions qui reflètent la volonté de la majorité.
 
-<a id="article-15"></a>**15.** Quorum. Les délibérations d'une assemblée générale ordinaire ou extraordinaire ne sont valides que s'il y a quorum. Le nombre de membres présents constitue le quorum.
+<a id="article-15"></a>**15.** Quorum. Les délibérations d'une assemblée générale ordinaire ou extraordinaire ne sont valides que s'il y a quorum. <del class="suppression">Le nombre de membres présents constitue le quorum.</del><ins class="ajout">Le quorum est établi conformément à l'article 8 et aux politiques applicables.</ins>
 
 <a id="article-16"></a>**16.** Responsabilité du président. Les assemblées du mess sont présidées par le président, en son absence, par le vice-président. Le président de l’assemblée général, à titre, doit veiller à ce que:
 
@@ -163,6 +168,7 @@ apporter quelque chose de bénéfique ou de prestige à l'unité.
 
 <a id="article-17"></a>**17.** Ordre du jour et invitation. Une invitation devrait être envoyée à tous les membres au minimum 7 jours avant la tenue d’un assemblé. Dans cette invitation, l’ordre du jour approuvé d’une assemblée générale du mess devrait y être et de plus, celle-ci devrait être affichée dans l’entrée du mess au moins 7 jours avant l'heure prévue de l'assemblée.
 
+<ins class="ajout">L'ordre du jour approuvé est communiqué au moins deux jours ouvrables avant l'assemblée, conformément aux politiques; le délai local plus long prévu ci-dessus demeure l'objectif normal.</ins>
 <a id="article-18"></a>**18.** Ordre des délibérations. L'ordre des délibérations d'une assemblée générale est habituellement le suivant:
 
 - **a.** ouverture de la séance ;
@@ -194,19 +200,20 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 <a id="article-20"></a>**20.** Proposition. Une proposition a pour objet d'amener le Comité à prendre position sur une question donnée. Tous les membres, à l'exception du commandant et du président, peuvent présenter une proposition. Pour ce faire, un membre doit d'abord obtenir du président le droit de parole et à cette fin, il doit se lever et attendre que le président lui accorde la parole. Il est essentiel que la proposition soit comprise de tous. Pour éviter toute confusion, le président doit répéter la proposition et demander aux membres s'il s'est bien fait comprendre.
 
+<ins class="ajout">Les propositions destinées à l'assemblée doivent être consignées par écrit et appuyées au moins quatre jours ouvrables avant la réunion, sauf disposition particulière applicable; leur transmission électronique est autorisée.</ins>
 <a id="article-21"></a>**21.** Appui à la proposition. Une proposition n'est valide que si elle est appuyée par un autre membre. À défaut d'un tel appui, le président déclare que "la proposition est irrecevable", puis passe au point suivant.
 
 <a id="article-22"></a>**22.** Débats. A moins d'être déclarée irrecevable par le président, une proposition dûment appuyée, puis répétée par le président du Comité, doit être débattue par l'assemblée et ne peut être ignorée, sauf à la demande expresse d'une motion.
 
 <a id="article-23"></a>**23.** Vote. Toute proposition doit être adoptée par la majorité des membres présents, c'est-à-dire par 50 pour cent des voix exprimées plus un (sans compter les abstentions). Les membres ne sont pas tenus de voter, mais incités à le faire. S'il y a égalité des voix, il y aura automatiquement un recomptage. S’il y a une deuxième égalité, le PCAM utilisera son droit de vote pour trancher. Il s’agit de l’unique occasion que le PCAM peut utiliser son droit de vote. Le PCAM ne peut amender ou appuyer une motion. Dans le cas d'un vote erroné, le PCAM ordonne un nouveau vote.
 
-- **a.** L’ère moderne permet de simplifier les communications des membres avec le comité du mess. Afin de minimiser le délai de traitement des demandes les votes via internet seront possibles. Le média, tel que FACEBOOK, SURVEY MONKEY ou EMAIL n’est pas important tant que les critères suivants sont respectés :
+- **a.** L’ère moderne permet de simplifier les communications des membres avec le comité du mess. Afin de minimiser le délai de traitement des demandes les votes via internet seront possibles. <del class="suppression">Le média, tel que FACEBOOK, SURVEY MONKEY ou EMAIL n’est pas important tant que les critères suivants sont respectés :</del><ins class="ajout">Le vote électronique et les assemblées virtuelles ou hybrides sont permis si l'identité, le droit de vote et le quorum peuvent être vérifiés et si les résultats sont conservés avec le procès-verbal, sous réserve des politiques applicables :</ins>
 
 - **1.** Priorisé les votes dans les assemblées;
 
 - **2.** Le vote doit être étudié avant et publié par le comité du mess ;
 
-- **3.** Aucune dépense de plus de 200$ sera votée via internet ;
+- **3.** <del class="suppression">Aucune dépense de plus de 200$ sera votée via internet ;</del><ins class="ajout">Un vote électronique ne modifie ni les pouvoirs décisionnels respectifs de l'assemblée et du comité ni les règles d'approbation des dépenses; toute dépense demeure assujettie au budget et aux autorités financières applicables ;</ins>
 
 - **4.** Les membres ne sont pas obligés de voté ;
 
@@ -214,10 +221,11 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 - **6.** Le QUORUM de vote doit être atteint ;
 
-- **7.** Un délai minimal de 15 jours doit être respecté ;
+- **7.** <del class="suppression">Un délai minimal de 15 jours doit être respecté ;</del><ins class="ajout">Pour un vote électronique tenu hors assemblée en temps réel, le délai minimal prévu est de 15 jours ;</ins>
 
 - **8.** Le cmdt garde son droit de veto.
 
+<ins class="ajout">Le vote électronique ne peut servir à contourner le débat en assemblée générale lorsqu'une décision ou une ratification y est expressément exigée. Les résultats et la preuve des vérifications sont annexés au procès-verbal soumis au commandant.</ins>
 <a id="article-24"></a>**24.** Mise en candidature.
 
 - **a.** Le président est voté par l’assemblée générale.
@@ -257,6 +265,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 <a id="article-32"></a>**32.** Si un poste devient vacant, il doit être comblé à la première réunion suivant la date de vacance.
 
+<ins class="ajout">Le comité peut recommander un remplacement provisoire parmi les membres ordinaires, sous réserve de l'approbation du commandant, jusqu'à l'élection ou la nomination régulière applicable. La représentation des deux regroupements prévue à l'article 27 doit être maintenue autant que possible.</ins>
 <a id="article-33"></a>**33.** Les membres du comité du mess ainsi que tous ceux ou celles qui auront à autoriser ou à signer des achats ou paiements, devront le faire en tant que bon gestionnaire. Dans le cas de mauvaise gestion flagrante, dilapidation ou de détournement d’argent, la ou les personnes impliquées seront relevées de leurs fonctions et devront réparer les torts causés au Mess.
 
 <a id="article-34"></a>**34.** Destitution d'un membre du comité. Pour qu'une destitution soit autorisée, il faut une raison suffisante et la proposition de destitution doit être appuyée d'un vote au cours d'une assemblée. Un minimum de 75% des votes des personnes présentes à la réunion est obligatoire pour que la destitution soit en règle. L’avis de destitution doit être présenté au minimum un mois avant le vote.
@@ -267,6 +276,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 - **a.** Être responsable de l'application de toute réglementation touchant le mess.
 
+<ins class="ajout">Le comité ne peut engager des dépenses ni modifier les statuts ou règlements au-delà des pouvoirs qui lui sont conférés. Les décisions sont consignées et transmises pour approbation au commandant selon les politiques applicables.</ins>
 
 <!-- Source : PDF, page 9/20 ; pagination imprimée 7/17 (la dernière page affiche 18/17). -->
 
@@ -319,6 +329,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 - **c.** Il doit prendre et consigner tous les procès-verbaux des réunions. Il est chargé de la garde des registres des procès-verbaux qui doivent être tenus selon la forme indiquée aux PFC 262 art. 319.
 
+<ins class="ajout">Le secrétaire conserve les versions approuvées des statuts et règlements, les ordres du jour, les procès-verbaux signés, les approbations et les résultats des votes électroniques. Il veille à leur archivage et à leur transmission aux titulaires suivants, sous réserve de la protection des renseignements personnels.</ins>
 
 <!-- Source : PDF, page 10/20 ; pagination imprimée 8/17 (la dernière page affiche 18/17). -->
 
@@ -446,6 +457,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 - **k.** Le mess paiera le remboursement de cotisation par chèque au nom du membre.
 
+<ins class="ajout">La cotisation ordinaire au mess est distincte de toute contribution volontaire au fonds de cadeaux. La participation au fonds de cadeaux, son montant, sa perception et les droits des cotisants sont régis par les dispositions particulières à ce fonds.</ins>
 <a id="article-46"></a>**46.** Transactions.
 
 - **a.** Le privilège des chèques personnels sera enlevé à toute personne dont l'un de ses chèques se révèle sans fonds. Les frais de la banque lui seront réclamés.
@@ -457,7 +469,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 - **c.** Paiement des achats et dépenses. Tous les achats et dépenses faits pour les besoins du mess seront payés par chèque.
 
-- **d.** Carte du Commandant. La carte du Commandant est un privilège utilisé par le Commandant afin de promouvoir et encourager la collaboration entre divers invités d’honneurs lors de fonctions officielles. Le montant maximum de la carte est de 50$ et renouvelable mensuellement. Le montant n’est pas cumulatif. Cette carte peut être utilisée par le PCAM en l’absence du Commandant.
+- **d.** Carte du Commandant. <del class="suppression">La carte du Commandant est un privilège utilisé par le Commandant afin de promouvoir et encourager la collaboration entre divers invités d’honneurs lors de fonctions officielles. Le montant maximum de la carte est de 50$ et renouvelable mensuellement. Le montant n’est pas cumulatif. Cette carte peut être utilisée par le PCAM en l’absence du Commandant.</del><ins class="ajout">La fiche de bar autorisée est réservée à l'accueil d'invités externes au mess lors de réceptions ou d'activités spéciales officielles, à titre de frais de représentation prévus au budget et dûment approuvés. L'hôte peut y imputer uniquement une consommation personnelle raisonnable lorsqu'il accueille activement ces invités. Toute utilisation non autorisée demeure à la charge du titulaire. La limite locale est de 50 $ par mois, non cumulative, sous réserve de l'approbation et des délégations applicables. Toute utilisation par le PCAM exige une autorisation appropriée.</ins>
 
 - **e.** Traite. Le PCAM peut sonner un maximum de trois traites au cours de l’année financière. Ces traites sont permises seulement lors des assemblées générales ou lors d’un événement extraordinaire et officiel (par exemple au dîner de la troupe ou dans le cadre de Anniversaire du 9 EG). Ce privilège peut être utilisé qu’une seule fois au cours de l’événement. Une consommation par membre présent dans le Mess au moment de la traite est autorisée. Le Commandant se réserve également ce privilège lors du dîner de la troupe.
 
@@ -477,6 +489,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 - **b.** Toute dépense pour les divertissements doit être certifiée pour paiement par le PCAM.
 
+<ins class="ajout">Le comité du divertissement agit à l'intérieur des autorisations budgétaires et financières préalables requises; l'approbation ultérieure d'un procès-verbal ne remplace pas une autorisation préalable de dépense.</ins>
 <a id="article-48"></a>**48.** Radiations et pertes. En cas de perte de biens ou de dommages à la propriété non publique. Lors des circonstances spéciales, le commandant peut radier une somme ne dépassant pas la valeur indiquée dans l’A-FN-105-001/AAG-001.
 
 ## Fonds d'Opération
@@ -486,9 +499,9 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 <!-- Source : PDF, page 14/20 ; pagination imprimée 12/17 (la dernière page affiche 18/17). -->
 
-<a id="article-50"></a>**50.** Le président possède le pouvoir de dépenser un montant maximal de 100 $ mensuellement si nécessaire. Ce montant a pour but de faciliter les petits achats. Tous ces achats devront être appuyés ou acceptés lors de la prochaine assemblée.
+<a id="article-50"></a>**50.** Le président possède le pouvoir de dépenser un montant maximal de 100 $ mensuellement si nécessaire. Ce montant a pour but de faciliter les petits achats. <del class="suppression">Tous ces achats devront être appuyés ou acceptés lors de la prochaine assemblée.</del><ins class="ajout">Ces achats doivent être autorisés préalablement selon la délégation financière applicable et consignés pour examen à la prochaine réunion du comité; leur présentation ultérieure ne constitue pas une autorisation rétroactive.</ins>
 
-<a id="article-51"></a>**51.** Le fond du président est géré par le président et le trésorier du Mess. Ce fond doit servir à l'embellissement du Mess ou au bien-être de ses membres. Les dépenses seront autorisées par le président ou le trésorier et devront être acceptées lors de la prochaine réunion.
+<a id="article-51"></a>**51.** Le fond du président est géré par le président et le trésorier du Mess. Ce fond doit servir à l'embellissement du Mess ou au bien-être de ses membres. <del class="suppression">Les dépenses seront autorisées par le président ou le trésorier et devront être acceptées lors de la prochaine réunion.</del><ins class="ajout">Les dépenses exigent une autorisation préalable selon les pouvoirs financiers délégués et doivent être présentées à la prochaine réunion du comité, puis consignées au procès-verbal.</ins>
 
 <a id="article-52"></a>**52.** Un montant maximum de 100$ par activité, (Club Chimo et Combiné), octroyé mensuellement et elle est non cumulable. Toutefois, les revenus de l’activité devront générer au minimum l’investissement de départ. La gestion de ces dépenses doit être faite selon le principe du bon gestionnaire.
 
@@ -627,6 +640,8 @@ règlements du Mess.
 
 <a id="article-89"></a>**89.** Le calendrier des activités du Mess, ainsi que les avis spéciaux sur les activités à venir seront affichés dans les locaux du Mess.
 
+<ins class="ajout">Le comité tient un registre à jour des versions approuvées des statuts, des règlements, des procès-verbaux, des décisions, des budgets et des rapports financiers. Il assure leur archivage et leur transmission lors des changements de responsables. Les membres peuvent consulter les documents pertinents par un moyen de communication accessible, y compris électronique, sous réserve de la confidentialité, de la protection des renseignements personnels et des restrictions imposées par les politiques des BNP.</ins>
+
 ## Réceptions Privées
 
 <a id="article-90"></a>**90.** Les réceptions privées peuvent être organisées par les membres du Mess ainsi que des non-membres désirant utiliser les locaux du Mess.
@@ -685,6 +700,8 @@ personnel désigné par lui.
 
 ## Fonds Cadeaux
 
+<ins class="ajout">**Fonds de cadeaux — dispositions communes aux articles 105 à 111.** Un fonds de cadeaux distinct, établi au sein de l'entité financière du mess après l'approbation requise des membres, finance exclusivement les cadeaux admissibles. Il est alimenté par des contributions volontaires, comptabilisé séparément et doit être autosuffisant; il ne peut être créé ni renfloué à même d'autres comptes. Seuls les membres contribuant à ce fonds peuvent en bénéficier. Les catégories de cadeaux, plafonds, critères équitables d'admissibilité, cas de déploiement, modalités de cotisation et approbations sont détaillés dans un règlement du fonds de cadeaux ratifié et approuvé. Le comité en examine annuellement la viabilité avec les responsables des BNP. Les dispositions des articles 105 à 111 ne constituent pas une autorisation de faire un cadeau à une personne non admissible.</ins>
+
 <a id="article-105"></a>**105.** Décès. Des fleurs ou autres pour un montant maximal de 50 $ seront envoyées au salon funéraire lors du décès du conjoint, des enfants, des parents. Pour ce qui est du décès d'un membre le montant pourra être doublé pour les membres réguliers et associés.
 
 <a id="article-106"></a>**106.** Naissance. Des fleurs ou autres cadeaux au montant maximal de 75 $ pour les naissances. Les fleurs ou autres cadeaux seront envoyées à l'hôpital ou à la résidence lors de la naissance d'un enfant d'un membre. Si les parents sont tous deux membres du Mess, le montant sera doublé.
@@ -701,9 +718,9 @@ personnel désigné par lui.
 
 <a id="article-109"></a>**109.** Départ de membres dits « spéciaux ». Lors du départ du Cmdt, du SME, Lcol (H) ou de tous membres ayant plus de 12 années d’appartenance au mess, un cadeau d’une valeur maximale de 150$ lui sera remis.
 
-<a id="article-110"></a>**110.** Cadeau de mission. Un cadeau pourra être offer au membre du 9 EG détaché en mission (Opération). Ce cadeau d’une valeur maximale de 50,00$ pourra être versé au personnel détaché du 9 EG qui est normalement un membre en règle du Mess et Instituts. Cette personne aura droit au cadeau de mission même s’il est absent de l’unité et qu’il n’a pas payé de cotisation au mess et Institut en raison de son déploiement en mission.
+<a id="article-110"></a>**110.** Cadeau de mission. Un cadeau pourra être offer au membre du 9 EG détaché en mission (Opération). Ce cadeau d’une valeur maximale de 50,00$ pourra être versé au personnel détaché du 9 EG qui est normalement un membre en règle du Mess et Instituts. <del class="suppression">Cette personne aura droit au cadeau de mission même s’il est absent de l’unité et qu’il n’a pas payé de cotisation au mess et Institut en raison de son déploiement en mission.</del><ins class="ajout">Le déploiement et la suspension éventuelle de la cotisation ordinaire au mess ne dispensent pas de satisfaire aux critères de participation au fonds de cadeaux; les modalités de maintien volontaire de cette participation pendant une mission sont fixées dans son règlement.</ins>
 
-<a id="article-111"></a>**111.** Changement de Cmdt. Des fleurs, pour un montant n’excédant pas 50,00$, seront offertes à la conjointe ou au conjoint du Cmdt sortant ainsi qu’à la conjointe ou au conjoint du Cmdt entrant.
+<a id="article-111"></a>**111.** Changement de Cmdt. <del class="suppression">Des fleurs, pour un montant n’excédant pas 50,00$, seront offertes à la conjointe ou au conjoint du Cmdt sortant ainsi qu’à la conjointe ou au conjoint du Cmdt entrant.</del><ins class="ajout">Un témoignage d'appréciation d'une valeur maximale de 50 $ peut être offert au titre du changement de commandement uniquement si le bénéficiaire est admissible au fonds de cadeaux. Les cadeaux à des personnes non cotisantes ne peuvent être imputés à ce fonds.</ins>
 
 *Note. Il est de la responsabilité du membre ou de sa famille de prévenir la salle des rapports ou un membre du comité du Mess pour les articles mentionnés ci-haut. Le supérieur immédiat est responsable de remettre le présent au membre ou à la famille.
 
@@ -720,8 +737,11 @@ personnel désigné par lui.
 
 <a id="article-114"></a>**114.** Validité. Cette constitution ne peut être amendée qu'après qu'une proposition ait été mise par écrit et envoyée au secrétaire, et qu'ensuite elle ait été acceptée par la majorité des membres présents à la réunion.
 
+<ins class="ajout">Les amendements approuvés sont reportés dans une version consolidée distincte de la proposition annotée, en conservant un historique des versions et des décisions d'approbation.</ins>
+
 ## Modification
 
 <a id="article-115"></a>**115.** Les propositions de modification des statuts ou règlements ne doivent pas être inscrites au registre des motions, mais présentées par écrit au PCAM qui les soumettra au comité du mess. Les propositions valables doivent être affichées pendant au moins 15 jours avant d’être étudiées à la prochaine assemblée générale ordinaire ou extraordinaire du mess. Si le comité du mess rejette les propositions, le PCAM doit en communiquer les raisons à l’auteur. Les statuts ne doivent, pour aucune considération, diverger ou aller à l’encontre des politiques des FC en matière d’exploitation des mess.
 
+<ins class="ajout">Les règlements peuvent être publiés séparément des statuts, mais leur adoption et toute modification de fond restent soumises à la ratification en assemblée générale et à l'approbation du commandant. Les procédures purement administratives peuvent être révisées selon les autorités compétentes, pourvu qu'elles ne modifient aucune obligation ni aucun pouvoir découlant des statuts et règlements.</ins>
 <a id="article-116"></a>**116.** À tous les égards, une modification ainsi proposée devient valide et partie des présents statuts ou règlements une fois qu’elle est ratifiée à l’occasion d’une assemblée générale ordinaire ou extraordinaire où il y a quorum et qu’elle est subséquemment approuvée par le commandant des mess.
