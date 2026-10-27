@@ -52,7 +52,12 @@ Capitaine R. Poirier
 
 ## Membres
 
-<a id="article-4"></a>**4.** Les membres du mess sont ordinaires, associés, ou honoraires II est à noter que seuls les membres ordinaires peuvent faire partie du comité du mess.
+<a id="article-4"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 4 — 4. Les membres du mess sont ordinaires, associés, ou honoraires II est à noter que seuls les membres ordi…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**4.** Les membres du mess sont ordinaires, associés, ou honoraires II est à noter que seuls les membres ordinaires peuvent faire partie du comité du mess.
 
 - **a.** Membres ordinaires.
 
@@ -65,7 +70,7 @@ Capitaine R. Poirier
 - **(1)** Toute autre personne désireuse de devenir membre associé doit adresser par écrit une demande officielle au président. Cette demande doit être appuyée par un membre ordinaire et affichée au moins 30 jours avant une assemblée générale. Si un membre juge qu’un candidat ne peut devenir membre associé, il doit faire part de ses observations/objections par écrit au président. De plus, la demande sera évaluée par le comité du mess pour acceptation. Néanmoins, il incombe que la demande soit présentée à l’assemblée générale suivante pour fins d’approbation.
 
 
-<!-- Source : PDF, page 4/20 ; pagination imprimée 2/17 (la dernière page affiche 18/17). -->
+
 
 - **(2)** Le total des membres mentionnés en (1) est limité à 65% du total des membres ordinaires; le secrétaire du comité dressera une liste d’attente au besoin.
 
@@ -100,7 +105,7 @@ Capitaine R. Poirier
 - **(2)** Les membres honoraires peuvent également être toute personne de marque invitée à devenir membre honoraire du mess pour une période n’excédant pas une année, sous réserve de la possibilité de renouvellement pour d’autres périodes d’une année, sur la recommandation du comité du mess et avec l’approbation du cmdt ;
 
 
-<!-- Source : PDF, page 5/20 ; pagination imprimée 3/17 (la dernière page affiche 18/17). -->
+
 
 - **(3)** Les personnes susceptibles à être choisies à devenir membres honoraires sont :
 
@@ -123,6 +128,13 @@ apporter quelque chose de bénéfique ou de prestige à l'unité.
 - **(4)** Les membres ayant plus de 12 ans de services au sein du 9 EG.
 
 *Note. Le privilège de membre à vie peu être révoqué suite à un manquement pouvant porté ombrage à l’escadron ou au Mess et Instituts du 9e Escadron du Génie. La révocation d’un membre à vie doit être voté lors d’une assemble du Mess et Instituts.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 4 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#1-membres-et-admission-ancien-art-4' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
 
 ## Réunions
 
@@ -169,7 +181,12 @@ apporter quelque chose de bénéfique ou de prestige à l'unité.
 <a id="article-17"></a>**17.** Ordre du jour et invitation. Une invitation devrait être envoyée à tous les membres au minimum 7 jours avant la tenue d’un assemblé. Dans cette invitation, l’ordre du jour approuvé d’une assemblée générale du mess devrait y être et de plus, celle-ci devrait être affichée dans l’entrée du mess au moins 7 jours avant l'heure prévue de l'assemblée.
 
 <ins class="ajout">L'ordre du jour approuvé est communiqué au moins deux jours ouvrables avant l'assemblée, conformément aux politiques; le délai local plus long prévu ci-dessus demeure l'objectif normal.</ins>
-<a id="article-18"></a>**18.** Ordre des délibérations. L'ordre des délibérations d'une assemblée générale est habituellement le suivant:
+<a id="article-18"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 18 — 18. Ordre des délibérations. L'ordre des délibérations d'une assemblée générale est habituellement le sui…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**18.** Ordre des délibérations. L'ordre des délibérations d'une assemblée générale est habituellement le suivant:
 
 - **a.** ouverture de la séance ;
 
@@ -189,21 +206,70 @@ apporter quelque chose de bénéfique ou de prestige à l'unité.
 
 - **i.** levée de la séance.
 
-<a id="article-19"></a>**19.** Il est bon qu'une question d'importance, comme une proposition de modification aux statuts ou
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 18 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#3-assemblees-et-votes-anciens-art-525' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-19"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 19 — 19. Il est bon qu'une question d'importance, comme une proposition de modification aux statuts ou aux règ…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**19.** Il est bon qu'une question d'importance, comme une proposition de modification aux statuts ou
 
 aux règlements ou une proposition complexe, soit portée à l'attention des membres à l'avance pour leur
 
 
-<!-- Source : PDF, page 7/20 ; pagination imprimée 5/17 (la dernière page affiche 18/17). -->
+
 
 permettre de rassembler les renseignements nécessaires, de se faire une opinion et de préparer les questions qu'ils désirent poser.
 
-<a id="article-20"></a>**20.** Proposition. Une proposition a pour objet d'amener le Comité à prendre position sur une question donnée. Tous les membres, à l'exception du commandant et du président, peuvent présenter une proposition. Pour ce faire, un membre doit d'abord obtenir du président le droit de parole et à cette fin, il doit se lever et attendre que le président lui accorde la parole. Il est essentiel que la proposition soit comprise de tous. Pour éviter toute confusion, le président doit répéter la proposition et demander aux membres s'il s'est bien fait comprendre.
+</del>
 
-<ins class="ajout">Les propositions destinées à l'assemblée doivent être consignées par écrit et appuyées au moins quatre jours ouvrables avant la réunion, sauf disposition particulière applicable; leur transmission électronique est autorisée.</ins>
-<a id="article-21"></a>**21.** Appui à la proposition. Une proposition n'est valide que si elle est appuyée par un autre membre. À défaut d'un tel appui, le président déclare que "la proposition est irrecevable", puis passe au point suivant.
+</details>
 
-<a id="article-22"></a>**22.** Débats. A moins d'être déclarée irrecevable par le président, une proposition dûment appuyée, puis répétée par le président du Comité, doit être débattue par l'assemblée et ne peut être ignorée, sauf à la demande expresse d'une motion.
+<ins class="ajout" markdown="1">**Art. 19 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#3-assemblees-et-votes-anciens-art-525' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-20"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 20 — 20. Proposition. Une proposition a pour objet d'amener le Comité à prendre position sur une question donn…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**20.** Proposition. Une proposition a pour objet d'amener le Comité à prendre position sur une question donnée. Tous les membres, à l'exception du commandant et du président, peuvent présenter une proposition. Pour ce faire, un membre doit d'abord obtenir du président le droit de parole et à cette fin, il doit se lever et attendre que le président lui accorde la parole. Il est essentiel que la proposition soit comprise de tous. Pour éviter toute confusion, le président doit répéter la proposition et demander aux membres s'il s'est bien fait comprendre.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 20 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#3-assemblees-et-votes-anciens-art-525' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-21"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 21 — 21. Appui à la proposition. Une proposition n'est valide que si elle est appuyée par un autre membre. À d…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**21.** Appui à la proposition. Une proposition n'est valide que si elle est appuyée par un autre membre. À défaut d'un tel appui, le président déclare que "la proposition est irrecevable", puis passe au point suivant.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 21 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#3-assemblees-et-votes-anciens-art-525' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-22"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 22 — 22. Débats. A moins d'être déclarée irrecevable par le président, une proposition dûment appuyée, puis ré…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**22.** Débats. A moins d'être déclarée irrecevable par le président, une proposition dûment appuyée, puis répétée par le président du Comité, doit être débattue par l'assemblée et ne peut être ignorée, sauf à la demande expresse d'une motion.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 22 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#3-assemblees-et-votes-anciens-art-525' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-23"></a>**23.** Vote. Toute proposition doit être adoptée par la majorité des membres présents, c'est-à-dire par 50 pour cent des voix exprimées plus un (sans compter les abstentions). Les membres ne sont pas tenus de voter, mais incités à le faire. S'il y a égalité des voix, il y aura automatiquement un recomptage. S’il y a une deuxième égalité, le PCAM utilisera son droit de vote pour trancher. Il s’agit de l’unique occasion que le PCAM peut utiliser son droit de vote. Le PCAM ne peut amender ou appuyer une motion. Dans le cas d'un vote erroné, le PCAM ordonne un nouveau vote.
 
@@ -226,7 +292,12 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 - **8.** Le cmdt garde son droit de veto.
 
 <ins class="ajout">Le vote électronique ne peut servir à contourner le débat en assemblée générale lorsqu'une décision ou une ratification y est expressément exigée. Les résultats et la preuve des vérifications sont annexés au procès-verbal soumis au commandant.</ins>
-<a id="article-24"></a>**24.** Mise en candidature.
+<a id="article-24"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 24 — 24. Mise en candidature. - a. Le président est voté par l’assemblée générale. - b. Le vice-président est …</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**24.** Mise en candidature.
 
 - **a.** Le président est voté par l’assemblée générale.
 
@@ -234,10 +305,25 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 - **c.** La période d'office du président et du vice-président sera d'une durée minimale de un an selon la disponibilité de chacun.
 
-<a id="article-25"></a>**25.** Avis de convocation à une assemblée. Un avis de convocation à une assemblée générale doit être fait à tous les membres au moins 2 semaines avant la date de l’assemblée ou le mentionner à la fin des assemblées ordinaires.
+</del>
 
+</details>
 
-<!-- Source : PDF, page 8/20 ; pagination imprimée 6/17 (la dernière page affiche 18/17). -->
+<ins class="ajout" markdown="1">**Art. 24 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#3-assemblees-et-votes-anciens-art-525' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-25"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 25 — 25. Avis de convocation à une assemblée. Un avis de convocation à une assemblée générale doit être fait à…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**25.** Avis de convocation à une assemblée. Un avis de convocation à une assemblée générale doit être fait à tous les membres au moins 2 semaines avant la date de l’assemblée ou le mentionner à la fin des assemblées ordinaires.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 25 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#3-assemblees-et-votes-anciens-art-525' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
 
 ## Membres du comité
 
@@ -257,16 +343,60 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 - **e.** Le responsable des activités du Mess Combiné.
 
-<a id="article-29"></a>**29.** Les postes de secrétaire et trésorier peuvent être remplis par deux personnes différentes.
+<a id="article-29"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 29 — 29. Les postes de secrétaire et trésorier peuvent être remplis par deux personnes différentes.…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
 
-<a id="article-30"></a>**30.** Les membres de ce comité sont élus à majorité simple, généralement à la réunion du mois de décembre à l’exception du régisseur qui est nominé par le commandant.
+<del class="suppression" markdown="1">
 
-<a id="article-31"></a>**31.** Dans le cas de tout mess, il convient que tous les grades soient équitablement représentés au sein du comité, dans la mesure du possible.
+**29.** Les postes de secrétaire et trésorier peuvent être remplis par deux personnes différentes.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 29 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#2-comite-et-titulaires-anciens-art-6-24-2642' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-30"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 30 — 30. Les membres de ce comité sont élus à majorité simple, généralement à la réunion du mois de décembre à…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**30.** Les membres de ce comité sont élus à majorité simple, généralement à la réunion du mois de décembre à l’exception du régisseur qui est nominé par le commandant.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 30 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#2-comite-et-titulaires-anciens-art-6-24-2642' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-31"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 31 — 31. Dans le cas de tout mess, il convient que tous les grades soient équitablement représentés au sein du…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**31.** Dans le cas de tout mess, il convient que tous les grades soient équitablement représentés au sein du comité, dans la mesure du possible.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 31 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#2-comite-et-titulaires-anciens-art-6-24-2642' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-32"></a>**32.** Si un poste devient vacant, il doit être comblé à la première réunion suivant la date de vacance.
 
 <ins class="ajout">Le comité peut recommander un remplacement provisoire parmi les membres ordinaires, sous réserve de l'approbation du commandant, jusqu'à l'élection ou la nomination régulière applicable. La représentation des deux regroupements prévue à l'article 27 doit être maintenue autant que possible.</ins>
-<a id="article-33"></a>**33.** Les membres du comité du mess ainsi que tous ceux ou celles qui auront à autoriser ou à signer des achats ou paiements, devront le faire en tant que bon gestionnaire. Dans le cas de mauvaise gestion flagrante, dilapidation ou de détournement d’argent, la ou les personnes impliquées seront relevées de leurs fonctions et devront réparer les torts causés au Mess.
+<a id="article-33"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 33 — 33. Les membres du comité du mess ainsi que tous ceux ou celles qui auront à autoriser ou à signer des ac…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**33.** Les membres du comité du mess ainsi que tous ceux ou celles qui auront à autoriser ou à signer des achats ou paiements, devront le faire en tant que bon gestionnaire. Dans le cas de mauvaise gestion flagrante, dilapidation ou de détournement d’argent, la ou les personnes impliquées seront relevées de leurs fonctions et devront réparer les torts causés au Mess.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 33 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-34"></a>**34.** Destitution d'un membre du comité. Pour qu'une destitution soit autorisée, il faut une raison suffisante et la proposition de destitution doit être appuyée d'un vote au cours d'une assemblée. Un minimum de 75% des votes des personnes présentes à la réunion est obligatoire pour que la destitution soit en règle. L’avis de destitution doit être présenté au minimum un mois avant le vote.
 
@@ -284,7 +414,12 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 - **c.** Servir d'intermédiaire entre le commandant et les membres du mess pour régler toute question concernant le mess.
 
-<a id="article-36"></a>**36.** Devoirs du président du conseil d’administration du mess (PCAM).
+<a id="article-36"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 36 — 36. Devoirs du président du conseil d’administration du mess (PCAM). - a. Il doit rendre compte au comman…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**36.** Devoirs du président du conseil d’administration du mess (PCAM).
 
 - **a.** Il doit rendre compte au commandant pour tout ce qui touche ses fonctions.
 
@@ -308,7 +443,18 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 - **k.** Les membres du personnel des finances ne peuvent être président du Mess.
 
-<a id="article-37"></a>**37.** Devoirs du vice-président du conseil d’administration du mess (VPCAM).
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 36 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#2-comite-et-titulaires-anciens-art-6-24-2642' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-37"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 37 — 37. Devoirs du vice-président du conseil d’administration du mess (VPCAM). - a. Il doit rendre compte au …</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**37.** Devoirs du vice-président du conseil d’administration du mess (VPCAM).
 
 
 - **a.** Il doit rendre compte au président du comité du mess pour toute tâche lui incombant.
@@ -321,7 +467,18 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 - **e.** Les membres du personnel des finances ne peuvent être vice-président du Mess.
 
-<a id="article-38"></a>**38.** Devoirs du secrétaire.
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 37 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#2-comite-et-titulaires-anciens-art-6-24-2642' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-38"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 38 — 38. Devoirs du secrétaire. - a. Il doit rendre compte au président du comité du Mess. - b. Il prépare l'o…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**38.** Devoirs du secrétaire.
 
 - **a.** Il doit rendre compte au président du comité du Mess.
 
@@ -329,9 +486,8 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 - **c.** Il doit prendre et consigner tous les procès-verbaux des réunions. Il est chargé de la garde des registres des procès-verbaux qui doivent être tenus selon la forme indiquée aux PFC 262 art. 319.
 
-<ins class="ajout">Le secrétaire conserve les versions approuvées des statuts et règlements, les ordres du jour, les procès-verbaux signés, les approbations et les résultats des votes électroniques. Il veille à leur archivage et à leur transmission aux titulaires suivants, sous réserve de la protection des renseignements personnels.</ins>
 
-<!-- Source : PDF, page 10/20 ; pagination imprimée 8/17 (la dernière page affiche 18/17). -->
+
 
 - **d.** Il doit signer les procès-verbaux de toutes les réunions. Il doit remettre une copie signé au service de la comptabilité du Mess et Instituts.
 
@@ -343,7 +499,18 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 - **h.** Les membres du personnel des finances peuvent être secrétaire du Mess.
 
-<a id="article-39"></a>**39.** Devoirs du trésorier.
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 38 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#2-comite-et-titulaires-anciens-art-6-24-2642' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-39"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 39 — 39. Devoirs du trésorier. - a. Il a la responsabilité d'avoir une liste à jour des membres en règle. Tout…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**39.** Devoirs du trésorier.
 
 - **a.** Il a la responsabilité d'avoir une liste à jour des membres en règle. Toutes les cotisations sont payables du 1er avril au 31 mars
 
@@ -351,7 +518,18 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 - **c.** Il recommande au responsable des fonds non-publics les dépenses approuvées par le comité et les membres du Mess.
 
-<a id="article-40"></a>**40.** Devoirs du serveur (barman).
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 39 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#2-comite-et-titulaires-anciens-art-6-24-2642' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-40"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 40 — 40. Devoirs du serveur (barman). - a. Sous la supervision du régisseur. - b. Nettoyer les contenants, le …</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**40.** Devoirs du serveur (barman).
 
 - **a.** Sous la supervision du régisseur.
 
@@ -383,10 +561,18 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 - **(3)** Le vin régimentaire pourra être vendu à la bouteille, ou si autorisé par le PCAM, à la caisse, pour consommation dans le Mess et à l'extérieur du Mess.
 
+</del>
 
-<!-- Source : PDF, page 11/20 ; pagination imprimée 9/17 (la dernière page affiche 18/17). -->
+</details>
 
-<a id="article-41"></a>**41.** Responsabilités du responsable des activités du Club Chimo et Mess Combiné.
+<ins class="ajout" markdown="1">**Art. 40 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#2-comite-et-titulaires-anciens-art-6-24-2642' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-41"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 41 — 41. Responsabilités du responsable des activités du Club Chimo et Mess Combiné. - a. Il doit rendre compt…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**41.** Responsabilités du responsable des activités du Club Chimo et Mess Combiné.
 
 - **a.** Il doit rendre compte au président du comité du Mess.
 
@@ -404,9 +590,21 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 *Note. Le responsable des activités n’est pas tenu d’ organiser les activités ; il doit par contre veiller sur le déroulement optimal de chacune d’elles.
 
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 41 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#2-comite-et-titulaires-anciens-art-6-24-2642' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+
 ## Régisseur
 
-<a id="article-42"></a>**42.** Devoirs du régisseur.
+<a id="article-42"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 42 — 42. Devoirs du régisseur. - a. Il doit rendre compte au président du comité du Mess. - b. Il doit surveil…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**42.** Devoirs du régisseur.
 
 - **a.** Il doit rendre compte au président du comité du Mess.
 
@@ -418,22 +616,56 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 - **e.** Il doit s’acquitter de toutes autres tâches assignées par le président du comité du Mess ou précisées dans les règlements appropriés.
 
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 42 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#2-comite-et-titulaires-anciens-art-6-24-2642' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+
 ## Finances
 
-<a id="article-43"></a>**43.** Profits personnels. Les membres du comité ne peuvent faire aucun profit personnel, ni recevoir de rémunération ou avantage à l'occasion de leur participation à la gestion du Mess. Toutefois, si par l'effet d'une participation d'une firme faisant des affaires avec le Mess, un membre du comité est susceptible de retirer certains avantages, il doit en aviser le commandant (réf PFC 262 art 209 alinéa 2).
+<a id="article-43"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 43 — 43. Profits personnels. Les membres du comité ne peuvent faire aucun profit personnel, ni recevoir de rém…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
 
-<a id="article-44"></a>**44.** Salaire. Les serveurs formés et le régisseur peuvent recevoir un salaire comme employé du SBMFC, à condition d’avoir une partie du budget annuel prévu pour le salaire de la tâche en particulier.
+<del class="suppression" markdown="1">
+
+**43.** Profits personnels. Les membres du comité ne peuvent faire aucun profit personnel, ni recevoir de rémunération ou avantage à l'occasion de leur participation à la gestion du Mess. Toutefois, si par l'effet d'une participation d'une firme faisant des affaires avec le Mess, un membre du comité est susceptible de retirer certains avantages, il doit en aviser le commandant (réf PFC 262 art 209 alinéa 2).
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 43 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-44"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 44 — 44. Salaire. Les serveurs formés et le régisseur peuvent recevoir un salaire comme employé du SBMFC, à co…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**44.** Salaire. Les serveurs formés et le régisseur peuvent recevoir un salaire comme employé du SBMFC, à condition d’avoir une partie du budget annuel prévu pour le salaire de la tâche en particulier.
 
 - **(1)** Comme employés du SBMFC, ils seront supervisés par le régisseur qui sera à son tour supervisé par le PCAM.
 
 - **(2)** À défaut d’avoir un budget suffisant pour l’une ou l’autre des tâches énumérées plus haut, les membres seront considérés comme des bénévoles du SMBFC.
 
 
-<!-- Source : PDF, page 12/20 ; pagination imprimée 10/17 (la dernière page affiche 18/17). -->
+
 
 - **(3)** Le régisseur pourra se faire rembourser ses frais de déplacement pour aller chercher ou porter des commandes et ce aux frais du mess. Selon les directives en vigueur par le SBMFC et jusqu’a concurrence de 500$ par année. »
 
-<a id="article-45"></a>**45.** Cotisations.
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 44 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-45"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 45 — 45. Cotisations. - a. Il s'agit ici d'une importante source de revenu pour le Mess. Les cotisations couvr…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**45.** Cotisations.
 
 - **a.** Il s'agit ici d'une importante source de revenu pour le Mess. Les cotisations couvriront les frais d'exploitation du Mess, et ne peuvent servir que pour les besoins du Mess (PFC 262 art 313). Tout membre des Forces armées canadiennes est tenu obligatoirement de faire partie d'un mess.
 
@@ -457,19 +689,29 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 - **k.** Le mess paiera le remboursement de cotisation par chèque au nom du membre.
 
-<ins class="ajout">La cotisation ordinaire au mess est distincte de toute contribution volontaire au fonds de cadeaux. La participation au fonds de cadeaux, son montant, sa perception et les droits des cotisants sont régis par les dispositions particulières à ce fonds.</ins>
-<a id="article-46"></a>**46.** Transactions.
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 45 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#4-cotisations-et-transactions-anciens-art-4546' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-46"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 46 — 46. Transactions. - a. Le privilège des chèques personnels sera enlevé à toute personne dont l'un de ses …</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**46.** Transactions.
 
 - **a.** Le privilège des chèques personnels sera enlevé à toute personne dont l'un de ses chèques se révèle sans fonds. Les frais de la banque lui seront réclamés.
 
 
-<!-- Source : PDF, page 13/20 ; pagination imprimée 11/17 (la dernière page affiche 18/17). -->
+
 
 - **b.** Le prix des consommations sera affiché à la vue du consommateur. Tout changement de prix devra être approuvé, avant son entrée en vigueur, lors de l'assemblée du mess et/ou par approbation du commandant.
 
 - **c.** Paiement des achats et dépenses. Tous les achats et dépenses faits pour les besoins du mess seront payés par chèque.
 
-- **d.** Carte du Commandant. <del class="suppression">La carte du Commandant est un privilège utilisé par le Commandant afin de promouvoir et encourager la collaboration entre divers invités d’honneurs lors de fonctions officielles. Le montant maximum de la carte est de 50$ et renouvelable mensuellement. Le montant n’est pas cumulatif. Cette carte peut être utilisée par le PCAM en l’absence du Commandant.</del><ins class="ajout">La fiche de bar autorisée est réservée à l'accueil d'invités externes au mess lors de réceptions ou d'activités spéciales officielles, à titre de frais de représentation prévus au budget et dûment approuvés. L'hôte peut y imputer uniquement une consommation personnelle raisonnable lorsqu'il accueille activement ces invités. Toute utilisation non autorisée demeure à la charge du titulaire. La limite locale est de 50 $ par mois, non cumulative, sous réserve de l'approbation et des délégations applicables. Toute utilisation par le PCAM exige une autorisation appropriée.</ins>
+- **d.** Carte du Commandant. La carte du Commandant est un privilège utilisé par le Commandant afin de promouvoir et encourager la collaboration entre divers invités d’honneurs lors de fonctions officielles. Le montant maximum de la carte est de 50$ et renouvelable mensuellement. Le montant n’est pas cumulatif. Cette carte peut être utilisée par le PCAM en l’absence du Commandant.
 
 - **e.** Traite. Le PCAM peut sonner un maximum de trois traites au cours de l’année financière. Ces traites sont permises seulement lors des assemblées générales ou lors d’un événement extraordinaire et officiel (par exemple au dîner de la troupe ou dans le cadre de Anniversaire du 9 EG). Ce privilège peut être utilisé qu’une seule fois au cours de l’événement. Une consommation par membre présent dans le Mess au moment de la traite est autorisée. Le Commandant se réserve également ce privilège lors du dîner de la troupe.
 
@@ -477,7 +719,18 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 - **g.** Opérations bancaires. Deux signatures sont obligatoires pour valider un chèque.
 
-<a id="article-47"></a>**47.** Dépenses du comité de divertissement.
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 46 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#4-cotisations-et-transactions-anciens-art-4546' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-47"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 47 — 47. Dépenses du comité de divertissement. - a. Le comité du divertissement est autorisé à dépenser chaque…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**47.** Dépenses du comité de divertissement.
 
 - **a.** Le comité du divertissement est autorisé à dépenser chaque mois le montant établi dans les prévisions budgétaires pour chaque mois de l’année, afin d’offrir des divertissements aux membres et à leurs invités, sous réserve des conditions suivantes :
 
@@ -489,66 +742,304 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 - **b.** Toute dépense pour les divertissements doit être certifiée pour paiement par le PCAM.
 
-<ins class="ajout">Le comité du divertissement agit à l'intérieur des autorisations budgétaires et financières préalables requises; l'approbation ultérieure d'un procès-verbal ne remplace pas une autorisation préalable de dépense.</ins>
-<a id="article-48"></a>**48.** Radiations et pertes. En cas de perte de biens ou de dommages à la propriété non publique. Lors des circonstances spéciales, le commandant peut radier une somme ne dépassant pas la valeur indiquée dans l’A-FN-105-001/AAG-001.
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 47 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-48"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 48 — 48. Radiations et pertes. En cas de perte de biens ou de dommages à la propriété non publique. Lors des c…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**48.** Radiations et pertes. En cas de perte de biens ou de dommages à la propriété non publique. Lors des circonstances spéciales, le commandant peut radier une somme ne dépassant pas la valeur indiquée dans l’A-FN-105-001/AAG-001.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 48 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
 
 ## Fonds d'Opération
 
-<a id="article-49"></a>**49.** La répartition des revenus et des dépenses est basé sur le pourcentage des ventes des utilisateurs. Il est à noter que les frais d’exploitation du mess (frais fixes, entretient...) ont la priorité sur les activités sociales du mess.
+<a id="article-49"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 49 — 49. La répartition des revenus et des dépenses est basé sur le pourcentage des ventes des utilisateurs. I…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
 
+<del class="suppression" markdown="1">
 
-<!-- Source : PDF, page 14/20 ; pagination imprimée 12/17 (la dernière page affiche 18/17). -->
+**49.** La répartition des revenus et des dépenses est basé sur le pourcentage des ventes des utilisateurs. Il est à noter que les frais d’exploitation du mess (frais fixes, entretient...) ont la priorité sur les activités sociales du mess.
 
-<a id="article-50"></a>**50.** Le président possède le pouvoir de dépenser un montant maximal de 100 $ mensuellement si nécessaire. Ce montant a pour but de faciliter les petits achats. <del class="suppression">Tous ces achats devront être appuyés ou acceptés lors de la prochaine assemblée.</del><ins class="ajout">Ces achats doivent être autorisés préalablement selon la délégation financière applicable et consignés pour examen à la prochaine réunion du comité; leur présentation ultérieure ne constitue pas une autorisation rétroactive.</ins>
+</del>
 
-<a id="article-51"></a>**51.** Le fond du président est géré par le président et le trésorier du Mess. Ce fond doit servir à l'embellissement du Mess ou au bien-être de ses membres. <del class="suppression">Les dépenses seront autorisées par le président ou le trésorier et devront être acceptées lors de la prochaine réunion.</del><ins class="ajout">Les dépenses exigent une autorisation préalable selon les pouvoirs financiers délégués et doivent être présentées à la prochaine réunion du comité, puis consignées au procès-verbal.</ins>
+</details>
 
-<a id="article-52"></a>**52.** Un montant maximum de 100$ par activité, (Club Chimo et Combiné), octroyé mensuellement et elle est non cumulable. Toutefois, les revenus de l’activité devront générer au minimum l’investissement de départ. La gestion de ces dépenses doit être faite selon le principe du bon gestionnaire.
+<ins class="ajout" markdown="1">**Art. 49 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
-<a id="article-53"></a>**53.** Le barman recevra une indemnité de 75$ pour ces services lors des activités spéciales, tel que stipulé au para 44. Le montant maximum de 300$ par année s’applique pour les activités du Mess et Instituts, et ne s’applique pas lors des réceptions privées ayant fait l’objet d’une prestation de service.
+<a id="article-50"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 50 — 50. Le président possède le pouvoir de dépenser un montant maximal de 100 $ mensuellement si nécessaire. …</del> <span class="transfer-label">Transféré / fusionné</span></summary>
 
-<a id="article-54"></a>**54.** Les revenues des caisses enregistreuses seront comptabilisées mensuellement par les FNP afin de conserver un contrôle des dépenses et des revenus.
+<del class="suppression" markdown="1">
 
-<a id="article-55"></a>**55.** Tous revenus et toutes dépenses générés par les activités conjointes seront séparés également entre les utilisateurs.
+**50.** Le président possède le pouvoir de dépenser un montant maximal de 100 $ mensuellement si nécessaire. Ce montant a pour but de faciliter les petits achats. Tous ces achats devront être appuyés ou acceptés lors de la prochaine assemblée.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 50 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-51"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 51 — 51. Le fond du président est géré par le président et le trésorier du Mess. Ce fond doit servir à l'embel…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**51.** Le fond du président est géré par le président et le trésorier du Mess. Ce fond doit servir à l'embellissement du Mess ou au bien-être de ses membres. Les dépenses seront autorisées par le président ou le trésorier et devront être acceptées lors de la prochaine réunion.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 51 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-52"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 52 — 52. Un montant maximum de 100$ par activité, (Club Chimo et Combiné), octroyé mensuellement et elle est n…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**52.** Un montant maximum de 100$ par activité, (Club Chimo et Combiné), octroyé mensuellement et elle est non cumulable. Toutefois, les revenus de l’activité devront générer au minimum l’investissement de départ. La gestion de ces dépenses doit être faite selon le principe du bon gestionnaire.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 52 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-53"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 53 — 53. Le barman recevra une indemnité de 75$ pour ces services lors des activités spéciales, tel que stipul…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**53.** Le barman recevra une indemnité de 75$ pour ces services lors des activités spéciales, tel que stipulé au para 44. Le montant maximum de 300$ par année s’applique pour les activités du Mess et Instituts, et ne s’applique pas lors des réceptions privées ayant fait l’objet d’une prestation de service.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 53 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-54"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 54 — 54. Les revenues des caisses enregistreuses seront comptabilisées mensuellement par les FNP afin de conse…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**54.** Les revenues des caisses enregistreuses seront comptabilisées mensuellement par les FNP afin de conserver un contrôle des dépenses et des revenus.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 54 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-55"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 55 — 55. Tous revenus et toutes dépenses générés par les activités conjointes seront séparés également entre l…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**55.** Tous revenus et toutes dépenses générés par les activités conjointes seront séparés également entre les utilisateurs.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 55 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
 
 ## Boissons Alcoolisées
 
-<a id="article-56"></a>**56.** Le mess doit respecter toutes les lois fédérales, provinciales et municipales relatives à la consommation de boissons alcoolisées. De plus, le prix de vente de ces boissons doit être affiché (réf. PFC 262 art 309).
+<a id="article-56"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 56 — 56. Le mess doit respecter toutes les lois fédérales, provinciales et municipales relatives à la consomma…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**56.** Le mess doit respecter toutes les lois fédérales, provinciales et municipales relatives à la consommation de boissons alcoolisées. De plus, le prix de vente de ces boissons doit être affiché (réf. PFC 262 art 309).
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 56 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
 
 ## Discipline
 
-<a id="article-57"></a>**57.** Le président du mess est responsable envers le commandant de la discipline dans le Mess. Dans le cas d'absence du président, le membre senior présent est responsable du maintien de la discipline (réf. PFC 262 art 310).
+<a id="article-57"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 57 — 57. Le président du mess est responsable envers le commandant de la discipline dans le Mess. Dans le cas …</del> <span class="transfer-label">Transféré / fusionné</span></summary>
 
-<a id="article-58"></a>**58.** Lors des différentes activités, le responsable de l’activité et les serveurs ne doit pas consommer d’alcool et veiller à ce que l’activité se déroule sans anicroche.
+<del class="suppression" markdown="1">
 
-<a id="article-59"></a>**59.** Les serveurs ont l'autorité au nom du commandant de ne pas servir des personnes en état d'ébriété.
+**57.** Le président du mess est responsable envers le commandant de la discipline dans le Mess. Dans le cas d'absence du président, le membre senior présent est responsable du maintien de la discipline (réf. PFC 262 art 310).
 
-<a id="article-60"></a>**60.** Le responsable des drogues et alcools de l'unité possède une autorité au nom du commandant
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 57 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-58"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 58 — 58. Lors des différentes activités, le responsable de l’activité et les serveurs ne doit pas consommer d’…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**58.** Lors des différentes activités, le responsable de l’activité et les serveurs ne doit pas consommer d’alcool et veiller à ce que l’activité se déroule sans anicroche.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 58 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-59"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 59 — 59. Les serveurs ont l'autorité au nom du commandant de ne pas servir des personnes en état d'ébriété.…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**59.** Les serveurs ont l'autorité au nom du commandant de ne pas servir des personnes en état d'ébriété.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 59 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-60"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 60 — 60. Le responsable des drogues et alcools de l'unité possède une autorité au nom du commandant dans les d…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**60.** Le responsable des drogues et alcools de l'unité possède une autorité au nom du commandant
 
 dans les deux locaux du mess.
 
-<a id="article-61"></a>**61.** Si une situation inusitée survient, le serveur doit fermer les bars promptement et contacter les autorités compétentes (pompiers, police ou médical). Tous les problèmes, réglés ou non, devront être rapportés au capitaine-adjudant dès que possible.
+</del>
 
-<a id="article-62"></a>**62.** Tous les membres ainsi que leurs invités doivent observer la constitution du mess. Les dissidents doivent être ramenés à l’ordre et référés au SME afin de conserver le climat amical des lieux.
+</details>
 
+<ins class="ajout" markdown="1">**Art. 60 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
-<!-- Source : PDF, page 15/20 ; pagination imprimée 13/17 (la dernière page affiche 18/17). -->
+<a id="article-61"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 61 — 61. Si une situation inusitée survient, le serveur doit fermer les bars promptement et contacter les auto…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
 
-<a id="article-63"></a>**63.** Tous les membres ont l'obligation de respecter l'ordre et de la faire respecter dans les locaux du Mess. Lors de dommages évidents ou accidentels causés par un membre ou l'un de ses invités, le membre à la responsabilité d'informer le président sur les dommages causés. Les personnes fautives pourront se voir imposer la facture correspondant aux réparations des dommages et/ou la remise en état du local (des locaux).
+<del class="suppression" markdown="1">
 
-<a id="article-64"></a>**64.** Les membres sont responsables de la conduite de leur(s) invité(s) qu'ils doivent accompagner pour que ceux-ci puissent accéder au mess.
+**61.** Si une situation inusitée survient, le serveur doit fermer les bars promptement et contacter les autorités compétentes (pompiers, police ou médical). Tous les problèmes, réglés ou non, devront être rapportés au capitaine-adjudant dès que possible.
 
-<a id="article-65"></a>**65.** Un militaire ne peut entrer dans un des locaux du mess auquel il ne peut avoir accès en vertu de son grade sauf dans l'exercice de ses fonctions (PFC 262 art 212 alinéa 2) ou lors d'invitation spéciale.
+</del>
 
-<a id="article-66"></a>**66.** Les membres du mess doivent laisser l'endroit propre et replacer les meubles tels qu'ils étaient à leur arrivée.
+</details>
 
-<a id="article-67"></a>**67.** Sous l'âge de 18 ans, seuls les conjoints ou conjointes avec l’accord du commandant et les
+<ins class="ajout" markdown="1">**Art. 61 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-62"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 62 — 62. Tous les membres ainsi que leurs invités doivent observer la constitution du mess. Les dissidents doi…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**62.** Tous les membres ainsi que leurs invités doivent observer la constitution du mess. Les dissidents doivent être ramenés à l’ordre et référés au SME afin de conserver le climat amical des lieux.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 62 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-63"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 63 — 63. Tous les membres ont l'obligation de respecter l'ordre et de la faire respecter dans les locaux du Me…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**63.** Tous les membres ont l'obligation de respecter l'ordre et de la faire respecter dans les locaux du Mess. Lors de dommages évidents ou accidentels causés par un membre ou l'un de ses invités, le membre à la responsabilité d'informer le président sur les dommages causés. Les personnes fautives pourront se voir imposer la facture correspondant aux réparations des dommages et/ou la remise en état du local (des locaux).
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 63 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-64"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 64 — 64. Les membres sont responsables de la conduite de leur(s) invité(s) qu'ils doivent accompagner pour que…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**64.** Les membres sont responsables de la conduite de leur(s) invité(s) qu'ils doivent accompagner pour que ceux-ci puissent accéder au mess.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 64 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-65"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 65 — 65. Un militaire ne peut entrer dans un des locaux du mess auquel il ne peut avoir accès en vertu de son …</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**65.** Un militaire ne peut entrer dans un des locaux du mess auquel il ne peut avoir accès en vertu de son grade sauf dans l'exercice de ses fonctions (PFC 262 art 212 alinéa 2) ou lors d'invitation spéciale.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 65 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-66"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 66 — 66. Les membres du mess doivent laisser l'endroit propre et replacer les meubles tels qu'ils étaient à le…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**66.** Les membres du mess doivent laisser l'endroit propre et replacer les meubles tels qu'ils étaient à leur arrivée.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 66 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-67"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 67 — 67. Sous l'âge de 18 ans, seuls les conjoints ou conjointes avec l’accord du commandant et les membres du…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**67.** Sous l'âge de 18 ans, seuls les conjoints ou conjointes avec l’accord du commandant et les
 
 membres du mess pourront accéder au mess. Ces personnes n’ont pas le droit de consommer de l'alcool.
 
-<a id="article-68"></a>**68.** Aucune personne civile ou militaire, n'ayant pas 18 ans d'âge, ne pourra consommer de boissons alcoolisées.
+</del>
 
-<a id="article-69"></a>**69.** Accès au mess.
+</details>
+
+<ins class="ajout" markdown="1">**Art. 67 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-68"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 68 — 68. Aucune personne civile ou militaire, n'ayant pas 18 ans d'âge, ne pourra consommer de boissons alcool…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**68.** Aucune personne civile ou militaire, n'ayant pas 18 ans d'âge, ne pourra consommer de boissons alcoolisées.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 68 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-69"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 69 — 69. Accès au mess. - a. En tout temps, le membre est responsable de la tenue et du comportement de ses in…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**69.** Accès au mess.
 
 - **a.** En tout temps, le membre est responsable de la tenue et du comportement de ses invités;
 
@@ -558,7 +1049,18 @@ si parfois le membre doit partir, ses invités seront obligés de quitter les li
 
 - **c.** Lors des ouvertures normales du mess, les enfants, sous la surveillance de leurs parents, auront accès à la salle de T.V. Les règlements de la loi de la régie des alcools devront être respectés (aucun produit alcoolique ne sera servi ou vendu aux personnes de moins de 18 ans).
 
-<a id="article-70"></a>**70.** Habillement.
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 69 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-70"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 70 — 70. Habillement. - a. La norme minimum pour la tenue dans les mess sera le suivant : - (1) Aucun torse nu…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**70.** Habillement.
 
 - **a.** La norme minimum pour la tenue dans les mess sera le suivant :
 
@@ -581,19 +1083,74 @@ imposer un standard minimum qu'il jugera approprié.
 - **(2)** Mardi et jeudi soir: uniforme de la journée en vigueur ou tenue propre.
 
 
-<!-- Source : PDF, page 16/20 ; pagination imprimée 14/17 (la dernière page affiche 18/17). -->
+
 
 - **(3)** Vendredi et fin de semaine d'entraînement: uniforme de la journée en vigueur ou tenue propre.
 
-<a id="article-71"></a>**71.** Couchage dans le mess et le bar. Pour des raisons d'hygiène et de sécurité, il est interdit de dormir dans le Mess et derrière le bar.
+</del>
 
-<a id="article-72"></a>**72.** Animaux. Il est interdit d’apporter des animaux dans le mess, sauf chien guide.
+</details>
 
-<a id="article-73"></a>**73.** Tableau d’affichage. Les avis doivent être approuvés par le commandant avant d’être affichés au tableau.
+<ins class="ajout" markdown="1">**Art. 70 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
-<a id="article-74"></a>**74.** Conjoint. Les époux / épouses ou conjoint(e) de fait civil(e) des membres sont les bienvenus aux activités du mess en l’absence du militaire. Si un membre ne connaît pas l’identité d’un conjoint, il doit demander à un membre du comité du mess d’identifier la personne inconnue. Tous les conjoints non accompagnés doivent être prêts à s’identifier en toutes circonstances. Les époux / épouses ou conjoint(e) de fait civil(e) d’un membre se verra accorder le même traitement que celui réservé aux membres lorsque le membre est à l’extérieur de la région.
+<a id="article-71"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 71 — 71. Couchage dans le mess et le bar. Pour des raisons d'hygiène et de sécurité, il est interdit de dormir…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
 
-<a id="article-75"></a>**75.** Invités.
+<del class="suppression" markdown="1">
+
+**71.** Couchage dans le mess et le bar. Pour des raisons d'hygiène et de sécurité, il est interdit de dormir dans le Mess et derrière le bar.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 71 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-72"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 72 — 72. Animaux. Il est interdit d’apporter des animaux dans le mess, sauf chien guide.…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**72.** Animaux. Il est interdit d’apporter des animaux dans le mess, sauf chien guide.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 72 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-73"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 73 — 73. Tableau d’affichage. Les avis doivent être approuvés par le commandant avant d’être affichés au table…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**73.** Tableau d’affichage. Les avis doivent être approuvés par le commandant avant d’être affichés au tableau.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 73 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-74"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 74 — 74. Conjoint. Les époux / épouses ou conjoint(e) de fait civil(e) des membres sont les bienvenus aux acti…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**74.** Conjoint. Les époux / épouses ou conjoint(e) de fait civil(e) des membres sont les bienvenus aux activités du mess en l’absence du militaire. Si un membre ne connaît pas l’identité d’un conjoint, il doit demander à un membre du comité du mess d’identifier la personne inconnue. Tous les conjoints non accompagnés doivent être prêts à s’identifier en toutes circonstances. Les époux / épouses ou conjoint(e) de fait civil(e) d’un membre se verra accorder le même traitement que celui réservé aux membres lorsque le membre est à l’extérieur de la région.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 74 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-75"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 75 — 75. Invités. - a. Un invité est un visiteur officiellement invité par le mess qui assume alors tous les f…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**75.** Invités.
 
 - **a.** Un invité est un visiteur officiellement invité par le mess qui assume alors tous les frais dans les limites établies ou telles qu’approuvées lors d’une assemblée du comité.
 
@@ -603,112 +1160,470 @@ imposer un standard minimum qu'il jugera approprié.
 
 - **d.** Les membres peuvent être accompagnés d’un invité à une activité qui est financée par le PCAM moyennement le coût du repas mais il (l’invité, accompagnateur) n’aura pas le droit de participer aux tirages des prix de présences.
 
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 75 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+
 ## Propriété Du Mess
 
-<a id="article-76"></a>**76.** Tout bien appartenant au mess ne sera déplacé sans le consentement du président ou du commandant.
+<a id="article-76"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 76 — 76. Tout bien appartenant au mess ne sera déplacé sans le consentement du président ou du commandant.…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
 
-<a id="article-77"></a>**77.** Le coût de réparation ou de remplacement d'un bien appartenant au mess devra être défrayé par le Mess si les dommages ou perte de celui-ci sont causés de façon accidentelle par un membre ou de son invité.
+<del class="suppression" markdown="1">
 
-<a id="article-78"></a>**78.** Le coût de réparation ou de remplacement d'un bien appartenant au mess devra être défrayé par le membre du Mess si les dommages ou la perte de celui-ci sont causés par la négligence ou l’intervention volontaire d’un membre ou de son invité.
+**76.** Tout bien appartenant au mess ne sera déplacé sans le consentement du président ou du commandant.
 
-<a id="article-79"></a>**79.** Aucun item, propriété du Mess, ne sera enlevé du Mess, vendu ou autrement retiré sans l’approbation du conseil.
+</del>
 
+</details>
 
-<!-- Source : PDF, page 17/20 ; pagination imprimée 15/17 (la dernière page affiche 18/17). -->
+<ins class="ajout" markdown="1">**Art. 76 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
-<a id="article-80"></a>**80.** Si le Mess se procure livres, journaux, revues, etc. pour utilisation par les membres, ceux-ci ne seront pas sortis du Mess.
+<a id="article-77"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 77 — 77. Le coût de réparation ou de remplacement d'un bien appartenant au mess devra être défrayé par le Mess…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
 
-<a id="article-81"></a>**81.** Aucune décoration de nature permanente (plaque, tableau, trophée, etc) ne sera placée dans le Mess sans l'approbation du conseil.
+<del class="suppression" markdown="1">
 
-<a id="article-82"></a>**82.** Assurances. Le mobilier, les marchandises et le fonds d’appoint seront assurés à la pleine valeur contre le vol, la perte ou les dommages. Les meubles et l’équipement devront être assurés à un montant qui ne sera pas inférieur à la dernière évaluation contre les pertes et dommages.
+**77.** Le coût de réparation ou de remplacement d'un bien appartenant au mess devra être défrayé par le Mess si les dommages ou perte de celui-ci sont causés de façon accidentelle par un membre ou de son invité.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 77 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-78"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 78 — 78. Le coût de réparation ou de remplacement d'un bien appartenant au mess devra être défrayé par le memb…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**78.** Le coût de réparation ou de remplacement d'un bien appartenant au mess devra être défrayé par le membre du Mess si les dommages ou la perte de celui-ci sont causés par la négligence ou l’intervention volontaire d’un membre ou de son invité.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 78 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-79"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 79 — 79. Aucun item, propriété du Mess, ne sera enlevé du Mess, vendu ou autrement retiré sans l’approbation d…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**79.** Aucun item, propriété du Mess, ne sera enlevé du Mess, vendu ou autrement retiré sans l’approbation du conseil.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 79 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-80"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 80 — 80. Si le Mess se procure livres, journaux, revues, etc. pour utilisation par les membres, ceux-ci ne ser…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**80.** Si le Mess se procure livres, journaux, revues, etc. pour utilisation par les membres, ceux-ci ne seront pas sortis du Mess.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 80 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-81"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 81 — 81. Aucune décoration de nature permanente (plaque, tableau, trophée, etc) ne sera placée dans le Mess sa…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**81.** Aucune décoration de nature permanente (plaque, tableau, trophée, etc) ne sera placée dans le Mess sans l'approbation du conseil.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 81 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-82"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 82 — 82. Assurances. Le mobilier, les marchandises et le fonds d’appoint seront assurés à la pleine valeur con…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**82.** Assurances. Le mobilier, les marchandises et le fonds d’appoint seront assurés à la pleine valeur contre le vol, la perte ou les dommages. Les meubles et l’équipement devront être assurés à un montant qui ne sera pas inférieur à la dernière évaluation contre les pertes et dommages.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 82 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
 
 ## Communication Avec Les Membres
 
-<a id="article-83"></a>**83.** Un livre sera conservé au sein du Mess pour tout membre désirant faire des suggestions, plaintes ou commentaires quant à la gestion ou les activités offertes par le conseil. Les suggestions contenues dans le livre seront révisées par le conseil et présentées, si nécessaire, à l’assemblée générale.
+<a id="article-83"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 83 — 83. Un livre sera conservé au sein du Mess pour tout membre désirant faire des suggestions, plaintes ou c…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
 
-<a id="article-84"></a>**84.** Toutes plaintes ou suggestions à caractère urgent peuvent être adressées directement au président.
+<del class="suppression" markdown="1">
 
-<a id="article-85"></a>**85.** Tout message concernant les membres ou la gestion du Mess sera affiché sur le tableau situé dans les locaux du Mess.
+**83.** Un livre sera conservé au sein du Mess pour tout membre désirant faire des suggestions, plaintes ou commentaires quant à la gestion ou les activités offertes par le conseil. Les suggestions contenues dans le livre seront révisées par le conseil et présentées, si nécessaire, à l’assemblée générale.
 
-<a id="article-86"></a>**86.** Tout message devra être approuvé par un membre du conseil avant d’être affiché.
+</del>
 
-<a id="article-87"></a>**87.** Une copie des statuts et règlements du Mess devra être affichée en permanence sur le tableau d’affichage.
+</details>
 
-<a id="article-88"></a>**88.** Chaque membre du Mess recevra, dès son acceptation comme membre, une copie des statuts et
+<ins class="ajout" markdown="1">**Art. 83 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#8-plaintes-documents-et-diffusion-anciens-art-73-8389-102-112113' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-84"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 84 — 84. Toutes plaintes ou suggestions à caractère urgent peuvent être adressées directement au président.…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**84.** Toutes plaintes ou suggestions à caractère urgent peuvent être adressées directement au président.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 84 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#8-plaintes-documents-et-diffusion-anciens-art-73-8389-102-112113' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-85"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 85 — 85. Tout message concernant les membres ou la gestion du Mess sera affiché sur le tableau situé dans les …</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**85.** Tout message concernant les membres ou la gestion du Mess sera affiché sur le tableau situé dans les locaux du Mess.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 85 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#8-plaintes-documents-et-diffusion-anciens-art-73-8389-102-112113' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-86"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 86 — 86. Tout message devra être approuvé par un membre du conseil avant d’être affiché.…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**86.** Tout message devra être approuvé par un membre du conseil avant d’être affiché.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 86 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#8-plaintes-documents-et-diffusion-anciens-art-73-8389-102-112113' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-87"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 87 — 87. Une copie des statuts et règlements du Mess devra être affichée en permanence sur le tableau d’affich…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**87.** Une copie des statuts et règlements du Mess devra être affichée en permanence sur le tableau d’affichage.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 87 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#8-plaintes-documents-et-diffusion-anciens-art-73-8389-102-112113' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-88"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 88 — 88. Chaque membre du Mess recevra, dès son acceptation comme membre, une copie des statuts et règlements …</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**88.** Chaque membre du Mess recevra, dès son acceptation comme membre, une copie des statuts et
 
 règlements du Mess.
 
-<a id="article-89"></a>**89.** Le calendrier des activités du Mess, ainsi que les avis spéciaux sur les activités à venir seront affichés dans les locaux du Mess.
+</del>
 
-<ins class="ajout">Le comité tient un registre à jour des versions approuvées des statuts, des règlements, des procès-verbaux, des décisions, des budgets et des rapports financiers. Il assure leur archivage et leur transmission lors des changements de responsables. Les membres peuvent consulter les documents pertinents par un moyen de communication accessible, y compris électronique, sous réserve de la confidentialité, de la protection des renseignements personnels et des restrictions imposées par les politiques des BNP.</ins>
+</details>
+
+<ins class="ajout" markdown="1">**Art. 88 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#8-plaintes-documents-et-diffusion-anciens-art-73-8389-102-112113' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-89"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 89 — 89. Le calendrier des activités du Mess, ainsi que les avis spéciaux sur les activités à venir seront aff…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**89.** Le calendrier des activités du Mess, ainsi que les avis spéciaux sur les activités à venir seront affichés dans les locaux du Mess.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 89 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#8-plaintes-documents-et-diffusion-anciens-art-73-8389-102-112113' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
 
 ## Réceptions Privées
 
-<a id="article-90"></a>**90.** Les réceptions privées peuvent être organisées par les membres du Mess ainsi que des non-membres désirant utiliser les locaux du Mess.
+<a id="article-90"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 90 — 90. Les réceptions privées peuvent être organisées par les membres du Mess ainsi que des non-membres dési…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
 
-<a id="article-91"></a>**91.** Les réservations seront faites par le biais du régisseur, qui devra présenter les demandes au président qui les fera suivre au commandant pour approbation. Le commandant se réserve le droit de refuser toute demande de réservation sans présenter de justification. Les réservations ne seront normalement pas acceptées pour les journées au cours desquels il y aura de l'entraînement à l’escadron car les membres auront toujours priorité pour l'utilisation de leur Mess.
+<del class="suppression" markdown="1">
 
-<a id="article-92"></a>**92.** Lorsqu’un membre associé, un membre honoraire ou un membre à vie souhaite procéder à la location du Mess combiné pour un événement privé, ceux-ci pourront le faire sans frais de location. Ils devront cependant payer les frais de barman, si applicables.
+**90.** Les réceptions privées peuvent être organisées par les membres du Mess ainsi que des non-membres désirant utiliser les locaux du Mess.
 
-<a id="article-93"></a>**93.** Le conseil d'administration établira les frais d'utilisation pour chaque demande. Ces frais seront inscrits sur le contrat d'utilisation. S'il s'agit d'une activité organisée:
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 90 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#7-receptions-et-activites-sociales-anciens-art-90104' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-91"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 91 — 91. Les réservations seront faites par le biais du régisseur, qui devra présenter les demandes au préside…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**91.** Les réservations seront faites par le biais du régisseur, qui devra présenter les demandes au président qui les fera suivre au commandant pour approbation. Le commandant se réserve le droit de refuser toute demande de réservation sans présenter de justification. Les réservations ne seront normalement pas acceptées pour les journées au cours desquels il y aura de l'entraînement à l’escadron car les membres auront toujours priorité pour l'utilisation de leur Mess.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 91 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#7-receptions-et-activites-sociales-anciens-art-90104' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-92"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 92 — 92. Lorsqu’un membre associé, un membre honoraire ou un membre à vie souhaite procéder à la location du M…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**92.** Lorsqu’un membre associé, un membre honoraire ou un membre à vie souhaite procéder à la location du Mess combiné pour un événement privé, ceux-ci pourront le faire sans frais de location. Ils devront cependant payer les frais de barman, si applicables.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 92 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#7-receptions-et-activites-sociales-anciens-art-90104' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-93"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 93 — 93. Le conseil d'administration établira les frais d'utilisation pour chaque demande. Ces frais seront in…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**93.** Le conseil d'administration établira les frais d'utilisation pour chaque demande. Ces frais seront inscrits sur le contrat d'utilisation. S'il s'agit d'une activité organisée:
 
 
-<!-- Source : PDF, page 18/20 ; pagination imprimée 16/17 (la dernière page affiche 18/17). -->
+
 
 - **a.** par un membre du Mess, les frais seront établis en fonction du coût réel (serveurs, nettoyage, etc), et les profits des ventes du bar pour cette activité serviront à couvrir les frais. Le membre qui organise l'activité sera tenu responsable de la balance des frais d'opération pour la réception; et
 
 - **b.** par un non-membre, le conseil établira un coût d'utilisation payable par le responsable de l'activité en conformité de la loi sur les prestations de service en vigueur. Ce coût d'utilisation couvrira tous les frais associés à l'activité, ainsi qu'un montant raisonnable pour l'amortissement des biens appartenant au Mess. À défaut d’avoir un représentant membre ordinaire en règle, le barman sera l’autorité lors de la réception.
 
-<a id="article-94"></a>**94.** Tout dommage aux biens du Mess et aux biens de la Couronne causé lors d'une réception privée sera imputé au responsable de l'activité et le comité prendra les mesures nécessaires pour obtenir le remboursement.
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 93 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#7-receptions-et-activites-sociales-anciens-art-90104' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-94"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 94 — 94. Tout dommage aux biens du Mess et aux biens de la Couronne causé lors d'une réception privée sera imp…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**94.** Tout dommage aux biens du Mess et aux biens de la Couronne causé lors d'une réception privée sera imputé au responsable de l'activité et le comité prendra les mesures nécessaires pour obtenir le remboursement.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 94 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#7-receptions-et-activites-sociales-anciens-art-90104' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
 
 ## Invités
 
-<a id="article-95"></a>**95.** Les membres du Mess peuvent amener des invités dans le Mess. Le membre sera responsable pour tout invité qu’il amènera et devra l'escorter en tout temps.
+<a id="article-95"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 95 — 95. Les membres du Mess peuvent amener des invités dans le Mess. Le membre sera responsable pour tout inv…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
 
-<a id="article-96"></a>**96.** Un membre qui améne un invité dans le Mess devra le présenter:
+<del class="suppression" markdown="1">
+
+**95.** Les membres du Mess peuvent amener des invités dans le Mess. Le membre sera responsable pour tout invité qu’il amènera et devra l'escorter en tout temps.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 95 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-96"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 96 — 96. Un membre qui améne un invité dans le Mess devra le présenter: - a. au Commandant, si le membre est u…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**96.** Un membre qui améne un invité dans le Mess devra le présenter:
 
 - **a.** au Commandant, si le membre est un officier; et
 
 - **b.** au SME, si le membre est un sergent ou adjudant.
 
-<a id="article-97"></a>**97.** Les invités doivent se plier aux règlements concernant la tenue vestimentaire et le comportement.
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 96 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-97"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 97 — 97. Les invités doivent se plier aux règlements concernant la tenue vestimentaire et le comportement.…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**97.** Les invités doivent se plier aux règlements concernant la tenue vestimentaire et le comportement.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 97 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
 
 ## Jeux
 
-<a id="article-98"></a>**98.** Les utilisateurs de/des jeu(x) sont responsables de la propreté des lieux ainsi que de l'équipement de jeux.
+<a id="article-98"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 98 — 98. Les utilisateurs de/des jeu(x) sont responsables de la propreté des lieux ainsi que de l'équipement d…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
 
-<a id="article-99"></a>**99.** Les jeux, y compris l'équipement de billard seront gardés sous le contrôle du régisseur ou du
+<del class="suppression" markdown="1">
+
+**98.** Les utilisateurs de/des jeu(x) sont responsables de la propreté des lieux ainsi que de l'équipement de jeux.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 98 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-99"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 99 — 99. Les jeux, y compris l'équipement de billard seront gardés sous le contrôle du régisseur ou du personn…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**99.** Les jeux, y compris l'équipement de billard seront gardés sous le contrôle du régisseur ou du
 
 personnel désigné par lui.
 
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 99 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+
 ## Jeux De Hasard
 
-<a id="article-100"></a>**100.** En conformité à l'OAFC 19-1, il n'y aura pas de loteries, sweepstakes, appareils à sous ou jeux de hasard dans le Mess, ou de permettre que ces mêmes jeux soient organisés au profit des militaires.
+<a id="article-100"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 100 — 100. En conformité à l'OAFC 19-1, il n'y aura pas de loteries, sweepstakes, appareils à sous ou jeux de h…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**100.** En conformité à l'OAFC 19-1, il n'y aura pas de loteries, sweepstakes, appareils à sous ou jeux de hasard dans le Mess, ou de permettre que ces mêmes jeux soient organisés au profit des militaires.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 100 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
 
 ## Activités Récréatives
 
-<a id="article-101"></a>**101.** Toute suggestion pour fonction sociale ou activité sera soumise au responsable des activités pour être votée lors d'une assemblée générale ou approbation du commandant.
+<a id="article-101"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 101 — 101. Toute suggestion pour fonction sociale ou activité sera soumise au responsable des activités pour êt…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
 
+<del class="suppression" markdown="1">
 
-<!-- Source : PDF, page 19/20 ; pagination imprimée 17/17 (la dernière page affiche 18/17). -->
+**101.** Toute suggestion pour fonction sociale ou activité sera soumise au responsable des activités pour être votée lors d'une assemblée générale ou approbation du commandant.
 
-<a id="article-102"></a>**102.** Un calendrier des activités devra être affiché dans les locaux du mess pour que tous les membres puissent le consulter librement.
+</del>
 
-<a id="article-103"></a>**103.** Un budget devra être soumis en décembre de chaque année afin de pouvoir planifier les activités avec les exercices du 9e Escadron du Génie ainsi que les autres occupants du manège.
+</details>
 
-<a id="article-104"></a>**104.** Afin de souligner le support des familles des membres, une activité annuelle sous la thématique du Noël des enfants se fera prévu au calendrier des Mess. Un montant maximum de 150$ sera attribué pour financer cette activité.
+<ins class="ajout" markdown="1">**Art. 101 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#7-receptions-et-activites-sociales-anciens-art-90104' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
-## Fonds Cadeaux
+<a id="article-102"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 102 — 102. Un calendrier des activités devra être affiché dans les locaux du mess pour que tous les membres pui…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
 
-<ins class="ajout">**Fonds de cadeaux — dispositions communes aux articles 105 à 111.** Un fonds de cadeaux distinct, établi au sein de l'entité financière du mess après l'approbation requise des membres, finance exclusivement les cadeaux admissibles. Il est alimenté par des contributions volontaires, comptabilisé séparément et doit être autosuffisant; il ne peut être créé ni renfloué à même d'autres comptes. Seuls les membres contribuant à ce fonds peuvent en bénéficier. Les catégories de cadeaux, plafonds, critères équitables d'admissibilité, cas de déploiement, modalités de cotisation et approbations sont détaillés dans un règlement du fonds de cadeaux ratifié et approuvé. Le comité en examine annuellement la viabilité avec les responsables des BNP. Les dispositions des articles 105 à 111 ne constituent pas une autorisation de faire un cadeau à une personne non admissible.</ins>
+<del class="suppression" markdown="1">
 
-<a id="article-105"></a>**105.** Décès. Des fleurs ou autres pour un montant maximal de 50 $ seront envoyées au salon funéraire lors du décès du conjoint, des enfants, des parents. Pour ce qui est du décès d'un membre le montant pourra être doublé pour les membres réguliers et associés.
+**102.** Un calendrier des activités devra être affiché dans les locaux du mess pour que tous les membres puissent le consulter librement.
 
-<a id="article-106"></a>**106.** Naissance. Des fleurs ou autres cadeaux au montant maximal de 75 $ pour les naissances. Les fleurs ou autres cadeaux seront envoyées à l'hôpital ou à la résidence lors de la naissance d'un enfant d'un membre. Si les parents sont tous deux membres du Mess, le montant sera doublé.
+</del>
 
-<a id="article-107"></a>**107.** Hospitalisation. Des fleurs ou cadeaux seront envoyés à l'hôpital ou à la résidence du membre suite à une hospitalisation et convalescence d'au moins 48 heures. Le montant maximal de 50 $ sera applicable. Cette clause inclus uniquement les membres réguliers et associés.
+</details>
 
-<a id="article-108"></a>**108.** Cadeau d’appartenance.
+<ins class="ajout" markdown="1">**Art. 102 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#7-receptions-et-activites-sociales-anciens-art-90104' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-103"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 103 — 103. Un budget devra être soumis en décembre de chaque année afin de pouvoir planifier les activités avec…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**103.** Un budget devra être soumis en décembre de chaque année afin de pouvoir planifier les activités avec les exercices du 9e Escadron du Génie ainsi que les autres occupants du manège.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 103 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#7-receptions-et-activites-sociales-anciens-art-90104' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-104"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 104 — 104. Afin de souligner le support des familles des membres, une activité annuelle sous la thématique du N…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**104.** Afin de souligner le support des familles des membres, une activité annuelle sous la thématique du Noël des enfants se fera prévu au calendrier des Mess. Un montant maximum de 150$ sera attribué pour financer cette activité.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 104 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#7-receptions-et-activites-sociales-anciens-art-90104' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-105"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 105 — 105. Décès. Des fleurs ou autres pour un montant maximal de 50 $ seront envoyées au salon funéraire lors …</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**105.** Décès. Des fleurs ou autres pour un montant maximal de 50 $ seront envoyées au salon funéraire lors du décès du conjoint, des enfants, des parents. Pour ce qui est du décès d'un membre le montant pourra être doublé pour les membres réguliers et associés.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 105 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du fonds de cadeaux]({{ '/reglement-fonds-cadeaux.html#4-categories-historiques-de-cadeaux--proposees' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-106"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 106 — 106. Naissance. Des fleurs ou autres cadeaux au montant maximal de 75 $ pour les naissances. Les fleurs o…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**106.** Naissance. Des fleurs ou autres cadeaux au montant maximal de 75 $ pour les naissances. Les fleurs ou autres cadeaux seront envoyées à l'hôpital ou à la résidence lors de la naissance d'un enfant d'un membre. Si les parents sont tous deux membres du Mess, le montant sera doublé.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 106 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du fonds de cadeaux]({{ '/reglement-fonds-cadeaux.html#4-categories-historiques-de-cadeaux--proposees' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-107"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 107 — 107. Hospitalisation. Des fleurs ou cadeaux seront envoyés à l'hôpital ou à la résidence du membre suite …</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**107.** Hospitalisation. Des fleurs ou cadeaux seront envoyés à l'hôpital ou à la résidence du membre suite à une hospitalisation et convalescence d'au moins 48 heures. Le montant maximal de 50 $ sera applicable. Cette clause inclus uniquement les membres réguliers et associés.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 107 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du fonds de cadeaux]({{ '/reglement-fonds-cadeaux.html#4-categories-historiques-de-cadeaux--proposees' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-108"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 108 — 108. Cadeau d’appartenance. - a. Lorsqu’un membre fait parti du mess depuis plus de 1 an, un T-Shirt de l…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**108.** Cadeau d’appartenance.
 
 - **a.** Lorsqu’un membre fait parti du mess depuis plus de 1 an, un T-Shirt de l’unité lui sera remis d’une valeur ne dépassant pas 30$.
 
@@ -716,22 +1631,82 @@ personnel désigné par lui.
 
 - **c.** Lorsqu’un membre a complété avec succès son cours de métier, un « coin » de l’unité lui sera remis d’une valeur ne dépassant pas 25$.
 
-<a id="article-109"></a>**109.** Départ de membres dits « spéciaux ». Lors du départ du Cmdt, du SME, Lcol (H) ou de tous membres ayant plus de 12 années d’appartenance au mess, un cadeau d’une valeur maximale de 150$ lui sera remis.
+</del>
 
-<a id="article-110"></a>**110.** Cadeau de mission. Un cadeau pourra être offer au membre du 9 EG détaché en mission (Opération). Ce cadeau d’une valeur maximale de 50,00$ pourra être versé au personnel détaché du 9 EG qui est normalement un membre en règle du Mess et Instituts. <del class="suppression">Cette personne aura droit au cadeau de mission même s’il est absent de l’unité et qu’il n’a pas payé de cotisation au mess et Institut en raison de son déploiement en mission.</del><ins class="ajout">Le déploiement et la suspension éventuelle de la cotisation ordinaire au mess ne dispensent pas de satisfaire aux critères de participation au fonds de cadeaux; les modalités de maintien volontaire de cette participation pendant une mission sont fixées dans son règlement.</ins>
+</details>
 
-<a id="article-111"></a>**111.** Changement de Cmdt. <del class="suppression">Des fleurs, pour un montant n’excédant pas 50,00$, seront offertes à la conjointe ou au conjoint du Cmdt sortant ainsi qu’à la conjointe ou au conjoint du Cmdt entrant.</del><ins class="ajout">Un témoignage d'appréciation d'une valeur maximale de 50 $ peut être offert au titre du changement de commandement uniquement si le bénéficiaire est admissible au fonds de cadeaux. Les cadeaux à des personnes non cotisantes ne peuvent être imputés à ce fonds.</ins>
+<ins class="ajout" markdown="1">**Art. 108 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du fonds de cadeaux]({{ '/reglement-fonds-cadeaux.html#4-categories-historiques-de-cadeaux--proposees' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-109"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 109 — 109. Départ de membres dits « spéciaux ». Lors du départ du Cmdt, du SME, Lcol (H) ou de tous membres aya…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**109.** Départ de membres dits « spéciaux ». Lors du départ du Cmdt, du SME, Lcol (H) ou de tous membres ayant plus de 12 années d’appartenance au mess, un cadeau d’une valeur maximale de 150$ lui sera remis.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 109 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du fonds de cadeaux]({{ '/reglement-fonds-cadeaux.html#4-categories-historiques-de-cadeaux--proposees' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-110"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 110 — 110. Cadeau de mission. Un cadeau pourra être offer au membre du 9 EG détaché en mission (Opération). Ce …</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**110.** Cadeau de mission. Un cadeau pourra être offer au membre du 9 EG détaché en mission (Opération). Ce cadeau d’une valeur maximale de 50,00$ pourra être versé au personnel détaché du 9 EG qui est normalement un membre en règle du Mess et Instituts. Cette personne aura droit au cadeau de mission même s’il est absent de l’unité et qu’il n’a pas payé de cotisation au mess et Institut en raison de son déploiement en mission.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 110 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du fonds de cadeaux]({{ '/reglement-fonds-cadeaux.html#4-categories-historiques-de-cadeaux--proposees' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-111"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 111 — 111. Changement de Cmdt. Des fleurs, pour un montant n’excédant pas 50,00$, seront offertes à la conjoint…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**111.** Changement de Cmdt. Des fleurs, pour un montant n’excédant pas 50,00$, seront offertes à la conjointe ou au conjoint du Cmdt sortant ainsi qu’à la conjointe ou au conjoint du Cmdt entrant.
 
 *Note. Il est de la responsabilité du membre ou de sa famille de prévenir la salle des rapports ou un membre du comité du Mess pour les articles mentionnés ci-haut. Le supérieur immédiat est responsable de remettre le présent au membre ou à la famille.
 
+</del>
 
-<!-- Source : PDF, page 20/20 ; pagination imprimée 18/17 (la dernière page affiche 18/17). -->
+</details>
+
+<ins class="ajout" markdown="1">**Art. 111 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du fonds de cadeaux]({{ '/reglement-fonds-cadeaux.html#4-categories-historiques-de-cadeaux--proposees' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
 
 ## Plaintes Et Suggestions
 
-<a id="article-112"></a>**112.** Toute plainte sera inscrite et remise au commandant adjoint.
+<a id="article-112"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 112 — 112. Toute plainte sera inscrite et remise au commandant adjoint.…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
 
-<a id="article-113"></a>**113.** Toute suggestion, proposition ou observation pourra aussi être remis au commandant adjoint.
+<del class="suppression" markdown="1">
+
+**112.** Toute plainte sera inscrite et remise au commandant adjoint.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 112 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#8-plaintes-documents-et-diffusion-anciens-art-73-8389-102-112113' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
+<a id="article-113"></a>
+<details class="transferred-article"><summary><del class="suppression">Art. 113 — 113. Toute suggestion, proposition ou observation pourra aussi être remis au commandant adjoint.…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
+
+<del class="suppression" markdown="1">
+
+**113.** Toute suggestion, proposition ou observation pourra aussi être remis au commandant adjoint.
+
+</del>
+
+</details>
+
+<ins class="ajout" markdown="1">**Art. 113 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#8-plaintes-documents-et-diffusion-anciens-art-73-8389-102-112113' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+
 
 ## Droit de vote
 
