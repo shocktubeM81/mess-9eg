@@ -133,7 +133,7 @@ apporter quelque chose de bénéfique ou de prestige à l'unité.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 4 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#1-membres-et-admission-ancien-art-4' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 4 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 
 ## Réunions
@@ -210,7 +210,7 @@ apporter quelque chose de bénéfique ou de prestige à l'unité.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 18 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#3-assemblees-et-votes-anciens-art-525' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 18 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-19"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 19 — 19. Il est bon qu'une question d'importance, comme une proposition de modification aux statuts ou aux règ…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -230,7 +230,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 19 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#3-assemblees-et-votes-anciens-art-525' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 19 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-20"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 20 — 20. Proposition. Une proposition a pour objet d'amener le Comité à prendre position sur une question donn…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -243,7 +243,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 20 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#3-assemblees-et-votes-anciens-art-525' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 20 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-21"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 21 — 21. Appui à la proposition. Une proposition n'est valide que si elle est appuyée par un autre membre. À d…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -256,7 +256,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 21 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#3-assemblees-et-votes-anciens-art-525' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 21 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-22"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 22 — 22. Débats. A moins d'être déclarée irrecevable par le président, une proposition dûment appuyée, puis ré…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -269,7 +269,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 22 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#3-assemblees-et-votes-anciens-art-525' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 22 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-23"></a>**23.** Vote. Toute proposition doit être adoptée par la majorité des membres présents, c'est-à-dire par 50 pour cent des voix exprimées plus un (sans compter les abstentions). Les membres ne sont pas tenus de voter, mais incités à le faire. S'il y a égalité des voix, il y aura automatiquement un recomptage. S’il y a une deuxième égalité, le PCAM utilisera son droit de vote pour trancher. Il s’agit de l’unique occasion que le PCAM peut utiliser son droit de vote. Le PCAM ne peut amender ou appuyer une motion. Dans le cas d'un vote erroné, le PCAM ordonne un nouveau vote.
 
@@ -309,7 +309,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 24 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#3-assemblees-et-votes-anciens-art-525' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 24 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-25"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 25 — 25. Avis de convocation à une assemblée. Un avis de convocation à une assemblée générale doit être fait à…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -322,7 +322,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 25 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#3-assemblees-et-votes-anciens-art-525' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 25 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 
 ## Membres du comité
@@ -354,7 +354,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 29 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#2-comite-et-titulaires-anciens-art-6-24-2642' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 29 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-30"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 30 — 30. Les membres de ce comité sont élus à majorité simple, généralement à la réunion du mois de décembre à…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -367,7 +367,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 30 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#2-comite-et-titulaires-anciens-art-6-24-2642' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 30 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-31"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 31 — 31. Dans le cas de tout mess, il convient que tous les grades soient équitablement représentés au sein du…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -380,7 +380,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 31 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#2-comite-et-titulaires-anciens-art-6-24-2642' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 31 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-32"></a>**32.** Si un poste devient vacant, il doit être comblé à la première réunion suivant la date de vacance.
 
@@ -396,7 +396,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 33 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 33 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-34"></a>**34.** Destitution d'un membre du comité. Pour qu'une destitution soit autorisée, il faut une raison suffisante et la proposition de destitution doit être appuyée d'un vote au cours d'une assemblée. Un minimum de 75% des votes des personnes présentes à la réunion est obligatoire pour que la destitution soit en règle. L’avis de destitution doit être présenté au minimum un mois avant le vote.
 
@@ -447,7 +447,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 36 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#2-comite-et-titulaires-anciens-art-6-24-2642' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 36 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-37"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 37 — 37. Devoirs du vice-président du conseil d’administration du mess (VPCAM). - a. Il doit rendre compte au …</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -471,7 +471,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 37 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#2-comite-et-titulaires-anciens-art-6-24-2642' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 37 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-38"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 38 — 38. Devoirs du secrétaire. - a. Il doit rendre compte au président du comité du Mess. - b. Il prépare l'o…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -503,7 +503,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 38 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#2-comite-et-titulaires-anciens-art-6-24-2642' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 38 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-39"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 39 — 39. Devoirs du trésorier. - a. Il a la responsabilité d'avoir une liste à jour des membres en règle. Tout…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -522,7 +522,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 39 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#2-comite-et-titulaires-anciens-art-6-24-2642' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 39 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-40"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 40 — 40. Devoirs du serveur (barman). - a. Sous la supervision du régisseur. - b. Nettoyer les contenants, le …</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -565,7 +565,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 40 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#2-comite-et-titulaires-anciens-art-6-24-2642' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 40 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-41"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 41 — 41. Responsabilités du responsable des activités du Club Chimo et Mess Combiné. - a. Il doit rendre compt…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -594,7 +594,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 41 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#2-comite-et-titulaires-anciens-art-6-24-2642' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 41 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 
 ## Régisseur
@@ -620,7 +620,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 42 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#2-comite-et-titulaires-anciens-art-6-24-2642' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 42 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 
 ## Finances
@@ -636,7 +636,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 43 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 43 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-44"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 44 — 44. Salaire. Les serveurs formés et le régisseur peuvent recevoir un salaire comme employé du SBMFC, à co…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -658,7 +658,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 44 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 44 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-45"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 45 — 45. Cotisations. - a. Il s'agit ici d'une importante source de revenu pour le Mess. Les cotisations couvr…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -693,7 +693,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 45 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#4-cotisations-et-transactions-anciens-art-4546' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 45 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-46"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 46 — 46. Transactions. - a. Le privilège des chèques personnels sera enlevé à toute personne dont l'un de ses …</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -723,7 +723,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 46 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#4-cotisations-et-transactions-anciens-art-4546' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 46 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-47"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 47 — 47. Dépenses du comité de divertissement. - a. Le comité du divertissement est autorisé à dépenser chaque…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -746,7 +746,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 47 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 47 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-48"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 48 — 48. Radiations et pertes. En cas de perte de biens ou de dommages à la propriété non publique. Lors des c…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -759,7 +759,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 48 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 48 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 
 ## Fonds d'Opération
@@ -775,7 +775,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 49 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 49 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-50"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 50 — 50. Le président possède le pouvoir de dépenser un montant maximal de 100 $ mensuellement si nécessaire. …</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -788,7 +788,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 50 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 50 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-51"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 51 — 51. Le fond du président est géré par le président et le trésorier du Mess. Ce fond doit servir à l'embel…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -801,7 +801,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 51 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 51 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-52"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 52 — 52. Un montant maximum de 100$ par activité, (Club Chimo et Combiné), octroyé mensuellement et elle est n…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -814,7 +814,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 52 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 52 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-53"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 53 — 53. Le barman recevra une indemnité de 75$ pour ces services lors des activités spéciales, tel que stipul…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -827,7 +827,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 53 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 53 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-54"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 54 — 54. Les revenues des caisses enregistreuses seront comptabilisées mensuellement par les FNP afin de conse…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -840,7 +840,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 54 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 54 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-55"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 55 — 55. Tous revenus et toutes dépenses générés par les activités conjointes seront séparés également entre l…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -853,7 +853,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 55 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 55 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 
 ## Boissons Alcoolisées
@@ -869,7 +869,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 56 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 56 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 
 ## Discipline
@@ -885,7 +885,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 57 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 57 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-58"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 58 — 58. Lors des différentes activités, le responsable de l’activité et les serveurs ne doit pas consommer d’…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -898,7 +898,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 58 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 58 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-59"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 59 — 59. Les serveurs ont l'autorité au nom du commandant de ne pas servir des personnes en état d'ébriété.…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -911,7 +911,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 59 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 59 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-60"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 60 — 60. Le responsable des drogues et alcools de l'unité possède une autorité au nom du commandant dans les d…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -926,7 +926,7 @@ dans les deux locaux du mess.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 60 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 60 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-61"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 61 — 61. Si une situation inusitée survient, le serveur doit fermer les bars promptement et contacter les auto…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -939,7 +939,7 @@ dans les deux locaux du mess.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 61 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 61 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-62"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 62 — 62. Tous les membres ainsi que leurs invités doivent observer la constitution du mess. Les dissidents doi…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -952,7 +952,7 @@ dans les deux locaux du mess.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 62 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 62 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-63"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 63 — 63. Tous les membres ont l'obligation de respecter l'ordre et de la faire respecter dans les locaux du Me…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -965,7 +965,7 @@ dans les deux locaux du mess.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 63 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 63 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-64"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 64 — 64. Les membres sont responsables de la conduite de leur(s) invité(s) qu'ils doivent accompagner pour que…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -978,7 +978,7 @@ dans les deux locaux du mess.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 64 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 64 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-65"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 65 — 65. Un militaire ne peut entrer dans un des locaux du mess auquel il ne peut avoir accès en vertu de son …</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -991,7 +991,7 @@ dans les deux locaux du mess.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 65 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 65 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-66"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 66 — 66. Les membres du mess doivent laisser l'endroit propre et replacer les meubles tels qu'ils étaient à le…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1004,7 +1004,7 @@ dans les deux locaux du mess.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 66 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 66 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-67"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 67 — 67. Sous l'âge de 18 ans, seuls les conjoints ou conjointes avec l’accord du commandant et les membres du…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1019,7 +1019,7 @@ membres du mess pourront accéder au mess. Ces personnes n’ont pas le droit de
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 67 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 67 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-68"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 68 — 68. Aucune personne civile ou militaire, n'ayant pas 18 ans d'âge, ne pourra consommer de boissons alcool…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1032,7 +1032,7 @@ membres du mess pourront accéder au mess. Ces personnes n’ont pas le droit de
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 68 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 68 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-69"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 69 — 69. Accès au mess. - a. En tout temps, le membre est responsable de la tenue et du comportement de ses in…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1053,7 +1053,7 @@ si parfois le membre doit partir, ses invités seront obligés de quitter les li
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 69 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 69 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-70"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 70 — 70. Habillement. - a. La norme minimum pour la tenue dans les mess sera le suivant : - (1) Aucun torse nu…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1091,7 +1091,7 @@ imposer un standard minimum qu'il jugera approprié.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 70 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 70 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-71"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 71 — 71. Couchage dans le mess et le bar. Pour des raisons d'hygiène et de sécurité, il est interdit de dormir…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1104,7 +1104,7 @@ imposer un standard minimum qu'il jugera approprié.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 71 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 71 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-72"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 72 — 72. Animaux. Il est interdit d’apporter des animaux dans le mess, sauf chien guide.…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1117,7 +1117,7 @@ imposer un standard minimum qu'il jugera approprié.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 72 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 72 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-73"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 73 — 73. Tableau d’affichage. Les avis doivent être approuvés par le commandant avant d’être affichés au table…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1130,7 +1130,7 @@ imposer un standard minimum qu'il jugera approprié.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 73 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 73 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-74"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 74 — 74. Conjoint. Les époux / épouses ou conjoint(e) de fait civil(e) des membres sont les bienvenus aux acti…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1143,7 +1143,7 @@ imposer un standard minimum qu'il jugera approprié.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 74 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 74 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-75"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 75 — 75. Invités. - a. Un invité est un visiteur officiellement invité par le mess qui assume alors tous les f…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1164,7 +1164,7 @@ imposer un standard minimum qu'il jugera approprié.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 75 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 75 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 
 ## Propriété Du Mess
@@ -1180,7 +1180,7 @@ imposer un standard minimum qu'il jugera approprié.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 76 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 76 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-77"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 77 — 77. Le coût de réparation ou de remplacement d'un bien appartenant au mess devra être défrayé par le Mess…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1193,7 +1193,7 @@ imposer un standard minimum qu'il jugera approprié.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 77 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 77 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-78"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 78 — 78. Le coût de réparation ou de remplacement d'un bien appartenant au mess devra être défrayé par le memb…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1206,7 +1206,7 @@ imposer un standard minimum qu'il jugera approprié.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 78 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 78 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-79"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 79 — 79. Aucun item, propriété du Mess, ne sera enlevé du Mess, vendu ou autrement retiré sans l’approbation d…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1219,7 +1219,7 @@ imposer un standard minimum qu'il jugera approprié.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 79 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 79 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-80"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 80 — 80. Si le Mess se procure livres, journaux, revues, etc. pour utilisation par les membres, ceux-ci ne ser…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1232,7 +1232,7 @@ imposer un standard minimum qu'il jugera approprié.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 80 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 80 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-81"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 81 — 81. Aucune décoration de nature permanente (plaque, tableau, trophée, etc) ne sera placée dans le Mess sa…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1245,7 +1245,7 @@ imposer un standard minimum qu'il jugera approprié.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 81 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 81 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-82"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 82 — 82. Assurances. Le mobilier, les marchandises et le fonds d’appoint seront assurés à la pleine valeur con…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1258,7 +1258,7 @@ imposer un standard minimum qu'il jugera approprié.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 82 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#5-finances-et-biens-anciens-art-4355-7682' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 82 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 
 ## Communication Avec Les Membres
@@ -1274,7 +1274,7 @@ imposer un standard minimum qu'il jugera approprié.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 83 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#8-plaintes-documents-et-diffusion-anciens-art-73-8389-102-112113' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 83 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-84"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 84 — 84. Toutes plaintes ou suggestions à caractère urgent peuvent être adressées directement au président.…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1287,7 +1287,7 @@ imposer un standard minimum qu'il jugera approprié.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 84 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#8-plaintes-documents-et-diffusion-anciens-art-73-8389-102-112113' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 84 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-85"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 85 — 85. Tout message concernant les membres ou la gestion du Mess sera affiché sur le tableau situé dans les …</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1300,7 +1300,7 @@ imposer un standard minimum qu'il jugera approprié.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 85 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#8-plaintes-documents-et-diffusion-anciens-art-73-8389-102-112113' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 85 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-86"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 86 — 86. Tout message devra être approuvé par un membre du conseil avant d’être affiché.…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1313,7 +1313,7 @@ imposer un standard minimum qu'il jugera approprié.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 86 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#8-plaintes-documents-et-diffusion-anciens-art-73-8389-102-112113' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 86 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-87"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 87 — 87. Une copie des statuts et règlements du Mess devra être affichée en permanence sur le tableau d’affich…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1326,7 +1326,7 @@ imposer un standard minimum qu'il jugera approprié.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 87 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#8-plaintes-documents-et-diffusion-anciens-art-73-8389-102-112113' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 87 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-88"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 88 — 88. Chaque membre du Mess recevra, dès son acceptation comme membre, une copie des statuts et règlements …</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1341,7 +1341,7 @@ règlements du Mess.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 88 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#8-plaintes-documents-et-diffusion-anciens-art-73-8389-102-112113' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 88 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-89"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 89 — 89. Le calendrier des activités du Mess, ainsi que les avis spéciaux sur les activités à venir seront aff…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1354,7 +1354,7 @@ règlements du Mess.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 89 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#8-plaintes-documents-et-diffusion-anciens-art-73-8389-102-112113' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 89 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 
 ## Réceptions Privées
@@ -1370,7 +1370,7 @@ règlements du Mess.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 90 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#7-receptions-et-activites-sociales-anciens-art-90104' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 90 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-91"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 91 — 91. Les réservations seront faites par le biais du régisseur, qui devra présenter les demandes au préside…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1383,7 +1383,7 @@ règlements du Mess.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 91 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#7-receptions-et-activites-sociales-anciens-art-90104' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 91 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-92"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 92 — 92. Lorsqu’un membre associé, un membre honoraire ou un membre à vie souhaite procéder à la location du M…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1396,7 +1396,7 @@ règlements du Mess.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 92 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#7-receptions-et-activites-sociales-anciens-art-90104' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 92 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-93"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 93 — 93. Le conseil d'administration établira les frais d'utilisation pour chaque demande. Ces frais seront in…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1416,7 +1416,7 @@ règlements du Mess.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 93 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#7-receptions-et-activites-sociales-anciens-art-90104' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 93 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-94"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 94 — 94. Tout dommage aux biens du Mess et aux biens de la Couronne causé lors d'une réception privée sera imp…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1429,7 +1429,7 @@ règlements du Mess.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 94 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#7-receptions-et-activites-sociales-anciens-art-90104' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 94 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 
 ## Invités
@@ -1445,7 +1445,7 @@ règlements du Mess.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 95 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 95 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-96"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 96 — 96. Un membre qui améne un invité dans le Mess devra le présenter: - a. au Commandant, si le membre est u…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1462,7 +1462,7 @@ règlements du Mess.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 96 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 96 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-97"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 97 — 97. Les invités doivent se plier aux règlements concernant la tenue vestimentaire et le comportement.…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1475,7 +1475,7 @@ règlements du Mess.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 97 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 97 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 
 ## Jeux
@@ -1491,7 +1491,7 @@ règlements du Mess.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 98 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 98 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-99"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 99 — 99. Les jeux, y compris l'équipement de billard seront gardés sous le contrôle du régisseur ou du personn…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1506,7 +1506,7 @@ personnel désigné par lui.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 99 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 99 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 
 ## Jeux De Hasard
@@ -1522,7 +1522,7 @@ personnel désigné par lui.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 100 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#6-acces-discipline-et-alcool-anciens-art-5675-95100' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 100 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 
 ## Activités Récréatives
@@ -1538,7 +1538,7 @@ personnel désigné par lui.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 101 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#7-receptions-et-activites-sociales-anciens-art-90104' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 101 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-102"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 102 — 102. Un calendrier des activités devra être affiché dans les locaux du mess pour que tous les membres pui…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1551,7 +1551,7 @@ personnel désigné par lui.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 102 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#7-receptions-et-activites-sociales-anciens-art-90104' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 102 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-103"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 103 — 103. Un budget devra être soumis en décembre de chaque année afin de pouvoir planifier les activités avec…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1564,7 +1564,7 @@ personnel désigné par lui.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 103 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#7-receptions-et-activites-sociales-anciens-art-90104' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 103 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-104"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 104 — 104. Afin de souligner le support des familles des membres, une activité annuelle sous la thématique du N…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1577,7 +1577,7 @@ personnel désigné par lui.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 104 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#7-receptions-et-activites-sociales-anciens-art-90104' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 104 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-105"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 105 — 105. Décès. Des fleurs ou autres pour un montant maximal de 50 $ seront envoyées au salon funéraire lors …</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1590,7 +1590,7 @@ personnel désigné par lui.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 105 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du fonds de cadeaux]({{ '/reglement-fonds-cadeaux.html#4-categories-historiques-de-cadeaux--proposees' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 105 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du fonds de cadeaux]({{ '/reglement-fonds-cadeaux.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-106"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 106 — 106. Naissance. Des fleurs ou autres cadeaux au montant maximal de 75 $ pour les naissances. Les fleurs o…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1603,7 +1603,7 @@ personnel désigné par lui.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 106 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du fonds de cadeaux]({{ '/reglement-fonds-cadeaux.html#4-categories-historiques-de-cadeaux--proposees' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 106 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du fonds de cadeaux]({{ '/reglement-fonds-cadeaux.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-107"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 107 — 107. Hospitalisation. Des fleurs ou cadeaux seront envoyés à l'hôpital ou à la résidence du membre suite …</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1616,7 +1616,7 @@ personnel désigné par lui.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 107 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du fonds de cadeaux]({{ '/reglement-fonds-cadeaux.html#4-categories-historiques-de-cadeaux--proposees' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 107 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du fonds de cadeaux]({{ '/reglement-fonds-cadeaux.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-108"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 108 — 108. Cadeau d’appartenance. - a. Lorsqu’un membre fait parti du mess depuis plus de 1 an, un T-Shirt de l…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1635,7 +1635,7 @@ personnel désigné par lui.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 108 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du fonds de cadeaux]({{ '/reglement-fonds-cadeaux.html#4-categories-historiques-de-cadeaux--proposees' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 108 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du fonds de cadeaux]({{ '/reglement-fonds-cadeaux.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-109"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 109 — 109. Départ de membres dits « spéciaux ». Lors du départ du Cmdt, du SME, Lcol (H) ou de tous membres aya…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1648,7 +1648,7 @@ personnel désigné par lui.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 109 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du fonds de cadeaux]({{ '/reglement-fonds-cadeaux.html#4-categories-historiques-de-cadeaux--proposees' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 109 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du fonds de cadeaux]({{ '/reglement-fonds-cadeaux.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-110"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 110 — 110. Cadeau de mission. Un cadeau pourra être offer au membre du 9 EG détaché en mission (Opération). Ce …</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1661,7 +1661,7 @@ personnel désigné par lui.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 110 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du fonds de cadeaux]({{ '/reglement-fonds-cadeaux.html#4-categories-historiques-de-cadeaux--proposees' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 110 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du fonds de cadeaux]({{ '/reglement-fonds-cadeaux.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-111"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 111 — 111. Changement de Cmdt. Des fleurs, pour un montant n’excédant pas 50,00$, seront offertes à la conjoint…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1676,7 +1676,7 @@ personnel désigné par lui.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 111 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du fonds de cadeaux]({{ '/reglement-fonds-cadeaux.html#4-categories-historiques-de-cadeaux--proposees' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 111 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du fonds de cadeaux]({{ '/reglement-fonds-cadeaux.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 
 ## Plaintes Et Suggestions
@@ -1692,7 +1692,7 @@ personnel désigné par lui.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 112 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#8-plaintes-documents-et-diffusion-anciens-art-73-8389-102-112113' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 112 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 <a id="article-113"></a>
 <details class="transferred-article"><summary><del class="suppression">Art. 113 — 113. Toute suggestion, proposition ou observation pourra aussi être remis au commandant adjoint.…</del> <span class="transfer-label">Transféré / fusionné</span></summary>
@@ -1705,7 +1705,7 @@ personnel désigné par lui.
 
 </details>
 
-<ins class="ajout" markdown="1">**Art. 113 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html#8-plaintes-documents-et-diffusion-anciens-art-73-8389-102-112113' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
+<ins class="ajout" markdown="1">**Art. 113 — transfert proposé.** Disposition supprimée des statuts et reprise, consolidée ou reformulée dans le [règlement du mess]({{ '/reglements-mess.html' | relative_url }}). Consulter aussi la [constitution simplifiée]({{ '/constitution-simplifiee.html' | relative_url }}). Le règlement reste soumis à ratification et approbation.</ins>
 
 
 ## Droit de vote
