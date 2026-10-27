@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Projet de règlement du fonds de cadeaux
+title: Règlement no 3 — Fonds de cadeaux (projet)
 ---
 
-# Règlement du fonds de cadeaux
+# Règlement no 3 — Fonds de cadeaux
 
 > **PROJET — NON APPROUVÉ.** Les montants du tableau reproduisent les plafonds des articles 105–111 de la constitution de 2024 afin de faciliter leur examen. **Ils ne constituent pas une autorisation d'effectuer des achats** tant que le fonds, le règlement et les dépenses n'ont pas reçu les approbations requises.
 
@@ -45,20 +45,26 @@ title: Projet de règlement du fonds de cadeaux
 
 **Aucun montant n'est modifié automatiquement.** La politique exige des critères équitables et des valeurs raisonnables. Les plafonds historiques doivent être revus en fonction de la participation réelle et de l'autosuffisance du fonds.
 
-## 5. Autorisations et registre
+## 5. Pouvoirs du comité et limites financières
+
+1. Les **catégories de cadeaux, critères d'admissibilité et plafonds maximaux** fixés dans le présent règlement ne peuvent être modifiés sans ratification en assemblée générale et approbation du commandant.
+2. Le comité peut choisir la forme du cadeau, déterminer sa valeur exacte **en deçà du plafond applicable**, planifier les achats et organiser les modalités pratiques, sans modifier le présent règlement. Chaque dépense demeure soumise au budget et aux pouvoirs financiers applicables.
+3. Le montant des **contributions volontaires** et les conditions qui affectent les droits des contributeurs doivent être approuvés conformément aux politiques et consignés dans le règlement ou son annexe approuvée. Ils ne peuvent être augmentés unilatéralement par le comité.
+
+## 6. Autorisations et registre
 
 1. Le comité vérifie l'existence d'une catégorie autorisée, le statut de contributeur, le solde disponible et les autorisations financières requises **avant** tout achat.
 2. Chaque dépense fait l'objet d'un justificatif et est inscrite dans un registre : date, catégorie, coût, approbateur et référence à l'éligibilité; seules les informations nécessaires sont conservées.
 3. Les décisions évitent les conflits d'intérêts. Une personne intéressée ne doit pas approuver seule un cadeau la concernant.
 4. Les renseignements sensibles relatifs à la naissance, au deuil ou à l'hospitalisation sont protégés; les rapports transmis aux membres ne dévoilent pas des renseignements personnels non nécessaires.
 
-## 6. Vérification annuelle
+## 7. Vérification annuelle
 
 1. Le comité, avec l'appui des responsables des BNP, examine au moins une fois l'an les recettes, les dépenses, les engagements futurs et l'autosuffisance du fonds.
 2. Il recommande, au besoin, de modifier les contributions, les plafonds ou les critères, sous réserve de leur ratification et de l'approbation du commandant.
 3. Les soldes et engagements du fonds figurent séparément dans les rapports de l'entité BNP du mess.
 
-## 7. Ratification et entrée en vigueur
+## 8. Ratification et entrée en vigueur
 
 Le présent règlement et ses modifications sont soumis à la ratification des membres réunis en assemblée générale et à l'approbation du commandant. La constitution du fonds elle-même doit satisfaire à l'approbation des membres exigée par les politiques.
 
