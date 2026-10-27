@@ -7,6 +7,8 @@ title: Audit de simplification des statuts — document de travail
 
 > **Proposition de réorganisation non ratifiée.** Ce document décrit les retraits et transferts **à appliquer** au texte annoté. Il ne les met pas encore en vigueur. La branche `main` conserve la constitution d'origine.
 
+> **Révision du 27 octobre 2026 — orientation ajustée.** Ce plan est un audit historique de la première passe, et non le plan normatif final. Après révision, les **types de membres et leurs droits fondamentaux restent dans la constitution**. Nous retenons **exactement trois règlements formels** : [no 1 — Réunions et élections](reglement-1-reunions-elections.html), [no 2 — Fonctionnement](reglements-mess.html), [no 3 — Fonds de cadeaux](reglement-fonds-cadeaux.html). Les décisions quotidiennes (calendriers, horaires, tarifs selon les pouvoirs compétents, répartition des tâches) demeurent des décisions administratives consignées, et non un quatrième règlement. Les tableaux ci-dessous doivent être lus comme la première analyse des articles historiques; les décisions ultérieures prévalent.
+
 ## Objectif
 
 **Réduire fortement la constitution** en conservant les principes de gouvernance et en mettant à part les modalités opérationnelles. Le modèle recommandé est celui du *Manuel des politiques PSP*, chapitre 9-4, § 36-38, tableau 9-4-3 (statuts types) et tableau 9-4-3-1 (règlements types).
@@ -23,7 +25,7 @@ Les **règlements formels**, même publiés séparément, exigent la ratificatio
 | Articles actuels | Destination recommandée | Action de simplification |
 |---|---|---|
 | 1–3 | **Statuts** | **Conserver et condenser** : références, désignation, Club Chimo, Mess Combiné et objet, avec une règle générale de prépondérance des politiques |
-| 4 | **Statuts + règlements** | **Garder les catégories et principes**, transférer les listes détaillées d'admissibilité et conditions d'adhésion aux règlements |
+| 4 | **Statuts** | **Conserver les types de membres, leurs définitions et les droits fondamentaux dans la constitution**; les modalités administratives de demande et de traitement peuvent relever de décisions du comité et de l'autorité compétente |
 | 5–7 | **Statuts + règlements** | **Fusionner** le principe des réunions du comité et assemblées; transférer le calendrier précis des élections et les rapports réguliers aux règlements |
 | 8–9 | **Statuts** | **Conserver** quorum des assemblées et droit de vote réservé aux membres ordinaires; harmoniser les articles redondants |
 | 10–12 | **Statuts** | **Condenser** pouvoir d'approbation du commandant, convocations extraordinaires et mandat propre du comité |
