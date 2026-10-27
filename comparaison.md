@@ -7,7 +7,9 @@ title: Tableau des amendements proposés
 
 > **Projet de travail — non ratifié et non approuvé.** Ce tableau explique les changements proposés, mais ne remplace pas le texte des amendements.
 
-[**Lire la constitution annotée**](proposition-modifications.html) · [Texte original](constitution.html)
+[**Constitution simplifiée (12 articles)**](constitution-simplifiee.html) · [**Amendements annotés**](proposition-modifications.html) · [Règlement du mess](reglements-mess.html) · [Règlement du fonds de cadeaux](reglement-fonds-cadeaux.html) · [Texte original](constitution.html)
+
+**Deux niveaux de lecture :** la constitution simplifiée présente le texte cible sans annotations, tandis que la proposition annotée permet de contrôler les suppressions, fusions et transferts. **90 articles d'origine** sont maintenant marqués comme transférés ou fusionnés; le texte retiré demeure consultable en développant chaque article. Ce décompte reflète les interventions dans la version de travail, pas une ratification.
 
 Dans la version annotée, <del class="suppression">les suppressions sont barrées en rouge</del> et <ins class="ajout">les ajouts sont soulignés en vert</ins>, y compris au sein d'une même phrase.
 
@@ -25,6 +27,13 @@ Dans la version annotée, <del class="suppression">les suppressions sont barrée
 | 105–111, avant 105 | Définir un fonds de cadeaux autonome et contributif, avec règles d'admissibilité | Établir l'origine des fonds, les bénéficiaires et le contrôle des cadeaux |
 | 110–111 | Encadrer les déploiements et cadeaux à des personnes non cotisantes | Éviter de financer par le fonds de cadeaux des bénéficiaires non admissibles |
 | 114–115 | Prévoir une version consolidée et la procédure d'amendement des règlements séparés | Distinguer clairement texte approuvé, proposition annotée et procédures internes |
+
+## Structure des documents proposés
+
+- **[Statuts consolidés](constitution-simplifiee.html)** — 12 articles de gouvernance.
+- **[Règlement du mess](reglements-mess.html)** — fonctionnement courant et modalités opérationnelles.
+- **[Règlement du fonds de cadeaux](reglement-fonds-cadeaux.html)** — cotisation volontaire, catégories, plafonds et contrôle.
+- **[Plan de simplification](plan-simplification.html)** — destination détaillée des anciens articles.
 
 ## Fonds d'unité
 
