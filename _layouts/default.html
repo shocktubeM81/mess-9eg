@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'fr-CA' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <meta name="theme-color" content="#172c3d">
+  <meta name="description" content="{{ site.description | escape }}">
+  <title>{% if page.title %}{{ page.title | escape }} · {% endif %}{{ site.title | escape }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <script defer src="{{ '/assets/js/site.js' | relative_url }}"></script>
+</head>
+<body>
+  <a class="skip-link" href="#contenu">Passer au contenu</a>
+  <div class="reading-progress" id="reading-progress" aria-hidden="true"></div>
+  <div class="site-wrapper">
+    <header class="site-header">
+      <div class="site-header-inner">
+        <a class="brand" href="{{ '/' | relative_url }}" aria-label="Mess et Instituts, accueil">
+          <span class="brand-emblem" aria-hidden="true">9<span>e</span></span>
+          <span class="brand-wordmark">
+            <strong>Mess et Instituts</strong>
+            <span>9e Escadron du génie</span>
+          </span>
+        </a>
+        <nav class="top-nav" aria-label="Navigation principale">
+          <a href="{{ '/proposition-modifications.html' | relative_url }}" {% if page.path == 'proposition-modifications.md' %}aria-current="page"{% endif %}>Constitution annotée</a>
+          <a href="{{ '/comparaison.html' | relative_url }}" {% if page.path == 'comparaison.md' %}aria-current="page"{% endif %}>Modifications</a>
+          <a href="{{ '/constitution.html' | relative_url }}" {% if page.path == 'constitution.md' %}aria-current="page"{% endif %}>Texte original</a>
+        </nav>
+      </div>
+    </header>
+
+    <div class="page-layout">
+      <aside class="sidebar" id="sidebar" aria-label="Sommaire de la page">
+        <div class="sidebar-sticky">
+          <div class="sidebar-title">Dans ce document</div>
+          <nav id="table-of-contents" aria-label="Navigation par section">
+            <span class="sidebar-placeholder">Chargement du sommaire…</span>
+          </nav>
+          <div class="sidebar-note">
+            <strong>Version de travail</strong>
+            <span>Les modifications proposées ne sont pas en vigueur avant leur ratification et leur approbation.</span>
+          </div>
+        </div>
+      </aside>
+
+      <main class="page-main" id="contenu">
+        <div class="page-meta">
+          <span class="eyebrow">Documentation · 9 EG</span>
+          {% if page.path == 'proposition-modifications.md' or page.path == 'comparaison.md' %}
+          <span class="status-label">Projet non approuvé</span>
+          {% else %}
+          <span class="status-label status-neutral">Document de référence</span>
+          {% endif %}
+        </div>
+
+        {% if page.path == 'proposition-modifications.md' %}
+        <div class="change-legend" aria-label="Légende des modifications">
+          <span><span class="legend-swatch legend-removed" aria-hidden="true"></span> Texte retiré</span>
+          <span><span class="legend-swatch legend-added" aria-hidden="true"></span> Texte ajouté</span>
+          <a href="{{ '/comparaison.html' | relative_url }}">Voir les justifications</a>
+        </div>
+        {% endif %}
+
+        <article class="document-content" id="document">
+          {{ content }}
+        </article>
+
+        <footer class="document-footer">
+          <span>Mess et Instituts · 9e Escadron du génie</span>
+          <a href="https://github.com/shocktubeM81/mess-9eg/tree/proposition-amendements">Consulter le dépôt GitHub</a>
+        </footer>
+      </main>
+    </div>
+    <button id="toc-toggle" class="toc-toggle" type="button" aria-controls="sidebar" aria-expanded="false">
+      <span aria-hidden="true">☰</span> Sections
+    </button>
+  </div>
+</body>
+</html>
