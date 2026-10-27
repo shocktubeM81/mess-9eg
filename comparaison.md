@@ -7,7 +7,7 @@ title: Tableau des amendements proposés
 
 > **Projet de travail — non ratifié et non approuvé.** Ce tableau explique les changements proposés, mais ne remplace pas le texte des amendements.
 
-[**Constitution simplifiée (12 articles)**](constitution-simplifiee.html) · [**Amendements annotés**](proposition-modifications.html) · [Règlement du mess](reglements-mess.html) · [Règlement du fonds de cadeaux](reglement-fonds-cadeaux.html) · [Texte original](constitution.html)
+[**Constitution proposée (12 articles)**](constitution-simplifiee.html) · [**Amendements annotés**](proposition-modifications.html) · [Règlement no 1](reglement-1-reunions-elections.html) · [Règlement no 2](reglements-mess.html) · [Règlement no 3](reglement-fonds-cadeaux.html) · [Texte original](constitution.html)
 
 **Deux niveaux de lecture :** la constitution simplifiée présente le texte cible sans annotations, tandis que la proposition annotée permet de contrôler les suppressions, fusions et transferts. **90 articles d'origine** sont maintenant marqués comme transférés ou fusionnés; le texte retiré demeure consultable en développant chaque article. Ce décompte reflète les interventions dans la version de travail, pas une ratification.
 
@@ -31,8 +31,9 @@ Dans la version annotée, <del class="suppression">les suppressions sont barrée
 ## Structure des documents proposés
 
 - **[Statuts consolidés](constitution-simplifiee.html)** — 12 articles de gouvernance.
-- **[Règlement du mess](reglements-mess.html)** — fonctionnement courant et modalités opérationnelles.
-- **[Règlement du fonds de cadeaux](reglement-fonds-cadeaux.html)** — cotisation volontaire, catégories, plafonds et contrôle.
+- **[Règlement no 1](reglement-1-reunions-elections.html)** — réunions, élections et comité.
+- **[Règlement no 2](reglements-mess.html)** — fonctionnement général et sécurité, avec gestion courante déléguée.
+- **[Règlement no 3](reglement-fonds-cadeaux.html)** — cotisation volontaire, catégories, plafonds et contrôle.
 - **[Plan de simplification](plan-simplification.html)** — destination détaillée des anciens articles.
 
 ## Fonds d'unité
