@@ -19,7 +19,7 @@ title: Constitution simplifiée proposée — Mess et Instituts du 9e Escadron d
 
 1. Le mess est assujetti aux lois, ordonnances, règlements et politiques applicables, notamment à la DOAD 5045-0, au Manuel des politiques des PSP et aux directives relatives aux BNP. En cas de contradiction, ces textes prévalent.
 2. Les **statuts** définissent l'organisation, les pouvoirs et les obligations fondamentales du mess. Les **règlements** en précisent le fonctionnement.
-3. Les trois règlements formels du mess peuvent être publiés séparément de la constitution. Leur adoption et leurs modifications nécessitent les approbations prévues à l'article 12.
+3. Les deux seuls règlements proposés à ce stade — **Discipline** et **Meubles et décorations** — peuvent être publiés séparément de la constitution. Leur adoption et leurs modifications nécessitent les approbations prévues à l'article 12.
 4. Les procédures administratives peuvent détailler les méthodes de travail, mais ne peuvent modifier les droits, obligations ou pouvoirs définis dans les statuts et règlements.
 
 ## Article 3 — Membres et droits
@@ -34,7 +34,7 @@ title: Constitution simplifiée proposée — Mess et Instituts du 9e Escadron d
 1. Le mess est administré par un comité composé de membres ordinaires élus en assemblée générale ou désignés par le commandant conformément aux politiques.
 2. Il comprend au minimum un président, un vice-président, un secrétaire ou trésorier, ainsi que les autres titulaires nécessaires à son fonctionnement. Les fonctions de secrétaire et de trésorier peuvent être distinctes.
 3. Le comité assure une **représentation équitable du Club Chimo et du Mess Combiné**, dans la mesure compatible avec le nombre de postes et les exigences applicables. La présidence et la vice-présidence proviennent de regroupements différents. **Le maintien ou la modification de l'alternance stricte par année paire/impaire de la constitution de 2024 demeure une décision à faire ratifier**, et non un simple choix administratif.
-4. Les modalités des élections, vacances et réunions sont encadrées par le **règlement no 1**; le comité et le commandant peuvent désigner les responsables et répartir les tâches dans les limites prévues par les statuts et les politiques.
+4. Les modalités des élections, vacances et réunions demeurent dans les statuts, sous réserve des procédures de simple application approuvées; le comité et le commandant peuvent désigner les responsables et répartir les tâches dans les limites prévues par les statuts et les politiques.
 
 > **Décision de fond à faire approuver :** le texte d'origine exige une répartition exactement égale entre les deux groupes et une alternance déterminée par années paires et impaires; cette rédaction privilégie l'équité pratique. Elle ne doit pas être présentée comme une simple correction de forme.
 
@@ -66,7 +66,7 @@ title: Constitution simplifiée proposée — Mess et Instituts du 9e Escadron d
 1. Les ressources du mess sont utilisées au bénéfice de ses membres et dans le cadre des activités autorisées, conformément aux règles régissant les BNP.
 2. Un budget annuel et des états financiers sont préparés, présentés et approuvés selon les politiques applicables.
 3. Les engagements et dépenses nécessitent **avant leur exécution** les autorisations budgétaires et financières requises; une approbation postérieure ne les remplace pas.
-4. Les règles stables d'exploitation et de sécurité sont encadrées par le **règlement no 2**. Les **montants, tarifs, horaires, budgets d'activité, calendriers et modalités de paiement** peuvent être établis par décision écrite du comité ou du commandant selon la compétence reconnue à chacun, sous réserve des votes et approbations obligatoires. En particulier, les **cotisations au mess doivent être approuvées annuellement en assemblée générale** et les dépenses doivent recevoir les autorisations financières requises.
+4. Les règles de discipline et de protection des biens sont précisées dans les deux règlements du mess. Les **montants, tarifs, horaires, budgets d'activité, calendriers et modalités de paiement** peuvent être établis par décision écrite du comité ou du commandant selon la compétence reconnue à chacun, sous réserve des votes et approbations obligatoires. En particulier, les **cotisations au mess doivent être approuvées annuellement en assemblée générale** et les dépenses doivent recevoir les autorisations financières requises.
 5. Le **fonds d'unité** constitue une entité administrative distincte et n'est pas créé ou administré par les présents statuts. Les fonds d'exploitation du mess continuent de relever des règles applicables au mess.
 
 ## Article 9 — Fonds de cadeaux
@@ -74,8 +74,12 @@ title: Constitution simplifiée proposée — Mess et Instituts du 9e Escadron d
 1. Sous réserve de l'approbation requise pour son établissement, le mess peut maintenir **un fonds de cadeaux distinct**, comptabilisé comme fonds de l'entité BNP du mess.
 2. Ce fonds repose sur des **contributions volontaires**, doit être autosuffisant et ne peut être créé ni renfloué au moyen d'autres comptes du mess.
 3. Seuls les membres qui contribuent au fonds de cadeaux peuvent en bénéficier, conformément aux critères équitables et aux conditions écrites.
-4. Les circonstances admissibles, les critères d'équité, le mode de contribution et les **plafonds maximaux autorisés** sont définis dans le **règlement no 3 — Fonds de cadeaux**, soumis à ratification et approbation. Le comité ne peut ajuster les critères ou dépasser un plafond par simple résolution; il peut seulement approuver un achat admissible dans les limites budgétaires et financières.
+4. Les circonstances admissibles, les critères d'équité, le mode de contribution et les **plafonds maximaux autorisés** sont définis dans une **section de la constitution consacrée au fonds de cadeaux**, soumise à ratification et approbation. Le comité ne peut ajuster les critères ou dépasser un plafond par simple résolution; il peut seulement approuver un achat admissible dans les limites budgétaires et financières.
 5. Le comité examine annuellement sa situation financière avec les responsables des BNP compétents.
+
+### Modalités du fonds de cadeaux à incorporer dans la version définitive
+
+**Cette section doit encore être complétée avant ratification.** Les dispositions des anciens articles 105 à 111 — décès, naissance, hospitalisation, appartenance, cours de métier, départ, mission et changement de commandement — restent proposées pour intégration ici, avec leurs plafonds historiques, sous réserve d'une validation de leur financement et des bénéficiaires admissibles. Le fonds doit demeurer distinct, volontaire et autosuffisant.
 
 ## Article 10 — Communication, transparence et archives
 
@@ -84,13 +88,12 @@ title: Constitution simplifiée proposée — Mess et Instituts du 9e Escadron d
 3. Les membres peuvent consulter les documents pertinents à l'administration du mess, sous réserve des restrictions justifiées relatives aux renseignements personnels, à la sécurité et aux règles des BNP.
 4. Le comité veille à communiquer de façon accessible les décisions importantes et les activités du mess.
 
-## Article 11 — Règlements et directives d'application
+## Article 11 — Règlements et décisions d'application
 
-1. Le mess adopte au plus **trois règlements formels** : **no 1 — Réunions, élections et fonctionnement du comité**, **no 2 — Fonctionnement du mess**, et **no 3 — Fonds de cadeaux**.
-2. Les règlements fixent les obligations durables qui doivent s'appliquer uniformément aux membres. Ils sont ratifiés en assemblée générale et approuvés par le commandant, au même titre que les statuts.
-3. Le **comité** peut, dans le cadre de ses attributions, établir et modifier par décision consignée : calendrier d'activités, répartition des tâches, consignes d'exploitation, outils de communication, horaires et tarifs relevant de ses pouvoirs, et mesures pratiques. Le **commandant** conserve les pouvoirs d'instruction, de surveillance, d'approbation et d'intervention que lui confèrent les politiques.
-4. Les budgets, dépenses, cotisations, fiches de bar, accès aux locaux et autres matières soumises à une autorisation expresse restent régis par les exigences supérieures. Une directive d'application ne peut contourner un règlement, une assemblée générale ou une délégation financière.
-5. Les décisions d'application en vigueur sont datées, archivées et rendues accessibles aux membres concernés, sous réserve des restrictions légitimes.
+1. Deux règlements distincts sont prévus pour le moment : **Discipline** et **Meubles et décorations**.
+2. Ces règlements complètent la constitution et sont ratifiés en assemblée générale puis approuvés par le commandant. Leurs modifications de fond suivent la même procédure.
+3. Les règles relatives aux types de membres, aux élections, aux assemblées, aux finances et au fonds de cadeaux **demeurent dans la constitution**; elles ne font pas l'objet de règlements autonomes.
+4. Le comité ou le commandant peuvent adopter des décisions d'application concernant les activités, les horaires, la disposition des lieux, les procédures de travail ou les modalités d'exploitation, selon leurs compétences respectives. Ces décisions sont documentées et ne peuvent modifier une obligation prévue aux statuts ou aux règlements ni contourner une approbation financière ou un vote obligatoire.
 
 ## Article 12 — Modifications et entrée en vigueur
 
