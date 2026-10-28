@@ -1,96 +1,42 @@
 ---
 layout: default
-title: Audit de simplification des statuts — document de travail
+title: Plan de simplification — version retenue
 ---
 
-# Audit de simplification des statuts
+# Plan de simplification — version retenue
 
-> **Proposition de réorganisation non ratifiée.** Ce document décrit les retraits et transferts **à appliquer** au texte annoté. Il ne les met pas encore en vigueur. La branche `main` conserve la constitution d'origine.
+> **Projet non ratifié.** Ce plan remplace les orientations intermédiaires à trois règlements. La constitution actuelle reste applicable jusqu'à ratification et approbation des changements.
 
-> **Révision du 27 octobre 2026 — orientation ajustée.** Ce plan est un audit historique de la première passe, et non le plan normatif final. Après révision, les **types de membres et leurs droits fondamentaux restent dans la constitution**. Nous retenons **exactement trois règlements formels** : [no 1 — Réunions et élections](reglement-1-reunions-elections.html), [no 2 — Fonctionnement](reglements-mess.html), [no 3 — Fonds de cadeaux](reglement-fonds-cadeaux.html). Les décisions quotidiennes (calendriers, horaires, tarifs selon les pouvoirs compétents, répartition des tâches) demeurent des décisions administratives consignées, et non un quatrième règlement. Les tableaux ci-dessous doivent être lus comme la première analyse des articles historiques; les décisions ultérieures prévalent.
+## Structure documentaire
 
-## Objectif
-
-**Réduire fortement la constitution** en conservant les principes de gouvernance et en mettant à part les modalités opérationnelles. Le modèle recommandé est celui du *Manuel des politiques PSP*, chapitre 9-4, § 36-38, tableau 9-4-3 (statuts types) et tableau 9-4-3-1 (règlements types).
-
-- **Statuts** : nom et objet du mess; catégories de membres; comité, élections, représentation, responsabilités; assemblées, quorum, votes et compétences; principes de finances et de transparence; modifications et ratifications.
-- **Règlements du mess** : modalités de cotisation, réunions, finances, consommation, invités, réservations, discipline, tenue, loisirs et activités sociales.
-- **Règlement du fonds de cadeaux** : fonds distinct et contributif, conditions d'admissibilité, événements couverts, plafonds et gestion financière.
-- **Procédures administratives** : instructions de travail, organisation du bar, formulaires, registres, modes de transmission et listes de vérification.
-
-Les **règlements formels**, même publiés séparément, exigent la ratification en assemblée générale et l'approbation du commandant. Les procédures ne doivent pas modifier ces règles.
-
-## Décisions article par article — première passe
-
-| Articles actuels | Destination recommandée | Action de simplification |
-|---|---|---|
-| 1–3 | **Statuts** | **Conserver et condenser** : références, désignation, Club Chimo, Mess Combiné et objet, avec une règle générale de prépondérance des politiques |
-| 4 | **Statuts** | **Conserver les types de membres, leurs définitions et les droits fondamentaux dans la constitution**; les modalités administratives de demande et de traitement peuvent relever de décisions du comité et de l'autorité compétente |
-| 5–7 | **Statuts + règlements** | **Fusionner** le principe des réunions du comité et assemblées; transférer le calendrier précis des élections et les rapports réguliers aux règlements |
-| 8–9 | **Statuts** | **Conserver** quorum des assemblées et droit de vote réservé aux membres ordinaires; harmoniser les articles redondants |
-| 10–12 | **Statuts** | **Condenser** pouvoir d'approbation du commandant, convocations extraordinaires et mandat propre du comité |
-| 13 | **Suppression / planification** | **Supprimer l'interdiction absolue de tenir une assemblée l'été**. Une recommandation de planification peut figurer dans les procédures |
-| 14–15 | **Suppression / fusion** | **Fusionner l'objet de l'assemblée** avec l'article sur ses compétences; **retirer le doublon sur le quorum** (art. 15 vs 8) |
-| 16–22 | **Règlements / procédure de réunion** | **Retirer des statuts** le déroulement parlementaire (présidence détaillée, ordre du jour, motions, appuis, débats); conserver en une ou deux clauses les règles constitutives de vote et de quorum |
-| 23 | **Statuts + règlements** | **Conserver le principe du vote à majorité et de la participation électronique**; déplacer les listes de plateformes, délais et détails techniques aux règlements. Vérifier les modalités et la conformité |
-| 24–25 | **Règlements / fusion** | **Déplacer les candidatures** aux règlements et **fusionner les avis de convocation** avec l'article 17 (actuellement 7 jours et 2 semaines) |
-| 26–28 | **Statuts** | **Conserver** l'éligibilité au comité, sa composition et la représentativité Club Chimo / Mess Combiné; déplacer les alternances annuelles rigides vers les règlements si réellement nécessaires |
-| 29–32 | **Statuts + règlements** | **Fusionner** les postes et le mode de désignation; transférer les détails de vacance et de remplacement |
-| 33–35 | **Statuts + règlements** | **Conserver** le devoir de bonne gestion, les compétences et la destitution; enlever les répétitions |
-| 36–39 | **Règlements** | **Condense en une clause statutaire de reddition de comptes**, puis déplacer les listes détaillées de tâches du président, vice-président, secrétaire et trésorier |
-| 40–42 | **Procédures opérationnelles** | **Retirer les fiches de poste détaillées** du serveur, du responsable des activités et du régisseur. Les obligations d'employeur et d'exploitation applicables restent obligatoires |
-| 43–44 | **Statuts + règlements** | **Conserver** l'interdiction de bénéfices personnels/conflits d'intérêts; déplacer l'administration détaillée des salaires et du personnel |
-| 45 | **Statuts + règlements** | **Conserver** le principe d'une cotisation et son approbation annuelle; transférer dix mois d'activité, remboursement, moyens de paiement et modalités de perception |
-| 46 | **Règlements** | **Retirer des statuts** les chèques, tarifs, cartes/fiches de bar, traites et signatures bancaires; les encadrer dans un règlement conforme aux BNP, avec les compétences financières réelles |
-| 47–55 | **Règlements / procédures** | **Regrouper** le budget, les achats, la délégation de pouvoirs et la reddition de comptes; transférer les plafonds locaux de 100 $, paiements des serveurs et procédures comptables. Ne pas confondre le « fonds d'opération » du mess avec le fonds d'unité |
-| 56–61 | **Règlements / procédures de bar** | **Déplacer** règles opérationnelles sur l'alcool et les interventions; ne pas supprimer les interdictions ou obligations découlant des lois et politiques |
-| 62–75 | **Règlements** | **Regrouper** discipline, accès, invités, mineurs, tenue et animaux; éviter plusieurs articles sur la même responsabilité des invités |
-| 76–82 | **Règlements / gestion BNP** | **Fusionner** les doubles règles sur biens déplacés/retirés (76, 79) et responsabilités pour les dommages (77–78); transférer livres, décorations et assurances aux règles d'administration |
-| 83–89 | **Statuts + procédures** | **Remplacer plusieurs articles sur affichages et messages par une clause** de publication, accès aux documents, archivage, confidentialité et transmission |
-| 90–94 | **Règlements** | **Déplacer** les réceptions privées, réservations, barèmes, contrats et responsabilités |
-| 95–97 | **Fusion avec 62–75** | **Supprimer le double traitement des invités** et conserver une réglementation unique |
-| 98–100 | **Règlements** | **Déplacer** les règles sur billard, propreté du matériel, jeux et paris. Les interdictions réglementaires restent applicables |
-| 101–104 | **Règlements / calendrier d'activités** | **Transférer** l'approbation des activités et budgets, l'affichage du calendrier et la fête de Noël; supprimer le doublon de calendrier avec 89 et de budgets avec 47 |
-| 105–111 | **Règlement du fonds de cadeaux** | **Retirer les montants et occasions des statuts** et les organiser dans un règlement complet avec financement, admissibilité, équité et plafonds, sous réserve d'approbation |
-| 112–113 | **Fusion** | **Regrouper** les plaintes et suggestions dans une procédure et un canal de communication commun |
-| 114–116 | **Statuts** | **Fusionner** les procédures d'amendement en un article cohérent (écrit, avis, assemblée, quorum, approbation du commandant), sans attribuer au comité un pouvoir de veto incompatible avec les droits des membres |
-
-## Suppressions de répétitions prioritaires
-
-| Règles actuellement répétées | Solution visée |
+| Document | Rôle |
 |---|---|
-| Quorum : 8 et 15 | Une seule règle dans les statuts |
-| Convocation : 17 et 25 | Une seule règle conforme, et des détails dans les règlements |
-| Délibérations / motions : 18–23 | Un article de principe; procédure détaillée dans les règlements |
-| Invités : 62–65, 69, 74–75, 95–97 | Une section cohérente dans les règlements |
-| Retrait ou déplacement des biens : 76 et 79 | Une règle unique |
-| Publication : 73, 83–89 et 102 | Une obligation statutaire, une procédure de diffusion |
-| Budget et autorisation des dépenses : 47, 49–55 et 103 | Un régime financier cohérent et conforme à la délégation BNP |
-| Cadeaux : 105–111 | Règlement du fonds de cadeaux, sans les répéter dans les statuts |
+| [Constitution simplifiée](constitution-simplifiee.html) | Membres et catégories, composition et pouvoirs du comité, assemblées, finances, cotisations, fonds de cadeaux, publication et modifications |
+| [Règlement Discipline](reglement-discipline.html) | Conduite, sécurité, boissons alcoolisées, invités, accès et tenue |
+| [Règlement Meubles et décorations](reglement-meubles-decorations.html) | Biens et inventaires, mobilier, décorations, pertes et dommages |
+| [Décisions administratives](comparaison.html) | Horaires, calendrier, répartition des tâches, formulaires, tarifs ou consignes dans les limites des pouvoirs autorisés — pas de règlement supplémentaire |
 
-## Constitution condensée — structure cible
+## Modifications et regroupements prioritaires
 
-1. Désignation et objet du mess
-2. Autorités et application des politiques
-3. Membres et droits fondamentaux
-4. Comité du mess : composition, représentativité et mandat
-5. Compétences du comité et responsabilités
-6. Assemblées générales : fréquence, compétences et quorum
-7. Convocation, droits de vote et décisions
-8. Administration financière et autorisations
-9. Fonds de cadeaux : existence, participation et règlement applicable
-10. Publication, tenue des dossiers et accès à l'information
-11. Adoption et modification des statuts et règlements
-12. Entrée en vigueur et approbation du commandant
+| Articles de la constitution de 2024 | Action |
+|---|---|
+| 1–4 | Conserver nom, objet et **toutes les catégories de membres** dans les statuts. Vérifier les détails d'admission des membres associés. |
+| 5–25 | Fusionner les doublons sur quorum et convocation; conserver compétences des assemblées, élections et votes; retirer le protocole parlementaire superflu. |
+| 26–42 | Conserver structure et compétences du comité, en simplifiant les tâches quotidiennes. La représentation des deux regroupements exige une décision. |
+| 43–55 | Conserver le cadre de cotisations et d'autorisations financières; laisser le suivi administratif aux pouvoirs compétents. |
+| 56–75, 95–97 | Regrouper la discipline dans le règlement **Discipline**; préserver dans les statuts les droits fondamentaux des membres. |
+| 76–82 | Regrouper les mesures de protection des biens dans **Meubles et décorations**. |
+| 83–89, 112–113 | Fusionner les clauses sur communication, transparence, procès-verbaux et archivage. |
+| 90–104 | Confier l'organisation courante des activités aux autorités compétentes, sous réserve des budgets et autorisations. |
+| 105–111 | Conserver les circonstances, conditions de financement et plafonds du **fonds de cadeaux dans la constitution**. Évaluer séparément le cas des conjoints du commandant. |
+| 114–116 | Une procédure cohérente de modification, ratification et approbation. |
 
-Les numéros ci-dessus forment une **proposition de plan**, et non une renumérotation déjà acceptée.
+## Règles de souplesse administrative
 
-## Étapes de rédaction
+Le comité peut arrêter les modalités quotidiennes qui relèvent de ses pouvoirs, avec compte rendu et archivage. Le commandant conserve ses pouvoirs de surveillance, d'instruction et d'approbation. Aucun de ces actes ne peut modifier les droits fondamentaux, les règles de vote, les règlements approuvés, les cotisations réservées à l'assemblée ou les exigences financières des BNP.
 
-1. Dans `proposition-modifications.md`, **barrer** les dispositions sorties des statuts et inscrire des renvois aux règlements concernés.
-2. Créer `reglements-mess.md` et `reglement-fonds-cadeaux.md`; **ne pas perdre** les obligations utiles déplacées.
-3. Fusionner les passages redondants en conservant une seule règle claire.
-4. Produire `constitution-simplifiee.md` comme résultat consolidé distinct, en conservant `constitution.md` intact.
-5. Faire valider la conformité des procédures d'assemblée, des fonds et des pouvoirs financiers avant ratification.
+## Vérifications encore nécessaires
 
-**Attention :** il n'est pas prudent de traiter ces retraits comme « inutiles » sans distinguer les obligations à conserver, les modalités à déplacer et les répétitions à effacer.
+Les dispositions **à trancher**, et non réputées supprimées, comprennent : plafond et admission des membres associés (65 %, 30 jours), membres honoraires à vie, alternance stricte Club Chimo / Mess Combiné, cadence des réunions du comité, constitution et admissibilité du fonds de cadeaux, et conformité des fiches de bar. Comparer la rédaction finale avec le PDF signé d'août 2024 avant la ratification.
+
+[Constitution originale](constitution.html) · [Proposition annotée](proposition-modifications.html) · [Tableau des modifications](comparaison.html)
