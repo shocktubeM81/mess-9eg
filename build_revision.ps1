@@ -185,3 +185,7 @@ foreach($f in Get-ChildItem -LiteralPath $dir -Filter '*.md'){
   [IO.File]::WriteAllText($f.FullName,"---`nlayout: default`ntitle: $title`n---`n`n"+$text,$enc)
  }
 }
+
+$letterBody=[IO.File]::ReadAllText((Join-Path $dir 'lettre-presentation.md'))
+$letterBody=[regex]::Replace($letterBody,'(?s)\A---\r?\n.*?\r?\n---\r?\n','')
+[IO.File]::WriteAllText((Join-Path $dir 'lettre-contenu.html'),$letterBody.Trim()+"`n",$enc)

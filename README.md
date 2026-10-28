@@ -32,3 +32,7 @@ La version 0.2 est préparée sur la branche `revision-documents-2026-10-28`.
 La transcription actuelle et la présentation web de la page d’accueil sont conservées. Cette proposition n’est pas un texte adopté. Le dossier contient le tableau des seules modifications, quatre propositions distinctes, les deux textes intégraux consolidés et une courte lettre de présentation. Les fichiers restent au format Markdown natif du dépôt pour conserver leur lecture sur GitHub et leur présentation avec le thème existant.
 
 Le script `build_revision.ps1` produit les documents à partir de la transcription conservée. Il ne modifie pas celle-ci. Les métadonnées de page appliquent le thème existant aux nouvelles pages; les textes sont également lisibles directement sur GitHub.
+
+## Présentation reprise de la branche proposition amendements
+
+La branche de révision reprend le gabarit, les styles et le sommaire de `proposition-amendements`. Son accueil présente la lettre et les livrables de la version 0.2. La navigation vise les quatre règlements et les textes révisés. Cette mise à jour de présentation remplace la mention précédente de conservation de la page d’accueil sur cette branche. La transcription originale, les branches `main` et `proposition-amendements`, ainsi que les paramètres de publication restent inchangés.
