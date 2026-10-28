@@ -5,7 +5,7 @@ title: Concordance des 116 articles
 
 # Concordance des 116 articles
 
-Version 0.2 du 28 octobre 2026. Source : constitution.md au commit 8362362. Les clauses C1 à C3, R2.1 à R2.2 et R3.1 à R3.6 sont nouvelles. Les numéros historiques sont conservés.
+Version 0.2.1 du 28 octobre 2026. Source : constitution.md au commit 8362362. Les clauses C1 à C4, R2.1 à R2.2 et R3.1 à R3.9 sont nouvelles. Les numéros historiques sont conservés.
 
 | Article source | Destination | Traitement |
 |---|---|---|
@@ -16,13 +16,13 @@ Version 0.2 du 28 octobre 2026. Source : constitution.md au commit 8362362. Les 
 | 5 | Constitution | Modifié — voir tableau |
 | 6 | Constitution | Texte conservé |
 | 7 | Constitution | Modifié — voir tableau |
-| 8 | Constitution | Texte conservé |
+| 8 | Constitution | Modifié — voir tableau |
 | 9 | Constitution | Texte conservé |
 | 10 | Constitution | Texte conservé |
 | 11 | Constitution | Texte conservé |
-| 12 | R3 | Texte conservé |
-| 13 | Constitution | Modifié — voir tableau |
-| 14 | R3 | Texte conservé |
+| 12 | Constitution | Texte conservé |
+| 13 | R3 | Modifié — voir tableau |
+| 14 | Constitution | Texte conservé |
 | 15 | R3 | Modifié — voir tableau |
 | 16 | R3 | Texte conservé |
 | 17 | R3 | Modifié — voir tableau |
@@ -31,9 +31,9 @@ Version 0.2 du 28 octobre 2026. Source : constitution.md au commit 8362362. Les 
 | 20 | R3 | Modifié — voir tableau |
 | 21 | R3 | Texte conservé |
 | 22 | R3 | Modifié — voir tableau |
-| 23 | R3 | Modifié — voir tableau |
+| 23 | Constitution | Modifié — voir tableau |
 | 24 | Constitution | Texte conservé |
-| 25 | R3 | Modifié — voir tableau |
+| 25 | Constitution | Modifié — voir tableau |
 | 26 | Constitution | Texte conservé |
 | 27 | Constitution | Texte conservé |
 | 28 | Constitution | Texte conservé |
@@ -43,7 +43,7 @@ Version 0.2 du 28 octobre 2026. Source : constitution.md au commit 8362362. Les 
 | 32 | Constitution | Texte conservé |
 | 33 | Constitution | Texte conservé |
 | 34 | Constitution | Texte conservé |
-| 35 | R3 | Modifié — voir tableau |
+| 35 | Constitution | Modifié — voir tableau |
 | 36 | R3 | Texte conservé |
 | 37 | R3 | Texte conservé |
 | 38 | R3 | Texte conservé |

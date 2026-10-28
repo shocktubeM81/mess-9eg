@@ -5,7 +5,7 @@ title: Règlement intégral consolidé du Mess et Instituts du 9e Escadron du g�
 
 # Règlement intégral consolidé du Mess et Instituts du 9e Escadron du génie
 
-**Version 0.2 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les numéros historiques sont conservés pour faciliter la comparaison; les articles déplacés figurent dans les règlements.
+**Version 0.2.1 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les numéros historiques sont conservés pour faciliter la comparaison; les articles déplacés figurent dans les règlements.
 
 Les quatre règlements suivants constituent le texte intégral proposé. Les droits et garanties de la constitution leur sont applicables.
 
@@ -114,11 +114,9 @@ imposer un standard minimum qu'il jugera approprié.
 
 **R2.2.** Avant acceptation d’un don, le comité documente le donateur, le bien, les conditions, la destination et les coûts d’entretien. Il obtient les approbations exigées selon la nature et la propriété du bien. Aucun reçu fiscal, avantage ou transfert de propriété n’est promis sans autorité. Les coordonnées personnelles sont protégées dans la version du registre destinée aux membres.
 
-## R3 Assemblées administration archivage sauvegarde communication et transparence
+## R3 Procédure des assemblées administration archivage sauvegarde communication et transparence
 
-<a id="article-12"></a>**12.** Au niveau des réunions du comité du mess, c'est le commandant ou le président de ce comité qui les convoque.
-
-<a id="article-14"></a>**14.** Introduction. Une assemblée générale vise à permettre aux membres de discuter à fond, d'une manière démocratique, de sujets reliés à l'exploitation du mess et de prendre des décisions qui reflètent la volonté de la majorité.
+<a id="article-13"></a>**13.** Le calendrier tient compte de la disponibilité estivale. Une assemblée peut être planifiée avant le 30 mai et une autre après le 30 août, dans leurs trimestres respectifs. L’absence de quorum entraîne une nouvelle convocation et ne transfère aucun pouvoir au comité.
 
 <a id="article-15"></a>**15.** Les délibérations d’une assemblée générale ne sont valides que si le quorum prévu à l’article 8 de la constitution est atteint. Le seul nombre des présents ne constitue pas le quorum.
 
@@ -168,14 +166,6 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 <a id="article-21"></a>**21.** Appui à la proposition. Une proposition n'est valide que si elle est appuyée par un autre membre. À défaut d'un tel appui, le président déclare que "la proposition est irrecevable", puis passe au point suivant.
 
 <a id="article-22"></a>**22.** Une proposition recevable, appuyée et reformulée est débattue par l’assemblée et ne peut être écartée hors de ses procédures. Chaque membre doit pouvoir s’exprimer.
-
-<a id="article-23"></a>**23.** Une proposition est adoptée si elle recueille strictement plus de la moitié des voix exprimées par les membres ayant droit de vote, sans compter les abstentions. En cas d’égalité, un recomptage est effectué; en cas de nouvelle égalité, le président de séance tranche par sa voix prépondérante, seule occasion où il vote. Il ne propose, n’amende ni n’appuie une motion. Un vote erroné fait l’objet d’un nouveau vote. Les seuils particuliers, notamment pour la destitution, demeurent applicables.
-
-Les votes par internet restent possibles en privilégiant les assemblées : proposition étudiée et publiée par le comité; aucune dépense supérieure à 200 dollars; participation facultative; votants membres ordinaires actifs et en règle pour l’exercice; quorum de l’article 8; délai minimal de 15 jours; maintien du veto du commandant. Le secrétaire conserve le texte, les dates, le résultat et la preuve du quorum. Ces votes ne remplacent ni les assemblées trimestrielles ni les procédures d’amendement des articles 114 à 116.
-
-<a id="article-25"></a>**25.** L’avis est transmis à tous les membres au moins 14 jours avant l’assemblée, même si sa date a été annoncée à la séance précédente. Les propositions de modification sont communiquées et affichées au moins 15 jours avant leur étude. Le calendrier annuel ne dispense pas de ces avis.
-
-<a id="article-35"></a>**35.** Le comité prépare les dossiers, exécute les décisions des membres et gère les affaires courantes dans les limites du budget et des délégations approuvés. Il rend compte à l’assemblée et sert d’intermédiaire avec le commandant. Les élections, destitutions, cotisations, budgets et amendements réservés aux membres ne peuvent être décidés à leur place par le comité. Celui-ci obtient les approbations requises avant exécution.
 
 <a id="article-36"></a>**36.** Devoirs du président du conseil d’administration du mess (PCAM).
 
@@ -355,6 +345,16 @@ Les votes par internet restent possibles en privilégiant les assemblées : prop
 <a id="article-112"></a>**112.** Toute plainte sera inscrite et remise au commandant adjoint.
 
 <a id="article-113"></a>**113.** Toute suggestion, proposition ou observation pourra aussi être remis au commandant adjoint.
+
+## Procédure et déroulement des assemblées
+
+Les principes des assemblées, leur fréquence, le quorum, les droits des membres, les règles de majorité, les délais minimaux de convocation et les pouvoirs du comité figurent dans la constitution. Le présent règlement en organise la mise en œuvre. Les articles 13 et 15 à 22 précisent le calendrier, la vérification du quorum, la préparation et le déroulement; ils ne délèguent aucun pouvoir supplémentaire au comité.
+
+**R3.7.** Lors du scrutin, le président fait procéder au décompte des voix. En cas d’égalité, il ordonne un recomptage; si l’égalité subsiste, il exerce la voix prépondérante prévue à l’article 23 de la constitution. Un vote erroné fait l’objet d’un nouveau vote. Le procès-verbal consigne le texte de la proposition, le résultat, les abstentions et l’application éventuelle d’un seuil particulier.
+
+**R3.8.** Le secrétaire vérifie et consigne le quorum au début de la séance et lorsqu’une perte de quorum est signalée. Si le quorum n’est pas atteint 30 minutes après l’heure prévue, l’assemblée est annulée et une nouvelle convocation est organisée conformément à la constitution. Si le quorum est perdu pendant la séance, aucune nouvelle décision n’est prise; les points non décidés sont reportés et les membres en sont informés.
+
+**R3.9.** Pour un vote par internet autorisé par la constitution, le comité étudie et communique la proposition avant le scrutin. L’avis indique le texte exact, les membres admissibles, les dates d’ouverture et de clôture et le moyen de voter. La participation reste facultative. Le secrétaire vérifie l’admissibilité et le quorum et conserve le texte, les dates, le décompte et la preuve du quorum; il communique le résultat en précisant les approbations encore attendues.
 
 ## Gestion documentaire et continuité
 

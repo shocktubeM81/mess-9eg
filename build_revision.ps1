@@ -34,14 +34,22 @@ $edit[86]='Les documents sont validés par lʼautorité compétente avant diffus
 $edit[87]='La constitution et les quatre règlements en vigueur sont accessibles en permanence aux membres dans un répertoire commun et dans les locaux. Les procès-verbaux adoptés, décisions, budgets et rapports financiers destinés aux membres y sont aussi accessibles. Les anciennes versions sont archivées et distinguées. Le site public ne remplace pas cet accès réservé aux membres.'
 $edit[88]='À son admission, chaque membre reçoit les textes ou un accès direct, avec copie sur demande. Il est informé de lʼemplacement des documents, du canal dʼavis et du moyen de soumettre une question. Toute modification approuvée est annoncée aux membres : déposer un fichier sans avis ne suffit pas.'
 $edit[89]='Le calendrier et les avis dʼactivités sont affichés et communiqués directement aux membres. Un relevé des décisions et le projet de procès-verbal sont accessibles dans les 14 jours suivant lʼassemblée, avec indication des approbations encore attendues. Le procès-verbal adopté remplace ensuite le projet. Ce délai est une modalité proposée dans la présente révision.'
-$core=@(1..11)+@(13,24)+@(26..34)+@(43,45,114,115,116)
+# Répartition affinée après la demande du 28 octobre 2026.
+$edit[8]="Le quorum dʼune assemblée générale ordinaire ou extraordinaire est formé de plus de 50 % des membres ordinaires en règle et disponibles en région. Aucune décision de lʼassemblée ne peut être prise sans ce quorum. La vérification et la nouvelle convocation sont précisées au R3."
+$edit[23]="Les décisions de lʼassemblée sont adoptées à une majorité strictement supérieure à la moitié des voix exprimées par les membres ayant droit de vote, sans compter les abstentions, sauf seuil particulier prévu à la constitution. Le président de séance ne propose, nʼamende ni nʼappuie de motion et ne vote que pour trancher une égalité confirmée selon le R3. Les votes par internet sont permis sous réserve du quorum de lʼarticle 8, de la qualité de membre ordinaire actif et en règle, dʼun délai minimal de 15 jours, de la priorité aux assemblées et du maintien du veto du commandant. Ils ne peuvent autoriser une dépense supérieure à 200 dollars ni remplacer les assemblées trimestrielles ou les procédures dʼamendement des articles 114 à 116. Le R3 fixe les modalités de préparation, de scrutin et de consignation."
+$edit[25]="Chaque membre reçoit un avis de convocation au moins 14 jours avant lʼassemblée, même si sa date a déjà été annoncée. Toute proposition de modification est communiquée et affichée au moins 15 jours avant son étude. Le R3 précise la transmission des avis, de lʼordre du jour et des documents, sans réduire ces délais ni les droits des membres."
+$core=@(1..12)+@(14,23,24,25)+@(26..35)+@(43,45,114,115,116)
 $r1=@(57,62,63,64,65,67,68,69,70,71,72,74,75,95,96,97)
 $r2=@(76..82)
 $r4=@(40,42,44,53,56,58,59,60,61,66,90,91,92,93,94,98,99,100)
 $r3=@(1..116|Where-Object{$_ -notin $core -and $_ -notin $r1 -and $_ -notin $r2 -and $_ -notin $r4})
 function Blocks($ns){$out=foreach($n in $ns){$b=if($edit.ContainsKey($n)){$edit[$n]}else{$a[$n]};"<a id=`"article-$n`"></a>**$n.** $b"};$out -join "`n`n"}
-$status='**Version 0.2 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les numéros historiques sont conservés pour faciliter la comparaison; les articles déplacés figurent dans les règlements.'
+$status='**Version 0.2.1 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les numéros historiques sont conservés pour faciliter la comparaison; les articles déplacés figurent dans les règlements.'
 $funds=@"
+## Assemblées et portée des règlements
+
+**C4.** Les assemblées générales sont les instances de délibération et de décision des membres. Chaque membre peut participer aux discussions selon sa catégorie; le droit de vote est réservé aux membres ordinaires en règle, sous les exclusions et règles particulières de la constitution. Le président, ou le vice-président en son absence, préside les assemblées. Le R3 encadre la prise de parole, les propositions, les débats, les scrutins et les procès-verbaux sans modifier la fréquence des assemblées, le quorum, les droits de vote, les décisions réservées aux membres ni les approbations requises.
+
 ## Fonds et garanties financières
 
 **C1.** Les cotisations du Mess sont affectées aux besoins du Mess. Le fonds dʼunité ne peut être assimilé au fonds du Mess ni être alimenté par un simple changement dʼétiquette des cotisations. Toute opération respecte la propriété et la destination des biens non publics (BNP), les règles financières applicables et les approbations nécessaires.
@@ -59,6 +67,16 @@ $extra2=@"
 **R2.2.** Avant acceptation dʼun don, le comité documente le donateur, le bien, les conditions, la destination et les coûts dʼentretien. Il obtient les approbations exigées selon la nature et la propriété du bien. Aucun reçu fiscal, avantage ou transfert de propriété nʼest promis sans autorité. Les coordonnées personnelles sont protégées dans la version du registre destinée aux membres.
 "@
 $extra3=@"
+## Procédure et déroulement des assemblées
+
+Les principes des assemblées, leur fréquence, le quorum, les droits des membres, les règles de majorité, les délais minimaux de convocation et les pouvoirs du comité figurent dans la constitution. Le présent règlement en organise la mise en œuvre. Les articles 13 et 15 à 22 précisent le calendrier, la vérification du quorum, la préparation et le déroulement; ils ne délèguent aucun pouvoir supplémentaire au comité.
+
+**R3.7.** Lors du scrutin, le président fait procéder au décompte des voix. En cas d’égalité, il ordonne un recomptage; si l’égalité subsiste, il exerce la voix prépondérante prévue à l’article 23 de la constitution. Un vote erroné fait l’objet d’un nouveau vote. Le procès-verbal consigne le texte de la proposition, le résultat, les abstentions et l’application éventuelle d’un seuil particulier.
+
+**R3.8.** Le secrétaire vérifie et consigne le quorum au début de la séance et lorsqu’une perte de quorum est signalée. Si le quorum n’est pas atteint 30 minutes après l’heure prévue, l’assemblée est annulée et une nouvelle convocation est organisée conformément à la constitution. Si le quorum est perdu pendant la séance, aucune nouvelle décision n’est prise; les points non décidés sont reportés et les membres en sont informés.
+
+**R3.9.** Pour un vote par internet autorisé par la constitution, le comité étudie et communique la proposition avant le scrutin. L’avis indique le texte exact, les membres admissibles, les dates d’ouverture et de clôture et le moyen de voter. La participation reste facultative. Le secrétaire vérifie l’admissibilité et le quorum et conserve le texte, les dates, le décompte et la preuve du quorum; il communique le résultat en précisant les approbations encore attendues.
+
 ## Gestion documentaire et continuité
 
 **R3.1.** Le secrétaire tient un répertoire structuré : constitution, règlements, convocations, ordres du jour, procès-verbaux, décisions, budgets, rapports financiers, inventaires et correspondance officielle. Chaque document porte date, version, statut et preuves dʼadoption et dʼapprobation requises. Le registre des décisions précise responsable, échéance et suivi. Les dossiers du comité et ceux des assemblées sont distincts et reliés par les recommandations et décisions correspondantes.
@@ -75,7 +93,7 @@ $extra3=@"
 
 **R3.6.** Avant mise en place ou modification du financement du fonds dʼunité ou du fonds cadeau, le comité obtient confirmation écrite de la qualification BNP, des sources admissibles, de la destination et des autorités dʼapprobation. Il soumet aux membres une proposition chiffrée identifiant les comptes ou suivis concernés. Cette clause nʼautorise ni cotisation nouvelle, ni prélèvement, ni transfert. Les articles 105 à 111 conservent leurs bénéficiaires et plafonds; leur déplacement ne vaut pas autorisation nouvelle de dépense.
 "@
-$titles=@('R1 Tenue et comportement','R2 Mobilier décorations souvenirs provenance et dons','R3 Assemblées administration archivage sauvegarde communication et transparence','R4 Bar service et utilisation')
+$titles=@('R1 Tenue et comportement','R2 Mobilier décorations souvenirs provenance et dons','R3 Procédure des assemblées administration archivage sauvegarde communication et transparence','R4 Bar service et utilisation')
 $groups=@($r1,$r2,$r3,$r4);$extras=@('',$extra2,$extra3,'')
 $full="# Règlement intégral consolidé du Mess et Instituts du 9e Escadron du génie`n`n$status`n`nLes quatre règlements suivants constituent le texte intégral proposé. Les droits et garanties de la constitution leur sont applicables.`n`n"
 for($i=0;$i -lt 4;$i++){$b=(Blocks $groups[$i])+"`n`n"+$extras[$i];Save ("R{0}-proposition.md" -f ($i+1)) ("# $($titles[$i])`n`n$status`n`n"+$b);$full+="## $($titles[$i])`n`n$b`n`n"}
@@ -83,7 +101,7 @@ Save 'reglement-consolide.md' $full
 Save 'lettre-presentation.md' @"
 # Présentation de la révision des documents du Mess
 
-28 octobre 2026 — Version 0.2 proposée
+28 octobre 2026 — Version 0.2.1 proposée
 
 Aux membres du Mess et Instituts du 9e Escadron du génie,
 
@@ -91,7 +109,7 @@ Je vous soumets une révision visant à rendre nos documents plus simples à con
 
 La constitution actuelle mêle les droits des membres à de nombreux détails pratiques, ce qui rend les règles essentielles difficiles à repérer. La proposition conserve les droits, les pouvoirs et les garanties financières dans la constitution et regroupe les modalités dans quatre règlements. Ceux-ci restent soumis au vote des membres et aux approbations requises : cette organisation facilite la consultation et les mises à jour sans donner au comité le pouvoir de modifier seul les règles.
 
-La confusion entre comité et assemblée peut rendre incertain le lieu où une décision doit être prise. La proposition distingue la préparation et la gestion courante du comité des décisions réservées aux membres, tout en maintenant les assemblées générales trimestrielles et le quorum.
+La confusion entre comité et assemblée peut rendre incertain le lieu où une décision doit être prise. La proposition distingue la préparation et la gestion courante du comité des décisions réservées aux membres. La constitution conserve expressément la fréquence trimestrielle, le quorum, les droits de vote, les délais minimaux de convocation et les pouvoirs des membres; le R3 précise la procédure et le déroulement des assemblées.
 
 Des dossiers dispersés ou conservés sans être communiqués nuisent à la continuité et à la participation. Le R3 prévoit classement commun, sauvegardes, relève documentée et communication proactive des avis, décisions et documents accessibles aux membres. Chacun pourra consulter les textes, comprendre les décisions et se sentir inclus, avec protection des renseignements personnels.
 
@@ -101,7 +119,7 @@ Le tableau Avant Après Pourquoi présente uniquement les changements. Les propo
 "@
 $rows=@(
 @('Organisation','116 articles dans un seul texte','Constitution et quatre règlements','Les droits essentiels sont difficiles à repérer parmi les détails. La séparation facilite lecture et mise à jour en maintenant les approbations.','Art. 1; concordance'),
-@('Assemblées','Art. 5 : trimestrielles ou selon décision; exclusion estivale art. 13','Une assemblée par trimestre et calendrier adapté','Un report ou une réunion du comité pourrait remplacer la participation des membres. La fréquence devient explicite.','Art. 5, 7, 13, 35'),
+@('Assemblées','Art. 5 : trimestrielles ou selon décision; exclusion estivale art. 13','Une assemblée par trimestre et calendrier adapté','Un report ou une réunion du comité pourrait remplacer la participation des membres. La fréquence devient explicite.','Constitution art. 5, 7, 8, 12, 14, 23, 25, 35 et C4; R3 art. 13, 15 à 22 et R3.7 à R3.9'),
 @('Quorum','Art. 8 : plus de 50 %; art. 15 : nombre des présents','Seuil unique de lʼart. 8','Deux formulations rendent incertaine la validité des décisions. Le renvoi maintient la garantie existante.','Art. 15'),
 @('Avis','Art. 17 : 7 jours; art. 25 : 2 semaines ou annonce; art. 115 : 15 jours','Avis 14 jours; documents 7 jours; amendements 15 jours','Les délais concurrents compliquent la préparation. Leur articulation donne aux membres le temps de préparer leurs questions.','Art. 17, 25'),
 @('Pouvoir de décision','Art. 20 et 22 parlent du Comité; majorité formulée 50 % plus un','Assemblée compétente et majorité strictement supérieure à la moitié des voix exprimées','Le vocabulaire peut suggérer un transfert de pouvoir et rendre le calcul ambigu. Le texte précise qui décide et comment.','Art. 20, 22, 23, 35'),
@@ -112,7 +130,7 @@ $rows=@(
 )
 $tab="# Tableau des modifications Avant Après Pourquoi`n`n$status`n`nSeuls les changements de fond et la réorganisation figurent ici. Les simples déplacements sont détaillés dans la concordance. Les délais nouveaux sont proposés à lʼadoption, et ne sont pas attribués à une décision antérieure inaccessible.`n`n| Sujet | Avant | Après | Problème et pourquoi | Mise en œuvre |`n|---|---|---|---|---|`n"
 foreach($r in $rows){$tab+='| '+($r -join ' | ')+" |`n"};Save 'tableau-modifications.md' $tab
-$map="# Concordance des 116 articles`n`nVersion 0.2 du 28 octobre 2026. Source : constitution.md au commit 8362362. Les clauses C1 à C3, R2.1 à R2.2 et R3.1 à R3.6 sont nouvelles. Les numéros historiques sont conservés.`n`n| Article source | Destination | Traitement |`n|---|---|---|`n"
+$map="# Concordance des 116 articles`n`nVersion 0.2.1 du 28 octobre 2026. Source : constitution.md au commit 8362362. Les clauses C1 à C4, R2.1 à R2.2 et R3.1 à R3.9 sont nouvelles. Les numéros historiques sont conservés.`n`n| Article source | Destination | Traitement |`n|---|---|---|`n"
 foreach($n in 1..116){$dest=if($n -in $core){'Constitution'}elseif($n -in $r1){'R1'}elseif($n -in $r2){'R2'}elseif($n -in $r3){'R3'}else{'R4'};$action=if($edit.ContainsKey($n)){'Modifié — voir tableau'}else{'Texte conservé'};$map+="| $n | $dest | $action |`n"};Save 'concordance.md' $map
 Save 'index.md' @"
 ---
@@ -122,7 +140,7 @@ title: Révision des documents du Mess du 28 octobre 2026
 
 # Révision des documents du Mess
 
-**Version 0.2 du 28 octobre 2026 — Proposition à discuter et à adopter.**
+**Version 0.2.1 du 28 octobre 2026 — Proposition à discuter et à adopter.**
 
 Les droits des membres et les assemblées trimestrielles sont maintenus. La révision simplifie lʼorganisation des textes et renforce lʼaccès aux documents ainsi que leur communication proactive.
 
@@ -130,7 +148,7 @@ Les droits des membres et les assemblées trimestrielles sont maintenus. La rév
 - [Tableau Avant Après Pourquoi des seules modifications](tableau-modifications.md)
 - [R1 Tenue et comportement](R1-proposition.md)
 - [R2 Mobilier décorations souvenirs provenance et dons](R2-proposition.md)
-- [R3 Assemblées administration archivage sauvegarde communication et transparence](R3-proposition.md)
+- [R3 Procédure des assemblées administration archivage sauvegarde communication et transparence](R3-proposition.md)
 - [R4 Bar service et utilisation](R4-proposition.md)
 - [Constitution intégrale consolidée](constitution-consolidee.md)
 - [Règlement intégral consolidé réunissant R1 à R4](reglement-consolide.md)
@@ -141,7 +159,7 @@ Les droits des membres et les assemblées trimestrielles sont maintenus. La rév
 Save 'notes-revision.md' @"
 # Sources et validations de la révision
 
-Version 0.2 du 28 octobre 2026
+Version 0.2.1 du 28 octobre 2026
 
 ## Sources consultées
 
@@ -189,3 +207,15 @@ foreach($f in Get-ChildItem -LiteralPath $dir -Filter '*.md'){
 $letterBody=[IO.File]::ReadAllText((Join-Path $dir 'lettre-presentation.md'))
 $letterBody=[regex]::Replace($letterBody,'(?s)\A---\r?\n.*?\r?\n---\r?\n','')
 [IO.File]::WriteAllText((Join-Path $dir 'lettre-contenu.html'),$letterBody.Trim()+"`n",$enc)
+
+$update=@"
+
+## Ajustement de la répartition des assemblées
+
+Version 0.2.1 du 28 octobre 2026. Par rapport à la version 0.2, les articles 12, 14, 23, 25 et 35 rejoignent la constitution. Le seuil de quorum reste à son article 8; le délai de 30 minutes et le contrôle pendant la séance passent au R3.8. Le calendrier pratique de l’article 13 rejoint le R3. La règle de majorité et les garanties du vote restent constitutionnelles; recomptage et consignation sont précisés au R3.7, et les modalités du vote par internet au R3.9. La clause C4 confirme cette limite entre les deux textes. Les articles 16 à 22 restent au R3 pour la préparation et le déroulement.
+
+Cette répartition conserve quatre règlements et ne réduit aucun quorum, délai minimal, droit de vote, seuil particulier ou pouvoir réservé aux membres. Elle constitue une proposition à adopter et à approuver.
+"@
+[IO.File]::AppendAllText((Join-Path $dir 'notes-revision.md'),$update,$enc)
+$tableRow="| Principes et procédure des assemblées | Règles de gouvernance et déroulement regroupés dans le même texte source | Principes dans la constitution; procédure et déroulement dans le R3 distinct | Les droits et pouvoirs doivent rester repérables dans la constitution. Séparer les modalités facilite leur consultation sans permettre au règlement de modifier ces garanties. | Constitution art. 5 à 12, 14, 23 à 25, 35 et C4; R3 art. 13, 15 à 22 et R3.7 à R3.9 |`n"
+[IO.File]::AppendAllText((Join-Path $dir 'tableau-modifications.md'),$tableRow,$enc)

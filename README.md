@@ -36,3 +36,7 @@ Le script `build_revision.ps1` produit les documents à partir de la transcripti
 ## Présentation reprise de la branche proposition amendements
 
 La branche de révision reprend le gabarit, les styles et le sommaire de `proposition-amendements`. Son accueil présente la lettre et les livrables de la version 0.2. La navigation vise les quatre règlements et les textes révisés. Cette mise à jour de présentation remplace la mention précédente de conservation de la page d’accueil sur cette branche. La transcription originale, les branches `main` et `proposition-amendements`, ainsi que les paramètres de publication restent inchangés.
+
+## Ajustement de la version 0.2.1
+
+Les principes des assemblées figurent dans la constitution; leur procédure et leur déroulement sont précisés au R3, distinct de la constitution. Le dossier daté conserve son adresse pour préserver les liens existants. Les documents affichent la version 0.2.1 du 28 octobre 2026.

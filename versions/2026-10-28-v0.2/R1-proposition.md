@@ -5,7 +5,7 @@ title: R1 Tenue et comportement
 
 # R1 Tenue et comportement
 
-**Version 0.2 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les numéros historiques sont conservés pour faciliter la comparaison; les articles déplacés figurent dans les règlements.
+**Version 0.2.1 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les numéros historiques sont conservés pour faciliter la comparaison; les articles déplacés figurent dans les règlements.
 
 <a id="article-57"></a>**57.** Le président du mess est responsable envers le commandant de la discipline dans le Mess. Dans le cas d'absence du président, le membre senior présent est responsable du maintien de la discipline (réf. PFC 262 art 310).
 

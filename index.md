@@ -15,7 +15,7 @@ title: Présentation de la révision des documents du Mess
 
 - [R1 Tenue et comportement]({{ '/versions/2026-10-28-v0.2/R1-proposition.html' | relative_url }})
 - [R2 Mobilier décorations souvenirs provenance et dons]({{ '/versions/2026-10-28-v0.2/R2-proposition.html' | relative_url }})
-- [R3 Assemblées administration archivage sauvegarde communication et transparence]({{ '/versions/2026-10-28-v0.2/R3-proposition.html' | relative_url }})
+- [R3 Procédure des assemblées administration archivage sauvegarde communication et transparence]({{ '/versions/2026-10-28-v0.2/R3-proposition.html' | relative_url }})
 - [R4 Bar service et utilisation]({{ '/versions/2026-10-28-v0.2/R4-proposition.html' | relative_url }})
 
 ## Références et vérifications

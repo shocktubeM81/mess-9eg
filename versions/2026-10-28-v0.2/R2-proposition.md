@@ -5,7 +5,7 @@ title: R2 Mobilier décorations souvenirs provenance et dons
 
 # R2 Mobilier décorations souvenirs provenance et dons
 
-**Version 0.2 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les numéros historiques sont conservés pour faciliter la comparaison; les articles déplacés figurent dans les règlements.
+**Version 0.2.1 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les numéros historiques sont conservés pour faciliter la comparaison; les articles déplacés figurent dans les règlements.
 
 <a id="article-76"></a>**76.** Tout bien appartenant au mess ne sera déplacé sans le consentement du président ou du commandant.
 

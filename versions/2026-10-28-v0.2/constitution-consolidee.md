@@ -5,7 +5,7 @@ title: Constitution du Mess et Instituts du 9e Escadron du génie
 
 # Constitution du Mess et Instituts du 9e Escadron du génie
 
-**Version 0.2 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les numéros historiques sont conservés pour faciliter la comparaison; les articles déplacés figurent dans les règlements.
+**Version 0.2.1 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les numéros historiques sont conservés pour faciliter la comparaison; les articles déplacés figurent dans les règlements.
 
 Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québec.
 
@@ -95,7 +95,7 @@ apporter quelque chose de bénéfique ou de prestige à l'unité.
 
 <a id="article-7"></a>**7.** Un rapport financier sommaire est présenté à chaque assemblée générale. Il distingue les opérations du Mess, le fonds cadeau et, le cas échéant, les opérations relatives au fonds d’unité, sans confondre leur propriété ni leur autorité financière.
 
-<a id="article-8"></a>**8.** Le quorum doit être formé par plus de 50% des membres ordinaires en règle et disponibles en région. Une assemblée doit être annulée dans la mesure où, 30 minutes après l'heure d'ouverture, il n'y a pas quorum.
+<a id="article-8"></a>**8.** Le quorum d’une assemblée générale ordinaire ou extraordinaire est formé de plus de 50 % des membres ordinaires en règle et disponibles en région. Aucune décision de l’assemblée ne peut être prise sans ce quorum. La vérification et la nouvelle convocation sont précisées au R3.
 
 <a id="article-9"></a>**9.** Les membres honoraires et associés peuvent assister aux réunions et participer aux discussions, mais n'ont aucun droit de vote.
 
@@ -103,7 +103,11 @@ apporter quelque chose de bénéfique ou de prestige à l'unité.
 
 <a id="article-11"></a>**11.** Il faut noter que les réunions extraordinaires peuvent être convoquées par le commandant, le président du comité du mess ou par une demande écrite d'au moins 25% des membres ordinaires en règle.
 
-<a id="article-13"></a>**13.** Le calendrier tient compte de la disponibilité estivale. Une assemblée peut être planifiée avant le 30 mai et une autre après le 30 août, dans leurs trimestres respectifs. L’absence de quorum entraîne une nouvelle convocation et ne transfère aucun pouvoir au comité.
+<a id="article-12"></a>**12.** Au niveau des réunions du comité du mess, c'est le commandant ou le président de ce comité qui les convoque.
+
+<a id="article-14"></a>**14.** Introduction. Une assemblée générale vise à permettre aux membres de discuter à fond, d'une manière démocratique, de sujets reliés à l'exploitation du mess et de prendre des décisions qui reflètent la volonté de la majorité.
+
+<a id="article-23"></a>**23.** Les décisions de l’assemblée sont adoptées à une majorité strictement supérieure à la moitié des voix exprimées par les membres ayant droit de vote, sans compter les abstentions, sauf seuil particulier prévu à la constitution. Le président de séance ne propose, n’amende ni n’appuie de motion et ne vote que pour trancher une égalité confirmée selon le R3. Les votes par internet sont permis sous réserve du quorum de l’article 8, de la qualité de membre ordinaire actif et en règle, d’un délai minimal de 15 jours, de la priorité aux assemblées et du maintien du veto du commandant. Ils ne peuvent autoriser une dépense supérieure à 200 dollars ni remplacer les assemblées trimestrielles ou les procédures d’amendement des articles 114 à 116. Le R3 fixe les modalités de préparation, de scrutin et de consignation.
 
 <a id="article-24"></a>**24.** Mise en candidature.
 
@@ -112,6 +116,8 @@ apporter quelque chose de bénéfique ou de prestige à l'unité.
 - **b.** Le vice-président est voté par l’assemblée générale.
 
 - **c.** La période d'office du président et du vice-président sera d'une durée minimale de un an selon la disponibilité de chacun.
+
+<a id="article-25"></a>**25.** Chaque membre reçoit un avis de convocation au moins 14 jours avant l’assemblée, même si sa date a déjà été annoncée. Toute proposition de modification est communiquée et affichée au moins 15 jours avant son étude. Le R3 précise la transmission des avis, de l’ordre du jour et des documents, sans réduire ces délais ni les droits des membres.
 
 <a id="article-26"></a>**26.** Précisons que seuls les membres ordinaires peuvent faire partie du comité du mess et que seul un membre actif du 9 EG peut en être le président, et ce avec l’approbation du Commandant.
 
@@ -140,6 +146,8 @@ apporter quelque chose de bénéfique ou de prestige à l'unité.
 <a id="article-33"></a>**33.** Les membres du comité du mess ainsi que tous ceux ou celles qui auront à autoriser ou à signer des achats ou paiements, devront le faire en tant que bon gestionnaire. Dans le cas de mauvaise gestion flagrante, dilapidation ou de détournement d’argent, la ou les personnes impliquées seront relevées de leurs fonctions et devront réparer les torts causés au Mess.
 
 <a id="article-34"></a>**34.** Destitution d'un membre du comité. Pour qu'une destitution soit autorisée, il faut une raison suffisante et la proposition de destitution doit être appuyée d'un vote au cours d'une assemblée. Un minimum de 75% des votes des personnes présentes à la réunion est obligatoire pour que la destitution soit en règle. L’avis de destitution doit être présenté au minimum un mois avant le vote.
+
+<a id="article-35"></a>**35.** Le comité prépare les dossiers, exécute les décisions des membres et gère les affaires courantes dans les limites du budget et des délégations approuvés. Il rend compte à l’assemblée et sert d’intermédiaire avec le commandant. Les élections, destitutions, cotisations, budgets et amendements réservés aux membres ne peuvent être décidés à leur place par le comité. Celui-ci obtient les approbations requises avant exécution.
 
 <a id="article-43"></a>**43.** Profits personnels. Les membres du comité ne peuvent faire aucun profit personnel, ni recevoir de rémunération ou avantage à l'occasion de leur participation à la gestion du Mess. Toutefois, si par l'effet d'une participation d'une firme faisant des affaires avec le Mess, un membre du comité est susceptible de retirer certains avantages, il doit en aviser le commandant (réf PFC 262 art 209 alinéa 2).
 
@@ -172,6 +180,10 @@ apporter quelque chose de bénéfique ou de prestige à l'unité.
 <a id="article-115"></a>**115.** Les propositions de modification des statuts ou règlements ne doivent pas être inscrites au registre des motions, mais présentées par écrit au PCAM qui les soumettra au comité du mess. Les propositions valables doivent être affichées pendant au moins 15 jours avant d’être étudiées à la prochaine assemblée générale ordinaire ou extraordinaire du mess. Si le comité du mess rejette les propositions, le PCAM doit en communiquer les raisons à l’auteur. Les statuts ne doivent, pour aucune considération, diverger ou aller à l’encontre des politiques des FC en matière d’exploitation des mess.
 
 <a id="article-116"></a>**116.** À tous les égards, une modification ainsi proposée devient valide et partie des présents statuts ou règlements une fois qu’elle est ratifiée à l’occasion d’une assemblée générale ordinaire ou extraordinaire où il y a quorum et qu’elle est subséquemment approuvée par le commandant des mess.
+
+## Assemblées et portée des règlements
+
+**C4.** Les assemblées générales sont les instances de délibération et de décision des membres. Chaque membre peut participer aux discussions selon sa catégorie; le droit de vote est réservé aux membres ordinaires en règle, sous les exclusions et règles particulières de la constitution. Le président, ou le vice-président en son absence, préside les assemblées. Le R3 encadre la prise de parole, les propositions, les débats, les scrutins et les procès-verbaux sans modifier la fréquence des assemblées, le quorum, les droits de vote, les décisions réservées aux membres ni les approbations requises.
 
 ## Fonds et garanties financières
 
