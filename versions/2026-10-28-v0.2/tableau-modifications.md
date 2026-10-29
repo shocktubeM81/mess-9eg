@@ -5,7 +5,7 @@ title: Tableau des modifications Avant Après Pourquoi
 
 # Tableau des modifications Avant Après Pourquoi
 
-**Version 0.2.6 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. La constitution conserve ses repères; les règlements suivent une numérotation propre à chacun.
+**Version 0.2.7 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. La constitution conserve ses repères; les règlements suivent une numérotation propre à chacun.
 
 Seuls les changements de fond et la réorganisation figurent ici. Les simples déplacements sont détaillés dans la concordance. Les délais nouveaux sont proposés à l’adoption, et ne sont pas attribués à une décision antérieure inaccessible.
 
@@ -27,4 +27,5 @@ Seuls les changements de fond et la réorganisation figurent ici. Les simples d�
 
 | Documents autonomes et répétitions | Règles, rappels constitutionnels et tâches présentés ensemble dans la source | Quatre documents avec une introduction chacun; R2 Meubles et décorations; renvois à la constitution pour les délais et les titulaires de fonctions | Les répétitions allongent la lecture et risquent de créer deux formulations d’une même règle. Les modalités pratiques restent dans les règlements, avec une seule référence pour la règle constitutionnelle. | R2 et R3; introductions; page Règlements |
 | Lecture autonome du R1 | Conditions d’accès, invités, enfants et alcool mêlés aux art. 64, 65, 67, 69, 74, 75 et 95 à 98 | Sections distinctes; accompagnement, tenue et propreté regroupés; cas des enfants présenté à part | La juxtaposition des clauses rendait incertain à qui chaque règle s’applique. Le lecteur suit désormais sa situation sans devoir reconstruire les liens entre plusieurs paragraphes. | R1 et concordance des fusions; précisions de fonction aux R2 et R4 |
-Les numéros cités dans les comparaisons ci-dessus sont les repères historiques de la source ou des propositions précédentes. La concordance donne leur emplacement actuel. La réorganisation et la renumérotation de la version 0.2.6 ne modifient pas le fond des règles.
+| Tenue et uniforme | Art. 70 source : énumération de couvre-chefs et consignes de tenue regroupées | Règles par points; terme couvre-chef; conformité de l’uniforme aux Instructions A-DH-265-000/AG-001 et prise en compte des exceptions applicables | Une liste claire facilite l’application. La référence militaire évite qu’une règle locale soit interprétée comme une autorisation de porter un uniforme non conforme. | R1.8 et référence officielle au chapitre 2 |
+Les numéros cités dans les comparaisons ci-dessus sont les repères historiques de la source ou des propositions précédentes. La concordance donne leur emplacement actuel. La réorganisation et la renumérotation de la version 0.2.7 ne modifient pas le fond des règles.

@@ -5,7 +5,7 @@ title: R1 Tenue et comportement
 
 # R1 Tenue et comportement
 
-**Version 0.2.6 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. La constitution conserve ses repères; les règlements suivent une numérotation propre à chacun.
+**Version 0.2.7 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. La constitution conserve ses repères; les règlements suivent une numérotation propre à chacun.
 
 Ce règlement précise la tenue, le comportement et les conditions pratiques de fréquentation du Mess. Il s’applique à toute personne admise dans les locaux afin de préserver des lieux accueillants, propres et respectueux.
 
@@ -31,9 +31,20 @@ Ce règlement précise la tenue, le comportement et les conditions pratiques de 
 
 ## Tenue
 
-<a id="r1-8"></a>**R1.8.** Les membres et leurs invités portent une tenue propre et convenable. Il est interdit d’être torse nu ou pieds nus, de porter des vêtements dégradants ou répulsifs, ainsi qu’un béret, une casquette ou un autre couvre-chef. En cas d’abus, le commandant ou le président peut préciser la tenue minimale exigée.
+<a id="r1-8"></a>**R1.8.** Les membres et leurs invités respectent les règles suivantes :
 
-Pour le personnel du bar, la tenue des soirées spéciales est une chemise blanche, un nœud papillon et un pantalon noir, ou une tenue équivalente. Les autres soirs d’ouverture et les fins de semaine d’entraînement, l’uniforme de la journée ou une tenue propre convient.
+- **Tenue générale.** Porter des vêtements propres et convenables. Les vêtements dégradants ou répulsifs sont interdits.
+- **Torse et chaussures.** Garder le torse couvert et porter des chaussures; les pieds nus sont interdits.
+- **Couvre-chef.** Retirer son couvre-chef à l’entrée du Mess, sous réserve des exceptions prévues par les instructions militaires, notamment pour les pratiques religieuses ou l’exercice de fonctions.
+- **Port de l’uniforme.** Lorsqu’un militaire porte l’uniforme, celui-ci demeure conforme aux Instructions sur la tenue des Forces canadiennes (A-DH-265-000/AG-001), dans leur version en vigueur, ainsi qu’aux directives de tenue applicables de la chaîne de commandement. L’uniforme est propre, soigné et porté avec les articles et insignes autorisés.
+- **Tenue minimale.** En cas d’abus, le commandant ou le président peut préciser la tenue minimale exigée, dans le respect des instructions militaires applicables.
+
+Pour le personnel du bar :
+
+- **Soirées spéciales.** Chemise blanche, nœud papillon et pantalon noir, ou tenue équivalente.
+- **Autres ouvertures et fins de semaine d’entraînement.** Uniforme de la journée ou tenue propre. Le port de l’uniforme demeure soumis aux exigences ci-dessus.
+
+Référence : [Instructions sur la tenue des Forces canadiennes, chapitre 2 — Politique et apparence](https://www.canada.ca/fr/services/defense/fac/systeme-identite-militaire/instructions-tenue/chapitre-2.html), notamment les rubriques sur le port de l’uniforme, les coiffures et les vêtements civils.
 
 ## Comportement et sécurité
 

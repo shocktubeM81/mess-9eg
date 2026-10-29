@@ -5,7 +5,7 @@ title: R2 Meubles et décorations
 
 # R2 Meubles et décorations
 
-**Version 0.2.6 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. La constitution conserve ses repères; les règlements suivent une numérotation propre à chacun.
+**Version 0.2.7 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. La constitution conserve ses repères; les règlements suivent une numérotation propre à chacun.
 
 Ce règlement encadre l’utilisation, la conservation et la présentation des meubles, décorations et souvenirs du Mess. Il précise aussi la provenance des biens, les conditions d’acceptation des dons et les renseignements à conserver à l’inventaire.
 

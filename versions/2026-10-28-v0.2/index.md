@@ -5,7 +5,7 @@ title: Révision des documents du Mess du 28 octobre 2026
 
 # Révision des documents du Mess
 
-**Version 0.2.6 du 28 octobre 2026 — Proposition à discuter et à adopter.**
+**Version 0.2.7 du 28 octobre 2026 — Proposition à discuter et à adopter.**
 
 Les droits des membres et les assemblées trimestrielles sont maintenus. La révision simplifie l’organisation des textes et renforce l’accès aux documents ainsi que leur communication proactive.
 

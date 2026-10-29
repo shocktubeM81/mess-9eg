@@ -25,9 +25,20 @@ $units[1]['96']="Un officier présente son invité au commandant. Un sergent ou 
 $units[1]['67']="Les personnes de moins de 18 ans admises au Mess sont les membres du Mess, les conjoints autorisés par le commandant et les enfants dans les conditions précisées ci-dessous. Leur admission ne leur permet pas de consommer de l’alcool : aucune boisson alcoolisée ne peut leur être vendue ou servie."
 $units[1]['69']="Pendant les ouvertures normales, les enfants peuvent utiliser la salle de télévision sous la surveillance de leurs parents. Lors d’une activité officielle, ils quittent le Mess avant 19 h, sauf si l’activité est familiale."
 $units[1]['70']=@"
-Les membres et leurs invités portent une tenue propre et convenable. Il est interdit d’être torse nu ou pieds nus, de porter des vêtements dégradants ou répulsifs, ainsi qu’un béret, une casquette ou un autre couvre-chef. En cas d’abus, le commandant ou le président peut préciser la tenue minimale exigée.
+Les membres et leurs invités respectent les règles suivantes :
 
-Pour le personnel du bar, la tenue des soirées spéciales est une chemise blanche, un nœud papillon et un pantalon noir, ou une tenue équivalente. Les autres soirs d’ouverture et les fins de semaine d’entraînement, l’uniforme de la journée ou une tenue propre convient.
+- **Tenue générale.** Porter des vêtements propres et convenables. Les vêtements dégradants ou répulsifs sont interdits.
+- **Torse et chaussures.** Garder le torse couvert et porter des chaussures; les pieds nus sont interdits.
+- **Couvre-chef.** Retirer son couvre-chef à l’entrée du Mess, sous réserve des exceptions prévues par les instructions militaires, notamment pour les pratiques religieuses ou l’exercice de fonctions.
+- **Port de l’uniforme.** Lorsqu’un militaire porte l’uniforme, celui-ci demeure conforme aux Instructions sur la tenue des Forces canadiennes (A-DH-265-000/AG-001), dans leur version en vigueur, ainsi qu’aux directives de tenue applicables de la chaîne de commandement. L’uniforme est propre, soigné et porté avec les articles et insignes autorisés.
+- **Tenue minimale.** En cas d’abus, le commandant ou le président peut préciser la tenue minimale exigée, dans le respect des instructions militaires applicables.
+
+Pour le personnel du bar :
+
+- **Soirées spéciales.** Chemise blanche, nœud papillon et pantalon noir, ou tenue équivalente.
+- **Autres ouvertures et fins de semaine d’entraînement.** Uniforme de la journée ou tenue propre. Le port de l’uniforme demeure soumis aux exigences ci-dessus.
+
+Référence : [Instructions sur la tenue des Forces canadiennes, chapitre 2 — Politique et apparence](https://www.canada.ca/fr/services/defense/fac/systeme-identite-militaire/instructions-tenue/chapitre-2.html), notamment les rubriques sur le port de l’uniforme, les coiffures et les vêtements civils.
 "@
 $units[1]['62']="Les membres et leurs invités respectent les règles du Mess et contribuent au maintien de l’ordre et d’un climat amical. Les comportements perturbateurs donnent lieu à un rappel à l’ordre et sont signalés au sergent-major de l’escadron."
 $units[1]['66']="Après utilisation, chacun laisse les locaux et les équipements de jeu propres et remet les meubles à leur place."
@@ -125,11 +136,11 @@ foreach($i in 1..4){foreach($section in $plans[$i]){foreach($key in $section.key
 [IO.File]::WriteAllText($mapPath,$map,$encoding)
 $tablePath=Join-Path $revisionDir 'tableau-modifications.md'
 $table=[IO.File]::ReadAllText($tablePath);$table=$table.Replace('Les numéros historiques sont conservés pour faciliter la comparaison; les articles déplacés figurent dans les règlements.',$newStatus)
-$table+="`nLes numéros cités dans les comparaisons ci-dessus sont les repères historiques de la source ou des propositions précédentes. La concordance donne leur emplacement actuel. La réorganisation et la renumérotation de la version 0.2.6 ne modifient pas le fond des règles.`n"
+$table+="`nLes numéros cités dans les comparaisons ci-dessus sont les repères historiques de la source ou des propositions précédentes. La concordance donne leur emplacement actuel. La réorganisation et la renumérotation de la version 0.2.7 ne modifient pas le fond des règles.`n"
 [IO.File]::WriteAllText($tablePath,$table,$encoding)
 $note=@"
 
-## Organisation et numérotation de la version 0.2.6
+## Organisation et numérotation de la version 0.2.7
 
 Les règlements sont regroupés par sujet et suivent chacun une numérotation continue R1.1, R1.2, etc. Les tâches restent à la fin. Le fond des dispositions est conservé; seuls l’ordre, les titres, les repères et les renvois changent. La constitution conserve son ordre et ses numéros; seuls les renvois vers les règlements et la mention de version sont adaptés. La concordance conserve le suivi des dispositions sources et des clauses ajoutées.
 "@
@@ -144,7 +155,7 @@ title: Règlements du Mess
 
 # Règlements du Mess
 
-Version 0.2.6 du 28 octobre 2026 — Proposition à adopter et à approuver.
+Version 0.2.7 du 28 octobre 2026 — Proposition à adopter et à approuver.
 
 Chaque règlement constitue un document distinct. La constitution fixe les droits, les pouvoirs et les garanties; les règlements précisent les modalités pratiques.
 
@@ -183,7 +194,7 @@ $note=@"
 
 ## Documents distincts et suppression des répétitions
 
-La version 0.2.6 présente chaque règlement sur une page autonome avec une courte introduction. Le R2 devient « Meubles et décorations »; sa portée conserve les souvenirs, la provenance et les dons. La page Règlements donne accès aux quatre documents; le recueil reste un complément.
+La version 0.2.7 présente chaque règlement sur une page autonome avec une courte introduction. Le R2 devient « Meubles et décorations »; sa portée conserve les souvenirs, la provenance et les dons. La page Règlements donne accès aux quatre documents; le recueil reste un complément.
 
 Le R3 renvoie aux délais constitutionnels des articles 25 et 115 au lieu de les reproduire, et conserve l’envoi des documents de séance au moins 7 jours avant. Il décrit la conduite pratique de la séance sans répéter qui exerce la présidence. La fiche d’inventaire du R2 conserve ses renseignements pratiques et renvoie à l’article 37 pour le titulaire de la fonction. Le classement des dossiers est décrit comme une modalité, sans réénoncer la fonction constitutionnelle du secrétaire. La constitution est conservée, hormis la version et le nouveau titre du R2.
 "@
@@ -198,7 +209,7 @@ $table=$table.Replace("`nLes numéros cités", "`n"+$tableRow+"`nLes numéros ci
 [IO.File]::WriteAllText($tablePath,$table,$encoding)
 $clarification=@"
 
-## Lecture autonome de la version 0.2.6
+## Lecture autonome de la version 0.2.7
 
 Le R1 est rédigé par situations : accès aux locaux et conjoints, invités, personnes mineures et enfants, tenue, comportement, propreté et dommages, puis responsabilités. Les articles sources 64 et 95 sont fusionnés pour l’accompagnement, 70 et 97 pour la tenue, 66 et 98 pour la propreté. La concordance suit ces fusions; les 116 dispositions sources restent repérables, même si plusieurs aboutissent désormais à une règle commune.
 
@@ -213,4 +224,17 @@ $editorialRow=@"
 | Lecture autonome du R1 | Conditions d’accès, invités, enfants et alcool mêlés aux art. 64, 65, 67, 69, 74, 75 et 95 à 98 | Sections distinctes; accompagnement, tenue et propreté regroupés; cas des enfants présenté à part | La juxtaposition des clauses rendait incertain à qui chaque règle s’applique. Le lecteur suit désormais sa situation sans devoir reconstruire les liens entre plusieurs paragraphes. | R1 et concordance des fusions; précisions de fonction aux R2 et R4 |
 "@
 $table=$table.Replace("`nLes numéros cités","`n"+$editorialRow+"`nLes numéros cités")
+[IO.File]::WriteAllText($tablePath,$table,$encoding)
+$attireNote=@"
+
+## Tenue précisée dans la version 0.2.7
+
+La section tenue du R1 est présentée par points : vêtements, torse et chaussures, couvre-chef, uniforme, tenue minimale et personnel du bar. Le terme couvre-chef remplace l’énumération des modèles. La conformité de l’uniforme aux Instructions A-DH-265-000/AG-001 et aux directives applicables est explicitée. Le chapitre 2 officiel est cité; il traite du port de l’uniforme et du retrait de la coiffure au mess, avec exceptions religieuses et pour le personnel exerçant ses fonctions.
+"@
+[IO.File]::AppendAllText((Join-Path $revisionDir 'notes-revision.md'),$attireNote,$encoding)
+$attireRow=@"
+| Tenue et uniforme | Art. 70 source : énumération de couvre-chefs et consignes de tenue regroupées | Règles par points; terme couvre-chef; conformité de l’uniforme aux Instructions A-DH-265-000/AG-001 et prise en compte des exceptions applicables | Une liste claire facilite l’application. La référence militaire évite qu’une règle locale soit interprétée comme une autorisation de porter un uniforme non conforme. | R1.8 et référence officielle au chapitre 2 |
+"@
+$tablePath=Join-Path $revisionDir 'tableau-modifications.md'
+$table=[IO.File]::ReadAllText($tablePath).Replace("`nLes numéros cités","`n"+$attireRow+"`nLes numéros cités")
 [IO.File]::WriteAllText($tablePath,$table,$encoding)
