@@ -30,7 +30,7 @@ document_label: Règlement R3
 
 <a id="r3-p-2-1"></a>
 
-**2.1.** La convocation indique la date, l’heure, le lieu et, s’il y a lieu, le moyen de connexion. Les délais de convocation et de modification des textes sont ceux de le [R5, paragraphe 9.1](R5-proposition.md#r5-p-9-1) et de le [paragraphe 11.1 des statuts](constitution-consolidee.md#statuts-p-11-1). Les documents utiles sont transmis normalement 7 jours avant la séance. Le dépôt des propositions et l’affichage de l’ordre du jour suivent le [Manuel PSP, chapitre 9-4, paragraphe 41](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297) et le [paragraphe 42](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297).
+**2.1.** La convocation indique la date, l’heure, le lieu et, s’il y a lieu, le moyen de connexion. Les délais de convocation et de modification des textes sont ceux du règlement sur l’administration et les finances et du [paragraphe 11.1 des statuts](constitution-consolidee.md#statuts-p-11-1). Les documents utiles sont transmis normalement 7 jours avant la séance. Le dépôt des propositions et l’affichage de l’ordre du jour suivent le [Manuel PSP, chapitre 9-4, paragraphe 41](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297) et le [paragraphe 42](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297).
 
 ## Déroulement des assemblées
 
@@ -105,7 +105,7 @@ document_label: Règlement R3
 
 <a id="r3-p-8-1"></a>
 
-**8.1.** Les suggestions, plaintes et commentaires sont reçus selon les [R5, paragraphe 42.1](R5-proposition.md#r5-p-42-1) et [R5, paragraphe 43.1](R5-proposition.md#r5-p-43-1). Seuls les éléments destinés au suivi collectif figurent au registre. Le suivi collectif est communiqué sans renseignements personnels. Les questions relevant des membres sont soumises à l’assemblée. Les demandes urgentes sont transmises directement au président; leur suivi collectif est inscrit à la prochaine séance.
+**8.1.** Les suggestions, plaintes et commentaires sont reçus selon le règlement sur l’administration et les finances. Seuls les éléments destinés au suivi collectif figurent au registre. Le suivi collectif est communiqué sans renseignements personnels. Les questions relevant des membres sont soumises à l’assemblée. Les demandes urgentes sont transmises directement au président; leur suivi collectif est inscrit à la prochaine séance.
 
 ## Conservation et relève
 

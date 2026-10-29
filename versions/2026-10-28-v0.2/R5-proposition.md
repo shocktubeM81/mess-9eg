@@ -149,7 +149,7 @@ Si la situation persiste, l’assemblée générale peut mettre fin à son manda
 
 <a id="r5-p-12-1"></a>
 
-**12.1.** Les fonctions de serveur et de régisseur sont bénévoles, sauf lorsqu’elles sont exercées dans le cadre d’un emploi auprès des SBMFC, selon leurs directives et le budget approuvé. L’achat d’autres services auprès d’un fournisseur suit la [Politique de passation de marchés des BNP, paragraphe 19](https://sbmfc.ca/a-propos/politiques-et-publications/approvisionnement-et-passation-de-marches/politique-de-passation-de-marches-des-biens-non-publics), le [paragraphe 20](https://sbmfc.ca/a-propos/politiques-et-publications/approvisionnement-et-passation-de-marches/politique-de-passation-de-marches-des-biens-non-publics) et le [paragraphe 42](https://sbmfc.ca/a-propos/politiques-et-publications/approvisionnement-et-passation-de-marches/politique-de-passation-de-marches-des-biens-non-publics) et l’[A-FN-105, chapitre 32, paragraphes 1 à 4](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/8.4.5/Policies/AF-N-105/Chap32_f.pdf#page=1). Les pouvoirs financiers restent ceux de le [R5, paragraphe 6.1](#r5-p-6-1).
+**12.1.** Les fonctions de serveur et de régisseur sont bénévoles, sauf lorsqu’elles sont exercées dans le cadre d’un emploi auprès des SBMFC, selon leurs directives et le budget approuvé. L’achat d’autres services auprès d’un fournisseur suit la [Politique de passation de marchés des BNP, paragraphe 19](https://sbmfc.ca/a-propos/politiques-et-publications/approvisionnement-et-passation-de-marches/politique-de-passation-de-marches-des-biens-non-publics), le [paragraphe 20](https://sbmfc.ca/a-propos/politiques-et-publications/approvisionnement-et-passation-de-marches/politique-de-passation-de-marches-des-biens-non-publics) et le [paragraphe 42](https://sbmfc.ca/a-propos/politiques-et-publications/approvisionnement-et-passation-de-marches/politique-de-passation-de-marches-des-biens-non-publics) et l’[A-FN-105, chapitre 32, paragraphes 1 à 4](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/8.4.5/Policies/AF-N-105/Chap32_f.pdf#page=1). Les pouvoirs financiers restent limités aux délégations valides.
 
 <a id="r5-article-13"></a>
 
@@ -197,7 +197,7 @@ Si la situation persiste, l’assemblée générale peut mettre fin à son manda
 
 <a id="r5-p-15-1"></a>
 
-**15.1.** Le programme d’activités et son budget sont soumis aux approbations de le [R5, paragraphe 32.1](#r5-p-32-1). Leur exécution respecte les fonds disponibles et les pouvoirs financiers de le [R5, paragraphe 6.1](#r5-p-6-1). Le comité coordonne le calendrier.
+**15.1.** Le programme d’activités et son budget sont soumis aux approbations requises. Leur exécution respecte les fonds disponibles et les délégations financières valides. Le comité coordonne le calendrier.
 
 <a id="r5-article-16"></a>
 
@@ -221,7 +221,7 @@ Si la situation persiste, l’assemblée générale peut mettre fin à son manda
 
 <a id="r5-p-18-1"></a>
 
-**18.1.** Dans le budget approuvé et selon les pouvoirs financiers de le [R5, paragraphe 6.1](#r5-p-6-1), le président peut engager jusqu’à 100 $ par mois pour de petits achats. Ces dépenses sont présentées à la prochaine assemblée pour contrôle et suivi.
+**18.1.** Dans le budget approuvé et selon les délégations financières valides, le président peut engager jusqu’à 100 $ par mois pour de petits achats. Ces dépenses sont présentées à la prochaine assemblée pour contrôle et suivi.
 
 <a id="r5-article-19"></a>
 
@@ -229,7 +229,7 @@ Si la situation persiste, l’assemblée générale peut mettre fin à son manda
 
 <a id="r5-p-19-1"></a>
 
-**19.1.** Le fonds du président sert à l’embellissement du Mess et au bien-être des membres. Le président et le trésorier en assurent le suivi dans le budget approuvé. L’autorisation des dépenses relève des pouvoirs financiers de le [R5, paragraphe 6.1](#r5-p-6-1); elle ne découle pas du seul titre de président ou de trésorier. Les dépenses sont présentées à la prochaine assemblée générale.
+**19.1.** Le fonds du président sert à l’embellissement du Mess et au bien-être des membres. Le président et le trésorier en assurent le suivi dans le budget approuvé. L’autorisation des dépenses relève des délégations financières valides; elle ne découle pas du seul titre de président ou de trésorier. Les dépenses sont présentées à la prochaine assemblée générale.
 
 ## Fonds et suivi financier
 
@@ -369,7 +369,7 @@ Si la situation persiste, l’assemblée générale peut mettre fin à son manda
 
 <a id="r5-p-32-1"></a>
 
-**32.1.** Les programmes d’activités, leur financement et les circonstances exceptionnelles suivent le [Manuel PSP, chapitre 9-4, paragraphes 51 à 54](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=307). Une activité déjà comprise dans un programme et un budget approuvés peut être organisée dans ce cadre, selon le [R5, paragraphe 15.1](#r5-p-15-1).
+**32.1.** Les programmes d’activités, leur financement et les circonstances exceptionnelles suivent le [Manuel PSP, chapitre 9-4, paragraphes 51 à 54](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=307). Une activité déjà comprise dans un programme et un budget approuvés peut être organisée dans ce cadre.
 
 <a id="r5-article-33"></a>
 
@@ -473,7 +473,7 @@ Si la situation persiste, l’assemblée générale peut mettre fin à son manda
 
 <a id="r5-p-43-1"></a>
 
-**43.1.** Les membres peuvent aussi remettre leurs suggestions, propositions et observations au commandant adjoint. Leur suivi collectif est organisé selon le [R3, paragraphe 8.1](R3-proposition.md#r3-p-8-1).
+**43.1.** Les membres peuvent aussi remettre leurs suggestions, propositions et observations au commandant adjoint. Leur suivi collectif est organisé selon le règlement sur les assemblées et les réunions.
 
 <a id="annexes-des-responsabilites"></a>
 ## Annexes des responsabilités

@@ -124,7 +124,7 @@ modification: 2026-10-29
 
 <a id="r1-p-11-2"></a>
 
-**11.2.** Le signalement et le traitement des dommages, y compris lors d’une réception privée, sont précisés au [R2, paragraphe 5.1](R2-proposition.md#r2-p-5-1).
+**11.2.** Le signalement et le traitement des dommages, y compris lors d’une réception privée, sont précisés dans le règlement sur les meubles et les décorations.
 
 ## Références
 

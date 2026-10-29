@@ -40,7 +40,7 @@ Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québe
 
 <a id="statuts-p-3-2"></a>
 
-**3.2.** Le Mess rend compte des fonds et des biens qui lui sont confiés, selon le [R2, paragraphe 6.1](R2-proposition.md#r2-p-6-1) et le [R5, paragraphe 23.1](R5-proposition.md#r5-p-23-1).
+**3.2.** Le Mess rend compte des fonds et des biens qui lui sont confiés.
 
 <a id="statuts-article-4"></a>
 
@@ -64,7 +64,7 @@ Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québe
 
 <a id="statuts-p-4-5"></a>
 
-**4.5.** Les démarches, privilèges et critères locaux sont précisés au [R5, paragraphe 1.1](R5-proposition.md#r5-p-1-1).
+**4.5.** Les démarches, privilèges et critères locaux sont précisés dans le règlement sur l’administration et les finances.
 
 <a id="statuts-article-5"></a>
 
@@ -76,7 +76,7 @@ Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québe
 
 <a id="statuts-p-5-2"></a>
 
-**5.2.** L’admissibilité, la représentation, les élections, les postes vacants et la fin des mandats sont précisés au [R5, paragraphe 2.1](R5-proposition.md#r5-p-2-1), au [R5, paragraphe 3.1](R5-proposition.md#r5-p-3-1), au [R5, paragraphe 4.1](R5-proposition.md#r5-p-4-1), au [R5, paragraphe 5.1](R5-proposition.md#r5-p-5-1) et au [R5, paragraphe 7.1](R5-proposition.md#r5-p-7-1).
+**5.2.** L’admissibilité, la représentation, les élections, les postes vacants et la fin des mandats sont précisés dans les règlements.
 
 <a id="statuts-article-6"></a>
 
@@ -100,7 +100,7 @@ Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québe
 
 <a id="statuts-p-6-5"></a>
 
-**6.5.** La représentation des deux locaux suit le [R5, paragraphe 3.1](R5-proposition.md#r5-p-3-1). D’autres fonctions peuvent être confiées selon les besoins et les modalités d’élection ou de nomination déjà prévues dans les règlements.
+**6.5.** La représentation des deux locaux suit le règlement sur l’administration et les finances. D’autres fonctions peuvent être confiées selon les besoins et les modalités d’élection ou de nomination déjà prévues dans les règlements.
 
 <a id="statuts-article-7"></a>
 
@@ -108,7 +108,7 @@ Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québe
 
 <a id="statuts-p-7-1"></a>
 
-**7.1.** Les fonctions et responsabilités sont énoncées dans les [annexes A à H du R5](R5-proposition.md#annexes-des-responsabilites). Elles n’élargissent pas les pouvoirs des titulaires. Les achats et paiements respectent les délégations applicables, selon le [R5, paragraphe 6.1](R5-proposition.md#r5-p-6-1).
+**7.1.** Les fonctions et responsabilités sont énoncées dans les [annexes A à H du R5](R5-proposition.md#annexes-des-responsabilites). Elles n’élargissent pas les pouvoirs des titulaires. Les achats et paiements respectent les délégations applicables.
 
 <a id="statuts-article-8"></a>
 
@@ -116,7 +116,7 @@ Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québe
 
 <a id="statuts-p-8-1"></a>
 
-**8.1.** Les réunions du comité ont lieu au moins une fois par mois, conformément au [Manuel PSP, chapitre 9-4, paragraphe 39](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=296). Une assemblée générale des membres est tenue chaque trimestre. Le calendrier tient compte des entraînements, selon le [R3, paragraphe 1.1](R3-proposition.md#r3-p-1-1).
+**8.1.** Les réunions du comité ont lieu au moins une fois par mois, conformément au [Manuel PSP, chapitre 9-4, paragraphe 39](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=296). Une assemblée générale des membres est tenue chaque trimestre. Le calendrier tient compte des entraînements.
 
 <a id="statuts-article-9"></a>
 
@@ -132,7 +132,7 @@ Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québe
 
 <a id="statuts-p-9-3"></a>
 
-**9.3.** Le quorum et la validation d’une séance particulière suivent le [Manuel PSP, chapitre 9-4, paragraphe 43](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297). Les modalités de quorum, de motions et de vote sont précisées au [R3, paragraphe 3.1](R3-proposition.md#r3-p-3-1) et au [R3, paragraphe 4.1](R3-proposition.md#r3-p-4-1).
+**9.3.** Le quorum et la validation d’une séance particulière suivent le [Manuel PSP, chapitre 9-4, paragraphe 43](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297). Les modalités de quorum, de motions et de vote sont précisées dans le règlement sur les assemblées et les réunions.
 
 <a id="statuts-p-9-4"></a>
 
@@ -148,7 +148,7 @@ Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québe
 
 <a id="statuts-p-9-7"></a>
 
-**9.7.** Les assemblées extraordinaires suivent le [R5, paragraphe 8.1](R5-proposition.md#r5-p-8-1) et les convocations le [R5, paragraphe 9.1](R5-proposition.md#r5-p-9-1). Les seuils particuliers et les compétences réservées par les statuts ou leurs règlements restent applicables.
+**9.7.** Les modalités des assemblées extraordinaires et des convocations sont précisées dans les règlements. Les seuils particuliers et les compétences réservées par les statuts ou leurs règlements restent applicables.
 
 <a id="statuts-article-10"></a>
 
@@ -160,7 +160,7 @@ Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québe
 
 <a id="statuts-p-10-2"></a>
 
-**10.2.** Les comptes rendus distinguent les décisions du comité, ses recommandations et les suivis, selon le [R3, paragraphe 5.1](R3-proposition.md#r3-p-5-1).
+**10.2.** Les comptes rendus distinguent les décisions du comité, ses recommandations et les suivis.
 
 <a id="statuts-article-11"></a>
 

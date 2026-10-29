@@ -31,7 +31,7 @@ document_group: administration
 
 <a id="fonction-p-1-5"></a>
 
-**1.5.** Veiller à la consignation des décisions et des votes selon le [R3, paragraphe 4.1](../R3-proposition.md#r3-p-4-1).
+**1.5.** Veiller à la consignation des décisions et des votes selon le règlement sur les assemblées et les réunions.
 
 <a id="fonction-p-1-6"></a>
 
