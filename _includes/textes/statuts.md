@@ -14,11 +14,11 @@ Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québe
 
 <a id="statuts-p-2-1"></a>
 
-**2.1.** L’établissement et l’administration du Mess relèvent de l’[article 27.01 des ORFC](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/ordonnances-reglements-royaux/vol-1-administration/chapitre-27-mess-cantines-instituts.html). Le commandant du 9 EG exerce les fonctions de commandant du Mess.
+**2.1.** L’établissement et l’administration du Mess relèvent de la [réf. B, art. 27.01](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/ordonnances-reglements-royaux/vol-1-administration/chapitre-27-mess-cantines-instituts.html). Le commandant du 9 EG exerce les fonctions de commandant du Mess.
 
 <a id="statuts-p-2-2"></a>
 
-**2.2.** Le Mess est administré conformément au [chap. 9-4](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=281) et à la [DOAD 9003-1 — Biens non publics](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/directives-ordonnances-administratives-defense/serie-9000/9003/9003-1-biens-non-publics.html). Les règlements complètent les statuts et en précisent l’application; ils ne peuvent en modifier les pouvoirs ou les droits.
+**2.2.** Le Mess est administré conformément à la [réf. A, chap. 9-4](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=281) et à la [réf. C](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/directives-ordonnances-administratives-defense/serie-9000/9003/9003-1-biens-non-publics.html). Les règlements complètent les statuts et en précisent l’application; ils ne peuvent en modifier les pouvoirs ou les droits.
 
 <a id="statuts-article-3"></a>
 
@@ -38,19 +38,19 @@ Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québe
 
 <a id="statuts-p-4-1"></a>
 
-**4.1.** **Membres ordinaires.** Personnes admissibles selon le [chap. 9-1, para. 13](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=268).
+**4.1.** **Membres ordinaires.** Personnes admissibles selon la [réf. A, chap. 9-1, para. 13](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=268).
 
 <a id="statuts-p-4-2"></a>
 
-**4.2.** **Membres associés.** Personnes admissibles selon le [chap. 9-1, para. 14](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=269).
+**4.2.** **Membres associés.** Personnes admissibles selon la [réf. A, chap. 9-1, para. 14](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=269).
 
 <a id="statuts-p-4-3"></a>
 
-**4.3.** **Membres honoraires.** Affiliations prévues au [chap. 9-1, para. 18](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=270) et au [chap. 9-1, para. 19](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=270).
+**4.3.** **Membres honoraires.** Affiliations prévues à la [réf. A, chap. 9-1, para. 18](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=270) et à la [réf. A, chap. 9-1, para. 19](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=270).
 
 <a id="statuts-p-4-4"></a>
 
-**4.4.** **Membres honoraires à vie.** Affiliations prévues au [chap. 9-1, para. 21](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=270).
+**4.4.** **Membres honoraires à vie.** Affiliations prévues à la [réf. A, chap. 9-1, para. 21](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=270).
 
 <a id="statuts-p-4-5"></a>
 
@@ -106,7 +106,7 @@ Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québe
 
 <a id="statuts-p-8-1"></a>
 
-**8.1.** Les réunions du comité ont lieu au moins une fois par mois, conformément au [chap. 9-4, para. 39](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=296). Une assemblée générale des membres est tenue chaque trimestre. Le calendrier tient compte des entraînements.
+**8.1.** Les réunions du comité ont lieu au moins une fois par mois, conformément à la [réf. A, chap. 9-4, para. 39](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=296). Une assemblée générale des membres est tenue chaque trimestre. Le calendrier tient compte des entraînements.
 
 <a id="statuts-article-9"></a>
 
@@ -122,7 +122,7 @@ Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québe
 
 <a id="statuts-p-9-3"></a>
 
-**9.3.** Le quorum et la validation d’une séance particulière suivent le [chap. 9-4, para. 43](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297). Les modalités de quorum, de motions et de vote sont précisées dans le règlement sur les assemblées et les réunions.
+**9.3.** Le quorum et la validation d’une séance particulière suivent la [réf. A, chap. 9-4, para. 43](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297). Les modalités de quorum, de motions et de vote sont précisées dans le règlement sur les assemblées et les réunions.
 
 <a id="statuts-p-9-4"></a>
 
@@ -164,9 +164,4 @@ Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québe
 
 **11.2.** Une modification adoptée entre en vigueur après l’approbation du commandant. Le texte à jour et sa date d’entrée en vigueur sont communiqués aux membres.
 
-## Références générales {#statuts-section-heading-12}
-
-- [chap. 9-4, tableau 9-4-3](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=294).
-- [DOAD 5045-0 — Programmes de soutien du personnel des Forces canadiennes](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/directives-ordonnances-administratives-defense/serie-5000/5045/5045-0-programmes-de-soutien-du-personnel-des-forces-canadiennes.html).
-- [A-PS-110-001/AG-002 — Soutien public aux programmes de bien-être et de maintien du moral](https://sbmfc.ca/a-propos/politiques-et-publications/aa-ps-110-soutien-public-aux-programmes-de-bemm).
-- [Annexes des responsabilités du règlement sur l’administration]({{ '/versions/2026-10-28-v0.2/R5-proposition.html' | relative_url }}#annexes-des-responsabilites).
+<a id="statuts-section-heading-12"></a>

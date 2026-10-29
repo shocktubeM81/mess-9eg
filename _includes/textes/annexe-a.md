@@ -14,7 +14,7 @@
 
 <a id="annexe-a-fonction-p-1-4"></a>
 
-**1.4.** Conduire les assemblées conformément au [chap. 9-4, tableau 9-4-4](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=298).
+**1.4.** Conduire les assemblées conformément à la [réf. A, chap. 9-4, tableau 9-4-4](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=298).
 
 <a id="annexe-a-fonction-p-1-5"></a>
 

@@ -6,8 +6,6 @@ document_label: Statuts et règlements
 
 # Statuts et règlements du Mess du 9 EG
 
-{% include conventions-references.md %}
-
 **Version 0.11 du 29 octobre 2026 — Projet à adopter et à approuver.**
 
 {% include avant-propos.md %}
