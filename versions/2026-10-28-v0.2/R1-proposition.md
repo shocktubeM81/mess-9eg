@@ -3,17 +3,18 @@ layout: default
 title: Règlement sur la tenue et le comportement
 doc_code: R1
 document_label: Règlement R1
+modification: 2026-10-29
 ---
 
 # Règlement sur la tenue et le comportement
 
-**Version 0.4 du 29 octobre 2026 — Proposition à discuter et à adopter.**
+**Version 0.5 du 29 octobre 2026 — Proposition à discuter et à adopter.**
 
 Ce règlement précise les conditions d’accès, la tenue et le comportement dans les locaux du Mess.
 
 ## Accès aux locaux
 
-<a id="r1-1"></a>**R1.1.** Un militaire fréquente le local correspondant à son grade. L’accès à l’autre local est permis pour ses fonctions ou sur invitation spéciale autorisée par le commandant ou le président.
+<a id="r1-1"></a>**R1.1.** L’accès selon le grade et les invitations relève du [Manuel PSP, chapitre 9-1, paragraphes 29 à 31](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf). Pour les deux locaux du 9 EG, voir la [constitution, article 2](constitution-consolidee.md#article-2).
 
 <a id="r1-2"></a>**R1.2.** Les conjoints peuvent participer aux activités sans le membre. Ils doivent pouvoir s’identifier. En cas de doute, leur identité est confirmée auprès d’un membre du comité. Pendant une absence du membre hors de la région, son conjoint reçoit le même traitement que lui. L’admission d’un conjoint de moins de 18 ans exige l’autorisation du commandant.
 
@@ -27,13 +28,7 @@ Ce règlement précise les conditions d’accès, la tenue et le comportement da
 
 ## Tenue
 
-<a id="r1-6"></a>**R1.6.** La tenue respecte les exigences suivantes :
-
-- **a. Vêtements.** Propres et convenables. Les vêtements dégradants ou répulsifs sont interdits.
-- **b. Torse et chaussures.** Torse couvert et chaussures obligatoires.
-- **c. Couvre-chef.** Retiré à l’entrée, sauf exception militaire, notamment religieuse ou liée aux fonctions.
-- **d. Uniforme.** Propre et soigné, avec les articles et insignes autorisés. Le port respecte les instructions militaires en vigueur.
-- **e. Tenue minimale.** En cas d’abus, le commandant ou le président peut préciser les exigences, dans le respect des instructions militaires.
+<a id="r1-6"></a>**R1.6.** Les vêtements sont propres et convenables, le torse couvert et les chaussures portées. Les vêtements dégradants ou répulsifs sont interdits. L’uniforme et la coiffure suivent les [Instructions sur la tenue, chapitre 2, notamment paragraphe 25 et section sur les coiffures](https://www.canada.ca/fr/services/defense/fac/systeme-identite-militaire/instructions-tenue/chapitre-2.html), avec les exceptions qui y sont prévues. Pour une activité particulière, la tenue est annoncée avec l’invitation.
 
 ## Comportement et propreté
 
@@ -43,13 +38,13 @@ Ce règlement précise les conditions d’accès, la tenue et le comportement da
 
 <a id="r1-9"></a>**R1.9.** Les animaux sont interdits, sauf les chiens guides.
 
-<a id="r1-10"></a>**R1.10.** Les loteries, tirages de type sweepstakes, appareils à sous et autres jeux de hasard sont interdits au Mess, y compris au profit des militaires.
+<a id="r1-10"></a>**R1.10.** Les loteries, tirages et activités de divertissement suivent le [Manuel PSP, chapitre 9-4, paragraphes 66 à 69](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf).
 
 <a id="r1-11"></a>**R1.11.** Après utilisation, les locaux et les équipements de jeu sont laissés propres. Les meubles sont remis à leur place.
 
 <a id="r1-12"></a>**R1.12.** Tout dommage est signalé au président, même s’il est accidentel.
 
-<a id="r1-13"></a>**R1.13.** Lors d’une réception privée, le responsable de l’activité répond des dommages aux biens du Mess ou de la Couronne.
+<a id="r1-13"></a>**R1.13.** Lors d’une réception privée, les dommages sont traités selon le [R2.6](R2-proposition.md#r2-6) et les conditions du contrat de réservation. La responsabilité ne découle pas du seul fait d’organiser l’activité.
 
 ## Références
 

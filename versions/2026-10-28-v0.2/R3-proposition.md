@@ -7,7 +7,7 @@ document_label: Règlement R3
 
 # Règlement sur les assemblées et les réunions
 
-**Version 0.4 du 29 octobre 2026 — Proposition à discuter et à adopter.**
+**Version 0.5 du 29 octobre 2026 — Proposition à discuter et à adopter.**
 
 Ce règlement précise la préparation des séances, leur déroulement et la gestion des documents.
 
@@ -15,17 +15,17 @@ Ce règlement précise la préparation des séances, leur déroulement et la ges
 
 <a id="r3-1"></a>**R3.1.** Le calendrier annuel tient compte des entraînements. Les dates des assemblées et des activités sont communiquées aux membres et affichées dans les locaux. Aucune période de l’année n’est exclue.
 
-<a id="r3-2"></a>**R3.2.** La convocation indique la date, l’heure, le lieu et, s’il y a lieu, le moyen de connexion. L’ordre du jour et les documents utiles sont transmis au moins 7 jours avant la séance. L’avis et l’ordre du jour sont aussi affichés dans les locaux.
+<a id="r3-2"></a>**R3.2.** La convocation indique la date, l’heure, le lieu et, s’il y a lieu, le moyen de connexion. Les délais de convocation et de modification des textes sont ceux des [articles 16 et 52 de la constitution](constitution-consolidee.md#article-16). Les documents utiles sont transmis normalement 7 jours avant la séance. Le dépôt des propositions et l’affichage de l’ordre du jour suivent le [Manuel PSP, chapitre 9-4, paragraphes 41 et 42](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf).
 
 <a id="r3-3"></a>**R3.3.** Une proposition importante ou complexe est accompagnée des renseignements nécessaires à son examen.
 
 ## Déroulement des assemblées
 
-<a id="r3-4"></a>**R3.4.** Le quorum est vérifié à l’ouverture et lorsqu’une perte de quorum est signalée. Il est consigné au procès-verbal. Sans quorum après 30 minutes, l’assemblée est annulée et convoquée de nouveau. Si le quorum est perdu, les points non décidés sont reportés et les membres en sont informés.
+<a id="r3-4"></a>**R3.4.** Le quorum est déterminé selon la [constitution, article 18](constitution-consolidee.md#article-18), y compris pour une séance particulière. Il est vérifié à l’ouverture et lorsqu’une perte de quorum est signalée. Il est consigné au procès-verbal. Sans quorum après 30 minutes, l’assemblée est annulée et convoquée de nouveau. Si le quorum est perdu, les points non décidés sont reportés et les membres en sont informés.
 
 <a id="r3-5"></a>**R3.5.** L’ordre habituel est : ouverture; adoption du procès-verbal; rapports du président, des finances et des sous-comités; suivi des décisions; nouvelles affaires; levée. Un procès-verbal transmis à l’avance n’a pas à être relu intégralement.
 
-<a id="r3-6"></a>**R3.6.** Une motion est présentée après avoir obtenu la parole. Son texte est énoncé clairement avant le débat. Sans appui, elle est irrecevable et le point suivant est abordé.
+<a id="r3-6"></a>**R3.6.** La présentation, l’appui et l’examen des motions suivent le [Manuel PSP, chapitre 9-4, tableau 9-4-4](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf). Les droits de vote et les majorités restent définis à la [constitution, articles 17 à 20](constitution-consolidee.md#article-17).
 
 <a id="r3-7"></a>**R3.7.** Une seule personne parle à la fois. Les interventions portent sur la motion. Les amendements et le texte soumis au vote sont consignés.
 
@@ -33,7 +33,7 @@ Ce règlement précise la préparation des séances, leur déroulement et la ges
 
 ## Consultations et réunions du comité
 
-<a id="r3-9"></a>**R3.9.** Une consultation par internet ne constitue pas une décision de l’assemblée.
+<a id="r3-9"></a>**R3.9.** Les assemblées virtuelles et le vote électronique suivent le [Manuel PSP, chapitre 9-4, paragraphe 44](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf). La convocation précise les modalités de participation. Une simple consultation ne remplace pas un vote tenu dans ce cadre. Les résultats sont joints au procès-verbal.
 
 <a id="r3-10"></a>**R3.10.** Les participants à une réunion du comité reçoivent la date, le lieu ou le moyen de connexion, les sujets et les documents utiles. Le compte rendu distingue les décisions du comité, les tâches de préparation et les recommandations à l’assemblée. Chaque suivi indique un responsable et une échéance.
 
@@ -55,8 +55,8 @@ Ce règlement précise la préparation des séances, leur déroulement et la ges
 
 <a id="r3-17"></a>**R3.17.** Les dossiers sont classés par catégorie : textes, convocations, ordres du jour, procès-verbaux, décisions, finances, inventaires et correspondance. Chaque document indique sa date, sa version, son statut et les preuves d’adoption et d’approbation. Les anciennes versions sont archivées. Les dossiers du comité et des assemblées restent distincts; les recommandations et décisions correspondantes sont reliées.
 
-<a id="r3-18"></a>**R3.18.** Les accès permettent la continuité avec un suppléant désigné. Une sauvegarde indépendante est effectuée chaque mois et après toute adoption ou approbation. La restauration est vérifiée chaque année et lors de la relève. Celle-ci comprend l’inventaire des dossiers, le transfert sécurisé des accès et les suivis en cours. La conservation respecte les exigences applicables.
+<a id="r3-18"></a>**R3.18.** Les accès permettent la continuité avec un suppléant désigné. Le secrétaire organise les sauvegardes et vérifie leur restauration, notamment lors de la relève. Celle-ci comprend l’inventaire des dossiers, le transfert sécurisé des accès et les suivis en cours. La fréquence et les moyens sont adaptés aux outils utilisés; la conservation respecte les exigences applicables.
 
 ## Références
 
-[Manuel des politiques des PSP, chapitre 9-4](https://www.sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf).
+[Manuel des politiques des PSP, chapitre 9-4](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf).

@@ -131,3 +131,38 @@ Le nouvel article R4.8 porte le nombre d’articles réglementaires à 47. Les t
 Deux sections distinctes identifient les assemblées des membres et les réunions du comité. L’article 14 définit les assemblées ordinaires et extraordinaires et conserve la fréquence trimestrielle. L’article 22 regroupe la convocation et l’objet des réunions du comité, sans leur attribuer les pouvoirs de l’assemblée. Le vote et la convocation des assemblées passent respectivement aux articles 20 et 21. Aucun quorum de comité n’est créé.
 
 Les mentions ambiguës de « prochaine réunion » sont précisées : l’élection à un poste vacant (article 10) et l’acceptation des dépenses du fonds du président (article 31) relèvent de l’assemblée générale. Ce choix conserve les élections et le contrôle des membres, sans donner au comité un pouvoir supplémentaire. L’annexe C précise que la vérification du quorum concerne les assemblées générales. Le tableau et la concordance actuels sont harmonisés; les repères historiques restent inchangés.
+
+
+## Révision 0.5 — 29 octobre 2026 : portée et preuves
+
+Base : branche `revision-documents-2026-10-28`, commit `6d11a9410615c97f4ddd12ff289b6a672b861909`. Branche de proposition : `codex/revision-reglements-psp-2026-10-29`.
+
+L’historique accessible de « Réviser les règlements du mess » ne contient aucune pièce jointe exploitable; les réponses antérieures sont des références sans texte. Aucun PDF source local n’est présent. La comparaison porte donc sur la transcription originale, les textes proposés, les huit annexes et les publications officielles accessibles, et non sur des pièces jointes supposées consultées.
+
+### Sources consultées en ligne le 29 octobre 2026
+
+- [Manuel PSP, modification 001/26](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf), modification en vigueur le 16 septembre 2026. Les liens ouvrent le PDF sans fragment de navigation. Les chapitres, paragraphes et tableaux sont indiqués dans le libellé des références pour retrouver les passages dans le lecteur PDF, notamment Acrobat dans le navigateur.
+- [A-FN-105, répertoire officiel des chapitres](https://sbmfc.ca/a-propos/politiques-et-publications/comptabilite-biens-non-publics/a-fn-105) : entrées 11, 28, 30, 32, 36 et 37 repérées. Le PDF du chapitre 11 a été lu; le chapitre 36 a été ouvert. Le téléchargement du chapitre 30 n’a pas abouti; son renvoi demeure au répertoire officiel, sans prétendre que son contenu a été vérifié.
+- [A-FN-105, chapitre 11](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/8.4.5/Policies/AF-N-105/Chap11_f.pdf), révision indiquée dans le PDF : 8 avril 2025. L’index affiche encore une date plus ancienne. Les paragraphes 2 et 17 à 20 justifient de remplacer la garantie locale de pleine valeur par le renvoi au programme applicable.
+- [Instructions sur la tenue, chapitre 2](https://www.canada.ca/fr/services/defense/fac/systeme-identite-militaire/instructions-tenue/chapitre-2.html), notamment les sections sur le port de l’uniforme et les coiffures.
+- [Loi sur les infractions en matière de boissons alcooliques](https://www.legisquebec.gouv.qc.ca/fr/document/lc/I-8.1), articles 103.1 à 103.3; version affichée à jour au 15 octobre 2026. Le permis et les autorisations propres aux locaux restent à confirmer.
+
+Les liens PSP sans `www` ont été ouverts avec succès; l’ancienne adresse avec `www` n’était pas accessible par l’outil. La vérification porte sur les références introduites ou corrigées, pas sur tous les liens historiques du dépôt.
+
+### Points restant à résoudre avant de conclure à la conformité complète
+
+1. **Catégories de membres — constitution 4.** Comparer les catégories locales, notamment le personnel civil ordinaire et le statut honoraire à vie, au chapitre 9-1, paragraphes 13 à 20. Confirmer les autorisations ou dérogations existantes et les conséquences sur les droits de vote avant de modifier des statuts individuels. Aucun membre n’est reclassé par cette révision.
+2. **Quorum — constitution 16.** Faire confirmer le dénominateur local « en règle et disponibles en région » au regard du chapitre 9-4, paragraphe 43. La faculté de validation particulière y est désormais accessible par renvoi; le seuil local n’a pas été remplacé silencieusement.
+3. **Gouvernance — constitution 18, 19 et 22.** Vérifier le mécanisme d’approbation des décisions, les autorités de convocation et la fréquence des réunions du comité par rapport au chapitre 9-4, paragraphes 39, 40 et 44. La distinction entre comité et assemblée reste conservée.
+4. **Rémunération et cotisations — constitution 24 et 25.** La condition locale d’emploi SBMFC, la délégation de solde et les remboursements ne sont pas validés par le seul renvoi général aux SBMFC. Faire confirmer les modalités réelles auprès des autorités compétentes, notamment au regard de l’A-FN-105, chapitre 32, et du chapitre 9-1 des PSP. Aucun nouveau paiement ou prélèvement n’est autorisé.
+5. **Fonds et dons.** Obtenir les confirmations déjà demandées aux articles 54 à 57; vérifier la politique BNP sur les dons et commandites avant toute acceptation particulière. Les plafonds des cadeaux sont conservés.
+6. **Application locale.** Confirmer les autorisations d’alcool, la couverture d’assurance, les contrats de réception et les mesures d’adaptation pertinentes (notamment les animaux d’assistance au R1.9). Le texte d’origine et les règles locales non modifiées ne valent pas preuve de conformité.
+
+La version 0.5 constitue une proposition de simplification et de correction documentée. Elle ne constitue pas une attestation de conformité complète. Les notes des versions précédentes sont historiques; les descriptions de la présente section et du tableau 0.5 prévalent pour cette proposition. Aucune fusion ni mise en vigueur automatique.
+
+
+### Intégration de la modification GitHub du 29 octobre
+
+La branche distante comportait également le commit `2fbc8833ef7d9ec51d02178da1ae0556504230e6`, absent de la copie locale initiale. Sa réorganisation est conservée : composition minimale du comité, procédure de fin de mandat, nouvelle rédaction du vote et approbation du commandant. La correction du quorum porte donc désormais sur l’article 18, et le délai de convocation sur l’article 16. L’article 26 c conserve la correction PSP décrite ci-dessus. Les anciens liens 8, 13 et 22 sont conservés comme alias vers les dispositions regroupées; le numéro 5 répété devant le paragraphe introductif du comité est retiré. Les repères constitutionnels historiques des tableaux et notes précédents se rapportent à leurs versions respectives. Le R3 renvoie à la numérotation intégrée.
+
+Le point de validation relatif au dénominateur du quorum concerne désormais « membres ordinaires en règle »; la restriction géographique a été retirée par le commit de l’utilisateur. La nouvelle approbation des motions à l’article 21 répond au point précédemment relevé sur ce mécanisme. Les autres vérifications de gouvernance demeurent à effectuer.

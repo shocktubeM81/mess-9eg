@@ -5,7 +5,7 @@ title: Constitution du Mess et Instituts du 9e Escadron du génie
 
 # Constitution du Mess et Instituts du 9e Escadron du génie
 
-**Version 0.4 du 29 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après adoption avec quorum et approbation du commandant.
+**Version 0.5 du 29 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après adoption avec quorum et approbation du commandant.
 
 Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québec.
 
@@ -45,9 +45,15 @@ Conformément à la [DOAD 5045-0](https://www.canada.ca/fr/ministere-defense-nat
   - **(5)** Après une révocation pour non-paiement, une nouvelle demande est requise, sauf si le défaut de paiement est justifié auprès du président.
   - **(6)** Les membres associés peuvent participer aux activités sociales et aider le comité ou les sous-comités, sans y assumer de responsabilités.
   - **(7)** La participation aux événements officiels à caractère militaire exige une invitation du président.
+<<<<<<< Updated upstream
   - **(8)** Deux classes sont admissibles : 
   
     - **classe I**, militaires retraités, libérés ou en service dans une autre unité ou base; 
+=======
+  - **(8)** Deux classes sont admissibles :
+
+    - **classe I**, militaires retraités, libérés ou en service dans une autre unité ou base;
+>>>>>>> Stashed changes
     - **classe II**, civils ayant été membres des Mess du 9 EG ou pouvant contribuer au bien de l’unité.
 - **c. Membres honoraires.**
   - **(1)** Les militaires de la Force régulière ou de la Première réserve membres d’un autre mess sont membres honoraires du mess correspondant à leur grade.
@@ -57,7 +63,13 @@ Conformément à la [DOAD 5045-0](https://www.canada.ca/fr/ministere-defense-nat
 
 ## Comité
 
+<<<<<<< Updated upstream
 **5.** Le comité du Mess, ci-après appelé "le comité" assure l’administration courante du Mess et la mise en œuvre des décisions de l’assemblée générale, dans les limites du budget et des délégations approuvés. Les élections, destitutions, cotisations, budgets et modifications à la constitution sont décidés par les membres en assemblée générale. Ces décisions ne peuvent être prises en réunion du comité.
+=======
+<a id="article-13"></a>
+<a id="article-22"></a>
+Le comité du Mess, ci-après appelé "le comité" assure l’administration courante du Mess et la mise en œuvre des décisions de l’assemblée générale, dans les limites du budget et des délégations approuvés. Les élections, destitutions, cotisations, budgets et modifications à la constitution sont décidés par les membres en assemblée générale. Ces décisions ne peuvent être prises en réunion du comité.
+>>>>>>> Stashed changes
 
 <a id="article-5"></a>
 **5.** Seuls les membres ordinaires peuvent siéger au comité. La présidence est réservée à un membre actif du 9 EG, et doit être approuvé par le commandant. Le personnel des finances ne peut occuper la présidence ou la vice-présidence.
@@ -65,6 +77,10 @@ Conformément à la [DOAD 5045-0](https://www.canada.ca/fr/ministere-defense-nat
 <a id="article-6"></a>
 **6.** Le comité comprend autant de membres du Club Chimo que du Mess Combiné. Les grades y sont représentés équitablement dans la mesure du possible.
 
+<<<<<<< Updated upstream
+=======
+<a id="article-8"></a>
+>>>>>>> Stashed changes
 <a id="article-7"></a>
 **7.** Le comité comprend au minimum:
   - **a.** un président;
@@ -93,7 +109,11 @@ Si la situation persiste, l’assemblée générale peut mettre fin à son manda
 
 <a id="article-17"></a>**17.** Les membres ordinaires en règle ont droit de vote. Les membres associés et honoraires peuvent assister aux assemblées et participer aux discussions, sans voter.
 
+<<<<<<< Updated upstream
 <a id="article-18"></a>**18.** Le quorum est formé de plus de 50 % des membres ordinaires en règle. Toute décision de l’assemblée exige le quorum.
+=======
+<a id="article-18"></a>**18.** Le quorum est formé de plus de 50 % des membres ordinaires en règle. Toute décision de l’assemblée exige le quorum. Pour une séance particulière, la validation d’un quorum inférieur suit le [Manuel PSP, chapitre 9-4, paragraphe 43](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf); les circonstances sont consignées au procès-verbal.
+>>>>>>> Stashed changes
 
 <a id="article-19"></a>**19.** Un rapport financier sommaire est présenté à chaque assemblée générale.
 
@@ -113,11 +133,11 @@ Seules les motions approuvées peuvent être mises en œuvre. Toute modification
 
 ## Finances et cotisations
 
-<a id="article-23"></a>**23.** Les membres du comité ne peuvent tirer de profit personnel, de rémunération ou d’avantage de leur gestion du Mess. Tout avantage possible lié à leur participation à une entreprise faisant affaire avec le Mess est déclaré au commandant ([Manuel des politiques des PSP](https://www.sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf)).
+<a id="article-23"></a>**23.** Les membres du comité ne peuvent tirer de profit personnel, de rémunération ou d’avantage de leur gestion du Mess. Tout avantage possible lié à leur participation à une entreprise faisant affaire avec le Mess est déclaré au commandant ([Manuel des politiques des PSP](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf)).
 
 <a id="article-24"></a>**24.** Toute rémunération pour des services au Mess exige un emploi auprès des SBMFC et respecte leurs directives et le budget approuvé. Sans ce statut, les fonctions de serveur, de régisseur et de membre du comité sont bénévoles.
 
-<a id="article-25"></a>**25.** Les cotisations servent uniquement aux besoins du Mess ([Manuel des politiques des PSP, chapitre 9-1](https://www.sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf)).
+<a id="article-25"></a>**25.** Les cotisations servent uniquement aux besoins du Mess ([Manuel des politiques des PSP, chapitre 9-1](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf)).
 
 - **a.** Elles sont dues par les membres ordinaires et associés pour l’année du 1er avril au 31 mars suivant.
 - **b.** Les taux annuels et les comptes de dépôt sont votés à la dernière assemblée de l’année financière, en mars. Tout changement de taux exige un vote de l’assemblée.
@@ -131,7 +151,7 @@ Seules les motions approuvées peuvent être mises en œuvre. Toute modification
 
 - **a.** Tout changement de prix des consommations exige, avant son entrée en vigueur, l’approbation de l’assemblée et/ou du commandant.
 - **b.** Les paiements sont demandés par virement électronique de fonds, par l’entremise des SBMFC. Une carte de crédit autorisée peut servir aux achats courants. Ces opérations respectent les directives des SBMFC.
-- **c.** Seuls le président et le commandant peuvent offrir une consommation par membre présent aux frais du Mess, en sonnant la cloche ou en distribuant des billets. L’offre bénéficie à l’ensemble des membres présents. Le coût total reste dans le plafond annuel du budget approuvé.
+- **c.** Les consommations offertes suivent le [Manuel PSP, chapitre 9-2, paragraphes 15 à 18](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf) et le [chapitre 9-4, paragraphe 61](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf). Le budget local ne crée aucune autorisation supplémentaire. Pour les boissons sans alcool, le président ou le commandant peut offrir une consommation par membre présent, dans le plafond annuel approuvé.
 
 <a id="article-27"></a>**27.** Le comité de divertissement peut engager les dépenses mensuelles prévues au budget annuel adopté par l’assemblée, si les fonds sont disponibles et si le comité du Mess a approuvé le calendrier des activités.
 
