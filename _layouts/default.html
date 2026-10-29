@@ -6,7 +6,7 @@
   <meta name="color-scheme" content="light dark">
   <meta name="theme-color" content="#172c3d">
   <meta name="description" content="{{ page.description | default: site.description | escape }}">
-  <title>{{ page.title | escape }} · {{ site.title | escape }}</title>
+  <title>{{ page.title | escape }}</title>
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v={{ site.github.build_revision | default: '20261029-9e' }}">
   <script defer src="{{ '/assets/js/site.js' | relative_url }}"></script>
 </head>
@@ -15,16 +15,16 @@
   <div class="reading-progress" id="reading-progress" aria-hidden="true"></div>
   <header class="site-header">
     <div class="site-header-inner">
-      <a class="brand" href="{{ '/' | relative_url }}" aria-label="Mess et Instituts, accueil">
+      <a class="brand" href="{{ '/' | relative_url }}" aria-label="Mess et Institut, accueil">
         <span class="brand-emblem" aria-hidden="true">9<sup>e</sup></span>
-        <span class="brand-wordmark"><strong>Mess et Instituts</strong><span>9e Escadron du génie</span></span>
+        <span class="brand-wordmark"><strong>Mess et Institut</strong><span>9 EG</span></span>
       </a>
       <span class="header-caption">Statuts et règlements</span>
     </div>
     <nav class="top-nav" aria-label="Documents du Mess">
       <a href="{{ '/' | relative_url }}" {% if page.path == 'index.md' %}aria-current="page"{% endif %}>Statuts et règlements</a>
-      <a href="{{ '/versions/2026-10-28-v0.2/constitution-consolidee.html' | relative_url }}" {% if page.name == 'constitution-consolidee.md' or page.document_group == 'constitution' %}aria-current="page"{% endif %}>Statuts</a>
-      <a href="{{ '/reglements.html' | relative_url }}" {% if page.doc_code or page.document_group == 'administration' or page.document_group == 'reglements' %}aria-current="page"{% endif %}>Règlements</a>
+      <a href="{{ '/' | relative_url }}#partie-1" {% if page.name == 'constitution-consolidee.md' or page.document_group == 'constitution' %}aria-current="page"{% endif %}>Partie I — Statuts</a>
+      <a href="{{ '/' | relative_url }}#partie-2" {% if page.doc_code or page.document_group == 'administration' or page.document_group == 'reglements' %}aria-current="page"{% endif %}>Partie II — Règlements</a>
       <a href="{{ '/constitution.html' | relative_url }}" {% if page.path == 'constitution.md' %}aria-current="page"{% endif %}>Texte original</a>
     </nav>
     {% if page.doc_code or page.document_group == 'administration' or page.document_group == 'reglements' %}
@@ -33,7 +33,8 @@
       <a href="{{ '/versions/2026-10-28-v0.2/R2-proposition.html' | relative_url }}" {% if page.name == 'R2-proposition.md' %}aria-current="page"{% endif %}>R2 Meubles et décorations</a>
       <a href="{{ '/versions/2026-10-28-v0.2/R3-proposition.html' | relative_url }}" {% if page.name == 'R3-proposition.md' %}aria-current="page"{% endif %}>R3 Assemblées et réunions</a>
       <a href="{{ '/versions/2026-10-28-v0.2/R4-proposition.html' | relative_url }}" {% if page.name == 'R4-proposition.md' %}aria-current="page"{% endif %}>R4 Service de bar</a>
-      <a href="{{ '/versions/2026-10-28-v0.2/R5-proposition.html' | relative_url }}" {% if page.name == 'R5-proposition.md' or page.document_group == 'administration' %}aria-current="page"{% endif %}>R5 Administration et finances</a>
+      <a href="{{ '/versions/2026-10-28-v0.2/R5-proposition.html' | relative_url }}" {% if page.name == 'R5-proposition.md' or page.document_group == 'administration' %}aria-current="page"{% endif %}>R5 Administration</a>
+      <a href="{{ '/versions/2026-10-28-v0.2/R6-proposition.html' | relative_url }}" {% if page.name == 'R6-proposition.md' %}aria-current="page"{% endif %}>R6 Finances</a>
     </nav>
     {% endif %}
   </header>
@@ -54,7 +55,7 @@
         </div>
       </div>
       <article class="document-content" id="document">{{ content }}</article>
-      <footer class="document-footer"><span>Mess et Instituts · 9e Escadron du génie</span><a href="https://github.com/shocktubeM81/mess-9eg/tree/revision-documents-2026-10-28">Consulter le dépôt GitHub</a></footer>
+      <footer class="document-footer"><span>Mess et Institut · 9 EG</span><a href="https://github.com/shocktubeM81/mess-9eg/tree/revision-documents-2026-10-28">Consulter le dépôt GitHub</a></footer>
     </main>
   </div>
   <button id="toc-toggle" class="toc-toggle" type="button" aria-controls="sidebar" aria-expanded="false" hidden>☰ Sommaire</button>

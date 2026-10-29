@@ -4,16 +4,15 @@ title: Règlements
 document_group: reglements
 ---
 
-# Règlements
+# Partie II — Règlements
 
-Version 0.10 proposée — 29 octobre 2026.
+- [Règlement sur la tenue et le comportement](versions/2026-10-28-v0.2/R1-proposition.md)
+- [Règlement sur les meubles et les décorations](versions/2026-10-28-v0.2/R2-proposition.md)
+- [Règlement sur les assemblées et les réunions](versions/2026-10-28-v0.2/R3-proposition.md)
+- [Règlement sur le service de bar](versions/2026-10-28-v0.2/R4-proposition.md)
+- [Règlement sur l’administration](versions/2026-10-28-v0.2/R5-proposition.md)
+- [Règlement sur les finances](versions/2026-10-28-v0.2/R6-proposition.md)
 
-Les règlements complètent les [statuts](versions/2026-10-28-v0.2/constitution-consolidee.md). Les numéros de paragraphes recommencent dans chaque règlement : « R3, paragraphe 4.1 » désigne le paragraphe 4.1 du règlement R3.
+[Consulter le document complet](index.md#partie-2).
 
-- [R1 — Tenue et comportement](versions/2026-10-28-v0.2/R1-proposition.md)
-- [R2 — Meubles et décorations](versions/2026-10-28-v0.2/R2-proposition.md)
-- [R3 — Assemblées et réunions](versions/2026-10-28-v0.2/R3-proposition.md)
-- [R4 — Service de bar](versions/2026-10-28-v0.2/R4-proposition.md)
-- [R5 — Administration et finances](versions/2026-10-28-v0.2/R5-proposition.md)
-
-Les [huit annexes des fonctions](versions/2026-10-28-v0.2/R5-proposition.md#annexes-des-responsabilites) font partie du R5.
+Les [annexes des fonctions](versions/2026-10-28-v0.2/R5-proposition.md#annexes-des-responsabilites) font partie du règlement sur l’administration.
