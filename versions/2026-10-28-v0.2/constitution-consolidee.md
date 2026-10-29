@@ -9,7 +9,14 @@ title: Constitution du Mess et Instituts du 9e Escadron du génie
 
 Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québec.
 
-La constitution et ses annexes fixent les règles générales du Mess, les droits des membres et les pouvoirs des responsables. Les règlements précisent leur application et les permissions expressément prévues, sans pouvoir modifier la constitution.
+## Avant-Propos
+
+Conformément à la [DOAD 5045-0](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/directives-ordonnances-administratives-defense/serie-5000/5045/5045-0-programmes-de-soutien-du-personnel-des-forces-canadiennes.html) et la publication [A-PS-110-001/AG-002](https://sbmfc.ca/a-propos/politiques-et-publications/aa-ps-110-soutien-public-aux-programmes-de-bemm), dans leur version en vigueur, la constitution et ses annexes fixent les règles générales du Mess, les droits des membres et les pouvoirs des responsables. Quatre règlements en précisent l’application :
+
+- **a.** [R1 — Tenue et comportement](R1-proposition.md);
+- **b.** [R2 — Meubles et décorations](R2-proposition.md);
+- **c.** [R3 — Assemblées et réunions](R3-proposition.md);
+- **d.** [R4 — Service de bar](R4-proposition.md).
 
 ## Dispositions générales
 
@@ -18,17 +25,6 @@ La constitution et ses annexes fixent les règles générales du Mess, les droit
 <a id="article-2"></a>**2. Objet.** Le Mess et Instituts favorise l’esprit de corps, le bien-être des membres et les liens entre eux. Ses deux locaux offrent à chaque groupe un espace de rencontre adapté, dans le respect des rapports de leadership au sein de l’unité.
 
 <a id="article-3"></a>**3. Commandant du Mess.** Le commandant du 9 EG exerce les fonctions de commandant du Mess et Instituts.
-
-<a id="article-4"></a>**4. Cadre applicable.** La [DOAD 5045-0](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/directives-ordonnances-administratives-defense/serie-5000/5045/5045-0-programmes-de-soutien-du-personnel-des-forces-canadiennes.html) et la publication [A-PS-110-001/AG-002](https://sbmfc.ca/a-propos/politiques-et-publications/aa-ps-110-soutien-public-aux-programmes-de-bemm) s’appliquent dans leur version en vigueur.
-
-La constitution et ses annexes fixent les règles générales du Mess, les droits des membres, les pouvoirs des responsables et les garanties financières. Quatre règlements en précisent l’application :
-
-- **a.** [R1 — Tenue et comportement](R1-proposition.md);
-- **b.** [R2 — Meubles et décorations](R2-proposition.md);
-- **c.** [R3 — Assemblées et réunions](R3-proposition.md);
-- **d.** [R4 — Service de bar](R4-proposition.md).
-
-La constitution demeure applicable en l’absence de règlement complémentaire. Un règlement peut préciser les modalités d’application et les permissions expressément prévues par la constitution, mais ne peut la modifier, lever une interdiction absolue, réduire les pouvoirs des membres ni contourner une approbation requise.
 
 ## Membres
 
