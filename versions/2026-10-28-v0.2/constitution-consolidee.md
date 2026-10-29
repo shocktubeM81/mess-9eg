@@ -56,7 +56,7 @@ La constitution établit les droits, les organes et les garanties; les quatre r�
 
     **(a)** Classe I — militaires.
 
-    - **i.** Militaires à la retraite ou libérés des Forces armées canadiennes.
+    - **i.** Militaires à la re ou libérés des Forces armées canadiennes.
 
     - **ii.** Militaires encore en service mais faisant partie d’une autre unité ou base.
 
@@ -80,7 +80,7 @@ La constitution établit les droits, les organes et les garanties; les quatre r�
 
     - **(c)** Toute personne, qui en vertu de son statut civil ou militaire, pourrait apporter quelque chose de bénéfique ou de prestige à l'unité.
 
-- **d.** Membres honoraires à vie. Les membres honoraires à vie sont des anciens membres ordinaires ou honoraires à qui on leur accorde un statut « à vie » lors de leur départ à la retraite. Si un membre honoraire à vie désire devenir membre associé, il peut en faire la demande au cmdt par l’entremise du comité du mess. Les personnes pouvant devenir membres à vie sont ceux ayant apporté une contribution majeure au 9 EG mais ne faisant plus partie de l’escadron. Les personnes suivantes sont considérées «de facto» comme membre honoraires à vie :
+- **d.** Membres honoraires à vie. Les membres honoraires à vie sont des anciens membres ordinaires ou honoraires à qui on leur accorde un statut « à vie » lors de leur départ à la re. Si un membre honoraire à vie désire devenir membre associé, il peut en faire la demande au cmdt par l’entremise du comité du mess. Les personnes pouvant devenir membres à vie sont ceux ayant apporté une contribution majeure au 9 EG mais ne faisant plus partie de l’escadron. Les personnes suivantes sont considérées «de facto» comme membre honoraires à vie :
 
   - **(1)** Les anciens commandants du 9 EG.
 
@@ -215,11 +215,10 @@ La constitution établit les droits, les organes et les garanties; les quatre r�
 
 - **c.** Paiement des achats et dépenses. Tous les achats et dépenses faits pour les besoins du mess seront payés par chèque.
 
-- **e.** Traite. Le PCAM peut sonner un maximum de trois traites au cours de l’année financière. Ces traites sont permises seulement lors des assemblées générales ou lors d’un événement extraordinaire et officiel (par exemple au dîner de la troupe ou dans le cadre de Anniversaire du 9 EG). Ce privilège peut être utilisé qu’une seule fois au cours de l’événement. Une consommation par membre présent dans le Mess au moment de la traite est autorisée. Le Commandant se réserve également ce privilège lors du dîner de la troupe.
+- **e.** Consommations offertes par le Mess. Seul le PCAM et le commandant peuvent autoriser une consommation par membre présent aux frais du Mess, en sonnant la cloche ou en distribuant des billets. L’offre doit bénéficier à l’ensemble des membres présents. Le coût total de ces consommations ne doit pas dépasser le plafond annuel fixé au budget approuvé. Les règles de service du bar demeurent applicables.
 
-<a id="article-47"></a>**47.** Dépenses du comité de divertissement.
-
-- **a.** Le comité du divertissement est autorisé à dépenser chaque mois le montant établi dans les prévisions budgétaires pour chaque mois de l’année, afin d’offrir des divertissements aux membres et à leurs invités, sous réserve des conditions suivantes :
+<a id="article-47"></a>
+**47.** Dépenses du comité de divertissement. Le comité du divertissement est autorisé à dépenser chaque mois le montant établi dans les prévisions budgétaires, afin d’offrir des divertissements aux membres et à leurs invités, sous réserve des conditions suivantes :
 
 - **(1)** le calendrier des divertissements doit être approuvé par le comité du mess;
 
@@ -227,36 +226,31 @@ La constitution établit les droits, les organes et les garanties; les quatre r�
 
 - **(3)** les fonds doivent être disponibles.
 
-- **b.** Toute dépense pour les divertissements doit être certifiée pour paiement par le PCAM.
+<a id="article-48"></a>
+**48.** Radiations et pertes. En cas de perte de biens ou de dommages à la propriété non publique. Lors des circonstances spéciales, le commandant peut radier une somme ne dépassant pas la valeur indiquée dans l’A-FN-105-001/AAG-001.
 
-<a id="article-48"></a>**48.** Radiations et pertes. En cas de perte de biens ou de dommages à la propriété non publique. Lors des circonstances spéciales, le commandant peut radier une somme ne dépassant pas la valeur indiquée dans l’A-FN-105-001/AAG-001.
+<a id="article-49"></a>
+**49.** La répartition des revenus et des dépenses est basé sur le pourcentage des ventes des utilisateurs. Il est à noter que les frais d’exploitation du mess (frais fixes, entretient...) ont la priorité sur les activités sociales du mess.
 
-<a id="article-49"></a>**49.** La répartition des revenus et des dépenses est basé sur le pourcentage des ventes des utilisateurs. Il est à noter que les frais d’exploitation du mess (frais fixes, entretient...) ont la priorité sur les activités sociales du mess.
+<a id="article-50"></a>
+**50.** Le président possède le pouvoir de dépenser un montant maximal de 100 $ mensuellement si nécessaire. Ce montant a pour but de faciliter les petits achats. Tous ces achats devront être appuyés ou acceptés lors de la prochaine assemblée.
 
-<a id="article-50"></a>**50.** Le président possède le pouvoir de dépenser un montant maximal de 100 $ mensuellement si nécessaire. Ce montant a pour but de faciliter les petits achats. Tous ces achats devront être appuyés ou acceptés lors de la prochaine assemblée.
-
-<a id="article-51"></a>**51.** Le fond du président est géré par le président et le trésorier du Mess. Ce fond doit servir à l'embellissement du Mess ou au bien-être de ses membres. Les dépenses seront autorisées par le président ou le trésorier et devront être acceptées lors de la prochaine réunion.
-
-<a id="article-52"></a>**52.** Un montant maximum de 100$ par activité, (Club Chimo et Combiné), octroyé mensuellement et elle est non cumulable. Toutefois, les revenus de l’activité devront générer au minimum l’investissement de départ. La gestion de ces dépenses doit être faite selon le principe du bon gestionnaire.
-
-<a id="article-53"></a>**53.** Le barman recevra une indemnité de 75$ pour ces services lors des activités spéciales, tel que stipulé au para 44. Le montant maximum de 300$ par année s’applique pour les activités du Mess et Instituts, et ne s’applique pas lors des réceptions privées ayant fait l’objet d’une prestation de service.
-
-<a id="article-54"></a>**54.** Les revenues des caisses enregistreuses seront comptabilisées mensuellement par les FNP afin de conserver un contrôle des dépenses et des revenus.
-
-<a id="article-55"></a>**55.** Tous revenus et toutes dépenses générés par les activités conjointes seront séparés également entre les utilisateurs.
+<a id="article-51"></a>
+**51.** Le fond du président est géré par le président et le trésorier du Mess. Ce fond doit servir à l'embellissement du Mess ou au bien-être de ses membres. Les dépenses seront autorisées par le président ou le trésorier et devront être acceptées lors de la prochaine réunion.
 
 ## Réceptions privées
 
-<a id="article-90"></a>**90.** Les réceptions privées peuvent être organisées par les membres du Mess ainsi que des non-membres désirant utiliser les locaux du Mess.
+<a id="article-90"></a>
+**90.** Les réceptions privées peuvent être organisées par les membres du Mess ainsi que des non-membres désirant utiliser les locaux du Mess.
 
-<a id="article-91"></a>**91.** Les réservations seront faites par le biais du régisseur, qui devra présenter les demandes au président qui les fera suivre au commandant pour approbation. Le commandant se réserve le droit de refuser toute demande de réservation sans présenter de justification. Les réservations ne seront normalement pas acceptées pour les journées au cours desquels il y aura de l'entraînement à l’escadron car les membres auront toujours priorité pour l'utilisation de leur Mess.
+<a id="article-91"></a>
+**91.** Les réservations seront faites par le biais du régisseur, qui devra présenter les demandes au président qui les fera suivre au commandant pour approbation. Le commandant se réserve le droit de refuser toute demande de réservation sans présenter de justification. Les réservations ne seront normalement pas acceptées pour les journées au cours desquels il y aura de l'entraînement à l’escadron car les membres auront toujours priorité pour l'utilisation de leur Mess.
 
-<a id="article-92"></a>**92.** Lorsqu’un membre associé, un membre honoraire ou un membre à vie souhaite procéder à la location du Mess combiné pour un événement privé, ceux-ci pourront le faire sans frais de location. Ils devront cependant payer les frais de barman, si applicables.
+<a id="article-92"></a>
+**92.** Lorsqu’un membre associé, un membre honoraire ou un membre à vie souhaite procéder à la location du Mess combiné pour un événement privé, ceux-ci pourront le faire sans frais de location. Ils devront cependant payer les frais de barman, si applicables.
 
-<a id="article-93"></a>**93.** Le conseil d'administration établira les frais d'utilisation pour chaque demande. Ces frais seront inscrits sur le contrat d'utilisation. S'il s'agit d'une activité organisée:
-
-
-
+<a id="article-93"></a>
+**93.** Le conseil d'administration établira les frais d'utilisation pour chaque demande. Ces frais seront inscrits sur le contrat d'utilisation. S'il s'agit d'une activité organisée:
 
 - **a.** par un membre du Mess, les frais seront établis en fonction du coût réel (serveurs, nettoyage, etc), et les profits des ventes du bar pour cette activité serviront à couvrir les frais. Le membre qui organise l'activité sera tenu responsable de la balance des frais d'opération pour la réception; et
 
@@ -264,23 +258,31 @@ La constitution établit les droits, les organes et les garanties; les quatre r�
 
 ## Activités
 
-<a id="article-101"></a>**101.** Toute suggestion pour fonction sociale ou activité sera soumise au responsable des activités pour être votée lors d'une assemblée générale ou approbation du commandant.
+<a id="article-101"></a>
+**101.** Toute suggestion pour fonction sociale ou activité sera soumise au responsable des activités pour être votée lors d'une assemblée générale ou approbation du commandant.
 
-<a id="article-102"></a>**102.** Un calendrier des activités devra être affiché dans les locaux du mess pour que tous les membres puissent le consulter librement.
+<a id="article-102"></a>
+**102.** Un calendrier des activités devra être affiché dans les locaux du mess pour que tous les membres puissent le consulter librement.
 
-<a id="article-103"></a>**103.** Un budget devra être soumis en décembre de chaque année afin de pouvoir planifier les activités avec les exercices du 9e Escadron du Génie ainsi que les autres occupants du manège.
+<a id="article-103"></a>
+**103.** Un budget devra être soumis en décembre de chaque année afin de pouvoir planifier les activités avec les exercices du 9e Escadron du Génie ainsi que les autres occupants du manège.
 
-<a id="article-104"></a>**104.** Afin de souligner le support des familles des membres, une activité annuelle sous la thématique du Noël des enfants se fera prévu au calendrier des Mess. Un montant maximum de 150$ sera attribué pour financer cette activité.
+<a id="article-104"></a>
+**104.** Afin de souligner le support des familles des membres, une activité annuelle sous la thématique du Noël des enfants se fera prévu au calendrier des Mess. Un montant maximum de 150$ sera attribué pour financer cette activité.
 
 ## Fonds cadeau
 
-<a id="article-105"></a>**105.** Décès. Des fleurs ou autres pour un montant maximal de 50 $ seront envoyées au salon funéraire lors du décès du conjoint, des enfants, des parents. Pour ce qui est du décès d'un membre le montant pourra être doublé pour les membres réguliers et associés.
+<a id="article-105"></a>
+**105.** Décès. Des fleurs ou autres pour un montant maximal de 50 $ seront envoyées au salon funéraire lors du décès du conjoint, des enfants, des parents. Pour ce qui est du décès d'un membre le montant pourra être doublé pour les membres réguliers et associés.
 
-<a id="article-106"></a>**106.** Naissance. Des fleurs ou autres cadeaux au montant maximal de 75 $ pour les naissances. Les fleurs ou autres cadeaux seront envoyées à l'hôpital ou à la résidence lors de la naissance d'un enfant d'un membre. Si les parents sont tous deux membres du Mess, le montant sera doublé.
+<a id="article-106"></a>
+**106.** Naissance. Des fleurs ou autres cadeaux au montant maximal de 75 $ pour les naissances. Les fleurs ou autres cadeaux seront envoyées à l'hôpital ou à la résidence lors de la naissance d'un enfant d'un membre. Si les parents sont tous deux membres du Mess, le montant sera doublé.
 
-<a id="article-107"></a>**107.** Hospitalisation. Des fleurs ou cadeaux seront envoyés à l'hôpital ou à la résidence du membre suite à une hospitalisation et convalescence d'au moins 48 heures. Le montant maximal de 50 $ sera applicable. Cette clause inclus uniquement les membres réguliers et associés.
+<a id="article-107"></a>
+**107.** Hospitalisation. Des fleurs ou cadeaux seront envoyés à l'hôpital ou à la résidence du membre suite à une hospitalisation et convalescence d'au moins 48 heures. Le montant maximal de 50 $ sera applicable. Cette clause inclus uniquement les membres réguliers et associés.
 
-<a id="article-108"></a>**108.** Cadeau d’appartenance.
+<a id="article-108"></a>
+**108.** Cadeau d’appartenance.
 
 - **a.** Lorsqu’un membre fait parti du mess depuis plus de 1 an, un T-Shirt de l’unité lui sera remis d’une valeur ne dépassant pas 30$.
 
@@ -288,27 +290,35 @@ La constitution établit les droits, les organes et les garanties; les quatre r�
 
 - **c.** Lorsqu’un membre a complété avec succès son cours de métier, un « coin » de l’unité lui sera remis d’une valeur ne dépassant pas 25$.
 
-<a id="article-109"></a>**109.** Départ de membres dits « spéciaux ». Lors du départ du Cmdt, du SME, Lcol (H) ou de tous membres ayant plus de 12 années d’appartenance au mess, un cadeau d’une valeur maximale de 150$ lui sera remis.
+<a id="article-109"></a>
+**109.** Départ de membres dits « spéciaux ». Lors du départ du Cmdt, du SME, Lcol (H) ou de tous membres ayant plus de 12 années d’appartenance au mess, un cadeau d’une valeur maximale de 150$ lui sera remis.
 
-<a id="article-110"></a>**110.** Cadeau de mission. Un cadeau pourra être offer au membre du 9 EG détaché en mission (Opération). Ce cadeau d’une valeur maximale de 50,00$ pourra être versé au personnel détaché du 9 EG qui est normalement un membre en règle du Mess et Instituts. Cette personne aura droit au cadeau de mission même s’il est absent de l’unité et qu’il n’a pas payé de cotisation au mess et Institut en raison de son déploiement en mission.
+<a id="article-110"></a>
+**110.** Cadeau de mission. Un cadeau pourra être offer au membre du 9 EG détaché en mission (Opération). Ce cadeau d’une valeur maximale de 50,00$ pourra être versé au personnel détaché du 9 EG qui est normalement un membre en règle du Mess et Instituts. Cette personne aura droit au cadeau de mission même s’il est absent de l’unité et qu’il n’a pas payé de cotisation au mess et Institut en raison de son déploiement en mission.
 
-<a id="article-111"></a>**111.** Changement de Cmdt. Des fleurs, pour un montant n’excédant pas 50,00$, seront offertes à la conjointe ou au conjoint du Cmdt sortant ainsi qu’à la conjointe ou au conjoint du Cmdt entrant.
+<a id="article-111"></a>
+**111.** Changement de Cmdt. Des fleurs, pour un montant n’excédant pas 50,00$, seront offertes à la conjointe ou au conjoint du Cmdt sortant ainsi qu’à la conjointe ou au conjoint du Cmdt entrant.
 
 *Note. Il est de la responsabilité du membre ou de sa famille de prévenir la salle des rapports ou un membre du comité du Mess pour les articles mentionnés ci-haut. Le supérieur immédiat est responsable de remettre le présent au membre ou à la famille.
 
 ## Plaintes et suggestions
 
-<a id="article-112"></a>**112.** Toute plainte sera inscrite et remise au commandant adjoint.
+<a id="article-112"></a>
+**112.** Toute plainte sera inscrite et remise au commandant adjoint.
 
-<a id="article-113"></a>**113.** Toute suggestion, proposition ou observation pourra aussi être remis au commandant adjoint.
+<a id="article-113"></a>
+**113.** Toute suggestion, proposition ou observation pourra aussi être remis au commandant adjoint.
 
 ## Modification des textes
 
-<a id="article-114"></a>**114.** Validité. Cette constitution ne peut être amendée qu'après qu'une proposition ait été mise par écrit et envoyée au secrétaire, et qu'ensuite elle ait été acceptée par la majorité des membres présents à la réunion.
+<a id="article-114"></a>
+**114.** Validité. Cette constitution ne peut être amendée qu'après qu'une proposition ait été mise par écrit et envoyée au secrétaire, et qu'ensuite elle ait été acceptée par la majorité des membres présents à la réunion.
 
-<a id="article-115"></a>**115.** Les propositions de modification des statuts ou règlements ne doivent pas être inscrites au registre des motions, mais présentées par écrit au PCAM qui les soumettra au comité du mess. Les propositions valables doivent être affichées pendant au moins 15 jours avant d’être étudiées à la prochaine assemblée générale ordinaire ou extraordinaire du mess. Si le comité du mess rejette les propositions, le PCAM doit en communiquer les raisons à l’auteur. Les statuts ne doivent, pour aucune considération, diverger ou aller à l’encontre des politiques des FC en matière d’exploitation des mess.
+<a id="article-115"></a>
+**115.** Les propositions de modification des statuts ou règlements ne doivent pas être inscrites au registre des motions, mais présentées par écrit au PCAM qui les soumettra au comité du mess. Les propositions valables doivent être affichées pendant au moins 15 jours avant d’être étudiées à la prochaine assemblée générale ordinaire ou extraordinaire du mess. Si le comité du mess rejette les propositions, le PCAM doit en communiquer les raisons à l’auteur. Les statuts ne doivent, pour aucune considération, diverger ou aller à l’encontre des politiques des FC en matière d’exploitation des mess.
 
-<a id="article-116"></a>**116.** À tous les égards, une modification ainsi proposée devient valide et partie des présents statuts ou règlements une fois qu’elle est ratifiée à l’occasion d’une assemblée générale ordinaire ou extraordinaire où il y a quorum et qu’elle est subséquemment approuvée par le commandant des mess.
+<a id="article-116"></a>
+**116.** À tous les égards, une modification ainsi proposée devient valide et partie des présents statuts ou règlements une fois qu’elle est ratifiée à l’occasion d’une assemblée générale ordinaire ou extraordinaire où il y a quorum et qu’elle est subséquemment approuvée par le commandant des mess.
 
 ## Assemblées et portée des règlements
 
@@ -329,7 +339,8 @@ La constitution établit les droits, les organes et les garanties; les quatre r�
 
 ## Tâches et responsabilités
 
-<a id="article-36"></a>**36.** Devoirs du président du conseil d’administration du mess (PCAM).
+<a id="article-36"></a>
+**36.** Devoirs du président du conseil d’administration du mess (PCAM).
 
 - **a.** Il doit rendre compte au commandant pour tout ce qui touche ses fonctions.
 
@@ -353,8 +364,8 @@ La constitution établit les droits, les organes et les garanties; les quatre r�
 
 - **k.** Les membres du personnel des finances ne peuvent être président du Mess.
 
-<a id="article-37"></a>**37.** Devoirs du vice-président du conseil d’administration du mess (VPCAM).
-
+<a id="article-37"></a>*
+*37.** Devoirs du vice-président du conseil d’administration du mess (VPCAM).
 
 - **a.** Il doit rendre compte au président du comité du mess pour toute tâche lui incombant.
 
@@ -366,7 +377,8 @@ La constitution établit les droits, les organes et les garanties; les quatre r�
 
 - **e.** Les membres du personnel des finances ne peuvent être vice-président du Mess.
 
-<a id="article-38"></a>**38.** Devoirs du secrétaire.
+<a id="article-38"></a>
+**38.** Devoirs du secrétaire.
 
 - **a.** Il doit rendre compte au président du comité du Mess.
 
@@ -387,7 +399,8 @@ La constitution établit les droits, les organes et les garanties; les quatre r�
 
 - **h.** Les membres du personnel des finances peuvent être secrétaire du Mess.
 
-<a id="article-39"></a>**39.** Devoirs du trésorier.
+<a id="article-39"></a>
+**39.** Devoirs du trésorier.
 
 - **a.** Il a la responsabilité d'avoir une liste à jour des membres en règle. Toutes les cotisations sont payables du 1er avril au 31 mars
 
@@ -395,7 +408,8 @@ La constitution établit les droits, les organes et les garanties; les quatre r�
 
 - **c.** Il recommande au responsable des fonds non-publics les dépenses approuvées par le comité et les membres du Mess.
 
-<a id="article-41"></a>**41.** Responsabilités du responsable des activités du Club Chimo et Mess Combiné.
+<a id="article-41"></a>
+**41.** Responsabilités du responsable des activités du Club Chimo et Mess Combiné.
 
 - **a.** Il doit rendre compte au président du comité du Mess.
 
