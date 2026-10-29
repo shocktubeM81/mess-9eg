@@ -40,27 +40,27 @@ Conformément à la [DOAD 5045-0](https://www.canada.ca/fr/ministere-defense-nat
 <a id="article-4"></a>
 **4. Catégories et admission.** Les catégories de membres et leur admissibilité relèvent du [Manuel PSP, chapitre 9-1, paragraphes 11 à 23](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=268). Les dispositions locales suivantes précisent les démarches et la reconnaissance des membres.
 
-### Membres ordinaires
+### 4.1. Membres ordinaires
 
-Le statut est établi selon le paragraphe 13 de cette référence pour les militaires desservis par le Mess. Le fait de travailler au 9 EG ou d’y être attaché ne confère pas, à lui seul, le statut de membre ordinaire à une personne civile. Sa demande est examinée dans la catégorie applicable.
+Le statut est établi selon [le paragraphe 13 du chapitre 9-1 du Manuel PSP](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=268) pour les militaires desservis par le Mess. Le fait de travailler au 9 EG ou d’y être attaché ne confère pas, à lui seul, le statut de membre ordinaire à une personne civile. Sa demande est examinée dans la catégorie applicable.
 
-### Membres associés
+### 4.2. Membres associés
 
-- **Admission.** Les catégories admissibles sont celles du paragraphe 14 de la référence. La demande écrite est adressée au président et appuyée par un membre ordinaire. Elle est affichée au moins 30 jours avant son examen. Les observations sont transmises au président. Le comité présente sa recommandation à l’assemblée; les approbations et la possibilité d’une admission temporaire suivent les paragraphes 14 à 17 de la référence.
-- **Nombre de membres.** Le plafond local est de 65 % du nombre de membres ordinaires. Une liste d’attente est tenue au besoin, selon les priorités de la référence.
-- **Renouvellement.** Les renouvellements requis par la référence sont examinés à la première assemblée générale de l’année civile pour l’année financière suivante.
-- **Participation.** Les privilèges et la participation aux travaux du comité suivent le paragraphe 17 de la référence. La participation aux événements officiels à caractère militaire exige une invitation du président.
+- **Admission.** Les catégories admissibles sont celles du [paragraphe 14 du chapitre 9-1 du Manuel PSP](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=269). La demande écrite est adressée au président et appuyée par un membre ordinaire. Elle est affichée au moins 30 jours avant son examen. Les observations sont transmises au président. Le comité présente sa recommandation à l’assemblée; les approbations et la possibilité d’une admission temporaire suivent les [paragraphes 14 à 17 du chapitre 9-1 du Manuel PSP](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=269).
+- **Nombre de membres.** Le plafond local est de 65 % du nombre de membres ordinaires. Une liste d’attente est tenue au besoin, selon les [priorités du chapitre 9-1, paragraphe 15, du Manuel PSP](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=270).
+- **Renouvellement.** Les renouvellements prévus au [chapitre 9-1, paragraphe 17, du Manuel PSP](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=270) sont examinés à la première assemblée générale de l’année civile pour l’année financière suivante.
+- **Participation.** Les privilèges et la participation aux travaux du comité suivent le [paragraphe 17 du chapitre 9-1 du Manuel PSP](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=270). La participation aux événements officiels à caractère militaire exige une invitation du président.
 - **Révocation et nouvelle demande.** Le comité peut révoquer les privilèges pour non-paiement, inconduite, non-respect des textes du Mess ou autre motif valable. Après une révocation pour non-paiement, une nouvelle demande est requise, sauf si le défaut de paiement est justifié auprès du président.
 
-### Membres honoraires
+### 4.3. Membres honoraires
 
-L’affiliation, les approbations et les privilèges suivent les paragraphes 18, 19, 22 et 23 de la référence. Les anciens combattants et les personnes ayant rendu un service exceptionnel ou contribué au bien ou au prestige de l’unité peuvent être proposés dans la catégorie à laquelle ils sont admissibles.
+L’affiliation, les approbations et les privilèges suivent le [paragraphe 18](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=270) et le [paragraphe 19](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=270), le [paragraphe 22](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=270) et le [paragraphe 23 du chapitre 9-1 du Manuel PSP](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=271). Les anciens combattants et les personnes ayant rendu un service exceptionnel ou contribué au bien ou au prestige de l’unité peuvent être proposés dans la catégorie à laquelle ils sont admissibles.
 
-### Membres honoraires à vie
+### 4.4. Membres honoraires à vie
 
-L’admissibilité relève du paragraphe 21 de la référence. Parmi les militaires admissibles, la reconnaissance locale bénéficie, à leur retraite, aux anciens commandants, sergents-majors et lieutenants-colonels honoraires du 9 EG, ainsi qu’aux membres ayant plus de 12 ans de service au 9 EG. Elle peut aussi reconnaître une contribution majeure à l’unité.
+L’admissibilité relève du [paragraphe 21 du chapitre 9-1 du Manuel PSP](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=270). Parmi les militaires admissibles, la reconnaissance locale bénéficie, à leur retraite, aux anciens commandants, sergents-majors et lieutenants-colonels honoraires du 9 EG, ainsi qu’aux membres ayant plus de 12 ans de service au 9 EG. Elle peut aussi reconnaître une contribution majeure à l’unité.
 
-Le passage au statut associé et les privilèges suivent les paragraphes 21 à 23. Une révocation pour un manquement portant ombrage à l’escadron ou au Mess est soumise au vote de l’assemblée et aux pouvoirs de l’autorité compétente prévus dans la référence.
+Le passage au statut associé et les privilèges suivent le [paragraphe 21](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=270), le [paragraphe 22](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=270) et le [paragraphe 23 du chapitre 9-1 du Manuel PSP](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=271). Une révocation pour un manquement portant ombrage à l’escadron ou au Mess est soumise au vote de l’assemblée et aux pouvoirs de l’autorité compétente prévus au [chapitre 9-1, paragraphe 22, du Manuel PSP](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=270).
 
 ## Comité du Mess
 
@@ -95,7 +95,7 @@ Le passage au statut associé et les privilèges suivent les paragraphes 21 à 2
 
 <a id="constitution-article-11"></a>
 <a id="article-11"></a>
-**11. Délégations financières.** Une fonction au comité ne confère pas automatiquement de pouvoir financier. L’autorisation ou la signature d’un achat ou d’un paiement exige une délégation valide, exercée selon la [Délégation des pouvoirs du CEMD pour l’administration financière des BNP, section 2 et tableaux applicables](https://cfmws.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/8.4.5/Policies/DelegationofAuthorities_f.pdf#page=23). Sans cette délégation, les dépenses sont recommandées au responsable des biens non publics (BNP).
+**11. Délégations financières.** Une fonction au comité ne confère pas automatiquement de pouvoir financier. L’autorisation ou la signature d’un achat ou d’un paiement exige une délégation valide, exercée selon la [Délégation des pouvoirs du CEMD pour l’administration financière des BNP, section 2](https://cfmws.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/8.4.5/Policies/DelegationofAuthorities_f.pdf#page=23) et ses [tableaux applicables](https://cfmws.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/8.4.5/Policies/DelegationofAuthorities_f.pdf#page=25). Sans cette délégation, les dépenses sont recommandées au responsable des biens non publics (BNP).
 
 <a id="constitution-article-12"></a>
 <a id="article-12"></a>
@@ -150,11 +150,11 @@ Seules les motions approuvées peuvent être mises en œuvre. Toute modification
 
 <a id="constitution-article-22"></a>
 <a id="article-23"></a>
-**22. Conflits d’intérêts et bénévolat.** Les conflits d’intérêts et les avantages liés à la gestion suivent le [Manuel PSP, chapitre 9-4, paragraphes 27 et 28](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=289). Les fonctions au comité sont bénévoles.
+**22. Conflits d’intérêts et bénévolat.** Les conflits d’intérêts et les avantages liés à la gestion suivent le [Manuel PSP, chapitre 9-4, paragraphe 27](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=289) et le [paragraphe 28](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=290). Les fonctions au comité sont bénévoles.
 
 <a id="constitution-article-23"></a>
 <a id="article-24"></a>
-**23. Personnel du bar et fournisseurs.** Les fonctions de serveur et de régisseur sont bénévoles, sauf lorsqu’elles sont exercées dans le cadre d’un emploi auprès des SBMFC, selon leurs directives et le budget approuvé. L’achat d’autres services auprès d’un fournisseur suit la [Politique de passation de marchés des BNP, paragraphes 19, 20 et 42](https://sbmfc.ca/a-propos/politiques-et-publications/approvisionnement-et-passation-de-marches/politique-de-passation-de-marches-des-biens-non-publics) et l’[A-FN-105, chapitre 32, paragraphes 1 à 4](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/8.4.5/Policies/AF-N-105/Chap32_f.pdf#page=1). Les pouvoirs financiers restent ceux de l’[article 11](#constitution-article-11).
+**23. Personnel du bar et fournisseurs.** Les fonctions de serveur et de régisseur sont bénévoles, sauf lorsqu’elles sont exercées dans le cadre d’un emploi auprès des SBMFC, selon leurs directives et le budget approuvé. L’achat d’autres services auprès d’un fournisseur suit la [Politique de passation de marchés des BNP, paragraphe 19](https://sbmfc.ca/a-propos/politiques-et-publications/approvisionnement-et-passation-de-marches/politique-de-passation-de-marches-des-biens-non-publics), le [paragraphe 20](https://sbmfc.ca/a-propos/politiques-et-publications/approvisionnement-et-passation-de-marches/politique-de-passation-de-marches-des-biens-non-publics) et le [paragraphe 42](https://sbmfc.ca/a-propos/politiques-et-publications/approvisionnement-et-passation-de-marches/politique-de-passation-de-marches-des-biens-non-publics) et l’[A-FN-105, chapitre 32, paragraphes 1 à 4](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/8.4.5/Policies/AF-N-105/Chap32_f.pdf#page=1). Les pouvoirs financiers restent ceux de l’[article 11](#constitution-article-11).
 
 <a id="constitution-article-24"></a>
 <a id="article-25"></a>
@@ -162,7 +162,7 @@ Seules les motions approuvées peuvent être mises en œuvre. Toute modification
 
 - **a.** Les taux sont votés à la dernière assemblée de l’année financière, normalement en mars, puis soumis à l’approbation prévue à l’[article 20](#constitution-article-20). Tout changement de taux exige un vote de l’assemblée. Les taux approuvés sont communiqués aux membres.
 - **b.** La perception suit les modalités autorisées par les SBMFC. Les réservistes peuvent utiliser la délégation de solde, selon les modalités applicables. Un reçu est remis pour tout paiement direct.
-- **c.** Les changements d’unité, services temporaires, affectations, déploiements et congés sans solde suivent le [Manuel PSP, chapitre 9-1, paragraphes 24 à 28 et tableau 9-1-2](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=271). Ces dispositions déterminent la période payable et les suspensions.
+- **c.** Les changements d’unité, services temporaires, affectations, déploiements et congés sans solde suivent le [Manuel PSP, chapitre 9-1, paragraphes 24 à 28](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=271) et le [tableau 9-1-2](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=273). Ces dispositions déterminent la période payable et les suspensions.
 - **d.** Le trésorier transmet les justificatifs au service de comptabilité pour régulariser les cotisations et rembourser tout trop-perçu, par les moyens autorisés par les SBMFC.
 
 <a id="constitution-article-25"></a>

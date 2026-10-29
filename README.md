@@ -15,6 +15,8 @@ Proposition de révision du 29 octobre 2026, version 0.8, préparée sur `codex/
 
 La constitution donne accès à huit annexes par rôle, chacune dans son propre document. Les fonctions du commandant et du responsable des drogues et de l’alcool relèvent de l’unité et ne font pas l’objet d’une annexe du Mess. La constitution compte 56 articles numérotés en continu; les anciennes cibles de liens sont conservées; les règlements en comptent respectivement 11, 6, 10 et 5. Les références externes restent cliquables. Les tâches des titulaires sont regroupées dans les annexes. Les adresses des pages sont conservées pour maintenir les liens existants.
 
+Chaque renvoi à une référence, un chapitre, un paragraphe ou un article est cliquable à son emplacement. Deux renvois distincts ont chacun leur lien, même lorsqu’ils visent le même document. Les plages continues peuvent être citées ensemble; les pages PDF sont précisées lorsque connues.
+
 Ces fichiers Markdown sont les sources à modifier directement. La présentation et les règlements n’ont chacun qu’un texte de référence. Les recueils, les index intermédiaires et les anciens générateurs qui recréaient des copies ont été retirés. Les versions précédentes restent dans l’historique Git.
 
 ## Documentation de travail
