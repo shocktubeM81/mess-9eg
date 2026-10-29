@@ -2,14 +2,14 @@
 layout: default
 title: Annexe A — Président du comité du Mess
 document_label: Annexe A
-document_group: constitution
+document_group: administration
 ---
 
 # Annexe A — Président du comité du Mess
 
-**Version 0.7 du 29 octobre 2026 — Proposition à discuter et à adopter.**
+**Version 0.9 du 29 octobre 2026 — Proposition à discuter et à adopter.**
 
-[Constitution du Mess et Instituts](../constitution-consolidee.md) · [Liste des annexes](../constitution-consolidee.md#annexes-des-responsabilites)
+[Constitution du Mess et Instituts](../constitution-consolidee.md) · [Liste des annexes du R5](../R5-proposition.md#annexes-des-responsabilites)
 
 ## Responsabilités
 
@@ -39,5 +39,5 @@ document_group: constitution
 
 ## Navigation entre les annexes
 
-- [Retour à la constitution](../constitution-consolidee.md#annexes-des-responsabilites)
+- [Retour aux annexes du R5](../R5-proposition.md#annexes-des-responsabilites)
 - [Annexe B — Vice-président du comité du Mess →](annexe-b.md)

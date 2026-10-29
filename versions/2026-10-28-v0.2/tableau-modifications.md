@@ -5,7 +5,7 @@ title: Tableau des modifications Avant Après Pourquoi
 
 # Tableau des modifications Avant Après Pourquoi
 
-**Version 0.8 du 29 octobre 2026 — Proposition à discuter et à adopter.**
+**Version 0.9 du 29 octobre 2026 — Proposition à discuter et à adopter.**
 
 Seules les modifications sont présentées. La première section compare la proposition à la transcription originale. La seconde explique la simplification de la version 0.3. Les numéros de la dernière colonne sont ceux de la version actuelle.
 
@@ -129,3 +129,28 @@ Cette passe reprend les règles de la version 0.7. Elle améliore leur présenta
 | Renvois avec l’ancienne numérotation | Libellés et cibles des textes courants adaptés | Conserver les anciens liens sans confondre leurs numéros avec les numéros actuels |
 
 Les montants, les délais, les majorités, les critères d’admission et de prestation, les compétences et les approbations sont conservés. Les quatre règlements gardent leurs 32 articles. Les versions précédentes des tableaux et les anciens numéros restent historiques; la concordance 0.8 donne le passage aux nouveaux numéros.
+
+
+## Constitution selon le modèle PSP — version 0.9
+
+L’utilisateur a fourni le tableau 9-4-3 « Statuts types d’un mess » et le tableau 9-4-3-1 sur les règlements, puis a choisi l’ajout d’un R5 en conservant les R1 à R4.
+
+| Rubrique du modèle | Constitution proposée | Modalités et choix locaux conservés |
+|---|---|---|
+| 1. Nom | Article 1 | Nom, Club Chimo et Mess Combiné; catégories de grades inchangées |
+| 2. Établissement et administration | Article 2 | ORFC 27.01, commandant du 9 EG, politiques applicables et portée des règlements |
+| 3. But | Article 3 | Esprit de corps, bien-être et liens entre les membres |
+| 4. Membres | Article 4 | Catégories et admissibilité par renvoi; démarches et critères au R5.1 |
+| 5. Comité du mess | Article 5 | Élections et pouvoirs réservés aux membres conservés; modalités R5.2 à R5.7 |
+| 6. Composition | Article 6 | Minimum président, vice-président, secrétaire ou trésorier; représentation au R5.3 |
+| 7. Fonctions | Article 7 | Annexes A à H rattachées au R5; absence de pouvoir financier automatique conservée |
+| 8. Fréquence des réunions | Article 8 | Comité mensuel selon la référence; assemblée trimestrielle locale conservée |
+| 9. Assemblées générales | Article 9 | Objet, participation, vote, quorum et approbation; convocation au R5 et déroulement au R3 |
+| 10. Réunions du comité | Article 10 | Préparation, finances et affaires courantes dans les délégations; aucun transfert de pouvoir de l’assemblée |
+| 11. Modificatifs | Article 11 | Transmission au président, délai local de 15 jours, vote avec quorum puis approbation du commandant |
+
+Les 43 articles du nouveau R5 reprennent les modalités déplacées de la constitution 0.8. Ils ne constituent pas 43 nouvelles règles. Les montants, plafonds, prestations et modalités de réception sont conservés. Les annexes sont déplacées dans la structure documentaire du R5, sans changer les tâches.
+
+Deux choix locaux sont maintenus au lieu de reprendre automatiquement le modèle : les assemblées restent trimestrielles (le modèle indique au moins deux par an) et le délai de modification reste de 15 jours (le modèle indique sept jours). La composition minimale et la procédure élective locales sont conservées. Le modèle ne sert pas à attribuer au comité de nouveaux pouvoirs financiers.
+
+La nouvelle navigation donne accès au R5. Les renvois actifs sont adaptés; les anciens articles et les anciennes annexes peuvent être retrouvés depuis une rubrique repliable de la constitution.

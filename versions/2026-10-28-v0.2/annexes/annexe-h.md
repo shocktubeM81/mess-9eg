@@ -2,14 +2,14 @@
 layout: default
 title: Annexe H — Serveur
 document_label: Annexe H
-document_group: constitution
+document_group: administration
 ---
 
 # Annexe H — Serveur
 
-**Version 0.4 du 29 octobre 2026 — Proposition à discuter et à adopter.**
+**Version 0.9 du 29 octobre 2026 — Proposition à discuter et à adopter.**
 
-[Constitution du Mess et Instituts](../constitution-consolidee.md) · [Liste des annexes](../constitution-consolidee.md#annexes-des-responsabilites)
+[Constitution du Mess et Instituts](../constitution-consolidee.md) · [Liste des annexes du R5](../R5-proposition.md#annexes-des-responsabilites)
 
 ## Responsabilités
 
@@ -36,4 +36,4 @@ document_group: constitution
 ## Navigation entre les annexes
 
 - [← Annexe G — Régisseur](annexe-g.md)
-- [Retour à la constitution](../constitution-consolidee.md#annexes-des-responsabilites)
+- [Retour aux annexes du R5](../R5-proposition.md#annexes-des-responsabilites)

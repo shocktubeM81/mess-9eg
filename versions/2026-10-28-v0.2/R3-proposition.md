@@ -7,7 +7,7 @@ document_label: Règlement R3
 
 # Règlement sur les assemblées et les réunions
 
-**Version 0.8 du 29 octobre 2026 — Proposition à discuter et à adopter.**
+**Version 0.9 du 29 octobre 2026 — Proposition à discuter et à adopter.**
 
 Ce règlement précise la préparation des séances, leur déroulement et la gestion des documents.
 
@@ -19,7 +19,7 @@ Ce règlement précise la préparation des séances, leur déroulement et la ges
 
 <a id="r3-article-2"></a>
 <a id="r3-2"></a>
-**R3.2.** La convocation indique la date, l’heure, le lieu et, s’il y a lieu, le moyen de connexion. Les délais de convocation et de modification des textes sont ceux des [articles 15](constitution-consolidee.md#constitution-article-15) et [55 de la constitution](constitution-consolidee.md#constitution-article-55). Les documents utiles sont transmis normalement 7 jours avant la séance. Le dépôt des propositions et l’affichage de l’ordre du jour suivent le [Manuel PSP, chapitre 9-4, paragraphe 41](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297) et le [paragraphe 42](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297).
+**R3.2.** La convocation indique la date, l’heure, le lieu et, s’il y a lieu, le moyen de connexion. Les délais de convocation et de modification des textes sont ceux de l’[article R5.9](R5-proposition.md#r5-article-9) et de l’[article 11 de la constitution](constitution-consolidee.md#statuts-article-11). Les documents utiles sont transmis normalement 7 jours avant la séance. Le dépôt des propositions et l’affichage de l’ordre du jour suivent le [Manuel PSP, chapitre 9-4, paragraphe 41](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297) et le [paragraphe 42](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297).
 
 <a id="r3-article-3"></a>
 <a id="r3-3"></a>
@@ -29,7 +29,7 @@ Ce règlement précise la préparation des séances, leur déroulement et la ges
 
 <a id="r3-article-4"></a>
 <a id="r3-4"></a>
-**R3.4.** Le quorum est déterminé selon la [constitution, article 17](constitution-consolidee.md#constitution-article-17), y compris pour une séance particulière. Il est vérifié à l’ouverture et lorsqu’une perte de quorum est signalée. Il est consigné au procès-verbal. Sans quorum après 30 minutes, l’assemblée est annulée et convoquée de nouveau. Si le quorum est perdu, les points non décidés sont reportés et les membres en sont informés.
+**R3.4.** Le quorum est déterminé selon l’[article 9 de la constitution](constitution-consolidee.md#statuts-article-9), y compris pour une séance particulière. Il est vérifié à l’ouverture et lorsqu’une perte de quorum est signalée. Il est consigné au procès-verbal. Sans quorum après 30 minutes, l’assemblée est annulée et convoquée de nouveau. Si le quorum est perdu, les points non décidés sont reportés et les membres en sont informés.
 
 <a id="r3-article-5"></a>
 <a id="r3-5"></a>
@@ -37,7 +37,7 @@ Ce règlement précise la préparation des séances, leur déroulement et la ges
 <a id="r3-7"></a>
 <a id="r3-8"></a>
 <a id="r3-9"></a>
-**R3.5.** Les assemblées, les motions et les votes se déroulent conformément au [Manuel PSP, chapitre 9-4, paragraphe 44](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297) et au [tableau 9-4-4](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=298). Les droits de vote et les seuils particuliers sont ceux des [articles 16 à 19 de la constitution](constitution-consolidee.md#constitution-article-16).
+**R3.5.** Les assemblées, les motions et les votes se déroulent conformément au [Manuel PSP, chapitre 9-4, paragraphe 44](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297) et au [tableau 9-4-4](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=298). Les droits de vote et les seuils particuliers sont ceux de l’[article 9 de la constitution](constitution-consolidee.md#statuts-article-9).
 
 La convocation précise les modalités de participation à distance. Les textes des motions et amendements, les résultats, les abstentions et les seuils appliqués sont consignés au procès-verbal. Les résultats des votes électroniques y sont joints. Un décompte contesté est vérifié; un vote erroné est repris. Une simple consultation ne remplace pas un vote tenu dans ce cadre.
 
@@ -64,7 +64,7 @@ Les versions consultables protègent les renseignements personnels, médicaux, d
 
 <a id="r3-article-9"></a>
 <a id="r3-16"></a>
-**R3.9.** Les suggestions, plaintes et commentaires sont reçus selon les [articles 53](constitution-consolidee.md#constitution-article-53) et [54 de la constitution](constitution-consolidee.md#constitution-article-54). Seuls les éléments destinés au suivi collectif figurent au registre. Le suivi collectif est communiqué sans renseignements personnels. Les questions relevant des membres sont soumises à l’assemblée. Les demandes urgentes sont transmises directement au président; leur suivi collectif est inscrit à la prochaine séance.
+**R3.9.** Les suggestions, plaintes et commentaires sont reçus selon les [articles R5.42](R5-proposition.md#r5-article-42) et [R5.43](R5-proposition.md#r5-article-43). Seuls les éléments destinés au suivi collectif figurent au registre. Le suivi collectif est communiqué sans renseignements personnels. Les questions relevant des membres sont soumises à l’assemblée. Les demandes urgentes sont transmises directement au président; leur suivi collectif est inscrit à la prochaine séance.
 
 ## Conservation et relève
 

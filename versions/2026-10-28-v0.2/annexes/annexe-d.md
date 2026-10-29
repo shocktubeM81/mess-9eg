@@ -2,18 +2,18 @@
 layout: default
 title: Annexe D — Trésorier
 document_label: Annexe D
-document_group: constitution
+document_group: administration
 ---
 
 # Annexe D — Trésorier
 
-**Version 0.8 du 29 octobre 2026 — Proposition à discuter et à adopter.**
+**Version 0.9 du 29 octobre 2026 — Proposition à discuter et à adopter.**
 
-[Constitution du Mess et Instituts](../constitution-consolidee.md) · [Liste des annexes](../constitution-consolidee.md#annexes-des-responsabilites)
+[Constitution du Mess et Instituts](../constitution-consolidee.md) · [Liste des annexes du R5](../R5-proposition.md#annexes-des-responsabilites)
 
 ## Responsabilités
 
-- **a.** Tenir la liste des membres par catégorie et suivre les cotisations. Distinguer la liste des personnes ayant droit de vote du dénombrement servant au quorum selon les [articles 16](../constitution-consolidee.md#constitution-article-16) et [17](../constitution-consolidee.md#constitution-article-17).
+- **a.** Tenir la liste des membres par catégorie et suivre les cotisations. Distinguer la liste des personnes ayant droit de vote du dénombrement servant au quorum selon l’[article 9 de la constitution](../constitution-consolidee.md#statuts-article-9).
 
 - **b.** Transmettre au responsable des biens non publics les recommandations de dépenses du Mess. Exercer les pouvoirs financiers délégués, s’il y a lieu, dans leurs limites et selon les directives en vigueur.
 
@@ -28,5 +28,5 @@ document_group: constitution
 ## Navigation entre les annexes
 
 - [← Annexe C — Secrétaire](annexe-c.md)
-- [Retour à la constitution](../constitution-consolidee.md#annexes-des-responsabilites)
+- [Retour aux annexes du R5](../R5-proposition.md#annexes-des-responsabilites)
 - [Annexe E — Responsable des activités du Club Chimo →](annexe-e.md)

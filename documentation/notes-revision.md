@@ -237,3 +237,19 @@ La version 0.8 reste une proposition à adopter et à approuver. Aucun texte n�
 
 
 Contrôles 0.8 : 56 articles constitutionnels numérotés en continu et titrés; 57 anciennes ancres constitutionnelles conservées; 32 articles réglementaires conservés; 87 liens internes et leurs cibles vérifiés. Comparaison des montants et conditions chiffrées avec 0.7 sans différence; les 20 occurrences de références externes de la constitution sont conservées. Aucun identifiant en double, marqueur de conflit ou erreur d’espacement Git. Aucun rendu Jekyll exécuté.
+
+
+## Révision 0.9 — statuts types et règlement Administration et finances
+
+L’utilisateur a fourni le texte des tableaux 9-4-3 et 9-4-3-1 du Manuel PSP et a choisi l’ajout d’un R5 en conservant les R1 à R4. La constitution est reconstruite selon les 11 rubriques du tableau 9-4-3. Le [tableau 9-4-3 du Manuel PSP](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=294) et l’[article 27.01 des ORFC](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/ordonnances-reglements-royaux/vol-1-administration/chapitre-27-mess-cantines-instituts.html) ont été repérés dans les publications officielles.
+
+Les démarches de membres, l’organisation du comité, les finances, les réceptions, les activités et les cadeaux rejoignent le R5, avec les annexes de fonctions. Les dispositions transférées conservent leur contenu; les renvois et la numérotation sont adaptés. La constitution garde les catégories de membres, la compétence de l’assemblée, le droit de vote, le quorum, l’approbation du commandant et la procédure de modification des cinq règlements et de leurs annexes.
+
+Le modèle est adapté aux décisions locales : assemblées trimestrielles, délai de modification de 15 jours et transmission au président conservés. La réunion mensuelle du comité explicite le paragraphe 39 déjà cité auparavant. La composition minimale reste celle déjà retenue; la liste de fonctions proposée par le modèle n’est pas transformée en obligation de créer tous ces postes. Aucun nouveau pouvoir d’approbation financière du comité n’est déduit de l’exemple.
+
+Les anciens liens d’articles sont conservés dans une liste repliable sur la page constitutionnelle. Une redirection sur le site rejoint leur destination actuelle; les liens de la liste fonctionnent sans cette redirection. Les chemins des annexes sont conservés. Les ambiguïtés et validations de fond signalées précédemment restent à traiter; une réorganisation ne constitue pas une attestation de conformité.
+
+La branche de publication, le domaine et la transcription originale sont inchangés. Cette proposition n’est ni fusionnée ni mise en vigueur automatiquement.
+
+
+Contrôles 0.9 : 11 rubriques constitutionnelles et 43 articles R5 numérotés; quatre sous-catégories de membres rendues; 344 liens internes ou cibles de redirection vérifiés. Les 114 anciennes cibles, y compris celles des annexes, sont testées pour la redirection du site. Les montants et les conditions chiffrées ainsi que les références externes de la constitution précédente sont conservés dans la constitution ou le R5. Le rendu Markdown est contrôlé avec Marked; aucune compilation Jekyll complète n’est revendiquée. Contrôle des espaces Git sans erreur. Le titre local « Statuts et règlements, Mess et Instituts du 9e Escadron du génie » est conservé; le renvoi DOAD 9003-1 demandé précédemment reste au R5.6.
