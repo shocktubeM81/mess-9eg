@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Statuts et règlements du Mess et Institut du 9 EG
+title: Statuts et règlements du Mess du 9 EG
 document_label: Statuts et règlements
 ---
 
-# Statuts et règlements du Mess et Institut du 9 EG
+# Statuts et règlements du Mess du 9 EG
 
 {% include conventions-references.md %}
 

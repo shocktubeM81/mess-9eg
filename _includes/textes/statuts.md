@@ -6,7 +6,7 @@ Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québe
 
 <a id="statuts-p-1-1"></a>
 
-**1.1.** Le Mess et Institut du 9 EG, ci-après appelé « le Mess », comprend deux locaux : le « Club Chimo », destiné aux soldats, caporaux et caporaux-chefs, et le « Mess Combiné », destiné aux sergents, adjudants et officiers.
+**1.1.** Le Mess du 9e Escadron du génie, ci-après appelé « le Mess », comprend deux locaux : le « Club Chimo », destiné aux soldats, caporaux et caporaux-chefs, et le « Mess Combiné », destiné aux sergents, adjudants et officiers.
 
 <a id="statuts-article-2"></a>
 
@@ -14,7 +14,7 @@ Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québe
 
 <a id="statuts-p-2-1"></a>
 
-**2.1.** L’établissement et l’administration du Mess relèvent de l’[article 27.01 des ORFC](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/ordonnances-reglements-royaux/vol-1-administration/chapitre-27-mess-cantines-instituts.html). Le commandant du 9 EG exerce les fonctions de commandant du Mess et Instituts.
+**2.1.** L’établissement et l’administration du Mess relèvent de l’[article 27.01 des ORFC](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/ordonnances-reglements-royaux/vol-1-administration/chapitre-27-mess-cantines-instituts.html). Le commandant du 9 EG exerce les fonctions de commandant du Mess.
 
 <a id="statuts-p-2-2"></a>
 

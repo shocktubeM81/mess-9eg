@@ -1,4 +1,4 @@
-# Statuts et règlements du Mess et Institut du 9 EG
+# Statuts et règlements du Mess du 9 EG
 
 Le [document complet](index.md) présente **Partie I — Statuts**, puis **Partie II — Règlements**, avec les six règlements et les annexes des fonctions. Il reste un projet soumis à l’adoption et aux approbations requises.
 
