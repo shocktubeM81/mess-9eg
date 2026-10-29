@@ -1,6 +1,6 @@
 # Mess et Instituts du 9e Escadron du génie
 
-Proposition de révision du 29 octobre 2026, version 0.4, préparée sur `revision-documents-2026-10-28`. Les textes restent soumis à l’adoption des membres et à l’approbation du commandant.
+Proposition de révision du 29 octobre 2026, version 0.5, préparée sur `codex/revision-reglements-psp-2026-10-29`. Les textes restent soumis à l’adoption des membres et à l’approbation du commandant.
 
 ## Documents de référence
 

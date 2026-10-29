@@ -5,7 +5,7 @@ title: Présentation de la révision des documents du Mess
 
 # Présentation de la révision des documents du Mess
 
-29 octobre 2026 — Version 0.4 proposée
+29 octobre 2026 — Version 0.5 proposée
 
 Aux membres du Mess et Instituts du 9e Escadron du génie,
 
@@ -13,7 +13,7 @@ Je vous soumets une révision pour faciliter la lecture de nos règles et le sui
 
 La constitution conserve les droits des membres, les pouvoirs de décision et les garanties financières. Quatre règlements précisent les modalités pratiques : tenue et comportement, meubles et décorations, assemblées et réunions, service de bar. Les tâches sont regroupées dans huit annexes, une par rôle du Mess.
 
-Cette version raccourcit les phrases et retire les répétitions et les renvois de rappel. Elle conserve les assemblées trimestrielles, les seuils de vote, les délais, les plafonds financiers et les approbations prévues. Le comité reste distinct de l’assemblée.
+Cette version remplace les reprises de politiques par des renvois précis. Elle assouplit les modalités de participation, de vente et de sauvegarde. Les consommations offertes et le quorum d’une séance particulière renvoient aux politiques PSP. Les montants des prestations sont conservés. Le comité reste distinct de l’assemblée. La conformité complète demeure à confirmer, notamment pour les catégories de membres et les modalités financières.
 
 La communication directe des avis et décisions, l’accès aux documents, leur classement et leurs sauvegardes facilitent la participation et la relève. Les renseignements confidentiels restent protégés. Le suivi du Mess, du fonds cadeau et du fonds d’unité demeure distinct, avec les vérifications BNP requises.
 

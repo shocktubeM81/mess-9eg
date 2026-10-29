@@ -5,7 +5,7 @@ title: Tableau des modifications Avant Après Pourquoi
 
 # Tableau des modifications Avant Après Pourquoi
 
-**Version 0.4 du 29 octobre 2026 — Proposition à discuter et à adopter.**
+**Version 0.5 du 29 octobre 2026 — Proposition à discuter et à adopter.**
 
 Seules les modifications sont présentées. La première section compare la proposition à la transcription originale. La seconde explique la simplification de la version 0.3. Les numéros de la dernière colonne sont ceux de la version actuelle.
 
@@ -42,3 +42,23 @@ Seules les modifications sont présentées. La première section compare la prop
 | Assemblées et réunions du comité | Une réunion du comité mentionnée parmi les règles des assemblées; deux mentions de « prochaine réunion » sans précision | Deux sections distinctes; assemblée des membres pour les décisions réservées, comité pour la préparation et la gestion courante. Le remplacement des élus et l’acceptation des dépenses du fonds du président sont rattachés à l’assemblée. | Éviter de confondre les participants et les pouvoirs de chaque instance. | Constitution 10, 14 à 22 et 31 |
 | R4 | Sobriété et incidents répétés; ouverture et fermeture attribuées à des personnes | Contrôles, refus, incidents et fermeture regroupés; tâches dans les annexes | Faciliter l’application pendant le service. | R4; annexes G et H |
 | Numérotation | Repères de la version 0.3 | Numérotation continue et adresses des pages conservées | Faciliter la lecture sans multiplier les copies. | Concordance de travail et historique Git |
+
+
+## Révision PSP/BNP du 29 octobre 2026 — version 0.5
+
+Cette section décrit les changements depuis la version 0.4; les tableaux précédents documentent les étapes antérieures.
+
+| Disposition | Avant | Proposition | Motif |
+|---|---|---|---|
+| R1.1, R1.6, R1.10 | Reprises des politiques; interdiction générale des jeux | Renvois aux passages applicables; tenue locale simple | Éviter les écarts avec la source et les interdictions excessives |
+| R1.13, R2.6 | Responsabilité et remboursement automatiques | Traitement par la procédure applicable et le contrat | Distinguer signalement, enquête et responsabilité |
+| R2.5, R2.7 | Vente encadrée localement; assurance à pleine valeur garantie | Renvois aux règles de disposition et d’assurance | Ne pas promettre une couverture inexistante |
+| R3.2, R3.6 | Procédures recopiées | Renvois; envoi documentaire normalement 7 jours avant | Conserver les délais constitutionnels et éviter les doublons |
+| R3.9 | Internet limité à la consultation | Renvoi pour les assemblées virtuelles et le vote électronique | Faciliter la participation |
+| R3.18 | Sauvegarde mensuelle et essai annuel fixes | Organisation adaptée aux outils, avec vérification à la relève | Alléger la procédure locale |
+| R4.1 à R4.3, R4.7 | Règles générales reproduites et formats de vente interdits | Renvois ciblés, consignes locales de service | Appliquer les autorisations existantes |
+| R4.5 | Fermeture des bars pour toute situation inusitée | Suspension ciblée et fermeture selon le danger | Éviter une fermeture automatique disproportionnée |
+| Constitution 16 | Aucun cas particulier prévu | Renvoi pour la validation d’une séance particulière | Rendre accessible la souplesse prévue par la politique |
+| Constitution 26 c | Autorisation générale de consommations offertes | Renvoi aux règles PSP pour l’alcool; disposition locale pour les boissons sans alcool | Corriger une incompatibilité avec la politique supérieure, sans créer d’interdiction locale |
+
+Les numéros et ancres existants sont conservés. Les vérifications restant nécessaires sont consignées dans les notes de révision.

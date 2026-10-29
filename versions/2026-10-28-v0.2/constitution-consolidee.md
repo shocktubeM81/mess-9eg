@@ -5,7 +5,7 @@ title: Constitution du Mess et Instituts du 9e Escadron du génie
 
 # Constitution du Mess et Instituts du 9e Escadron du génie
 
-**Version 0.4 du 29 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après adoption avec quorum et approbation du commandant.
+**Version 0.5 du 29 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après adoption avec quorum et approbation du commandant.
 
 Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québec.
 
@@ -74,7 +74,7 @@ Toute personne participant à la gestion des fonds agit avec diligence. La mauva
 
 <a id="article-15"></a>**15.** Un rapport financier sommaire est présenté à chaque assemblée générale.
 
-<a id="article-16"></a>**16.** Le quorum est formé de plus de 50 % des membres ordinaires en règle et disponibles en région. Toute décision de l’assemblée exige le quorum.
+<a id="article-16"></a>**16.** Le quorum est formé de plus de 50 % des membres ordinaires en règle et disponibles en région. Toute décision de l’assemblée exige le quorum. Pour une séance particulière, la validation d’un quorum inférieur suit le [Manuel PSP, chapitre 9-4, paragraphe 43](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297); les circonstances sont consignées au procès-verbal.
 
 <a id="article-17"></a>**17.** Les membres ordinaires en règle ont droit de vote. Les membres associés et honoraires peuvent assister aux assemblées et participer aux discussions, sans voter.
 
@@ -92,11 +92,11 @@ Toute personne participant à la gestion des fonds agit avec diligence. La mauva
 
 ## Finances et cotisations
 
-<a id="article-23"></a>**23.** Les membres du comité ne peuvent tirer de profit personnel, de rémunération ou d’avantage de leur gestion du Mess. Tout avantage possible lié à leur participation à une entreprise faisant affaire avec le Mess est déclaré au commandant ([Manuel des politiques des PSP](https://www.sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf)).
+<a id="article-23"></a>**23.** Les membres du comité ne peuvent tirer de profit personnel, de rémunération ou d’avantage de leur gestion du Mess. Tout avantage possible lié à leur participation à une entreprise faisant affaire avec le Mess est déclaré au commandant ([Manuel des politiques des PSP](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf)).
 
 <a id="article-24"></a>**24.** Toute rémunération pour des services au Mess exige un emploi auprès des SBMFC et respecte leurs directives et le budget approuvé. Sans ce statut, les fonctions de serveur, de régisseur et de membre du comité sont bénévoles.
 
-<a id="article-25"></a>**25.** Les cotisations servent uniquement aux besoins du Mess ([Manuel des politiques des PSP, chapitre 9-1](https://www.sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf)).
+<a id="article-25"></a>**25.** Les cotisations servent uniquement aux besoins du Mess ([Manuel des politiques des PSP, chapitre 9-1](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf)).
 
 - **a.** Elles sont dues par les membres ordinaires et associés pour l’année du 1er avril au 31 mars suivant.
 - **b.** Les taux annuels et les comptes de dépôt sont votés à la dernière assemblée de l’année financière, en mars. Tout changement de taux exige un vote de l’assemblée.
@@ -110,7 +110,7 @@ Toute personne participant à la gestion des fonds agit avec diligence. La mauva
 
 - **a.** Tout changement de prix des consommations exige, avant son entrée en vigueur, l’approbation de l’assemblée et/ou du commandant.
 - **b.** Les paiements sont demandés par virement électronique de fonds, par l’entremise des SBMFC. Une carte de crédit autorisée peut servir aux achats courants. Ces opérations respectent les directives des SBMFC.
-- **c.** Seuls le président et le commandant peuvent offrir une consommation par membre présent aux frais du Mess, en sonnant la cloche ou en distribuant des billets. L’offre bénéficie à l’ensemble des membres présents. Le coût total reste dans le plafond annuel du budget approuvé.
+- **c.** Les consommations offertes suivent le [Manuel PSP, chapitre 9-2, paragraphes 15 à 18](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=276) et le [chapitre 9-4, paragraphe 61](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=309). Le budget local ne crée aucune autorisation supplémentaire. Pour les boissons sans alcool, le président ou le commandant peut offrir une consommation par membre présent, dans le plafond annuel approuvé.
 
 <a id="article-27"></a>**27.** Le comité de divertissement peut engager les dépenses mensuelles prévues au budget annuel adopté par l’assemblée, si les fonds sont disponibles et si le comité du Mess a approuvé le calendrier des activités.
 

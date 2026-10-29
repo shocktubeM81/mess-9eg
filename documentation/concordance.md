@@ -351,3 +351,8 @@ Les anciennes indications d’annexe dans les tableaux précédents sont histori
 | I | [H](../versions/2026-10-28-v0.2/annexes/annexe-h.md) | Serveur |
 | A | Retirée | Commandant — fonction de l’unité |
 | J | Retirée | Responsable des drogues et de l’alcool — fonction de l’unité |
+
+
+## Mise à jour 0.5 — 29 octobre 2026
+
+Les numéros de la version 0.4 sont conservés. Les dispositions modifiées sont : constitution 16 et 26 c; R1.1, R1.6, R1.10, R1.13; R2.5 à R2.7; R3.2, R3.4, R3.6, R3.9, R3.18; R4.1 à R4.3, R4.5 et R4.7. Le tableau des modifications détaille la comparaison avec la version 0.4. Les entrées historiques ci-dessus ne décrivent donc pas toutes la rédaction actuelle.
