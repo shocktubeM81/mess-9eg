@@ -4,13 +4,13 @@ title: Constitution du Mess et Instituts du 9e Escadron du génie
 document_label: Constitution
 ---
 
-# Statuts et règlements, Mess et Instituts du 9e Escadron du génie
+# Statuts du Mess et Instituts du 9e Escadron du génie
 
 **Version 0.9 du 29 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après adoption avec quorum et approbation du commandant.
 
 Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québec.
 
-La présente constitution suit la structure des [statuts types du tableau 9-4-3 du Manuel PSP](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=294). Les modalités locales se trouvent dans les règlements suivants :
+La présente constitution suit la structure des statuts types du [tableau 9-4-3 du Manuel PSP](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=294). Les modalités locales se trouvent dans les règlements suivants :
 
 - [R1 — Tenue et comportement](R1-proposition.md);
 - [R2 — Meubles et décorations](R2-proposition.md);
@@ -30,7 +30,7 @@ Le Mess et Instituts du 9 EG, ci-après appelé « le Mess », comprend deux loc
 
 L’établissement et l’administration du Mess relèvent de l’[article 27.01 des ORFC](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/ordonnances-reglements-royaux/vol-1-administration/chapitre-27-mess-cantines-instituts.html). Le commandant du 9 EG exerce les fonctions de commandant du Mess et Instituts.
 
-Le Mess est administré conformément au [Manuel des politiques des PSP, chapitre 9-4](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=281) et à la [DOAD 9003-1 — Biens non publics](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/directives-ordonnances-administratives-defense/serie-9000/9003/9003-1-biens-non-publics.html). Les règlements prolongent la constitution et en précisent l’application; ils ne peuvent en modifier les pouvoirs ou les droits.
+Le Mess est administré conformément au [Manuel des politiques des PSP, chapitre 9-4](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=281) et à la [DOAD 9003-1 - Biens non publics](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/directives-ordonnances-administratives-defense/serie-9000/9003/9003-1-biens-non-publics.html). Les règlements prolongent la constitution et en précisent l’application; ils ne peuvent en modifier les pouvoirs ou les droits.
 
 <a id="statuts-article-3"></a>
 
@@ -104,14 +104,6 @@ Sa signature au procès-verbal approuve les motions adoptées, sauf celles qu’
 Seules les motions approuvées peuvent être mises en œuvre. Toute modification au fond d’une décision doit être soumise de nouveau à l’assemblée générale.
 
 Les assemblées extraordinaires suivent le [R5.8](R5-proposition.md#r5-article-8) et les convocations le [R5.9](R5-proposition.md#r5-article-9). Les seuils particuliers et les compétences réservées par la constitution ou ses règlements restent applicables.
-
-<a id="statuts-article-10"></a>
-
-## 10. Réunions du comité
-
-Le commandant ou le président convoque les réunions du comité pour préparer les dossiers, examiner la situation financière, gérer les affaires courantes et suivre les décisions. Le comité agit dans les limites du budget et des délégations approuvés; il ne tranche pas les questions réservées à l’assemblée générale.
-
-Les comptes rendus distinguent les décisions du comité, ses recommandations et les suivis, selon le [R3.6](R3-proposition.md#r3-article-6).
 
 <a id="statuts-article-11"></a>
 
