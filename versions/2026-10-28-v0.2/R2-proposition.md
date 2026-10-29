@@ -1,9 +1,10 @@
 ---
 layout: default
-title: R2 Meubles et décorations
+title: Règlement sur les meubles et les décorations
+doc_code: R2
 ---
 
-# R2 Meubles et décorations
+# Règlement sur les meubles et les décorations
 
 **Version 0.3 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les règles générales sont fixées dans la constitution; le présent règlement en précise l’application.
 

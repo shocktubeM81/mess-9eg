@@ -1,9 +1,10 @@
 ---
 layout: default
-title: R1 Tenue et comportement
+title: Règlement sur la tenue et le comportement
+doc_code: R1
 ---
 
-# R1 Tenue et comportement
+# Règlement sur la tenue et le comportement
 
 **Version 0.3 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les règles générales sont fixées dans la constitution; le présent règlement en précise l’application.
 

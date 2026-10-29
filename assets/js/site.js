@@ -1,67 +1,102 @@
 (() => {
   "use strict";
-  const documentContent = document.getElementById("document");
+  const content = document.getElementById("document");
   const toc = document.getElementById("table-of-contents");
-  if (documentContent && toc) {
-    const headings = [...documentContent.querySelectorAll("h2, h3")];
+  const sidebar = document.getElementById("sidebar");
+  const toggle = document.getElementById("toc-toggle");
+  const printButton = document.getElementById("print-document");
+  document.documentElement.classList.add("js-ready");
+  if (printButton) {
+    printButton.hidden = false;
+    printButton.addEventListener("click", () => window.print());
+  }
+  if (content && toc) {
+    for (const paragraph of content.querySelectorAll(":scope > p")) {
+      if (/^Version\s+\d/.test(paragraph.textContent.trim())) paragraph.classList.add("document-version");
+    }
+    const headings = Array.from(content.querySelectorAll("h2, h3"));
+    const usedIds = new Set(Array.from(document.querySelectorAll("[id]"), node => node.id));
+    const links = new Map();
     toc.replaceChildren();
     headings.forEach((heading, index) => {
-      if (!heading.id) heading.id = "section-" + (index + 1);
-      const item = document.createElement("a");
-      item.href = "#" + heading.id;
-      item.textContent = heading.textContent.trim();
-      if (heading.tagName === "H3") item.style.paddingLeft = "1.45rem";
-      toc.appendChild(item);
+      if (!heading.id) {
+        const base = heading.textContent.trim().normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "") || "section";
+        let id = base;
+        let suffix = 1;
+        while (usedIds.has(id)) id = base + "-" + (++suffix);
+        heading.id = id;
+        usedIds.add(id);
+      }
+      const link = document.createElement("a");
+      link.href = "#" + heading.id;
+      link.textContent = heading.textContent.trim();
+      if (heading.tagName === "H3") link.classList.add("toc-subsection");
+      toc.appendChild(link);
+      links.set(heading.id, link);
     });
     if (!headings.length) {
-      const fallback = document.createElement("span");
-      fallback.className = "sidebar-placeholder";
-      fallback.textContent = "Aucune section disponible";
-      toc.appendChild(fallback);
+      const note = document.createElement("span");
+      note.className = "sidebar-placeholder";
+      note.textContent = "Ce document ne comporte pas de sous-sections.";
+      toc.appendChild(note);
     }
-    if ("IntersectionObserver" in window && headings.length) {
-      const observer = new IntersectionObserver(entries => {
-        for (const entry of entries) {
-          if (!entry.isIntersecting) continue;
-          for (const link of toc.querySelectorAll("a")) {
-            const active = link.getAttribute("href") === "#" + entry.target.id;
-            link.classList.toggle("active", active);
-            if (active) link.setAttribute("aria-current", "location");
-            else link.removeAttribute("aria-current");
-          }
-        }
-      }, { rootMargin: "-12% 0px -73% 0px" });
-      headings.forEach(heading => observer.observe(heading));
+    if (toggle && headings.length) toggle.hidden = false;
+    const activate = id => {
+      for (const [target, link] of links) {
+        const active = target === id;
+        link.classList.toggle("active", active);
+        if (active) link.setAttribute("aria-current", "location");
+        else link.removeAttribute("aria-current");
+      }
+    };
+    let pending = false;
+    const update = () => {
+      const passed = headings.filter(heading => heading.getBoundingClientRect().top <= 110);
+      if (headings.length) activate((passed.at(-1) || headings[0]).id);
+      const available = document.documentElement.scrollHeight - window.innerHeight;
+      const progress = document.getElementById("reading-progress");
+      if (progress) progress.style.width = (available > 0 ? Math.min(100, Math.max(0, window.scrollY / available * 100)) : 100) + "%";
+      pending = false;
+    };
+    const schedule = () => { if (!pending) { pending = true; requestAnimationFrame(update); } };
+    window.addEventListener("scroll", schedule, { passive: true });
+    window.addEventListener("resize", schedule, { passive: true });
+    window.addEventListener("load", schedule);
+    update();
+    for (const table of content.querySelectorAll("table")) {
+      const wrapper = document.createElement("div");
+      wrapper.className = "table-scroll";
+      wrapper.tabIndex = 0;
+      wrapper.setAttribute("role", "region");
+      wrapper.setAttribute("aria-label", "Tableau du document, défilement horizontal disponible");
+      table.before(wrapper);
+      wrapper.appendChild(table);
+    }
+    // Les liens Markdown restent lisibles sur GitHub et mènent aux pages HTML du site.
+    for (const link of content.querySelectorAll("a[href]")) {
+      const href = link.getAttribute("href");
+      if (!/^(?:[a-z]+:|\/\/)/i.test(href)) link.setAttribute("href", href.replace(/\.md(?=#|$)/, ".html"));
     }
   }
-  const toggle = document.getElementById("toc-toggle");
-  const sidebar = document.getElementById("sidebar");
   if (toggle && sidebar) {
+    const close = (returnFocus = false) => {
+      sidebar.classList.remove("is-open");
+      toggle.setAttribute("aria-expanded", "false");
+      if (returnFocus) toggle.focus();
+    };
     toggle.addEventListener("click", () => {
       const open = sidebar.classList.toggle("is-open");
       toggle.setAttribute("aria-expanded", String(open));
+      if (open) sidebar.querySelector("a")?.focus();
     });
     sidebar.addEventListener("click", event => {
-      if (event.target.closest("a")) {
-        sidebar.classList.remove("is-open");
-        toggle.setAttribute("aria-expanded", "false");
-      }
+      if (event.target.closest("a")) close();
     });
-  }
-  const progress = document.getElementById("reading-progress");
-  if (progress) {
-    let pending = false;
-    const update = () => {
-      const available = document.documentElement.scrollHeight - window.innerHeight;
-      progress.style.width = (available > 0 ? Math.min(100, window.scrollY / available * 100) : 100) + "%";
-      pending = false;
-    };
-    window.addEventListener("scroll", () => {
-      if (!pending) {
-        pending = true;
-        requestAnimationFrame(update);
-      }
-    }, { passive: true });
-    update();
+    document.addEventListener("keydown", event => {
+      if (event.key === "Escape" && sidebar.classList.contains("is-open")) close(true);
+    });
+    document.addEventListener("click", event => {
+      if (!sidebar.contains(event.target) && !toggle.contains(event.target)) close();
+    });
   }
 })();

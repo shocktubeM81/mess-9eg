@@ -218,3 +218,8 @@ Version 0.3 du 28 octobre 2026. Source historique : constitution.md au commit 83
 
 
 Les anciens articles 36 à 39 et 41 sont répartis entre les annexes B à G. Les anciennes règles R1.16 et R3.23 rejoignent l’annexe B; R2.10 et R4.11 rejoignent l’annexe H; les tâches de R4.10 rejoignent l’annexe I et ses formats de vente restent au R4.10; R4.12 rejoint l’annexe J. Les fonctions des deux responsables des activités sont reproduites dans une annexe distincte pour chaque local.
+
+
+## Ajustement après la suppression manuelle de l’ancien article 59
+
+Les articles 1 à 58 conservent leur numéro. Les anciens articles 60 à 65 deviennent 59 à 64 dans l’ordre de lecture. Le R3 renvoie à l’article 57 pour la présentation des amendements et à l’article 26 pour les convocations. Les références aux repères précédents dans les tableaux ci-dessus restent historiques.

@@ -1,9 +1,10 @@
 ---
 layout: default
-title: R4 Service de bar
+title: Règlement sur le service de bar
+doc_code: R4
 ---
 
-# R4 Service de bar
+# Règlement sur le service de bar
 
 **Version 0.3 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les règles générales sont fixées dans la constitution; le présent règlement en précise l’application.
 

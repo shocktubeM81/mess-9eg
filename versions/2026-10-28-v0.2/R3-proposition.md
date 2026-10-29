@@ -1,9 +1,10 @@
 ---
 layout: default
-title: R3 Assemblées et réunions
+title: Règlement sur les assemblées et les réunions
+doc_code: R3
 ---
 
-# R3 Assemblées et réunions
+# Règlement sur les assemblées et les réunions
 
 **Version 0.3 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les règles générales sont fixées dans la constitution; le présent règlement en précise l’application.
 
@@ -15,7 +16,7 @@ Les fonctions des responsables sont définies dans les [annexes de la constituti
 
 <a id="r3-1"></a>**R3.1.** Les dates, le lieu et, s’il y a lieu, le moyen de connexion sont indiqués dans la convocation. Aucune période de l’année n’est exclue pour tenir une assemblée ou une réunion.
 
-<a id="r3-2"></a>**R3.2.** L’avis précise la date, le lieu ou le moyen de connexion. L’ordre du jour et les documents utiles sont transmis au moins 7 jours avant la séance; l’avis et l’ordre du jour sont aussi affichés dans les locaux. Le secrétaire organise ces envois en respectant les délais minimaux fixés aux articles [26](constitution-consolidee.md#article-26) et [58](constitution-consolidee.md#article-58) de la constitution.
+<a id="r3-2"></a>**R3.2.** L’avis précise la date, le lieu ou le moyen de connexion. L’ordre du jour et les documents utiles sont transmis au moins 7 jours avant la séance; l’avis et l’ordre du jour sont aussi affichés dans les locaux. Le secrétaire organise ces envois en respectant les délais minimaux fixés aux articles [26](constitution-consolidee.md#article-26) et [57](constitution-consolidee.md#article-57) de la constitution.
 
 <a id="r3-3"></a>**R3.3.** Les propositions importantes ou complexes sont accompagnées des renseignements utiles à leur discussion et transmises avec les documents de séance, selon les délais applicables.
 

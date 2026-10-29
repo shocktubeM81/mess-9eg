@@ -9,3 +9,7 @@ show_downloads: false
 exclude:
   - documentation
   - README.md
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true

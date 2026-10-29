@@ -87,3 +87,13 @@ Les responsabilités des rôles sont extraites des fonctions déjà présentes. 
 La référence PFC 262 est historique : la [vérification officielle de gestion des mess](https://www.canada.ca/fr/ministere-defense-nationale/organisation/rapports-publications/verification-evaluation/verification-biens-non-publics-cadre-gestion-mess.html) confirme son remplacement par le chapitre 9-4 du Manuel des politiques des PSP. Les liens directs du manuel français et de l’A-PS-110 proviennent de la [page officielle des ressources pour les mess](https://www.sbmfc.ca/a-propos/ressources-mess). Le lien vers le manuel PSP n’est plus étiqueté A-PS-110 : ces publications sont distinctes. L’[A-FN-105](https://sbmfc.ca/a-propos/politiques-et-publications/comptabilite-biens-non-publics/a-fn-105) est lié pour les inventaires, les assurances et les règles financières. Les numéros d’articles d’anciennes publications ne sont pas transposés au nouveau manuel sans vérification.
 
 La mention OAFC 19-1 n’a pas été confirmée comme référence courante. La règle locale sur les jeux de hasard est conservée au R1 sans lui attribuer une validation réglementaire non vérifiée. La vérification des politiques applicables reste nécessaire avant adoption. Les corrections « à la re » vers « à la retraite » et la balise de l’ancien article 37 réparent des anomalies de saisie sans changer les catégories de membres.
+
+## Vérification de cohérence et présentation web
+
+Les quatre règlements sont conservés. Leurs titres de page commencent par « Règlement »; les menus utilisent les désignations courtes R1 à R4. La hiérarchie distingue les sections des annexes, les liens Markdown sont convertis pour le site par le module GitHub Pages jekyll-relative-links, et le sommaire mobile ainsi que l’impression ont une présentation adaptée.
+
+Après la suppression manuelle de l’article 59, les anciens articles 60 à 65 deviennent 59 à 64. Le renvoi du R3 vers la procédure d’amendement pointe à l’article 57, et le renvoi de convocation à l’article 26. La mise en gras des articles 57 et 58 est rétablie. L’ordre et les modifications de fond de l’utilisateur sont conservés.
+
+L’utilisateur a confirmé que les membres associés peuvent assister aux assemblées sans voter. Le paragraphe 4 b (6) est harmonisé avec l’article 19, tout en conservant leur exclusion du comité. Les autres dispositions de gouvernance ne sont pas modifiées par la refonte graphique.
+
+Vérification visuelle dans un aperçu local utilisant le gabarit et les fichiers de présentation du dépôt : écran d’ordinateur et largeur de téléphone. Le moteur Ruby/Jekyll n’étant pas installé dans l’environnement, cette vérification ne remplace pas la compilation GitHub Pages.

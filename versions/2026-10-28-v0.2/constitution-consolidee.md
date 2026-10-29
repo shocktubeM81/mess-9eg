@@ -9,9 +9,9 @@ title: Constitution du Mess et Instituts du 9e Escadron du génie
 
 Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québec.
 
-## Avant-Propos
+## Avant-propos
 
-Conformément à la [DOAD 5045-0](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/directives-ordonnances-administratives-defense/serie-5000/5045/5045-0-programmes-de-soutien-du-personnel-des-forces-canadiennes.html) et la publication [A-PS-110-001/AG-002](https://sbmfc.ca/a-propos/politiques-et-publications/aa-ps-110-soutien-public-aux-programmes-de-bemm), dans leur version en vigueur, la constitution et ses annexes fixent les règles générales du Mess, les droits des membres et les pouvoirs des responsables. Quatre règlements en précisent l’application :
+Conformément à la [DOAD 5045-0](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/directives-ordonnances-administratives-defense/serie-5000/5045/5045-0-programmes-de-soutien-du-personnel-des-forces-canadiennes.html) et à la publication [A-PS-110-001/AG-002](https://sbmfc.ca/a-propos/politiques-et-publications/aa-ps-110-soutien-public-aux-programmes-de-bemm), dans leur version en vigueur, la constitution et ses annexes fixent les règles générales du Mess, les droits des membres et les pouvoirs des responsables. Quatre règlements en précisent l’application :
 
 - [R1 — Tenue et comportement](R1-proposition.md);
 - [R2 — Meubles et décorations](R2-proposition.md);
@@ -48,7 +48,7 @@ Conformément à la [DOAD 5045-0](https://www.canada.ca/fr/ministere-defense-nat
 
   - **(5)** Un membre associé dont les privilèges ont été révoqués pour non-paiement des cotisations doit, s’il désire réintégrer le mess, présenter une nouvelle demande, conformément aux dispositions de l’alinéa (1) ou (2) à moins qu’il puisse se justifier auprès du PCAM pour ne pas avoir versé ses cotisations.
 
-  - **(6)** Les membres associés peuvent assister seulement aux activités sociales du mess; ils ne peuvent faire partie du comité du mess. Un membre associé peut prêter son concours au comité du mess ou à des sous-comités, sans toutefois assumer de responsabilités.
+  - **(6)** Les membres associés peuvent participer aux activités sociales et assister aux assemblées du Mess, où ils peuvent prendre part aux discussions sans droit de vote, conformément à l’[article 19](#article-19). Ils ne peuvent faire partie du comité du Mess. Ils peuvent prêter leur concours au comité ou à des sous-comités, sans toutefois assumer de responsabilités.
 
   - **(7)** Les membres associés ne doivent pas assister à des évènements officiels à caractère militaire comme des dîners régimentaires, la « levée » du Jour de l’an, les visites inter-mess, etc., à moins d’avoir reçu du PCAM une invitation en bonne et due forme.
 
@@ -286,26 +286,26 @@ Conformément à la [DOAD 5045-0](https://www.canada.ca/fr/ministere-defense-nat
 
 ## Modification des textes
 
-<a id="article-57"></a>57. Proposition et adoption. Toute proposition de modification à la constitution ou à ses annexes est transmise par écrit au PCAM et communiquée aux membres au moins 15 jours avant son examen. Elle doit être adoptée à la majorité des voix exprimées par les membres ayant droit de vote, lors d’une assemblée où le quorum est atteint.
+<a id="article-57"></a>**57.** Proposition et adoption. Toute proposition de modification à la constitution ou à ses annexes est transmise par écrit au PCAM et communiquée aux membres au moins 15 jours avant son examen. Elle doit être adoptée à la majorité des voix exprimées par les membres ayant droit de vote, lors d’une assemblée où le quorum est atteint.
 
-<a id="article-58"></a>58. Approbation et publication. Toute modification adoptée entre en vigueur après l’approbation du commandant. Elle est intégrée à la constitution, puis communiquée aux membres avec sa date d’entrée en vigueur.
+<a id="article-58"></a>**58.** Approbation et publication. Toute modification adoptée entre en vigueur après l’approbation du commandant. Elle est intégrée à la constitution, puis communiquée aux membres avec sa date d’entrée en vigueur.
 
 ## Assemblées et portée des règlements
 
-<a id="article-60"></a>**60.** Les assemblées générales sont les instances de délibération et de décision des membres. Chaque membre peut participer aux discussions selon sa catégorie; le droit de vote est réservé aux membres ordinaires en règle, sous les exclusions et règles particulières de la constitution. Le président, ou le vice-président en son absence, préside les assemblées. Les propositions sont appuyées puis débattues avant le vote; le résultat et le texte adopté sont consignés au procès-verbal. Un règlement peut préciser le déroulement des séances, sans changer leur fréquence, le quorum, les droits de vote ou les approbations requises.
+<a id="article-59"></a>**59.** Les assemblées générales sont les instances de délibération et de décision des membres. Chaque membre peut participer aux discussions selon sa catégorie; le droit de vote est réservé aux membres ordinaires en règle, sous les exclusions et règles particulières de la constitution. Le président, ou le vice-président en son absence, préside les assemblées. Les propositions sont appuyées puis débattues avant le vote; le résultat et le texte adopté sont consignés au procès-verbal. Un règlement peut préciser le déroulement des séances, sans changer leur fréquence, le quorum, les droits de vote ou les approbations requises.
 
 ## Fonds et garanties financières
 
-<a id="article-61"></a>**61.** Les cotisations du Mess sont affectées aux besoins du Mess. Le fonds d’unité ne peut être assimilé au fonds du Mess ni être alimenté par un simple changement d’étiquette des cotisations. Toute opération respecte la propriété et la destination des biens non publics (BNP), les règles financières applicables et les approbations nécessaires.
+<a id="article-60"></a>**60.** Les cotisations du Mess sont affectées aux besoins du Mess. Le fonds d’unité ne peut être assimilé au fonds du Mess ni être alimenté par un simple changement d’étiquette des cotisations. Toute opération respecte la propriété et la destination des biens non publics (BNP), les règles financières applicables et les approbations nécessaires.
 
-<a id="article-62"></a>**62.** Le fonds cadeau fait l’objet d’un suivi distinct des opérations du Mess et du fonds d’unité. Sa qualification, ses sources admissibles et son mode de comptabilisation sont confirmés auprès de l’autorité compétente BNP avant toute nouvelle modalité de financement ou tout transfert. Le suivi distinct ne crée ni personnalité juridique ni compte bancaire autonome.
+<a id="article-61"></a>**61.** Le fonds cadeau fait l’objet d’un suivi distinct des opérations du Mess et du fonds d’unité. Sa qualification, ses sources admissibles et son mode de comptabilisation sont confirmés auprès de l’autorité compétente BNP avant toute nouvelle modalité de financement ou tout transfert. Le suivi distinct ne crée ni personnalité juridique ni compte bancaire autonome.
 
-<a id="article-63"></a>**63.** Les membres votent les cotisations, le budget et les changements aux prestations. Le comité exécute dans ses délégations. Un vote ne dispense pas des approbations du commandant ou des autorités financières compétentes. La présente révision n’autorise automatiquement aucun transfert entre fonds. Les bénéficiaires et plafonds existants des cadeaux sont conservés dans la section financière de la constitution, sous réserve de leur admissibilité aux règles applicables.
+<a id="article-62"></a>**62.** Les membres votent les cotisations, le budget et les changements aux prestations. Le comité exécute dans ses délégations. Un vote ne dispense pas des approbations du commandant ou des autorités financières compétentes. La présente révision n’autorise automatiquement aucun transfert entre fonds. Les bénéficiaires et plafonds existants des cadeaux sont conservés dans la section financière de la constitution, sous réserve de leur admissibilité aux règles applicables.
 ## Suivi des fonds
 
-<a id="article-64"></a>**64.** Le trésorier présente distinctement pour chaque fonds concerné les soldes d’ouverture et de clôture, les sources de revenus, les dépenses et les engagements. Chaque opération indique source, objet, bénéficiaire, justificatif, vote ou délégation et approbations. La tenue des livres est confiée à une tierce personne; les paiements respectent les règles financières et les approbations applicables.
+<a id="article-63"></a>**63.** Le trésorier présente distinctement pour chaque fonds concerné les soldes d’ouverture et de clôture, les sources de revenus, les dépenses et les engagements. Chaque opération indique source, objet, bénéficiaire, justificatif, vote ou délégation et approbations. La tenue des livres est confiée à une tierce personne; les paiements respectent les règles financières et les approbations applicables.
 
-<a id="article-65"></a>**65.** Avant mise en place ou modification du financement du fonds d’unité ou du fonds cadeau, le comité obtient confirmation écrite de la qualification BNP, des sources admissibles, de la destination et des autorités d’approbation. Il soumet aux membres une proposition chiffrée identifiant les comptes ou suivis concernés. Cette clause n’autorise ni cotisation nouvelle, ni prélèvement, ni transfert. Les articles 48 à 54 conservent leurs bénéficiaires et plafonds; leur déplacement ne vaut pas autorisation nouvelle de dépense.
+<a id="article-64"></a>**64.** Avant mise en place ou modification du financement du fonds d’unité ou du fonds cadeau, le comité obtient confirmation écrite de la qualification BNP, des sources admissibles, de la destination et des autorités d’approbation. Il soumet aux membres une proposition chiffrée identifiant les comptes ou suivis concernés. Cette clause n’autorise ni cotisation nouvelle, ni prélèvement, ni transfert. Les articles 48 à 54 conservent leurs bénéficiaires et plafonds; leur déplacement ne vaut pas autorisation nouvelle de dépense.
 
 
 
@@ -327,7 +327,7 @@ Les annexes font partie intégrante de la constitution et suivent la même proc�
 
 
 <a id="annexe-a"></a>
-## Annexe A — Commandant
+### Annexe A — Commandant
 
 - **a.** Exercer les pouvoirs d’approbation et de surveillance prévus à la constitution, notamment pour les amendements et les réservations.
 
@@ -336,7 +336,7 @@ Les annexes font partie intégrante de la constitution et suivent la même proc�
 - **c.** Nommer le régisseur et exercer la supervision du président dans les limites des politiques applicables.
 
 <a id="annexe-b"></a>
-## Annexe B — Président du comité du Mess
+### Annexe B — Président du comité du Mess
 
 - **a.** Il doit rendre compte au commandant pour tout ce qui touche ses fonctions.
 
@@ -363,7 +363,7 @@ Les annexes font partie intégrante de la constitution et suivent la même proc�
 - **l.** Pendant les séances, distribuer la parole, éviter les répétitions et veiller au respect de l’ordre du jour et des procédures.
 
 <a id="annexe-c"></a>
-## Annexe C — Vice-président du comité du Mess
+### Annexe C — Vice-président du comité du Mess
 
 - **a.** Il doit rendre compte au président du comité du mess pour toute tâche lui incombant.
 
@@ -374,7 +374,7 @@ Les annexes font partie intégrante de la constitution et suivent la même proc�
 - **d.** Il a le devoir de maintenir à jour le registre de gestion des meubles et équipements appartenant au Mess et ce selon la répartition propre au Club Chimo et Mess Combiné.
 
 <a id="annexe-d"></a>
-## Annexe D — Secrétaire
+### Annexe D — Secrétaire
 
 - **a.** Il doit rendre compte au président du comité du Mess.
 
@@ -393,7 +393,7 @@ Les annexes font partie intégrante de la constitution et suivent la même proc�
 - **h.** Assurer le classement, la communication proactive et la protection des documents, ainsi que la continuité des accès, les sauvegardes et la relève des dossiers.
 
 <a id="annexe-e"></a>
-## Annexe E — Trésorier
+### Annexe E — Trésorier
 
 - **a.** Il a la responsabilité d'avoir une liste à jour des membres en règle. Toutes les cotisations sont payables du 1er avril au 31 mars
 
@@ -404,7 +404,7 @@ Les annexes font partie intégrante de la constitution et suivent la même proc�
 - **d.** Présenter les soldes, revenus, dépenses et engagements en distinguant chaque fonds, puis conserver les pièces et les approbations requises.
 
 <a id="annexe-f"></a>
-## Annexe F — Responsable des activités du Club Chimo
+### Annexe F — Responsable des activités du Club Chimo
 
 - **a.** Il doit rendre compte au président du comité du Mess.
 
@@ -423,7 +423,7 @@ Les annexes font partie intégrante de la constitution et suivent la même proc�
 *Note. Le responsable des activités n’est pas tenu d’ organiser les activités ; il doit par contre veiller sur le déroulement optimal de chacune d’elles.
 
 <a id="annexe-g"></a>
-## Annexe G — Responsable des activités du Mess Combiné
+### Annexe G — Responsable des activités du Mess Combiné
 
 - **a.** Il doit rendre compte au président du comité du Mess.
 
@@ -442,7 +442,7 @@ Les annexes font partie intégrante de la constitution et suivent la même proc�
 *Note. Le responsable des activités n’est pas tenu d’ organiser les activités ; il doit par contre veiller sur le déroulement optimal de chacune d’elles.
 
 <a id="annexe-h"></a>
-## Annexe H — Régisseur
+### Annexe H — Régisseur
 
 - **a.** Il doit rendre compte au président du comité du Mess.
 
@@ -457,7 +457,7 @@ Les annexes font partie intégrante de la constitution et suivent la même proc�
 - **f.** Garder le contrôle des équipements de jeu, dont le billard, ou désigner le personnel qui en assure la garde.
 
 <a id="annexe-i"></a>
-## Annexe I — Serveur
+### Annexe I — Serveur
 
 - **a.** Sous la supervision du régisseur.
 
@@ -482,6 +482,6 @@ Les annexes font partie intégrante de la constitution et suivent la même proc�
 - **k.** Fermer toutes les lumières et toutes les fenêtres.
 
 <a id="annexe-j"></a>
-## Annexe J — Responsable de la prévention des drogues et de l’alcool
+### Annexe J — Responsable de la prévention des drogues et de l’alcool
 
 Le responsable des drogues et alcools de l'unité possède une autorité au nom du commandant dans les deux locaux du mess.
