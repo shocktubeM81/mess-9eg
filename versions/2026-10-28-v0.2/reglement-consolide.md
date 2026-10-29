@@ -221,6 +221,30 @@ Les principes des assemblées, leur fréquence, le quorum, les droits des membre
 
 ## R4 Service de bar
 
+## Règles de service
+
+<a id="article-56"></a>**56.** Le mess doit respecter toutes les lois fédérales, provinciales et municipales relatives à la consommation de boissons alcoolisées. De plus, le prix de vente de ces boissons doit être affiché (réf. PFC 262 art 309).
+
+<a id="article-58"></a>**58.** Lors des différentes activités, le responsable de l’activité et les serveurs ne doit pas consommer d’alcool et veiller à ce que l’activité se déroule sans anicroche.
+
+<a id="article-59"></a>**59.** Le personnel du bar ne doit ni vendre ni servir de boisson alcoolisée à une personne en état d’ébriété ou qui en présente manifestement les signes. Il refuse ou interrompt immédiatement le service et en informe le responsable de service. Le grade, la fonction, le paiement ou l’insistance du client ne permettent pas de passer outre ce refus. Aucun autre serveur ne doit le contourner en servant cette personne.
+
+<a id="article-61"></a>**61.** Si une situation inusitée survient, le serveur doit fermer les bars promptement et contacter les autorités compétentes (pompiers, police ou médical). Tous les problèmes, réglés ou non, devront être rapportés au capitaine-adjudant dès que possible.
+
+<a id="article-68"></a>**68.** Aucune boisson alcoolisée ne peut être vendue ou servie à une personne de moins de 18 ans. En cas de doute sur l’âge, le serveur demande une pièce d’identité permettant de le vérifier; si l’âge ne peut être établi, il refuse le service. Il ne sert pas non plus une personne qui achète pour remettre la boisson à un mineur ou contourner un refus de service.
+
+## Application du service responsable
+
+**R4.1.** Le présent règlement porte sur la préparation, la vente, le service et la fermeture du bar. Les règles de réservation des locaux, les pouvoirs administratifs et les autorisations financières figurent dans la constitution; la conduite générale et la propreté des lieux relèvent du R1.
+
+**R4.2.** Le serveur demeure sobre pendant son service, observe les clients et applique sans délai les refus prévus aux articles 59 et 68. En cas de doute sur la capacité d’une personne à consommer sans danger, il suspend le service et consulte le responsable. Une difficulté de santé ou de communication ne doit pas être assimilée automatiquement à l’ébriété; si une personne semble en détresse, le responsable organise l’aide appropriée.
+
+**R4.3.** Le refus est expliqué calmement. Le responsable appuie le serveur, propose au besoin de l’eau ou une boisson sans alcool et aide à organiser un retour sécuritaire. En cas de menace, de malaise ou de danger immédiat, il suspend le service et appelle les services d’urgence appropriés. Un relevé factuel de l’incident est transmis à l’autorité prévue à l’article 61 et conservé avec un accès restreint.
+
+**R4.4.** Avant l’ouverture, le responsable vérifie la présence de personnel autorisé, l’hygiène, les stocks, les prix affichés et les conditions applicables au service. À la fermeture, le personnel cesse les ventes, sécurise boissons, caisse et accès, nettoie le matériel et signale tout écart ou incident au régisseur. Les ventes à emporter et les formats de vente mentionnés à l’article 40 ne peuvent être pratiqués que si les autorisations applicables les permettent.
+
+## Rôles et responsabilités
+
 <a id="article-40"></a>**40.** Devoirs du serveur (barman).
 
 - **a.** Sous la supervision du régisseur.
@@ -265,26 +289,6 @@ Les principes des assemblées, leur fréquence, le quorum, les droits des membre
 
 - **e.** Il doit s’acquitter de toutes autres tâches assignées par le président du comité du Mess ou précisées dans les règlements appropriés.
 
-<a id="article-56"></a>**56.** Le mess doit respecter toutes les lois fédérales, provinciales et municipales relatives à la consommation de boissons alcoolisées. De plus, le prix de vente de ces boissons doit être affiché (réf. PFC 262 art 309).
-
-<a id="article-58"></a>**58.** Lors des différentes activités, le responsable de l’activité et les serveurs ne doit pas consommer d’alcool et veiller à ce que l’activité se déroule sans anicroche.
-
-<a id="article-59"></a>**59.** Le personnel du bar ne doit ni vendre ni servir de boisson alcoolisée à une personne en état d’ébriété ou qui en présente manifestement les signes. Il refuse ou interrompt immédiatement le service et en informe le responsable de service. Le grade, la fonction, le paiement ou l’insistance du client ne permettent pas de passer outre ce refus. Aucun autre serveur ne doit le contourner en servant cette personne.
-
 <a id="article-60"></a>**60.** Le responsable des drogues et alcools de l'unité possède une autorité au nom du commandant
 
 dans les deux locaux du mess.
-
-<a id="article-61"></a>**61.** Si une situation inusitée survient, le serveur doit fermer les bars promptement et contacter les autorités compétentes (pompiers, police ou médical). Tous les problèmes, réglés ou non, devront être rapportés au capitaine-adjudant dès que possible.
-
-<a id="article-68"></a>**68.** Aucune boisson alcoolisée ne peut être vendue ou servie à une personne de moins de 18 ans. En cas de doute sur l’âge, le serveur demande une pièce d’identité permettant de le vérifier; si l’âge ne peut être établi, il refuse le service. Il ne sert pas non plus une personne qui achète pour remettre la boisson à un mineur ou contourner un refus de service.
-
-## Application du service responsable
-
-**R4.1.** Le présent règlement porte sur la préparation, la vente, le service et la fermeture du bar. Les règles de réservation des locaux, les pouvoirs administratifs et les autorisations financières figurent dans la constitution; la conduite générale et la propreté des lieux relèvent du R1.
-
-**R4.2.** Le serveur demeure sobre pendant son service, observe les clients et applique sans délai les refus prévus aux articles 59 et 68. En cas de doute sur la capacité d’une personne à consommer sans danger, il suspend le service et consulte le responsable. Une difficulté de santé ou de communication ne doit pas être assimilée automatiquement à l’ébriété; si une personne semble en détresse, le responsable organise l’aide appropriée.
-
-**R4.3.** Le refus est expliqué calmement. Le responsable appuie le serveur, propose au besoin de l’eau ou une boisson sans alcool et aide à organiser un retour sécuritaire. En cas de menace, de malaise ou de danger immédiat, il suspend le service et appelle les services d’urgence appropriés. Un relevé factuel de l’incident est transmis à l’autorité prévue à l’article 61 et conservé avec un accès restreint.
-
-**R4.4.** Avant l’ouverture, le responsable vérifie la présence de personnel autorisé, l’hygiène, les stocks, les prix affichés et les conditions applicables au service. À la fermeture, le personnel cesse les ventes, sécurise boissons, caisse et accès, nettoie le matériel et signale tout écart ou incident au régisseur. Les ventes à emporter et les formats de vente mentionnés à l’article 40 ne peuvent être pratiqués que si les autorisations applicables les permettent.

@@ -126,7 +126,7 @@ $extra4=@"
 $titles=@('R1 Tenue et comportement','R2 Mobilier décorations souvenirs provenance et dons','R3 Assemblées et réunions','R4 Service de bar')
 $groups=@($r1,$r2,$r3,$r4);$extras=@('',$extra2,$extra3,$extra4)
 $full="# Règlement intégral consolidé du Mess et Instituts du 9e Escadron du génie`n`n$status`n`nLes quatre règlements suivants constituent le texte intégral proposé. Les droits et garanties de la constitution leur sont applicables.`n`n"
-for($i=0;$i -lt 4;$i++){$b=(Blocks $groups[$i])+"`n`n"+$extras[$i];Save ("R{0}-proposition.md" -f ($i+1)) ("# $($titles[$i])`n`n$status`n`n"+$b);$full+="## $($titles[$i])`n`n$b`n`n"}
+for($i=0;$i -lt 4;$i++){$b=(Blocks $groups[$i])+"`n`n"+$extras[$i];if($i -eq 3){$b="## Règles de service`n`n"+(Blocks @(56,58,59,61,68))+"`n`n"+$extra4+"`n`n## Rôles et responsabilités`n`n"+(Blocks @(40,42,60))};Save ("R{0}-proposition.md" -f ($i+1)) ("# $($titles[$i])`n`n$status`n`n"+$b);$full+="## $($titles[$i])`n`n$b`n`n"}
 Save 'reglement-consolide.md' $full
 Save 'lettre-presentation.md' @"
 # Présentation de la révision des documents du Mess
