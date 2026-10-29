@@ -13,11 +13,22 @@ La constitution et ses annexes fixent les règles générales du Mess, les droit
 
 ## Dispositions générales
 
-<a id="article-1"></a>**1.** Les références [DOAD 5045-0](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/directives-ordonnances-administratives-defense/serie-5000/5045/5045-0-programmes-de-soutien-du-personnel-des-forces-canadiennes.html) et [A-PS-110-001/AG-002](https://sbmfc.ca/a-propos/politiques-et-publications/aa-ps-110-soutien-public-aux-programmes-de-bemm) s’appliquent dans leur version en vigueur. La constitution fixe les droits des membres, les organes de décision et les garanties financières. Quatre règlements en précisent les modalités : [R1 tenue et comportement](R1-proposition.md); [R2 meubles et décorations](R2-proposition.md); [R3 assemblées et réunions](R3-proposition.md); [R4 service de bar](R4-proposition.md). La constitution s’applique même en l’absence d’un règlement complémentaire. Un règlement peut préciser les conditions d’une permission prévue par la constitution, mais ne peut lever une interdiction absolue, modifier les pouvoirs des membres ni contourner une approbation requise. Le terme commandant désigne le commandant du 9 EG; les fonctions s’appliquent sans distinction de genre.
+<a id="article-1"></a>**1. Nom et locaux.** Le mess du 9 EG porte le nom de « Mess et Instituts ». Il comprend deux locaux : le « Club Chimo », destiné aux soldats, caporaux et caporaux-chefs, et le « Mess Combiné », destiné aux sergents et aux grades supérieurs.
 
-<a id="article-2"></a>**2.** Le mess du 9 EG porte le nom de « Mess et Instituts ». Il comprend deux locaux : le « Club Chimo », destiné aux soldats, caporaux et caporaux-chefs, et le « Mess Combiné », destiné aux sergents et aux grades supérieurs.
+<a id="article-2"></a>**2. Objet.** Le Mess et Instituts favorise l’esprit de corps, le bien-être des membres et les liens entre eux. Ses deux locaux offrent à chaque groupe un espace de rencontre adapté, dans le respect des rapports de leadership au sein de l’unité.
 
-<a id="article-3"></a>**3.** La présence d'un mess dans l'enceinte du manège militaire a pour but d'entretenir un esprit de corps, amenant par le fait même la présence d'une certaine efficacité et d'un certain bien-être au sein de l'unité. Cela permet également aux membres de mieux se connaître. Il y aura 2 locaux pour préserver l'intimité de chaque groupe et conserver ainsi un leadership au sein des troupes.
+<a id="article-3"></a>**3. Commandant du Mess.** Le commandant du 9 EG exerce les fonctions de commandant du Mess et Instituts.
+
+<a id="article-4"></a>**4. Cadre applicable.** La [DOAD 5045-0](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/directives-ordonnances-administratives-defense/serie-5000/5045/5045-0-programmes-de-soutien-du-personnel-des-forces-canadiennes.html) et la publication [A-PS-110-001/AG-002](https://sbmfc.ca/a-propos/politiques-et-publications/aa-ps-110-soutien-public-aux-programmes-de-bemm) s’appliquent dans leur version en vigueur.
+
+La constitution et ses annexes fixent les règles générales du Mess, les droits des membres, les pouvoirs des responsables et les garanties financières. Quatre règlements en précisent l’application :
+
+- **a.** [R1 — Tenue et comportement](R1-proposition.md);
+- **b.** [R2 — Meubles et décorations](R2-proposition.md);
+- **c.** [R3 — Assemblées et réunions](R3-proposition.md);
+- **d.** [R4 — Service de bar](R4-proposition.md).
+
+La constitution demeure applicable en l’absence de règlement complémentaire. Un règlement peut préciser les modalités d’application et les permissions expressément prévues par la constitution, mais ne peut la modifier, lever une interdiction absolue, réduire les pouvoirs des membres ni contourner une approbation requise.
 
 ## Membres
 
