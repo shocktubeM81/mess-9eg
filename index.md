@@ -78,26 +78,23 @@ document_label: Statuts et règlements
 {{ texte_annexe_d | markdownify | replace: '<h3', '<h5' | replace: '</h3>', '</h5>' | replace: '<h2', '<h4' | replace: '</h2>', '</h4>' }}
 
 <a id="annexe-e"></a>
-### Annexe E — Responsable des activités du Club Chimo
+<a id="annexe-f"></a>
+### Annexe E — Responsable des activités
 
 {% capture texte_annexe_e %}{% include textes/annexe-e.md %}{% endcapture %}
 {{ texte_annexe_e | markdownify | replace: '<h3', '<h5' | replace: '</h3>', '</h5>' | replace: '<h2', '<h4' | replace: '</h2>', '</h4>' }}
 
-<a id="annexe-f"></a>
-### Annexe F — Responsable des activités du Mess Combiné
-
-{% capture texte_annexe_f %}{% include textes/annexe-f.md %}{% endcapture %}
-{{ texte_annexe_f | markdownify | replace: '<h3', '<h5' | replace: '</h3>', '</h5>' | replace: '<h2', '<h4' | replace: '</h2>', '</h4>' }}
-
 <a id="annexe-g"></a>
-### Annexe G — Régisseur
+<a id="annexe-f-regisseur"></a>
+### Annexe F — Régisseur
 
-{% capture texte_annexe_g %}{% include textes/annexe-g.md %}{% endcapture %}
+{% capture texte_annexe_g %}{% include textes/annexe-f-regisseur.md %}{% endcapture %}
 {{ texte_annexe_g | markdownify | replace: '<h3', '<h5' | replace: '</h3>', '</h5>' | replace: '<h2', '<h4' | replace: '</h2>', '</h4>' }}
 
 <a id="annexe-h"></a>
-### Annexe H — Serveur
+<a id="annexe-g-serveur"></a>
+### Annexe G — Serveur
 
-{% capture texte_annexe_h %}{% include textes/annexe-h.md %}{% endcapture %}
+{% capture texte_annexe_h %}{% include textes/annexe-g-serveur.md %}{% endcapture %}
 {{ texte_annexe_h | markdownify | replace: '<h3', '<h5' | replace: '</h3>', '</h5>' | replace: '<h2', '<h4' | replace: '</h2>', '</h4>' }}
 

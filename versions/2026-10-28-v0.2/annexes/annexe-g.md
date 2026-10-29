@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Annexe G — Régisseur
+title: Annexe F — Régisseur
 document_label: Partie II — Règlements
 document_group: administration
 ---
 
-# Annexe G — Régisseur
+# Annexe F — Régisseur
 
-{% include textes/annexe-g.md %}
+{% include textes/annexe-f-regisseur.md %}

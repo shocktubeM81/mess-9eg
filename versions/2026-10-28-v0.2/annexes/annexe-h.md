@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Annexe H — Serveur
+title: Annexe G — Serveur
 document_label: Partie II — Règlements
 document_group: administration
 ---
 
-# Annexe H — Serveur
+# Annexe G — Serveur
 
-{% include textes/annexe-h.md %}
+{% include textes/annexe-g-serveur.md %}

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Annexe F — Responsable des activités du Mess Combiné
+title: Annexe E — Responsable des activités
 document_label: Partie II — Règlements
 document_group: administration
 ---
 
-# Annexe F — Responsable des activités du Mess Combiné
+# Annexe E — Responsable des activités
 
-{% include textes/annexe-f.md %}
+{% include textes/annexe-e.md %}

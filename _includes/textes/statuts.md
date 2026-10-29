@@ -98,7 +98,7 @@ Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québe
 
 <a id="statuts-p-7-1"></a>
 
-**7.1.** Les fonctions et responsabilités sont énoncées dans les [annexes A à H du règlement sur l’administration]({{ '/versions/2026-10-28-v0.2/R5-proposition.html' | relative_url }}#annexes-des-responsabilites). Elles n’élargissent pas les pouvoirs des titulaires. Les achats et paiements respectent les délégations applicables.
+**7.1.** Les fonctions et responsabilités sont énoncées dans les [annexes A à G du règlement sur l’administration]({{ '/versions/2026-10-28-v0.2/R5-proposition.html' | relative_url }}#annexes-des-responsabilites). Elles n’élargissent pas les pouvoirs des titulaires. Les achats et paiements respectent les délégations applicables.
 
 <a id="statuts-article-8"></a>
 
