@@ -3,7 +3,7 @@ layout: default
 title: Constitution du Mess et Instituts du 9e Escadron du génie
 ---
 
-# Constitution du Mess et Instituts du 9e Escadron du génie
+# Statuts et règlements, Mess et Instituts du 9e Escadron du génie
 
 **Version 0.8 du 29 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après adoption avec quorum et approbation du commandant.
 
