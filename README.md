@@ -48,3 +48,7 @@ R3 porte le titre « Assemblées et réunions » et précise comment les séance
 ## Organisation de la version 0.2.4
 
 Les quatre règlements ont chacun une numérotation continue et un ordre par sujet. Les tâches restent à la fin. La constitution garde son ordre et ses numéros. La concordance indique les nouveaux repères. `reorganize_regulations.ps1`, appelé par le générateur, prépare cette organisation sans modifier le fond des dispositions.
+
+## Version 0.2.5
+
+La page [Règlements](versions/2026-10-28-v0.2/reglements.md) présente quatre documents autonomes, chacun précédé d’une courte introduction. Le R2 est intitulé « Meubles et décorations ». Les répétitions constitutionnelles sur les délais et les titulaires de fonctions sont remplacées par des renvois; les modalités pratiques restent dans les règlements. Le recueil est conservé comme document complémentaire.

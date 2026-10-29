@@ -5,7 +5,9 @@ title: R4 Service de bar
 
 # R4 Service de bar
 
-**Version 0.2.4 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. La constitution conserve ses repères; les règlements suivent une numérotation propre à chacun.
+**Version 0.2.5 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. La constitution conserve ses repères; les règlements suivent une numérotation propre à chacun.
+
+Ce règlement encadre le service du bar, de l’ouverture à la fermeture. Il précise les refus de service, la protection des personnes mineures, la gestion des incidents et les responsabilités du personnel.
 
 ## Portée et règles de service
 

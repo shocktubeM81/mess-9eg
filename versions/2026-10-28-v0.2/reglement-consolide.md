@@ -5,11 +5,13 @@ title: Règlement intégral consolidé du Mess et Instituts du 9e Escadron du g�
 
 # Règlement intégral consolidé du Mess et Instituts du 9e Escadron du génie
 
-**Version 0.2.4 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. La constitution conserve ses repères; les règlements suivent une numérotation propre à chacun.
+**Version 0.2.5 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. La constitution conserve ses repères; les règlements suivent une numérotation propre à chacun.
 
 Les quatre règlements suivants constituent le texte intégral proposé. Les droits et garanties de la constitution leur sont applicables.
 
 ## R1 Tenue et comportement
+
+Ce règlement précise la tenue, le comportement et les conditions pratiques de fréquentation du Mess. Il s’applique aux membres et à leurs invités afin de préserver des lieux accueillants, propres et respectueux.
 
 ### Accès et invités
 
@@ -106,7 +108,9 @@ imposer un standard minimum qu'il jugera approprié.
 
 <a id="r1-19"></a>**R1.19.** Le président du mess est responsable envers le commandant de la discipline dans le Mess. Dans le cas d'absence du président, le membre senior présent est responsable du maintien de la discipline (réf. PFC 262 art 310).
 
-## R2 Mobilier décorations souvenirs provenance et dons
+## R2 Meubles et décorations
+
+Ce règlement encadre l’utilisation, la conservation et la présentation des meubles, décorations et souvenirs du Mess. Il précise aussi la provenance des biens, les conditions d’acceptation des dons et les renseignements à conserver à l’inventaire.
 
 ### Provenance dons et décorations
 
@@ -132,7 +136,7 @@ imposer un standard minimum qu'il jugera approprié.
 
 ### Tâches et responsabilités
 
-<a id="r2-9"></a>**R2.9.** Le vice-président tient un inventaire distinguant biens du Mess, de la Couronne, du fonds d’unité et de tiers. Chaque fiche indique description, emplacement, provenance, date d’entrée, propriétaire, valeur connue, justificatif et conditions d’utilisation ou de restitution. Une provenance incertaine est signalée et vérifiée avant disposition.
+<a id="r2-9"></a>**R2.9.** L’inventaire distingue les biens du Mess, de la Couronne, du fonds d’unité et de tiers. Chaque fiche indique description, emplacement, provenance, date d’entrée, propriétaire, valeur connue, justificatif et conditions d’utilisation ou de restitution. Une provenance incertaine est signalée et vérifiée avant disposition. La responsabilité de tenir cet inventaire demeure celle prévue à l’article 37 de la constitution.
 
 <a id="r2-10"></a>**R2.10.** Les jeux, y compris l'équipement de billard seront gardés sous le contrôle du régisseur ou du
 
@@ -140,11 +144,13 @@ personnel désigné par lui.
 
 ## R3 Assemblées et réunions
 
+Ce règlement explique comment préparer et tenir les assemblées et les réunions, puis en consigner et communiquer les résultats. Il précise aussi l’accès aux documents, leur archivage et leur sauvegarde; les pouvoirs, le quorum et les droits des membres demeurent fixés par la constitution.
+
 ### Préparation et convocation
 
 <a id="r3-1"></a>**R3.1.** Les dates, le lieu et, s’il y a lieu, le moyen de connexion sont indiqués dans la convocation. Aucune période de l’année n’est exclue pour tenir une assemblée ou une réunion.
 
-<a id="r3-2"></a>**R3.2.** Le secrétaire transmet à tous les membres l’avis de convocation au moins 14 jours avant l’assemblée, puis l’ordre du jour et les documents utiles au moins 7 jours avant. Toute proposition de modification est communiquée et affichée au moins 15 jours avant son étude, conformément à l’article 115. L’avis et l’ordre du jour sont également affichés dans les locaux.
+<a id="r3-2"></a>**R3.2.** L’avis précise la date, le lieu ou le moyen de connexion. L’ordre du jour et les documents utiles sont transmis au moins 7 jours avant la séance; l’avis et l’ordre du jour sont aussi affichés dans les locaux. Le secrétaire organise ces envois en respectant les délais minimaux fixés aux articles 25 et 115 de la constitution.
 
 <a id="r3-3"></a>**R3.3.** Les propositions importantes ou complexes sont accompagnées des renseignements utiles à leur discussion et transmises avec les documents de séance, selon les délais applicables.
 
@@ -192,17 +198,19 @@ personnel désigné par lui.
 
 <a id="r3-21"></a>**R3.21.** Un registre physique ou numérique reçoit suggestions, plaintes et commentaires. Le comité en assure le suivi et soumet aux membres les questions de leur compétence. Les dossiers individuels sont protégés; le suivi collectif est communiqué sans renseignements personnels.
 
-<a id="r3-22"></a>**R3.22.** Toutes plaintes ou suggestions à caractère urgent peuvent être adressées directement au président.
+<a id="r3-22"></a>**R3.22.** Les demandes urgentes sont acheminées directement au président selon les voies prévues par la constitution; les sujets collectifs sont inscrits au suivi de la prochaine séance.
 
 ### Tâches et responsabilités
 
-<a id="r3-23"></a>**R3.23.** Le président, ou le vice-président en son absence, dirige la séance. Il distribue la parole, évite les répétitions et veille au respect de l’ordre du jour et des procédures. Les interventions lui sont adressées, une personne à la fois.
+<a id="r3-23"></a>**R3.23.** Pendant la séance, la présidence distribue la parole, évite les répétitions et veille au respect de l’ordre du jour et des procédures. Les interventions lui sont adressées, une personne à la fois.
 
-<a id="r3-24"></a>**R3.24.** Le secrétaire tient un répertoire structuré : constitution, règlements, convocations, ordres du jour, procès-verbaux, décisions, budgets, rapports financiers, inventaires et correspondance officielle. Chaque document porte date, version, statut et preuves d’adoption et d’approbation requises. Le registre des décisions précise responsable, échéance et suivi. Les dossiers du comité et ceux des assemblées sont distincts et reliés par les recommandations et décisions correspondantes.
+<a id="r3-24"></a>**R3.24.** Les dossiers sont classés dans un répertoire commun : textes de gouvernance, convocations, ordres du jour, procès-verbaux, décisions, budgets, rapports financiers, inventaires et correspondance. Chaque document indique sa date, sa version, son statut et les preuves d’adoption et d’approbation requises. Le registre des décisions précise responsable, échéance et suivi. Les dossiers du comité et ceux des assemblées sont distincts et reliés par les recommandations et décisions correspondantes.
 
 <a id="r3-25"></a>**R3.25.** Le secrétaire et un suppléant désigné disposent d’un accès de continuité. Une sauvegarde indépendante du répertoire courant est effectuée au moins mensuellement et après toute adoption ou approbation. La restauration est vérifiée au moins annuellement et lors de la relève du secrétaire. La relève comprend inventaire des dossiers, transfert sécurisé des accès et décisions en cours. Les documents sont conservés selon les exigences applicables; aucune durée réglementaire non vérifiée n’est créée ici.
 
 ## R4 Service de bar
+
+Ce règlement encadre le service du bar, de l’ouverture à la fermeture. Il précise les refus de service, la protection des personnes mineures, la gestion des incidents et les responsabilités du personnel.
 
 ### Portée et règles de service
 

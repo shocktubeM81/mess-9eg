@@ -5,7 +5,7 @@ title: Constitution du Mess et Instituts du 9e Escadron du génie
 
 # Constitution du Mess et Instituts du 9e Escadron du génie
 
-**Version 0.2.4 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. La constitution conserve ses repères; les règlements suivent une numérotation propre à chacun.
+**Version 0.2.5 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. La constitution conserve ses repères; les règlements suivent une numérotation propre à chacun.
 
 Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québec.
 
@@ -13,7 +13,7 @@ La constitution établit les droits, les organes et les garanties; les quatre r�
 
 ## Identité et membres
 
-<a id="article-1"></a>**1.** Les références DOAD 5045-0 et A-PS-110-001/AG-002 citées dans la source demeurent applicables sous réserve de leur version en vigueur. La constitution fixe les droits des membres, les organes de décision et les garanties financières. Quatre règlements en précisent les modalités : R1 tenue et comportement; R2 mobilier, décorations, souvenirs, provenance et dons; R3 assemblées et réunions; R4 service de bar. Un règlement ne peut modifier un pouvoir réservé aux membres ni contourner une approbation requise. Le terme commandant désigne le commandant du 9 EG; les fonctions s’appliquent sans distinction de genre.
+<a id="article-1"></a>**1.** Les références DOAD 5045-0 et A-PS-110-001/AG-002 citées dans la source demeurent applicables sous réserve de leur version en vigueur. La constitution fixe les droits des membres, les organes de décision et les garanties financières. Quatre règlements en précisent les modalités : R1 tenue et comportement; R2 meubles et décorations; R3 assemblées et réunions; R4 service de bar. Un règlement ne peut modifier un pouvoir réservé aux membres ni contourner une approbation requise. Le terme commandant désigne le commandant du 9 EG; les fonctions s’appliquent sans distinction de genre.
 
 <a id="article-2"></a>**2.** Ce mess sera désigné par "Mess et Instituts". Par contre, le local regroupant les soldats, caporaux et caporaux-chef sera désigné sous l’appellation de « Club Chimo » et le local regroupant les sergents et plus gradés sera désigné « Mess Combiné ».
 

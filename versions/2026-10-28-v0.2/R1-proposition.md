@@ -5,7 +5,9 @@ title: R1 Tenue et comportement
 
 # R1 Tenue et comportement
 
-**Version 0.2.4 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. La constitution conserve ses repères; les règlements suivent une numérotation propre à chacun.
+**Version 0.2.5 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. La constitution conserve ses repères; les règlements suivent une numérotation propre à chacun.
+
+Ce règlement précise la tenue, le comportement et les conditions pratiques de fréquentation du Mess. Il s’applique aux membres et à leurs invités afin de préserver des lieux accueillants, propres et respectueux.
 
 ## Accès et invités
 

@@ -10,7 +10,7 @@ $t=[regex]::Replace($m.Groups[2].Value,'(?s)<!--.*?-->','')
 $a[[int]$m.Groups[1].Value]=[regex]::Replace($t,'(?m)^## .*$','').Trim()
 }
 if($a.Count -ne 116){throw 'Source incomplète'}
-$edit[1]='Les références DOAD 5045-0 et A-PS-110-001/AG-002 citées dans la source demeurent applicables sous réserve de leur version en vigueur. La constitution fixe les droits des membres, les organes de décision et les garanties financières. Quatre règlements en précisent les modalités : R1 tenue et comportement; R2 mobilier, décorations, souvenirs, provenance et dons; R3 assemblées et réunions; R4 service de bar. Un règlement ne peut modifier un pouvoir réservé aux membres ni contourner une approbation requise. Le terme commandant désigne le commandant du 9 EG; les fonctions sʼappliquent sans distinction de genre.'
+$edit[1]='Les références DOAD 5045-0 et A-PS-110-001/AG-002 citées dans la source demeurent applicables sous réserve de leur version en vigueur. La constitution fixe les droits des membres, les organes de décision et les garanties financières. Quatre règlements en précisent les modalités : R1 tenue et comportement; R2 meubles et décorations; R3 assemblées et réunions; R4 service de bar. Un règlement ne peut modifier un pouvoir réservé aux membres ni contourner une approbation requise. Le terme commandant désigne le commandant du 9 EG; les fonctions sʼappliquent sans distinction de genre.'
 $edit[5]='Une assemblée générale des membres est tenue chaque trimestre. Le calendrier annuel tient compte des entraînements et est communiqué aux membres. Les réunions du comité préparent et exécutent les décisions; elles ne remplacent aucune assemblée trimestrielle.'
 $edit[7]='Un rapport financier sommaire est présenté à chaque assemblée générale. Il distingue les opérations du Mess, le fonds cadeau et, le cas échéant, les opérations relatives au fonds dʼunité, sans confondre leur propriété ni leur autorité financière.'
 $edit[13]='Le calendrier tient compte de la disponibilité estivale. Une assemblée peut être planifiée avant le 30 mai et une autre après le 30 août, dans leurs trimestres respectifs. Lʼabsence de quorum entraîne une nouvelle convocation et ne transfère aucun pouvoir au comité.'
@@ -64,7 +64,7 @@ $headings=@{1='Identité et membres';5='Assemblées générales';23='Votes et é
 if($headings.ContainsKey([int]$n)){$heading="## $($headings[[int]$n])`n`n"}
 }
 "$heading<a id=`"article-$n`"></a>**$n.** $b"};$out -join "`n`n"}
-$status='**Version 0.2.4 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les numéros historiques sont conservés pour faciliter la comparaison; les articles déplacés figurent dans les règlements.'
+$status='**Version 0.2.5 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les numéros historiques sont conservés pour faciliter la comparaison; les articles déplacés figurent dans les règlements.'
 $funds=@"
 ## Assemblées et portée des règlements
 
@@ -129,7 +129,7 @@ $extra4=@"
 
 **R4.4.** Avant l’ouverture, le responsable vérifie la présence de personnel autorisé, l’hygiène, les stocks, les prix affichés et les conditions applicables au service. À la fermeture, le personnel cesse les ventes, sécurise boissons, caisse et accès, nettoie le matériel et signale tout écart ou incident au régisseur. Les ventes à emporter et les formats de vente mentionnés à l’article 40 ne peuvent être pratiqués que si les autorisations applicables les permettent.
 "@
-$titles=@('R1 Tenue et comportement','R2 Mobilier décorations souvenirs provenance et dons','R3 Assemblées et réunions','R4 Service de bar')
+$titles=@('R1 Tenue et comportement','R2 Meubles et décorations','R3 Assemblées et réunions','R4 Service de bar')
 $groups=@($r1,$r2,$r3,$r4);$extras=@('',$extra2,$extra3,$extra4)
 $full="# Règlement intégral consolidé du Mess et Instituts du 9e Escadron du génie`n`n$status`n`nLes quatre règlements suivants constituent le texte intégral proposé. Les droits et garanties de la constitution leur sont applicables.`n`n"
 for($i=0;$i -lt 4;$i++){$b=(Blocks $groups[$i])+"`n`n"+$extras[$i];if($i -eq 0){$b=(Blocks @($r1|Where-Object{$_ -ne 57}))+"`n`n## Tâches et responsabilités`n`n"+(Blocks @(57))};if($i -eq 1){$inventory=[regex]::Match($extra2,'(?s)\*\*R2\.1\..*?(?=\*\*R2\.2\.)').Value.Trim();$donation=[regex]::Match($extra2,'(?s)\*\*R2\.2\..*').Value.Trim();$b=(Blocks $r2)+"`n`n## Provenance et dons`n`n"+$donation+"`n`n## Tâches et responsabilités`n`n"+$inventory};if($i -eq 2){$records=[regex]::Match($extra3,'(?s)\*\*R3\.1\..*?(?=\*\*R3\.3\.)').Value.Trim();$procedures=$extra3.Replace($records,'').Replace('## Gestion documentaire et continuité','## Accès aux documents et communication');$b="## Préparation et déroulement`n`n"+(Blocks @($r3|Where-Object{$_ -ne 16}))+"`n`n"+$procedures+"`n`n## Tâches et responsabilités`n`n"+(Blocks @(16))+"`n`n"+$records};if($i -eq 3){$b="## Règles de service`n`n"+(Blocks @(56,58,59,61,68))+"`n`n"+$extra4+"`n`n## Rôles et responsabilités`n`n"+(Blocks @(40,42,60))};Save ("R{0}-proposition.md" -f ($i+1)) ("# $($titles[$i])`n`n$status`n`n"+$b);$full+="## $($titles[$i])`n`n$b`n`n"}
@@ -137,7 +137,7 @@ Save 'reglement-consolide.md' $full
 Save 'lettre-presentation.md' @"
 # Présentation de la révision des documents du Mess
 
-28 octobre 2026 — Version 0.2.4 proposée
+28 octobre 2026 — Version 0.2.5 proposée
 
 Aux membres du Mess et Instituts du 9e Escadron du génie,
 
@@ -166,7 +166,7 @@ $rows=@(
 )
 $tab="# Tableau des modifications Avant Après Pourquoi`n`n$status`n`nSeuls les changements de fond et la réorganisation figurent ici. Les simples déplacements sont détaillés dans la concordance. Les délais nouveaux sont proposés à lʼadoption, et ne sont pas attribués à une décision antérieure inaccessible.`n`n| Sujet | Avant | Après | Problème et pourquoi | Mise en œuvre |`n|---|---|---|---|---|`n"
 foreach($r in $rows){$tab+='| '+($r -join ' | ')+" |`n"};Save 'tableau-modifications.md' $tab
-$map="# Concordance des 116 articles`n`nVersion 0.2.4 du 28 octobre 2026. Source : constitution.md au commit 8362362. Les clauses C1 à C6, R2.1 à R2.2, R3.1 à R3.4 et R3.7 à R3.10, ainsi que R4.1 à R4.4 sont nouvelles. Les numéros historiques sont conservés.`n`n| Article source | Destination | Traitement |`n|---|---|---|`n"
+$map="# Concordance des 116 articles`n`nVersion 0.2.5 du 28 octobre 2026. Source : constitution.md au commit 8362362. Les clauses C1 à C6, R2.1 à R2.2, R3.1 à R3.4 et R3.7 à R3.10, ainsi que R4.1 à R4.4 sont nouvelles. Les numéros historiques sont conservés.`n`n| Article source | Destination | Traitement |`n|---|---|---|`n"
 foreach($n in 1..116){$dest=if($n -in $core){'Constitution'}elseif($n -in $r1){'R1'}elseif($n -in $r2){'R2'}elseif($n -in $r3){'R3'}else{'R4'};$action=if($edit.ContainsKey($n)){'Modifié — voir tableau'}else{'Texte conservé'};$map+="| $n | $dest | $action |`n"};Save 'concordance.md' $map
 Save 'index.md' @"
 ---
@@ -176,18 +176,19 @@ title: Révision des documents du Mess du 28 octobre 2026
 
 # Révision des documents du Mess
 
-**Version 0.2.4 du 28 octobre 2026 — Proposition à discuter et à adopter.**
+**Version 0.2.5 du 28 octobre 2026 — Proposition à discuter et à adopter.**
 
 Les droits des membres et les assemblées trimestrielles sont maintenus. La révision simplifie lʼorganisation des textes et renforce lʼaccès aux documents ainsi que leur communication proactive.
 
 - [Courte lettre de présentation](lettre-presentation.md)
 - [Tableau Avant Après Pourquoi des seules modifications](tableau-modifications.md)
 - [R1 Tenue et comportement](R1-proposition.md)
-- [R2 Mobilier décorations souvenirs provenance et dons](R2-proposition.md)
+- [R2 Meubles et décorations](R2-proposition.md)
 - [R3 Assemblées et réunions](R3-proposition.md)
 - [R4 Service de bar](R4-proposition.md)
 - [Constitution intégrale consolidée](constitution-consolidee.md)
-- [Règlement intégral consolidé réunissant R1 à R4](reglement-consolide.md)
+- [Les quatre règlements distincts](reglements.md)
+- [Recueil complémentaire des règlements](reglement-consolide.md)
 - [Concordance des 116 articles](concordance.md)
 - [Sources et validations](notes-revision.md)
 - [Transcription actuelle conservée](../../constitution.md)
@@ -195,7 +196,7 @@ Les droits des membres et les assemblées trimestrielles sont maintenus. La rév
 Save 'notes-revision.md' @"
 # Sources et validations de la révision
 
-Version 0.2.4 du 28 octobre 2026
+Version 0.2.5 du 28 octobre 2026
 
 ## Sources consultées
 
@@ -248,7 +249,7 @@ $update=@"
 
 ## Ajustement de la répartition des assemblées
 
-Version 0.2.4 du 28 octobre 2026. Par rapport à la version 0.2, les articles 12, 14, 23, 25 et 35 rejoignent la constitution. Le seuil de quorum reste à son article 8; le délai de 30 minutes et le contrôle pendant la séance passent au R3.8. Le calendrier pratique de l’article 13 rejoint le R3. La règle de majorité et les garanties du vote restent constitutionnelles; recomptage et consignation sont précisés au R3.7, et les modalités du vote par internet au R3.9. La clause C4 confirme cette limite entre les deux textes. Les articles 16 à 22 restent au R3 pour la préparation et le déroulement.
+Version 0.2.5 du 28 octobre 2026. Par rapport à la version 0.2, les articles 12, 14, 23, 25 et 35 rejoignent la constitution. Le seuil de quorum reste à son article 8; le délai de 30 minutes et le contrôle pendant la séance passent au R3.8. Le calendrier pratique de l’article 13 rejoint le R3. La règle de majorité et les garanties du vote restent constitutionnelles; recomptage et consignation sont précisés au R3.7, et les modalités du vote par internet au R3.9. La clause C4 confirme cette limite entre les deux textes. Les articles 16 à 22 restent au R3 pour la préparation et le déroulement.
 
 Cette répartition conserve quatre règlements et ne réduit aucun quorum, délai minimal, droit de vote, seuil particulier ou pouvoir réservé aux membres. Elle constitue une proposition à adopter et à approuver.
 "@
