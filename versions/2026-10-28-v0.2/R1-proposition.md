@@ -14,7 +14,7 @@ Ce règlement précise les conditions d’accès, la tenue et le comportement da
 
 ## Accès aux locaux
 
-<a id="r1-1"></a>**R1.1.** L’accès selon le grade et les invitations relève du [Manuel PSP, chapitre 9-1, paragraphes 29 à 31](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=274). Pour les deux locaux du 9 EG, voir la [constitution, article 2](constitution-consolidee.md#article-2).
+<a id="r1-1"></a>**R1.1.** L’accès selon le grade et les invitations relève du [Manuel PSP, chapitre 9-1, paragraphes 29 à 31](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf). Pour les deux locaux du 9 EG, voir la [constitution, article 2](constitution-consolidee.md#article-2).
 
 <a id="r1-2"></a>**R1.2.** Les conjoints peuvent participer aux activités sans le membre. Ils doivent pouvoir s’identifier. En cas de doute, leur identité est confirmée auprès d’un membre du comité. Pendant une absence du membre hors de la région, son conjoint reçoit le même traitement que lui. L’admission d’un conjoint de moins de 18 ans exige l’autorisation du commandant.
 
@@ -38,7 +38,7 @@ Ce règlement précise les conditions d’accès, la tenue et le comportement da
 
 <a id="r1-9"></a>**R1.9.** Les animaux sont interdits, sauf les chiens guides.
 
-<a id="r1-10"></a>**R1.10.** Les loteries, tirages et activités de divertissement suivent le [Manuel PSP, chapitre 9-4, paragraphes 66 à 69](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=310).
+<a id="r1-10"></a>**R1.10.** Les loteries, tirages et activités de divertissement suivent le [Manuel PSP, chapitre 9-4, paragraphes 66 à 69](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf).
 
 <a id="r1-11"></a>**R1.11.** Après utilisation, les locaux et les équipements de jeu sont laissés propres. Les meubles sont remis à leur place.
 
