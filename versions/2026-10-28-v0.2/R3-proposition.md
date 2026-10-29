@@ -7,4 +7,6 @@ document_label: Partie II — Règlements
 
 # Règlement sur les assemblées et les réunions
 
+{% include conventions-references.md %}
+
 {% include textes/r3.md %}

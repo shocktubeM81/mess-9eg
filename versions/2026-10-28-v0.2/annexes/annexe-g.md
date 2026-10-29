@@ -7,4 +7,6 @@ document_group: administration
 
 # Annexe F — Régisseur
 
+{% include conventions-references.md %}
+
 {% include textes/annexe-f-regisseur.md %}

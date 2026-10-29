@@ -7,6 +7,8 @@ document_label: Partie II — Règlements
 
 # Règlement sur l’administration
 
+{% include conventions-references.md %}
+
 {% include textes/r5.md %}
 
 <details>

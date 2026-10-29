@@ -7,4 +7,6 @@ document_group: administration
 
 # Annexe E — Responsable des activités
 
+{% include conventions-references.md %}
+
 {% include textes/annexe-e.md %}

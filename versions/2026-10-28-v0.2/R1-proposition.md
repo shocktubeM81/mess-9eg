@@ -8,4 +8,6 @@ modification: 2026-10-29
 
 # Règlement sur la tenue et le comportement
 
+{% include conventions-references.md %}
+
 {% include textes/r1.md %}

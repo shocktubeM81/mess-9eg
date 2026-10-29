@@ -7,4 +7,6 @@ document_label: Partie II — Règlements
 
 # Règlement sur le service de bar
 
+{% include conventions-references.md %}
+
 {% include textes/r4.md %}

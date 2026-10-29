@@ -1,0 +1,1 @@
+**Lecture des références.** Dans ce document, « chap. » désigne un chapitre du [Manuel des politiques des PSP](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=1) et « para. » un paragraphe de ce chapitre. Les autres références sont identifiées par leur titre.

@@ -6,6 +6,8 @@ document_label: Partie I — Statuts
 
 # Statuts
 
+{% include conventions-references.md %}
+
 {% include textes/statuts.md %}
 
 <details>

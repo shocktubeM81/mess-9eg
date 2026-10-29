@@ -7,4 +7,6 @@ document_group: administration
 
 # Annexe C — Secrétaire
 
+{% include conventions-references.md %}
+
 {% include textes/annexe-c.md %}
