@@ -39,11 +39,9 @@ Ce règlement précise la tenue, le comportement et les conditions pratiques de 
 
 **c. Couvre-chef.** Retirer son couvre-chef à l’entrée du Mess, sous réserve des exceptions prévues par les instructions militaires, notamment pour les pratiques religieuses ou l’exercice de fonctions.
 
-**d. Port de l’uniforme.** Lorsqu’un militaire porte l’uniforme, celui-ci demeure conforme aux Instructions sur la tenue des Forces canadiennes (A-DH-265-000/AG-001), dans leur version en vigueur, ainsi qu’aux directives de tenue applicables de la chaîne de commandement. L’uniforme est propre, soigné et porté avec les articles et insignes autorisés.
+**d. Port de l’uniforme.** Lorsqu’un militaire porte l’uniforme, celui-ci demeure conforme aux [Instructions sur la tenue des Forces canadiennes (A-DH-265-000/AG-001)](https://www.canada.ca/fr/services/defense/fac/systeme-identite-militaire/instructions-tenue/chapitre-2.html), dans leur version en vigueur, ainsi qu’aux directives de tenue applicables de la chaîne de commandement. L’uniforme est propre, soigné et porté avec les articles et insignes autorisés.
 
 **e. Tenue minimale.** En cas d’abus, le commandant ou le président peut préciser la tenue minimale exigée, dans le respect des instructions militaires applicables.
-
-Référence : [Instructions sur la tenue des Forces canadiennes, chapitre 2 — Politique et apparence](https://www.canada.ca/fr/services/defense/fac/systeme-identite-militaire/instructions-tenue/chapitre-2.html), notamment les rubriques sur le port de l’uniforme, les coiffures et les vêtements civils.
 
 ## Comportement et sécurité
 
