@@ -1,5 +1,16 @@
 (() => {
   "use strict";
+  const followOldReference = () => {
+    let id;
+    try { id = decodeURIComponent(window.location.hash.slice(1)); } catch { return; }
+    const target = id && document.getElementById(id);
+    const redirect = target && target.getAttribute("data-renvoi");
+    if (!redirect) return;
+    const destination = new URL(redirect.replace(/\.md(?=#|$)/, ".html"), document.baseURI);
+    if (destination.href !== window.location.href) window.location.replace(destination.href);
+  };
+  window.addEventListener("hashchange", followOldReference);
+  followOldReference();
   const content = document.getElementById("document");
   const toc = document.getElementById("table-of-contents");
   const sidebar = document.getElementById("sidebar");
