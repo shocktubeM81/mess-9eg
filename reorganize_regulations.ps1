@@ -40,6 +40,7 @@ Pour le personnel du bar :
 
 Référence : [Instructions sur la tenue des Forces canadiennes, chapitre 2 — Politique et apparence](https://www.canada.ca/fr/services/defense/fac/systeme-identite-militaire/instructions-tenue/chapitre-2.html), notamment les rubriques sur le port de l’uniforme, les coiffures et les vêtements civils.
 "@
+$units[1]['71']="Il est interdit de dormir dans les locaux du Mess, y compris derrière le bar, pour des raisons d’hygiène et de sécurité."
 $units[1]['62']="Les membres et leurs invités respectent les règles du Mess et contribuent au maintien de l’ordre et d’un climat amical. Les comportements perturbateurs donnent lieu à un rappel à l’ordre et sont signalés au sergent-major de l’escadron."
 $units[1]['66']="Après utilisation, chacun laisse les locaux et les équipements de jeu propres et remet les meubles à leur place."
 $units[1]['63']="Tout dommage causé par un membre ou son invité est signalé au président, même s’il est accidentel. Les frais de réparation ou de remise en état peuvent être réclamés selon la responsabilité établie; le seul signalement d’un accident ne rend pas automatiquement le membre responsable du coût."

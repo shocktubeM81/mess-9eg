@@ -54,7 +54,7 @@ Référence : [Instructions sur la tenue des Forces canadiennes, chapitre 2 — 
 
 <a id="r1-9"></a>**R1.9.** Les membres et leurs invités respectent les règles du Mess et contribuent au maintien de l’ordre et d’un climat amical. Les comportements perturbateurs donnent lieu à un rappel à l’ordre et sont signalés au sergent-major de l’escadron.
 
-<a id="r1-10"></a>**R1.10.** Couchage dans le mess et le bar. Pour des raisons d'hygiène et de sécurité, il est interdit de dormir dans le Mess et derrière le bar.
+<a id="r1-10"></a>**R1.10.** Il est interdit de dormir dans les locaux du Mess, y compris derrière le bar, pour des raisons d’hygiène et de sécurité.
 
 <a id="r1-11"></a>**R1.11.** Animaux. Il est interdit d’apporter des animaux dans le mess, sauf chien guide.
 
