@@ -29,9 +29,11 @@ Ce règlement précise les contrôles de service, les refus, les incidents et la
 
 <a id="r4-6"></a>**R4.6.** L’ouverture exige du personnel autorisé, des conditions d’hygiène adéquates, des stocks vérifiés et des prix affichés. À la fermeture, les ventes cessent, les boissons et la caisse sont sécurisées, le matériel est nettoyé et les accès sont verrouillés. Tout écart est signalé au régisseur.
 
-## Formats de vente
+## Ventes et paiements
 
 <a id="r4-7"></a>**R4.7.** Les spiritueux ne sont pas vendus à la bouteille, ni la bière à la caisse. Le vin régimentaire peut être vendu à la bouteille ou, avec l’autorisation du président, à la caisse. Les ventes sur place et à emporter exigent les autorisations applicables.
+
+<a id="r4-8"></a>**R4.8.** Les ventes au bar sont payables en espèces ou par carte de débit ou de crédit, selon les directives des SBMFC.
 
 ## Références
 

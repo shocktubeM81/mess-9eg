@@ -102,6 +102,7 @@ Les tâches retirées sont regroupées dans les annexes. Les modalités de quoru
 | R4.5 et R4.6 | R4.3; sobriété du personnel constitution 34 |
 | R4.7 et R4.8 | R4.4 et R4.5; tâches annexes G et H |
 | R4.9 et R4.10 | R4.6 et R4.7; tâches annexes G et H |
+| Nouvelle précision de paiement | R4.8 : espèces, débit et crédit au bar; constitution 26 b : demandes de virement et carte autorisée |
 
 ---
 

@@ -31,6 +31,8 @@ document_group: constitution
 
 - **i.** Lors d’une réception sans représentant membre ordinaire en règle, exercer l’autorité sur place.
 
+- **j.** Encaisser les ventes en espèces ou par carte de débit ou de crédit, selon les directives des SBMFC.
+
 ## Navigation entre les annexes
 
 - [← Annexe G — Régisseur](annexe-g.md)

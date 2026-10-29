@@ -23,7 +23,7 @@ document_group: constitution
 
 - **e.** Recevoir les demandes de réservation et les transmettre au président pour présentation au commandant.
 
-- **f.** Tenir les justificatifs des déplacements liés aux commandes.
+- **f.** Transmettre les pièces justificatives des commandes au trésorier.
 
 - **g.** Contrôler les équipements de jeu ou en confier la garde à une personne désignée.
 

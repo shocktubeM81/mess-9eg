@@ -23,6 +23,8 @@ document_group: constitution
 
 - **e.** Gérer le fonds du président avec celui-ci.
 
+- **f.** Préparer et transmettre les demandes de virement électronique de fonds par l’entremise des SBMFC. Assurer le suivi des pièces justificatives des achats par carte de crédit, selon les directives des SBMFC.
+
 ## Navigation entre les annexes
 
 - [← Annexe C — Secrétaire](annexe-c.md)

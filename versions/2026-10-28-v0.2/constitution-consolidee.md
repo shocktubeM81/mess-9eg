@@ -92,14 +92,14 @@ Toute personne participant à la gestion des fonds agit avec diligence. La mauva
 
 <a id="article-23"></a>**23.** Les membres du comité ne peuvent tirer de profit personnel, de rémunération ou d’avantage de leur gestion du Mess. Tout avantage possible lié à leur participation à une entreprise faisant affaire avec le Mess est déclaré au commandant ([Manuel des politiques des PSP](https://www.sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf)).
 
-<a id="article-24"></a>**24.** Les serveurs formés et le régisseur peuvent être rémunérés comme employés des SBMFC si le budget annuel prévoit leur salaire. Sinon, ces fonctions sont bénévoles. Les frais de déplacement du régisseur pour les commandes sont remboursables selon les directives des SBMFC, jusqu’à 500 $ par année.
+<a id="article-24"></a>**24.** Toute rémunération pour des services au Mess exige un emploi auprès des SBMFC et respecte leurs directives et le budget approuvé. Sans ce statut, les fonctions de serveur, de régisseur et de membre du comité sont bénévoles.
 
 <a id="article-25"></a>**25.** Les cotisations servent uniquement aux besoins du Mess ([Manuel des politiques des PSP, chapitre 9-1](https://www.sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf)).
 
 - **a.** Elles sont dues par les membres ordinaires et associés pour l’année du 1er avril au 31 mars suivant.
 - **b.** Les taux annuels et les comptes de dépôt sont votés à la dernière assemblée de l’année financière, en mars. Tout changement de taux exige un vote de l’assemblée.
 - **c.** Les réservistes paient par délégation de solde, en un ou deux versements.
-- **d.** Les militaires de la Force régulière et les civils paient directement au Mess, en espèces ou par chèque. Un reçu est remis.
+- **d.** Les militaires de la Force régulière et les civils paient directement au Mess par les moyens autorisés par les SBMFC. Un reçu est remis.
 - **e.** Une période de service hors de l’unité comme membre ordinaire d’un autre mess donne droit à un remboursement sur preuve de paiement. Il est calculé au prorata des jours, au taux annuel du local d’appartenance.
 - **f.** En cas d’enrôlement, de mutation, d’attachement ou de libération en cours d’année, la cotisation est calculée au prorata des jours d’appartenance. Le trop-perçu est remboursé.
 - **g.** Les remboursements sont effectués par transfert de fonds selon les directives des SBMFC.
@@ -107,7 +107,7 @@ Toute personne participant à la gestion des fonds agit avec diligence. La mauva
 <a id="article-26"></a>**26.** Transactions.
 
 - **a.** Tout changement de prix des consommations exige, avant son entrée en vigueur, l’approbation de l’assemblée et/ou du commandant.
-- **b.** Les achats et dépenses du Mess sont payés par chèque.
+- **b.** Les paiements sont demandés par virement électronique de fonds, par l’entremise des SBMFC. Une carte de crédit autorisée peut servir aux achats courants. Ces opérations respectent les directives des SBMFC.
 - **c.** Seuls le président et le commandant peuvent offrir une consommation par membre présent aux frais du Mess, en sonnant la cloche ou en distribuant des billets. L’offre bénéficie à l’ensemble des membres présents. Le coût total reste dans le plafond annuel du budget approuvé.
 
 <a id="article-27"></a>**27.** Le comité de divertissement peut engager les dépenses mensuelles prévues au budget annuel adopté par l’assemblée, si les fonds sont disponibles et si le comité du Mess a approuvé le calendrier des activités.
