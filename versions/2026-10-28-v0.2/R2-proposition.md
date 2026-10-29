@@ -2,6 +2,7 @@
 layout: default
 title: Règlement sur les meubles et les décorations
 doc_code: R2
+document_label: Règlement R2
 ---
 
 # Règlement sur les meubles et les décorations

@@ -13,7 +13,7 @@ Proposition de révision du 28 octobre 2026, version 0.3, préparée sur `revisi
 - [Tableau Avant Après Pourquoi](versions/2026-10-28-v0.2/tableau-modifications.md)
 - [Transcription originale](constitution.md)
 
-La constitution comprend ses annexes par rôle, dans une seule page. Les articles sont numérotés dans leur ordre de lecture; les règlements sont complémentaires et comportent des références cliquables.
+La constitution donne accès à huit annexes par rôle, chacune dans son propre document. Les fonctions du commandant et du responsable des drogues et de l’alcool relèvent de l’unité et ne font pas l’objet d’une annexe du Mess. Les articles sont numérotés dans leur ordre de lecture; les règlements sont complémentaires et comportent des références cliquables.
 
 Ces fichiers Markdown sont les sources à modifier directement. La présentation et les règlements n’ont chacun qu’un texte de référence. Les recueils, les index intermédiaires et les anciens générateurs qui recréaient des copies ont été retirés. Les versions précédentes restent dans l’historique Git.
 

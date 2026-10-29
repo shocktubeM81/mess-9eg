@@ -24,6 +24,7 @@ Le tableau Avant Après Pourquoi présente uniquement les changements. La consti
 ## Documents proposés
 
 - [Constitution]({{ '/versions/2026-10-28-v0.2/constitution-consolidee.html' | relative_url }})
+- [Annexes des responsabilités]({{ '/versions/2026-10-28-v0.2/constitution-consolidee.html' | relative_url }}#annexes-des-responsabilites)
 - [R1 Tenue et comportement]({{ '/versions/2026-10-28-v0.2/R1-proposition.html' | relative_url }})
 - [R2 Meubles et décorations]({{ '/versions/2026-10-28-v0.2/R2-proposition.html' | relative_url }})
 - [R3 Assemblées et réunions]({{ '/versions/2026-10-28-v0.2/R3-proposition.html' | relative_url }})

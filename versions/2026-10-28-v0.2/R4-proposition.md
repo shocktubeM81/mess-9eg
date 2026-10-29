@@ -2,6 +2,7 @@
 layout: default
 title: Règlement sur le service de bar
 doc_code: R4
+document_label: Règlement R4
 ---
 
 # Règlement sur le service de bar

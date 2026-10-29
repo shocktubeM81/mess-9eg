@@ -97,3 +97,8 @@ Après la suppression manuelle de l’article 59, les anciens articles 60 à 65 
 L’utilisateur a confirmé que les membres associés peuvent assister aux assemblées sans voter. Le paragraphe 4 b (6) est harmonisé avec l’article 19, tout en conservant leur exclusion du comité. Les autres dispositions de gouvernance ne sont pas modifiées par la refonte graphique.
 
 Vérification visuelle dans un aperçu local utilisant le gabarit et les fichiers de présentation du dépôt : écran d’ordinateur et largeur de téléphone. Le moteur Ruby/Jekyll n’étant pas installé dans l’environnement, cette vérification ne remplace pas la compilation GitHub Pages.
+
+
+## Annexes distinctes et rôles du Mess
+
+Les huit annexes du Mess sont publiées sur des pages autonomes, sans copie dans le corps de la constitution. La constitution conserve leur sommaire et leur statut constitutionnel. Les annexes du commandant et du responsable des drogues et de l’alcool ont été retirées à la demande de l’utilisateur, ces fonctions relevant de l’unité. Les pouvoirs du commandant figurant dans le corps de la constitution restent inchangés. Les annexes restantes sont renumérotées de A à H et proposent un retour vers la constitution et une navigation précédente/suivante.

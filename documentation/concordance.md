@@ -223,3 +223,21 @@ Les anciens articles 36 à 39 et 41 sont répartis entre les annexes B à G. Les
 ## Ajustement après la suppression manuelle de l’ancien article 59
 
 Les articles 1 à 58 conservent leur numéro. Les anciens articles 60 à 65 deviennent 59 à 64 dans l’ordre de lecture. Le R3 renvoie à l’article 57 pour la présentation des amendements et à l’article 26 pour les convocations. Les références aux repères précédents dans les tableaux ci-dessus restent historiques.
+
+
+## Repères actuels des annexes séparées
+
+Les anciennes indications d’annexe dans les tableaux précédents sont historiques. Les repères actuels sont les suivants.
+
+| Annexe avant séparation | Annexe actuelle | Rôle |
+|---|---|---|
+| B | [A](../versions/2026-10-28-v0.2/annexes/annexe-a.md) | Président du comité du Mess |
+| C | [B](../versions/2026-10-28-v0.2/annexes/annexe-b.md) | Vice-président du comité du Mess |
+| D | [C](../versions/2026-10-28-v0.2/annexes/annexe-c.md) | Secrétaire |
+| E | [D](../versions/2026-10-28-v0.2/annexes/annexe-d.md) | Trésorier |
+| F | [E](../versions/2026-10-28-v0.2/annexes/annexe-e.md) | Responsable des activités du Club Chimo |
+| G | [F](../versions/2026-10-28-v0.2/annexes/annexe-f.md) | Responsable des activités du Mess Combiné |
+| H | [G](../versions/2026-10-28-v0.2/annexes/annexe-g.md) | Régisseur |
+| I | [H](../versions/2026-10-28-v0.2/annexes/annexe-h.md) | Serveur |
+| A | Retirée | Commandant — fonction de l’unité |
+| J | Retirée | Responsable des drogues et de l’alcool — fonction de l’unité |

@@ -2,6 +2,7 @@
 layout: default
 title: Règlement sur la tenue et le comportement
 doc_code: R1
+document_label: Règlement R1
 ---
 
 # Règlement sur la tenue et le comportement
