@@ -7,7 +7,7 @@ document_label: Règlement R3
 
 # Règlement sur les assemblées et les réunions
 
-**Version 0.5 du 29 octobre 2026 — Proposition à discuter et à adopter.**
+**Version 0.6 du 29 octobre 2026 — Proposition à discuter et à adopter.**
 
 Ce règlement précise la préparation des séances, leur déroulement et la gestion des documents.
 
@@ -29,7 +29,7 @@ Ce règlement précise la préparation des séances, leur déroulement et la ges
 
 <a id="r3-7"></a>**R3.7.** Une seule personne parle à la fois. Les interventions portent sur la motion. Les amendements et le texte soumis au vote sont consignés.
 
-<a id="r3-8"></a>**R3.8.** En cas d’égalité, les voix sont recomptées. Un vote erroné est repris. Le procès-verbal indique le texte, le résultat, les abstentions et tout seuil particulier appliqué.
+<a id="r3-8"></a>**R3.8.** Un décompte contesté est vérifié; un vote erroné est repris. Le traitement d’une égalité suit l’[article 20 de la constitution](constitution-consolidee.md#article-20). Le procès-verbal indique le texte, le résultat, les abstentions et tout seuil particulier appliqué.
 
 ## Consultations et réunions du comité
 
@@ -49,7 +49,7 @@ Ce règlement précise la préparation des séances, leur déroulement et la ges
 
 <a id="r3-15"></a>**R3.15.** Le site public diffuse uniquement les documents autorisés. Les dossiers réservés aux membres et les pièces confidentielles restent dans un répertoire interne protégé, hors de GitHub.
 
-<a id="r3-16"></a>**R3.16.** Un registre reçoit les suggestions, plaintes et commentaires. Le suivi collectif est communiqué sans renseignements personnels. Les questions relevant des membres sont soumises à l’assemblée. Les demandes urgentes sont transmises directement au président; leur suivi collectif est inscrit à la prochaine séance.
+<a id="r3-16"></a>**R3.16.** Les suggestions, plaintes et commentaires sont reçus selon les [articles 50 et 51 de la constitution](constitution-consolidee.md#article-50). Seuls les éléments destinés au suivi collectif figurent au registre. Le suivi collectif est communiqué sans renseignements personnels. Les questions relevant des membres sont soumises à l’assemblée. Les demandes urgentes sont transmises directement au président; leur suivi collectif est inscrit à la prochaine séance.
 
 ## Classement et sauvegarde
 

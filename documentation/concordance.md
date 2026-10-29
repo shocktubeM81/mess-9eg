@@ -356,3 +356,12 @@ Les anciennes indications d’annexe dans les tableaux précédents sont histori
 ## Mise à jour 0.5 — 29 octobre 2026
 
 Les numéros de la version 0.4 sont conservés. Les dispositions modifiées sont : constitution 16 et 26 c; R1.1, R1.6, R1.10, R1.13; R2.5 à R2.7; R3.2, R3.4, R3.6, R3.9, R3.18; R4.1 à R4.3, R4.5 et R4.7. Le tableau des modifications détaille la comparaison avec la version 0.4. Les entrées historiques ci-dessus ne décrivent donc pas toutes la rédaction actuelle.
+
+
+## Mise à jour 0.6 — 29 octobre 2026
+
+Les adresses des documents et les identifiants existants sont conservés. L’ancre `article-22` désigne de nouveau un article distinct sur les réunions du comité; `article-8` et `article-13` restent des alias des dispositions regroupées.
+
+Dispositions révisées : constitution 4, 9, 11, 15, 16 (rédaction), 18, 20, 22 à 25, 27, 30, 31, 40, 50 à 52; R3.8 et R3.16; annexes A e et i, D a. Les modifications de forme du début de la constitution ne changent pas les règles. La numérotation n’est pas refaite pendant cette passe.
+
+Le tableau 0.6 explique chaque modification par rapport à 0.5. Les concordances précédentes sont historiques. Le statut ordinaire des civils n’est plus automatique; cette correction peut influer sur le vote et doit être examinée avant adoption.

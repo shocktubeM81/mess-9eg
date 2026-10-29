@@ -5,7 +5,7 @@ title: Constitution du Mess et Instituts du 9e Escadron du génie
 
 # Constitution du Mess et Instituts du 9e Escadron du génie
 
-**Version 0.5 du 29 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après adoption avec quorum et approbation du commandant.
+**Version 0.6 du 29 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après adoption avec quorum et approbation du commandant.
 
 Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québec.
 
@@ -23,7 +23,7 @@ Conformément à la [DOAD 5045-0](https://www.canada.ca/fr/ministere-defense-nat
 ## Dispositions
 
 <a id="article-1"></a>
-**1. Objet.** Le Mess et Instituts, ci appelé "le mess", favorise l’esprit de corps, le bien-être des membres et les liens entre eux. Ses deux locaux offrent à chaque groupe un espace de rencontre adapté, dans le respect des rapports de leadership au sein de l’unité.
+**1. Objet.** Le Mess et Instituts, ci-après appelé « le Mess », favorise l’esprit de corps, le bien-être des membres et les liens entre eux. Ses deux locaux offrent à chaque groupe un espace de rencontre adapté, dans le respect des rapports de leadership au sein de l’unité.
 
 <a id="article-2"></a>
 **2. Nom et locaux.** Le mess du 9 EG porte le nom de « Mess et Instituts ». Il comprend deux locaux : le « Club Chimo », destiné aux soldats, caporaux et caporaux-chefs, et le « Mess Combiné », destiné aux sergents, adjudants et officiers.
@@ -34,67 +34,48 @@ Conformément à la [DOAD 5045-0](https://www.canada.ca/fr/ministere-defense-nat
 ## Membres
 
 <a id="article-4"></a>
-**4.** Les membres du Mess sont ordinaires, associés ou honoraires.
+**4.** Les catégories de membres et leur admissibilité relèvent du [Manuel PSP, chapitre 9-1, paragraphes 11 à 23](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf). Les dispositions locales suivantes précisent les démarches et la reconnaissance des membres.
 
-- **a. Membres ordinaires.** Personnel militaire ou civil travaillant au 9 EG ou y étant attaché, notamment le personnel du centre de recrutement et les membres CIC des corps de cadets.
+- **a. Membres ordinaires.** Le statut est établi selon le paragraphe 13 de cette référence pour les militaires desservis par le Mess. Le fait de travailler au 9 EG ou d’y être attaché ne confère pas, à lui seul, le statut de membre ordinaire à une personne civile. Sa demande est examinée dans la catégorie applicable.
 - **b. Membres associés.**
-  - **(1)** La demande écrite est adressée au président et appuyée par un membre ordinaire. Elle est affichée au moins 30 jours avant une assemblée générale. Les objections sont transmises par écrit au président. La demande est examinée par le comité, puis soumise à l’approbation de l’assemblée générale suivante.
-  - **(2)** Le nombre de membres associés est limité à 65 % du nombre de membres ordinaires. Une liste d’attente est tenue au besoin.
-  - **(3)** Le renouvellement pour l’année financière suivante est soumis à la première assemblée générale de chaque année civile.
+  - **(1)** La demande écrite est adressée au président et appuyée par un membre ordinaire. Elle est affichée au moins 30 jours avant son examen. Les observations sont transmises au président. Le comité présente sa recommandation à l’assemblée; les approbations et la possibilité d’une admission temporaire suivent les paragraphes 14 à 17 de la référence.
+  - **(2)** Le plafond local est de 65 % du nombre de membres ordinaires. Une liste d’attente est tenue au besoin, selon les priorités de la référence.
+  - **(3)** Les renouvellements requis par la référence sont examinés à la première assemblée générale de l’année civile pour l’année financière suivante.
   - **(4)** Le comité peut révoquer les privilèges pour non-paiement, inconduite, non-respect des textes du Mess ou autre motif valable.
   - **(5)** Après une révocation pour non-paiement, une nouvelle demande est requise, sauf si le défaut de paiement est justifié auprès du président.
-  - **(6)** Les membres associés peuvent participer aux activités sociales et aider le comité ou les sous-comités, sans y assumer de responsabilités.
+  - **(6)** Les privilèges et la participation aux travaux du comité suivent le paragraphe 17 de la référence.
   - **(7)** La participation aux événements officiels à caractère militaire exige une invitation du président.
-<<<<<<< Updated upstream
-  - **(8)** Deux classes sont admissibles : 
-  
-    - **classe I**, militaires retraités, libérés ou en service dans une autre unité ou base; 
-=======
-  - **(8)** Deux classes sont admissibles :
-
-    - **classe I**, militaires retraités, libérés ou en service dans une autre unité ou base;
->>>>>>> Stashed changes
-    - **classe II**, civils ayant été membres des Mess du 9 EG ou pouvant contribuer au bien de l’unité.
-- **c. Membres honoraires.**
-  - **(1)** Les militaires de la Force régulière ou de la Première réserve membres d’un autre mess sont membres honoraires du mess correspondant à leur grade.
-  - **(2)** Une personne de marque peut être invitée pour un an, renouvelable, sur recommandation du comité et avec l’approbation du commandant.
-  - **(3)** Sont admissibles les anciens combattants, les personnes ayant rendu un service exceptionnel à l’unité et celles pouvant contribuer à son bien ou à son prestige.
-- **d. Membres honoraires à vie.** Ce statut peut être accordé à la retraite à un ancien membre ordinaire ou honoraire ayant apporté une contribution majeure au 9 EG. Les anciens commandants, sergents-majors et lieutenants-colonels honoraires du 9 EG, ainsi que les membres ayant plus de 12 ans de service au 9 EG, en bénéficient de fait. Une demande de statut associé peut être adressée au commandant par l’entremise du comité. Le statut à vie peut être révoqué par un vote de l’assemblée pour un manquement portant ombrage à l’escadron ou au Mess.
+  - **(8)** Les catégories admissibles sont celles du paragraphe 14 de la référence.
+- **c. Membres honoraires.** L’affiliation, les approbations et les privilèges suivent les paragraphes 18, 19, 22 et 23 de la référence. Les anciens combattants et les personnes ayant rendu un service exceptionnel ou contribué au bien ou au prestige de l’unité peuvent être proposés dans la catégorie à laquelle ils sont admissibles.
+- **d. Membres honoraires à vie.** L’admissibilité relève du paragraphe 21 de la référence. Parmi les militaires admissibles, la reconnaissance locale bénéficie, à leur retraite, aux anciens commandants, sergents-majors et lieutenants-colonels honoraires du 9 EG, ainsi qu’aux membres ayant plus de 12 ans de service au 9 EG. Elle peut aussi reconnaître une contribution majeure à l’unité. Le passage au statut associé et les privilèges suivent les paragraphes 21 à 23. Une révocation pour un manquement portant ombrage à l’escadron ou au Mess est soumise au vote de l’assemblée et aux pouvoirs de l’autorité compétente prévus dans la référence.
 
 ## Comité
 
-<<<<<<< Updated upstream
-**5.** Le comité du Mess, ci-après appelé "le comité" assure l’administration courante du Mess et la mise en œuvre des décisions de l’assemblée générale, dans les limites du budget et des délégations approuvés. Les élections, destitutions, cotisations, budgets et modifications à la constitution sont décidés par les membres en assemblée générale. Ces décisions ne peuvent être prises en réunion du comité.
-=======
 <a id="article-13"></a>
-<a id="article-22"></a>
-Le comité du Mess, ci-après appelé "le comité" assure l’administration courante du Mess et la mise en œuvre des décisions de l’assemblée générale, dans les limites du budget et des délégations approuvés. Les élections, destitutions, cotisations, budgets et modifications à la constitution sont décidés par les membres en assemblée générale. Ces décisions ne peuvent être prises en réunion du comité.
->>>>>>> Stashed changes
+Le comité du Mess, ci-après appelé « le comité », assure l’administration courante du Mess et la mise en œuvre des décisions de l’assemblée générale, dans les limites du budget et des délégations approuvés. Les élections, destitutions, cotisations, budgets et modifications à la constitution sont décidés par les membres en assemblée générale. Ces décisions ne peuvent être prises en réunion du comité.
 
 <a id="article-5"></a>
-**5.** Seuls les membres ordinaires peuvent siéger au comité. La présidence est réservée à un membre actif du 9 EG, et doit être approuvé par le commandant. Le personnel des finances ne peut occuper la présidence ou la vice-présidence.
+**5.** Seuls les membres ordinaires peuvent siéger au comité. La présidence est réservée à un membre actif du 9 EG, avec l’approbation du commandant. Le personnel des finances ne peut occuper la présidence ou la vice-présidence.
 
 <a id="article-6"></a>
 **6.** Le comité comprend autant de membres du Club Chimo que du Mess Combiné. Les grades y sont représentés équitablement dans la mesure du possible.
 
-<<<<<<< Updated upstream
-=======
 <a id="article-8"></a>
->>>>>>> Stashed changes
 <a id="article-7"></a>
-**7.** Le comité comprend au minimum:
+**7.** Le comité comprend au minimum :
+
   - **a.** un président;
   - **b.** un vice-président; et
-  - **c.** un secrétaire ou trésorier
+  - **c.** un secrétaire ou un trésorier.
 
 <a id="article-9"></a>
-**9.** Les membres du comité sont élus à la majorité simple par l’assemblée générale, normalement en décembre. Le mandat du président et du vice-président est d’au moins un an, selon leur disponibilité. Normalement, au plus la moitié du comité est remplacée à une même assemblée. Le régisseur est nommé par le commandant.
+**9.** Les postes élus sont pourvus à la majorité simple par l’assemblée générale, normalement en décembre. La durée des mandats, leur prolongation et la relève échelonnée suivent le [Manuel PSP, chapitre 9-4, paragraphe 18](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf). Le régisseur est nommé par le commandant.
 
 <a id="article-10"></a>
 **10.** Un poste élu devenu vacant est comblé à la première assemblée générale suivant la vacance.
 
 <a id="article-11"></a>
-**11.** Une fonction au comité ne confère pas automatiquement de pouvoir financier. L’autorisation ou la signature d’un achat ou d’un paiement exige une délégation valide, exercée dans ses limites et selon les directives en vigueur. Sans cette délégation, les dépenses sont recommandées au responsable des biens non publics (BNP).
+**11.** Une fonction au comité ne confère pas automatiquement de pouvoir financier. L’autorisation ou la signature d’un achat ou d’un paiement exige une délégation valide, exercée selon la [Délégation des pouvoirs du CEMD pour l’administration financière des BNP, section 2 et tableaux applicables](https://cfmws.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/8.4.5/Policies/DelegationofAuthorities_f.pdf). Sans cette délégation, les dépenses sont recommandées au responsable des biens non publics (BNP).
 
 <a id="article-12"></a>**12.** Lorsqu’un membre ne participe plus aux travaux du comité ou n’assume plus ses fonctions, une solution est d’abord recherchée avec lui.
 Si la situation persiste, l’assemblée générale peut mettre fin à son mandat à la majorité des voix exprimées. Le membre concerné reçoit les motifs par écrit au moins un mois avant le vote et peut présenter ses observations.
@@ -103,27 +84,17 @@ Si la situation persiste, l’assemblée générale peut mettre fin à son manda
 
 <a id="article-14"></a>**14.** L’assemblée générale réunit les membres pour délibérer et prendre les décisions qui leur sont réservées. Elle peut être ordinaire ou extraordinaire. Une assemblée générale est tenue chaque trimestre.
 
-<a id="article-15"></a>**15.** Une assemblée extraordinaire peut être convoquée par le commandant ou le président.
+<a id="article-15"></a>**15.** La convocation d’une assemblée extraordinaire suit le [Manuel PSP, chapitre 9-4, paragraphe 40](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf), y compris lorsqu’elle est demandée par les membres.
 
-<a id="article-16"></a>**16.** Chaque membre reçoit un avis de convocation au moins 14 jours avant l’assemblée, même si sa date a déjà été annoncée. L’avis inclus l'ordre du jour.
+<a id="article-16"></a>**16.** Chaque membre reçoit un avis de convocation au moins 14 jours avant l’assemblée, même si sa date a déjà été annoncée. L’avis comprend l’ordre du jour.
 
 <a id="article-17"></a>**17.** Les membres ordinaires en règle ont droit de vote. Les membres associés et honoraires peuvent assister aux assemblées et participer aux discussions, sans voter.
 
-<<<<<<< Updated upstream
-<a id="article-18"></a>**18.** Le quorum est formé de plus de 50 % des membres ordinaires en règle. Toute décision de l’assemblée exige le quorum.
-=======
-<a id="article-18"></a>**18.** Le quorum est formé de plus de 50 % des membres ordinaires en règle. Toute décision de l’assemblée exige le quorum. Pour une séance particulière, la validation d’un quorum inférieur suit le [Manuel PSP, chapitre 9-4, paragraphe 43](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf); les circonstances sont consignées au procès-verbal.
->>>>>>> Stashed changes
+<a id="article-18"></a>**18.** Le quorum et la validation d’une séance particulière suivent le [Manuel PSP, chapitre 9-4, paragraphe 43](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf). La vérification et la consignation sont précisées au [R3.4](R3-proposition.md#r3-4).
 
 <a id="article-19"></a>**19.** Un rapport financier sommaire est présenté à chaque assemblée générale.
 
-<a id="article-20"></a>**20.** Tout membre du Mess, sauf le président du comité, peut proposer une motion. Les motions sont appuyées et débattues avant le vote.
-
-Les décisions sont adoptées à plus de la moitié des voix exprimées par les membres ordinaires en règle, sans compter les abstentions.
-
-Le président peut voter comme membre ordinaire, mais s’en abstient généralement. Il n’a pas de voix prépondérante. En cas d’égalité, la motion est rejetée.
-
-Le texte des motions et le résultat des votes sont consignés au procès-verbal.
+<a id="article-20"></a>**20.** La présentation des motions et le vote suivent le [Manuel PSP, chapitre 9-4, tableau 9-4-4, paragraphes 7 à 15](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf). Les seuils particuliers prévus par la constitution restent applicables. Le texte des motions, les amendements et les résultats sont consignés au procès-verbal.
 
 <a id="article-21"></a>**21.** Le commandant peut assister aux assemblées et participer aux discussions. Chaque motion adoptée est soumise à son approbation.
 
@@ -131,21 +102,22 @@ Sa signature au procès-verbal vaut approbation des motions adoptées, sauf cell
 
 Seules les motions approuvées peuvent être mises en œuvre. Toute modification au fond d’une décision doit être soumise de nouveau à l’assemblée générale.
 
+## Réunions du comité
+
+<a id="article-22"></a>**22.** Les réunions du comité sont convoquées par le commandant ou le président pour préparer les dossiers, gérer les affaires courantes et suivre les décisions. Leur fréquence respecte le [Manuel PSP, chapitre 9-4, paragraphe 39](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf). Elles ne remplacent pas les assemblées générales et ne décident pas des questions réservées aux membres.
+
 ## Finances et cotisations
 
-<a id="article-23"></a>**23.** Les membres du comité ne peuvent tirer de profit personnel, de rémunération ou d’avantage de leur gestion du Mess. Tout avantage possible lié à leur participation à une entreprise faisant affaire avec le Mess est déclaré au commandant ([Manuel des politiques des PSP](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf)).
+<a id="article-23"></a>**23.** Les conflits d’intérêts et les avantages liés à la gestion suivent le [Manuel PSP, chapitre 9-4, paragraphes 27 et 28](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf). Les fonctions au comité sont bénévoles.
 
-<a id="article-24"></a>**24.** Toute rémunération pour des services au Mess exige un emploi auprès des SBMFC et respecte leurs directives et le budget approuvé. Sans ce statut, les fonctions de serveur, de régisseur et de membre du comité sont bénévoles.
+<a id="article-24"></a>**24.** Les fonctions de serveur et de régisseur sont bénévoles, sauf lorsqu’elles sont exercées dans le cadre d’un emploi auprès des SBMFC, selon leurs directives et le budget approuvé. Cette règle locale ne vise pas l’achat d’autres services auprès d’un fournisseur, lequel suit la [Politique de passation de marchés des BNP, paragraphes 19, 20 et 42](https://sbmfc.ca/a-propos/politiques-et-publications/approvisionnement-et-passation-de-marches/politique-de-passation-de-marches-des-biens-non-publics) et l’[A-FN-105, chapitre 32, paragraphes 1 à 4](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/8.4.5/Policies/AF-N-105/Chap32_f.pdf). Les pouvoirs financiers restent ceux de l’[article 11](#article-11).
 
-<a id="article-25"></a>**25.** Les cotisations servent uniquement aux besoins du Mess ([Manuel des politiques des PSP, chapitre 9-1](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf)).
+<a id="article-25"></a>**25.** Les cotisations sont établies selon le [Manuel PSP, chapitre 9-4, paragraphe 47](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf). L’année financière locale va du 1er avril au 31 mars suivant.
 
-- **a.** Elles sont dues par les membres ordinaires et associés pour l’année du 1er avril au 31 mars suivant.
-- **b.** Les taux annuels et les comptes de dépôt sont votés à la dernière assemblée de l’année financière, en mars. Tout changement de taux exige un vote de l’assemblée.
-- **c.** Les réservistes paient par délégation de solde, en un ou deux versements.
-- **d.** Les militaires de la Force régulière et les civils paient directement au Mess par les moyens autorisés par les SBMFC. Un reçu est remis.
-- **e.** Une période de service hors de l’unité comme membre ordinaire d’un autre mess donne droit à un remboursement sur preuve de paiement. Il est calculé au prorata des jours, au taux annuel du local d’appartenance.
-- **f.** En cas d’enrôlement, de mutation, d’attachement ou de libération en cours d’année, la cotisation est calculée au prorata des jours d’appartenance. Le trop-perçu est remboursé.
-- **g.** Les remboursements sont effectués par transfert de fonds selon les directives des SBMFC.
+- **a.** Les taux sont votés à la dernière assemblée de l’année financière, normalement en mars, puis soumis à l’approbation prévue à l’[article 21](#article-21). Tout changement de taux exige un vote de l’assemblée. Les taux approuvés sont communiqués aux membres.
+- **b.** La perception suit les modalités autorisées par les SBMFC. Les réservistes peuvent utiliser la délégation de solde, selon les modalités applicables. Un reçu est remis pour tout paiement direct.
+- **c.** Les changements d’unité, services temporaires, affectations, déploiements et congés sans solde suivent le [Manuel PSP, chapitre 9-1, paragraphes 24 à 28 et tableau 9-1-2](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf). Ces dispositions déterminent la période payable et les suspensions, plutôt qu’un calcul local systématique au jour.
+- **d.** Le trésorier transmet les justificatifs au service de comptabilité pour régulariser les cotisations et rembourser tout trop-perçu, par les moyens autorisés par les SBMFC.
 
 <a id="article-26"></a>**26.** Transactions.
 
@@ -153,15 +125,15 @@ Seules les motions approuvées peuvent être mises en œuvre. Toute modification
 - **b.** Les paiements sont demandés par virement électronique de fonds, par l’entremise des SBMFC. Une carte de crédit autorisée peut servir aux achats courants. Ces opérations respectent les directives des SBMFC.
 - **c.** Les consommations offertes suivent le [Manuel PSP, chapitre 9-2, paragraphes 15 à 18](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf) et le [chapitre 9-4, paragraphe 61](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf). Le budget local ne crée aucune autorisation supplémentaire. Pour les boissons sans alcool, le président ou le commandant peut offrir une consommation par membre présent, dans le plafond annuel approuvé.
 
-<a id="article-27"></a>**27.** Le comité de divertissement peut engager les dépenses mensuelles prévues au budget annuel adopté par l’assemblée, si les fonds sont disponibles et si le comité du Mess a approuvé le calendrier des activités.
+<a id="article-27"></a>**27.** Le programme d’activités et son budget sont soumis aux approbations de l’[article 40](#article-40). Leur exécution respecte les fonds disponibles et les pouvoirs financiers de l’[article 11](#article-11). Le comité coordonne le calendrier.
 
 <a id="article-28"></a>**28.** Le commandant peut autoriser la radiation d’une perte ou d’un dommage aux biens non publics dans les circonstances et limites prévues par l’[A-FN-105-001/AG-001](https://sbmfc.ca/a-propos/politiques-et-publications/comptabilite-biens-non-publics/a-fn-105).
 
 <a id="article-29"></a>**29.** Les revenus et dépenses sont répartis selon le pourcentage des ventes des utilisateurs. Les frais d’exploitation ont priorité sur les activités sociales.
 
-<a id="article-30"></a>**30.** Le président peut engager jusqu’à 100 $ par mois pour de petits achats. Ces dépenses sont soumises à la prochaine assemblée pour acceptation.
+<a id="article-30"></a>**30.** Dans le budget approuvé et selon les pouvoirs financiers de l’[article 11](#article-11), le président peut engager jusqu’à 100 $ par mois pour de petits achats. Ces dépenses sont présentées à la prochaine assemblée pour contrôle et suivi.
 
-<a id="article-31"></a>**31.** Le fonds du président sert à l’embellissement du Mess et au bien-être des membres. Ses dépenses sont autorisées par le président ou le trésorier, puis soumises à la prochaine assemblée générale pour acceptation.
+<a id="article-31"></a>**31.** Le fonds du président sert à l’embellissement du Mess et au bien-être des membres. Le président et le trésorier en assurent le suivi dans le budget approuvé. L’autorisation des dépenses relève des pouvoirs financiers de l’[article 11](#article-11); elle ne découle pas du seul titre de président ou de trésorier. Les dépenses sont présentées à la prochaine assemblée générale.
 
 ## Règles générales d’utilisation du Mess
 
@@ -188,7 +160,7 @@ Seules les motions approuvées peuvent être mises en œuvre. Toute modification
 
 ## Activités
 
-<a id="article-40"></a>**40.** Les propositions d’activités sont soumises au vote de l’assemblée ou à l’approbation du commandant.
+<a id="article-40"></a>**40.** Les programmes d’activités, leur financement et les circonstances exceptionnelles suivent le [Manuel PSP, chapitre 9-4, paragraphes 51 à 54](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf). Une activité déjà comprise dans un programme et un budget approuvés peut être organisée dans ce cadre, selon l’[article 27](#article-27).
 
 <a id="article-41"></a>**41.** Un budget des activités est soumis en décembre pour coordonner le calendrier avec les exercices du 9 EG et les autres occupants du manège.
 
@@ -218,13 +190,13 @@ Le membre ou sa famille signale l’événement à la salle des rapports ou au c
 
 ## Plaintes et suggestions
 
-<a id="article-50"></a>**50.** Toute plainte est consignée et remise au commandant adjoint.
+<a id="article-50"></a>**50.** Le traitement des suggestions et des plaintes suit le [Manuel PSP, chapitre 9-4, paragraphe 57](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf). Les questions confidentielles ou concernant le personnel sont remises directement au président, hors du registre consultable.
 
-<a id="article-51"></a>**51.** Les suggestions, propositions et observations peuvent aussi être remises au commandant adjoint.
+<a id="article-51"></a>**51.** Les membres peuvent aussi remettre leurs suggestions, propositions et observations au commandant adjoint. Leur suivi collectif est organisé selon le [R3.16](R3-proposition.md#r3-16).
 
 ## Modification des textes
 
-<a id="article-52"></a>**52.** Toute proposition de modification à la constitution ou à ses annexes est transmise par écrit au président et communiquée aux membres au moins 15 jours avant son examen. Son adoption exige la majorité des voix exprimées par les membres ayant droit de vote, lors d’une assemblée avec quorum.
+<a id="article-52"></a>**52.** Toute proposition de modification à la constitution, à ses annexes ou aux règlements est transmise par écrit au président et communiquée aux membres au moins 15 jours avant son examen. Son adoption exige la majorité des voix exprimées par les membres ayant droit de vote, lors d’une assemblée avec quorum.
 
 <a id="article-53"></a>**53.** Une modification adoptée entre en vigueur après l’approbation du commandant. Le texte à jour et sa date d’entrée en vigueur sont communiqués aux membres.
 

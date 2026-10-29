@@ -7,7 +7,7 @@ document_group: constitution
 
 # Annexe A — Président du comité du Mess
 
-**Version 0.4 du 29 octobre 2026 — Proposition à discuter et à adopter.**
+**Version 0.6 du 29 octobre 2026 — Proposition à discuter et à adopter.**
 
 [Constitution du Mess et Instituts](../constitution-consolidee.md) · [Liste des annexes](../constitution-consolidee.md#annexes-des-responsabilites)
 
@@ -21,7 +21,7 @@ document_group: constitution
 
 - **d.** Distribuer la parole, reformuler les motions avant le débat et recentrer les interventions sur le texte discuté.
 
-- **e.** Faire compter les voix, ordonner le recomptage en cas d’égalité et faire reprendre un vote erroné.
+- **e.** Faire compter les voix, vérifier un décompte contesté et faire reprendre un vote erroné, selon le [R3.8](../R3-proposition.md#r3-8).
 
 - **f.** Signer les procès-verbaux et tenir à jour la constitution après les modifications approuvées.
 
@@ -29,7 +29,7 @@ document_group: constitution
 
 - **h.** Superviser les membres du comité et le régisseur. Examiner régulièrement les états financiers.
 
-- **i.** Veiller à la discipline dans les locaux. En son absence, le membre le plus haut gradé présent veille au maintien de l’ordre.
+- **i.** Veiller à la discipline dans les locaux. En l’absence du président et du vice-président, le membre le plus haut gradé présent veille au maintien de l’ordre.
 
 - **j.** Faire confirmer les modalités BNP avant tout nouveau financement ou transfert et préparer la proposition chiffrée destinée aux membres.
 

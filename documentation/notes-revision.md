@@ -166,3 +166,42 @@ La version 0.5 constitue une proposition de simplification et de correction docu
 La branche distante comportait également le commit `2fbc8833ef7d9ec51d02178da1ae0556504230e6`, absent de la copie locale initiale. Sa réorganisation est conservée : composition minimale du comité, procédure de fin de mandat, nouvelle rédaction du vote et approbation du commandant. La correction du quorum porte donc désormais sur l’article 18, et le délai de convocation sur l’article 16. L’article 26 c conserve la correction PSP décrite ci-dessus. Les anciens liens 8, 13 et 22 sont conservés comme alias vers les dispositions regroupées; le numéro 5 répété devant le paragraphe introductif du comité est retiré. Les repères constitutionnels historiques des tableaux et notes précédents se rapportent à leurs versions respectives. Le R3 renvoie à la numérotation intégrée.
 
 Le point de validation relatif au dénominateur du quorum concerne désormais « membres ordinaires en règle »; la restriction géographique a été retirée par le commit de l’utilisateur. La nouvelle approbation des motions à l’article 21 répond au point précédemment relevé sur ce mécanisme. Les autres vérifications de gouvernance demeurent à effectuer.
+
+
+## Révision 0.6 — état actuel des vérifications au 29 octobre 2026
+
+Cette section actualise les points laissés ouverts en 0.5. Base GitHub de la passe : `85eca25b2086cd5b026606b340e71e2ae383bd49`, sur la même branche de proposition. L’utilisateur a confirmé : « Aucune autorisation connue » pour le classement des civils comme membres ordinaires.
+
+### Corrections étayées et décisions conservées
+
+| Point | Résultat de la vérification | Traitement dans la proposition |
+|---|---|---|
+| Admissibilité et vote | Manuel PSP, chapitre 9-1, paragraphe 13, puis 14 à 17 pour les associés | Constitution 4 : retirer l’attribution automatique du statut ordinaire aux civils; utiliser les catégories officielles. L’effet sur le vote et l’éligibilité au comité est explicitement signalé. Aucune liste nominative n’est publiée ni modifiée. |
+| Honorariat à vie | Le paragraphe 20 porte sur un régime historique de l’ARC; le paragraphe 21 permet ensuite une affiliation locale à vie pour les militaires retraités ou prenant leur retraite | Constitution 4 d : renvoi au paragraphe 21 et maintien des critères locaux parmi les personnes admissibles. Il serait erroné de conclure à une interdiction générale pour les mess de l’Armée. |
+| Quorum | Chapitre 9-4, paragraphe 43 | Constitution 18 : renvoi direct, sans reformuler le pourcentage ni ajouter la condition locale « en règle » au dénombrement. Le trésorier distingue ce dénombrement de la liste des personnes votantes. |
+| Convocation et vote | Chapitre 9-4, paragraphes 39, 40 et 44; tableau 9-4-4, paragraphes 7 à 15 | Rétablir la voie de demande extraordinaire par les membres; remettre l’article 22 sur les réunions du comité; remplacer les reprises du vote par un renvoi. La rédaction de l’utilisateur sur le vote du président est cohérente avec les paragraphes 14 et 15 du tableau. |
+| Bénévolat et services | A-FN-105, chapitre 32, paragraphes 1 à 4, et Politique de passation de marchés, paragraphes 19, 20 et 42 | Le bénévolat du comité et le cadre d’emploi SBMFC du personnel du bar sont conservés comme choix locaux indiqués par l’utilisateur. La clause ne prétend plus imposer ce statut à tout fournisseur de services, par exemple un service de divertissement. |
+| Cotisations | Chapitre 9-1, paragraphes 24 à 28 et tableau 9-1-2; chapitre 9-4, paragraphe 47 | Remplacer la formule systématique au jour par le renvoi pertinent. Conserver l’année locale, le vote des taux et la perception par les moyens autorisés. Le texte ne fixe aucun montant nouveau. |
+| Pouvoirs financiers | Délégation du CEMD, section 2 et tableaux; Politique de passation de marchés, paragraphes 19 et 20 | Constitution 11, 27, 30 et 31 : distinguer budget, délégation et suivi après exécution. Conserver le plafond de 100 $ et éviter qu’une acceptation ultérieure de l’assemblée soit présentée comme une délégation. |
+| Activités | Chapitre 9-4, paragraphes 51 à 54 | Constitution 40 : renvoi aux approbations et cas exceptionnels; exécution dans le programme et le budget déjà approuvés. |
+| Plaintes | Chapitre 9-4, paragraphe 57 | Constitution 50 et R3.16 harmonisés pour la confidentialité; accès au commandant adjoint conservé. |
+| Modification des règlements | Articles 115 et 116 de la transcription originale | Constitution 52 : rétablir la mention des règlements. Le délai de 15 jours n’est pas une nouvelle exigence locale. |
+
+### Sources supplémentaires réellement ouvertes
+
+- [A-FN-105, chapitre 32 — Répercussions fiscales des paiements non effectués dans le cadre d’une relation d’emploi](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/8.4.5/Policies/AF-N-105/Chap32_f.pdf), révision indiquée : 12 mars 2021. Le chapitre traite notamment des contrats de services; il ne prouve pas que toute fonction au bar puisse être contractualisée.
+- [Politique de passation de marchés des BNP](https://sbmfc.ca/a-propos/politiques-et-publications/approvisionnement-et-passation-de-marches/politique-de-passation-de-marches-des-biens-non-publics), paragraphes 19, 20, 42 à 45 : pouvoirs, relations d’affaires et ratification de marchés non autorisés.
+- [Délégation des pouvoirs du CEMD pour l’administration financière des BNP](https://cfmws.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/8.4.5/Policies/DelegationofAuthorities_f.pdf), section 2. Les exemples d’annexes portent la révision du 24 mars 2025; les montants d’exemples ne sont pas des délégations accordées au 9 EG.
+- Le Manuel PSP déjà cité a été relu pour les passages indiqués dans le tableau. Tous les liens restent sans fragment de page, conformément à la demande concernant Acrobat.
+- Les PDF A-FN-105 des chapitres 30 et 39 n’ont toujours pas pu être lus par l’outil. Aucune procédure détaillée ni attestation de conformité ne leur est attribuée.
+
+### Ce qui exige encore une validation locale avant adoption
+
+1. Vérifier les statuts réellement accordés et les effets de l’article 4 sur la liste des personnes votantes et le comité. La présente proposition n’effectue aucun changement individuel avant adoption et approbation. Conserver la preuve d’une éventuelle autorisation particulière si elle est retrouvée.
+2. Confirmer le régime de perception applicable au Mess de la Réserve, les taux et les ajustements individuels avec la comptabilité BNP. Le calendrier exact des versements n’est pas déduit du seul manuel.
+3. Obtenir les instruments de délégation propres aux titulaires et confirmer les autorités des fonds, les sources de financement et la couverture d’assurance. Les tableaux généraux ne remplacent pas ces pièces.
+4. Confirmer les autorisations d’alcool, les règles des réceptions de non-membres et la référence précise des prestations à des tiers; le libellé ancien « loi sur les prestations de service » à l’article 39 n’est pas une citation juridique vérifiée.
+5. Terminer la vérification de l’accès aux locaux et des mesures d’adaptation, notamment R1.9. Les règles locales d’invités, d’enfants et les plafonds existants ne sont pas déclarés obligatoires au seul motif qu’ils figurent dans la transcription.
+6. Lors de l’examen par les membres, distinguer les exigences externes, les choix locaux conservés et les assouplissements proposés. Le plafond de 65 % des associés et l’affichage de 30 jours sont des règles locales conservées; ils ne sont pas présentés comme des exigences PSP.
+
+La copie locale comportait des marqueurs de conflit. Leur résolution reprend exactement la version déjà intégrée sur la branche de proposition avant les changements 0.6; aucun autre choix de fond n’est tiré de ces marqueurs. Le dépôt de cette passe ne fusionne pas la PR et ne met aucun texte en vigueur.

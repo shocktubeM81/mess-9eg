@@ -5,7 +5,7 @@ title: Tableau des modifications Avant Après Pourquoi
 
 # Tableau des modifications Avant Après Pourquoi
 
-**Version 0.5 du 29 octobre 2026 — Proposition à discuter et à adopter.**
+**Version 0.6 du 29 octobre 2026 — Proposition à discuter et à adopter.**
 
 Seules les modifications sont présentées. La première section compare la proposition à la transcription originale. La seconde explique la simplification de la version 0.3. Les numéros de la dernière colonne sont ceux de la version actuelle.
 
@@ -67,3 +67,26 @@ Les numéros et ancres existants sont conservés. Les vérifications restant né
 ### Intégration de la réorganisation de l’utilisateur
 
 Le commit `2fbc883` est conservé. Le quorum correspond désormais à l’article 18 et la convocation à l’article 16; les renvois R3 sont adaptés. La composition minimale du comité, la fin de mandat, le vote et l’approbation des motions conservent la rédaction de ce commit. Les indications des tableaux historiques restent rattachées à l’étape qu’ils décrivent.
+
+
+## Poursuite de la révision — version 0.6 du 29 octobre 2026
+
+Comparaison avec la version 0.5. Cette proposition reste à adopter et à approuver.
+
+| Disposition | Avant | Proposition | Motif et incidence |
+|---|---|---|---|
+| Constitution 4 a | Civils du 9 EG automatiquement ordinaires | Admissibilité par renvoi au chapitre 9-1, paragraphe 13; examen dans la catégorie applicable | Aucune autorisation particulière connue selon l’utilisateur. L’incidence sur le vote et la composition du comité doit être examinée avant adoption. |
+| Constitution 4 b | Deux classes locales; renouvellement annuel de tous les associés | Renvoi aux catégories et renouvellements prévus aux paragraphes 14 à 17 | Éviter d’exclure des catégories prévues par les PSP et de généraliser un renouvellement réservé à certaines admissions. Le plafond local de 65 % et l’affichage de 30 jours sont conservés. |
+| Constitution 4 c et d | Honorariat et statut à vie définis localement sans renvoi précis | Renvoi aux paragraphes 18 à 23; critères locaux de reconnaissance conservés pour les personnes admissibles | Le statut honoraire à vie est permis par le paragraphe 21, y compris dans un mess de l’Armée. Aucune suppression générale de ce statut n’est proposée. |
+| Constitution 9 | Durée et renouvellement paraphrasés | Renvoi au paragraphe 18 du chapitre 9-4 | Conserver la procédure élective locale et les possibilités prévues dans la source. |
+| Constitution 15 | Convocation extraordinaire limitée au commandant et au président | Renvoi au paragraphe 40 | Rétablir les autres voies prévues par les PSP, dont la demande des membres. |
+| Constitution 18 | Plus de 50 % des membres ordinaires en règle | Renvoi au paragraphe 43 | Supprimer le seuil local et le filtre de cotisation pour le calcul du quorum. Le droit de vote reste défini à l’article 17. |
+| Constitution 20; R3.8; annexe A | Vote expliqué dans la constitution; recomptage automatique en cas d’égalité | Renvoi au tableau 9-4-4; vérification d’un décompte contesté | Conserver le vote ordinaire du président et l’absence de voix prépondérante prévus par la source. |
+| Constitution 22 | Ancien lien redirigé vers le paragraphe général du comité | Article distinct sur les réunions et renvoi au paragraphe 39 | Rendre la fréquence de référence accessible sans confondre comité et assemblée. |
+| Constitution 23 et 24 | Toute prestation rémunérée exigeait un emploi SBMFC | Bénévolat du comité et règle locale d’emploi pour le bar conservés; distinction avec l’achat d’autres services | Éviter d’interdire, par inadvertance, le recours autorisé à un fournisseur. |
+| Constitution 25 | Année locale, versements fixes et prorata au jour | Année locale et vote des taux conservés; renvois pour les situations de service et modalités autorisées de perception | Ne pas substituer une formule locale aux suspensions et périodes de cotisation prévues par les PSP. Aucun nouveau taux ni prélèvement. |
+| Constitution 11, 27, 30, 31 et 40 | Budget, délégation et acceptation après dépense parfois confondus | Renvoi à la délégation; exécution des programmes approuvés et contrôle ultérieur distincts | Conserver le plafond local de 100 $; ne pas attribuer un pouvoir financier par le seul titre ou une acceptation ultérieure de l’assemblée. |
+| Constitution 50 et 51; R3.16 | Toute plainte consignée et remise au commandant adjoint | Renvoi au paragraphe 57; traitement confidentiel par le président; voie au commandant adjoint conservée | Éviter de placer une plainte individuelle dans un registre collectif. |
+| Constitution 52 | Modifications des règlements omises | Règlements inclus dans la procédure de modification | Rétablir la portée des articles 115 et 116 de la transcription originale; le délai de 15 jours existait déjà. |
+
+Les montants des cadeaux, l’année financière, les élections locales et les modalités de paiement indiquées par l’utilisateur sont conservés, sous les règles applicables. Aucun statut individuel n’est modifié par le dépôt de cette proposition.
