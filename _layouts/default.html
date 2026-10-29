@@ -7,7 +7,7 @@
   <meta name="theme-color" content="#172c3d">
   <meta name="description" content="{{ page.description | default: site.description | escape }}">
   <title>{{ page.title | escape }} · {{ site.title | escape }}</title>
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v={{ site.github.build_revision | default: '20261028-drapeau' }}">
   <script defer src="{{ '/assets/js/site.js' | relative_url }}"></script>
 </head>
 <body>
@@ -16,7 +16,7 @@
   <header class="site-header">
     <div class="site-header-inner">
       <a class="brand" href="{{ '/' | relative_url }}" aria-label="Mess et Instituts, accueil">
-        <span class="brand-emblem" aria-hidden="true">9<sup>e</sup></span>
+        <img class="brand-flag" src="{{ '/assets/images/drapeau-genie.svg' | relative_url }}" width="72" height="36" alt="Drapeau du Génie militaire canadien">
         <span class="brand-wordmark"><strong>Mess et Instituts</strong><span>9e Escadron du génie</span></span>
       </a>
       <span class="header-caption">Constitution et règlements</span>
