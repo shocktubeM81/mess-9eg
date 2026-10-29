@@ -3,6 +3,7 @@ layout: default
 title: Règlement sur la tenue et le comportement
 doc_code: R1
 document_label: Règlement R1
+modification: 2026-10-29
 ---
 
 # Règlement sur la tenue et le comportement

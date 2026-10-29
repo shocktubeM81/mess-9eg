@@ -62,3 +62,8 @@ Cette section décrit les changements depuis la version 0.4; les tableaux préc�
 | Constitution 26 c | Autorisation générale de consommations offertes | Renvoi aux règles PSP pour l’alcool; disposition locale pour les boissons sans alcool | Corriger une incompatibilité avec la politique supérieure, sans créer d’interdiction locale |
 
 Les numéros et ancres existants sont conservés. Les vérifications restant nécessaires sont consignées dans les notes de révision.
+
+
+### Intégration de la réorganisation de l’utilisateur
+
+Le commit `2fbc883` est conservé. Le quorum correspond désormais à l’article 18 et la convocation à l’article 16; les renvois R3 sont adaptés. La composition minimale du comité, la fin de mandat, le vote et l’approbation des motions conservent la rédaction de ce commit. Les indications des tableaux historiques restent rattachées à l’étape qu’ils décrivent.

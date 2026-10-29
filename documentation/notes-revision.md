@@ -159,3 +159,10 @@ Les liens PSP sans `www` ont été ouverts avec succès; l’ancienne adresse av
 6. **Application locale.** Confirmer les autorisations d’alcool, la couverture d’assurance, les contrats de réception et les mesures d’adaptation pertinentes (notamment les animaux d’assistance au R1.9). Le texte d’origine et les règles locales non modifiées ne valent pas preuve de conformité.
 
 La version 0.5 constitue une proposition de simplification et de correction documentée. Elle ne constitue pas une attestation de conformité complète. Les notes des versions précédentes sont historiques; les descriptions de la présente section et du tableau 0.5 prévalent pour cette proposition. Aucune fusion ni mise en vigueur automatique.
+
+
+### Intégration de la modification GitHub du 29 octobre
+
+La branche distante comportait également le commit `2fbc8833ef7d9ec51d02178da1ae0556504230e6`, absent de la copie locale initiale. Sa réorganisation est conservée : composition minimale du comité, procédure de fin de mandat, nouvelle rédaction du vote et approbation du commandant. La correction du quorum porte donc désormais sur l’article 18, et le délai de convocation sur l’article 16. L’article 26 c conserve la correction PSP décrite ci-dessus. Les anciens liens 8, 13 et 22 sont conservés comme alias vers les dispositions regroupées; le numéro 5 répété devant le paragraphe introductif du comité est retiré. Les repères constitutionnels historiques des tableaux et notes précédents se rapportent à leurs versions respectives. Le R3 renvoie à la numérotation intégrée.
+
+Le point de validation relatif au dénominateur du quorum concerne désormais « membres ordinaires en règle »; la restriction géographique a été retirée par le commit de l’utilisateur. La nouvelle approbation des motions à l’article 21 répond au point précédemment relevé sur ce mécanisme. Les autres vérifications de gouvernance demeurent à effectuer.

@@ -15,13 +15,13 @@ Ce règlement précise la préparation des séances, leur déroulement et la ges
 
 <a id="r3-1"></a>**R3.1.** Le calendrier annuel tient compte des entraînements. Les dates des assemblées et des activités sont communiquées aux membres et affichées dans les locaux. Aucune période de l’année n’est exclue.
 
-<a id="r3-2"></a>**R3.2.** La convocation indique la date, l’heure, le lieu et, s’il y a lieu, le moyen de connexion. Les délais de convocation et de modification des textes sont ceux des [articles 21 et 52 de la constitution](constitution-consolidee.md#article-21). Les documents utiles sont transmis normalement 7 jours avant la séance. Le dépôt des propositions et l’affichage de l’ordre du jour suivent le [Manuel PSP, chapitre 9-4, paragraphes 41 et 42](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297).
+<a id="r3-2"></a>**R3.2.** La convocation indique la date, l’heure, le lieu et, s’il y a lieu, le moyen de connexion. Les délais de convocation et de modification des textes sont ceux des [articles 16 et 52 de la constitution](constitution-consolidee.md#article-16). Les documents utiles sont transmis normalement 7 jours avant la séance. Le dépôt des propositions et l’affichage de l’ordre du jour suivent le [Manuel PSP, chapitre 9-4, paragraphes 41 et 42](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297).
 
 <a id="r3-3"></a>**R3.3.** Une proposition importante ou complexe est accompagnée des renseignements nécessaires à son examen.
 
 ## Déroulement des assemblées
 
-<a id="r3-4"></a>**R3.4.** Le quorum est déterminé selon la [constitution, article 16](constitution-consolidee.md#article-16), y compris pour une séance particulière. Il est vérifié à l’ouverture et lorsqu’une perte de quorum est signalée. Il est consigné au procès-verbal. Sans quorum après 30 minutes, l’assemblée est annulée et convoquée de nouveau. Si le quorum est perdu, les points non décidés sont reportés et les membres en sont informés.
+<a id="r3-4"></a>**R3.4.** Le quorum est déterminé selon la [constitution, article 18](constitution-consolidee.md#article-18), y compris pour une séance particulière. Il est vérifié à l’ouverture et lorsqu’une perte de quorum est signalée. Il est consigné au procès-verbal. Sans quorum après 30 minutes, l’assemblée est annulée et convoquée de nouveau. Si le quorum est perdu, les points non décidés sont reportés et les membres en sont informés.
 
 <a id="r3-5"></a>**R3.5.** L’ordre habituel est : ouverture; adoption du procès-verbal; rapports du président, des finances et des sous-comités; suivi des décisions; nouvelles affaires; levée. Un procès-verbal transmis à l’avance n’a pas à être relu intégralement.
 

@@ -11,24 +11,30 @@ Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québe
 
 ## Avant-propos
 
-Conformément à la [DOAD 5045-0](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/directives-ordonnances-administratives-defense/serie-5000/5045/5045-0-programmes-de-soutien-du-personnel-des-forces-canadiennes.html) et à la publication [A-PS-110-001/AG-002](https://sbmfc.ca/a-propos/politiques-et-publications/aa-ps-110-soutien-public-aux-programmes-de-bemm), dans leur version en vigueur, la constitution et ses annexes fixent les règles générales du Mess, les droits des membres et les pouvoirs des responsables. Les règlements précisent son application sans la modifier :
+La constitution du Mess et Instituts est publiée sous l'autorité du commandant du 9e Escadron du Génie et doit être mise en application par tous les membres du Mess et Instituts au Manège militaire de Rouyn-Noranda.
+
+Conformément à la [DOAD 5045-0](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/directives-ordonnances-administratives-defense/serie-5000/5045/5045-0-programmes-de-soutien-du-personnel-des-forces-canadiennes.html) et à la publication [A-PS-110-001/AG-002](https://sbmfc.ca/a-propos/politiques-et-publications/aa-ps-110-soutien-public-aux-programmes-de-bemm), dans leur version en vigueur, la constitution et ses annexes fixent les règles générales du Mess, les droits des membres et les pouvoirs des responsables. Les règlements précisent son application :
 
 - [R1 — Tenue et comportement](R1-proposition.md);
 - [R2 — Meubles et décorations](R2-proposition.md);
 - [R3 — Assemblées et réunions](R3-proposition.md);
 - [R4 — Service de bar](R4-proposition.md).
 
-## Dispositions générales
+## Dispositions
 
-<a id="article-1"></a>**1. Objet.** Le Mess et Instituts favorise l’esprit de corps, le bien-être des membres et les liens entre eux. Ses deux locaux offrent à chaque groupe un espace de rencontre adapté, dans le respect des rapports de leadership au sein de l’unité.
+<a id="article-1"></a>
+**1. Objet.** Le Mess et Instituts, ci appelé "le mess", favorise l’esprit de corps, le bien-être des membres et les liens entre eux. Ses deux locaux offrent à chaque groupe un espace de rencontre adapté, dans le respect des rapports de leadership au sein de l’unité.
 
-<a id="article-2"></a>**2. Nom et locaux.** Le mess du 9 EG porte le nom de « Mess et Instituts ». Il comprend deux locaux : le « Club Chimo », destiné aux soldats, caporaux et caporaux-chefs, et le « Mess Combiné », destiné aux sergents et aux grades supérieurs.
+<a id="article-2"></a>
+**2. Nom et locaux.** Le mess du 9 EG porte le nom de « Mess et Instituts ». Il comprend deux locaux : le « Club Chimo », destiné aux soldats, caporaux et caporaux-chefs, et le « Mess Combiné », destiné aux sergents, adjudants et officiers.
 
-<a id="article-3"></a>**3. Commandant du Mess.** Le commandant du 9 EG exerce les fonctions de commandant du Mess et Instituts.
+<a id="article-3"></a>
+**3. Commandant du Mess.** Le commandant du 9 EG exerce les fonctions de commandant du Mess et Instituts.
 
 ## Membres
 
-<a id="article-4"></a>**4.** Les membres du Mess sont ordinaires, associés ou honoraires.
+<a id="article-4"></a>
+**4.** Les membres du Mess sont ordinaires, associés ou honoraires.
 
 - **a. Membres ordinaires.** Personnel militaire ou civil travaillant au 9 EG ou y étant attaché, notamment le personnel du centre de recrutement et les membres CIC des corps de cadets.
 - **b. Membres associés.**
@@ -39,56 +45,74 @@ Conformément à la [DOAD 5045-0](https://www.canada.ca/fr/ministere-defense-nat
   - **(5)** Après une révocation pour non-paiement, une nouvelle demande est requise, sauf si le défaut de paiement est justifié auprès du président.
   - **(6)** Les membres associés peuvent participer aux activités sociales et aider le comité ou les sous-comités, sans y assumer de responsabilités.
   - **(7)** La participation aux événements officiels à caractère militaire exige une invitation du président.
-  - **(8)** Deux classes sont admissibles : **classe I**, militaires retraités, libérés ou en service dans une autre unité ou base; **classe II**, civils ayant été membres des Mess du 9 EG ou pouvant contribuer au bien de l’unité.
+  - **(8)** Deux classes sont admissibles : 
+  
+    - **classe I**, militaires retraités, libérés ou en service dans une autre unité ou base; 
+    - **classe II**, civils ayant été membres des Mess du 9 EG ou pouvant contribuer au bien de l’unité.
 - **c. Membres honoraires.**
   - **(1)** Les militaires de la Force régulière ou de la Première réserve membres d’un autre mess sont membres honoraires du mess correspondant à leur grade.
   - **(2)** Une personne de marque peut être invitée pour un an, renouvelable, sur recommandation du comité et avec l’approbation du commandant.
   - **(3)** Sont admissibles les anciens combattants, les personnes ayant rendu un service exceptionnel à l’unité et celles pouvant contribuer à son bien ou à son prestige.
 - **d. Membres honoraires à vie.** Ce statut peut être accordé à la retraite à un ancien membre ordinaire ou honoraire ayant apporté une contribution majeure au 9 EG. Les anciens commandants, sergents-majors et lieutenants-colonels honoraires du 9 EG, ainsi que les membres ayant plus de 12 ans de service au 9 EG, en bénéficient de fait. Une demande de statut associé peut être adressée au commandant par l’entremise du comité. Le statut à vie peut être révoqué par un vote de l’assemblée pour un manquement portant ombrage à l’escadron ou au Mess.
 
-## Comité du mess
+## Comité
 
-<a id="article-5"></a>**5.** Seuls les membres ordinaires peuvent siéger au comité. La présidence est réservée à un membre actif du 9 EG, avec l’approbation du commandant. Le personnel des finances ne peut occuper la présidence ou la vice-présidence.
+<a id="article-13"></a>
+<a id="article-22"></a>
+Le comité du Mess, ci-après appelé "le comité" assure l’administration courante du Mess et la mise en œuvre des décisions de l’assemblée générale, dans les limites du budget et des délégations approuvés. Les élections, destitutions, cotisations, budgets et modifications à la constitution sont décidés par les membres en assemblée générale. Ces décisions ne peuvent être prises en réunion du comité.
 
-<a id="article-6"></a>**6.** Le comité comprend autant de membres du Club Chimo que du Mess Combiné. Les grades y sont représentés équitablement dans la mesure du possible.
+<a id="article-5"></a>
+**5.** Seuls les membres ordinaires peuvent siéger au comité. La présidence est réservée à un membre actif du 9 EG, et doit être approuvé par le commandant. Le personnel des finances ne peut occuper la présidence ou la vice-présidence.
 
-<a id="article-7"></a>**7.** Le comité comprend le président, le vice-président, le secrétaire-trésorier et un responsable des activités pour chacun des deux locaux.
+<a id="article-6"></a>
+**6.** Le comité comprend autant de membres du Club Chimo que du Mess Combiné. Les grades y sont représentés équitablement dans la mesure du possible.
 
-<a id="article-8"></a>**8.** Les fonctions de secrétaire et de trésorier peuvent être confiées à deux personnes.
+<a id="article-8"></a>
+<a id="article-7"></a>
+**7.** Le comité comprend au minimum:
+  - **a.** un président;
+  - **b.** un vice-président; et
+  - **c.** un secrétaire ou trésorier
 
-<a id="article-9"></a>**9.** Les membres du comité sont élus à la majorité simple par l’assemblée générale, normalement en décembre. Le mandat du président et du vice-président est d’au moins un an, selon leur disponibilité. Normalement, au plus la moitié du comité est remplacée à une même assemblée. Le régisseur est nommé par le commandant.
+<a id="article-9"></a>
+**9.** Les membres du comité sont élus à la majorité simple par l’assemblée générale, normalement en décembre. Le mandat du président et du vice-président est d’au moins un an, selon leur disponibilité. Normalement, au plus la moitié du comité est remplacée à une même assemblée. Le régisseur est nommé par le commandant.
 
-<a id="article-10"></a>**10.** Un poste élu devenu vacant est comblé à la première assemblée générale suivant la vacance.
+<a id="article-10"></a>
+**10.** Un poste élu devenu vacant est comblé à la première assemblée générale suivant la vacance.
 
-<a id="article-11"></a>**11.** Une fonction au comité ne confère pas automatiquement de pouvoir financier. L’autorisation ou la signature d’un achat ou d’un paiement exige une délégation valide, exercée dans ses limites et selon les directives en vigueur. Sans cette délégation, les dépenses sont recommandées au responsable des biens non publics (BNP).
+<a id="article-11"></a>
+**11.** Une fonction au comité ne confère pas automatiquement de pouvoir financier. L’autorisation ou la signature d’un achat ou d’un paiement exige une délégation valide, exercée dans ses limites et selon les directives en vigueur. Sans cette délégation, les dépenses sont recommandées au responsable des biens non publics (BNP).
 
-Toute personne participant à la gestion des fonds agit avec diligence. La mauvaise gestion flagrante, la dilapidation ou le détournement de fonds entraînent la relève des fonctions et la réparation des torts causés au Mess.
+<a id="article-12"></a>**12.** Lorsqu’un membre ne participe plus aux travaux du comité ou n’assume plus ses fonctions, une solution est d’abord recherchée avec lui.
+Si la situation persiste, l’assemblée générale peut mettre fin à son mandat à la majorité des voix exprimées. Le membre concerné reçoit les motifs par écrit au moins un mois avant le vote et peut présenter ses observations.
 
-<a id="article-12"></a>**12.** La destitution d’un membre du comité exige un motif suffisant, un préavis d’au moins un mois et un vote favorable d’au moins 75 % des personnes présentes à l’assemblée.
-
-<a id="article-13"></a>**13.** Le comité gère les affaires courantes dans les limites du budget et des délégations approuvés. Les élections, destitutions, cotisations, budgets et modifications à la constitution relèvent des membres. Les approbations requises précèdent l’exécution des décisions.
-
-## Assemblées générales des membres
+## Assemblées générales
 
 <a id="article-14"></a>**14.** L’assemblée générale réunit les membres pour délibérer et prendre les décisions qui leur sont réservées. Elle peut être ordinaire ou extraordinaire. Une assemblée générale est tenue chaque trimestre.
 
-<a id="article-15"></a>**15.** Un rapport financier sommaire est présenté à chaque assemblée générale.
+<a id="article-15"></a>**15.** Une assemblée extraordinaire peut être convoquée par le commandant ou le président.
 
-<a id="article-16"></a>**16.** Le quorum est formé de plus de 50 % des membres ordinaires en règle et disponibles en région. Toute décision de l’assemblée exige le quorum. Pour une séance particulière, la validation d’un quorum inférieur suit le [Manuel PSP, chapitre 9-4, paragraphe 43](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297); les circonstances sont consignées au procès-verbal.
+<a id="article-16"></a>**16.** Chaque membre reçoit un avis de convocation au moins 14 jours avant l’assemblée, même si sa date a déjà été annoncée. L’avis inclus l'ordre du jour.
 
 <a id="article-17"></a>**17.** Les membres ordinaires en règle ont droit de vote. Les membres associés et honoraires peuvent assister aux assemblées et participer aux discussions, sans voter.
 
-<a id="article-18"></a>**18.** Le commandant peut assister aux assemblées et participer aux discussions, sans voter. À la révision du procès-verbal, il peut opposer son veto à une décision, mais ne peut modifier la proposition.
+<a id="article-18"></a>**18.** Le quorum est formé de plus de 50 % des membres ordinaires en règle. Toute décision de l’assemblée exige le quorum. Pour une séance particulière, la validation d’un quorum inférieur suit le [Manuel PSP, chapitre 9-4, paragraphe 43](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297); les circonstances sont consignées au procès-verbal.
 
-<a id="article-19"></a>**19.** Une assemblée extraordinaire peut être convoquée par le commandant, le président ou une demande écrite d’au moins 25 % des membres ordinaires en règle.
+<a id="article-19"></a>**19.** Un rapport financier sommaire est présenté à chaque assemblée générale.
 
-<a id="article-20"></a>**20.** Les décisions de l’assemblée générale sont adoptées à plus de la moitié des voix exprimées, sans compter les abstentions, sauf seuil particulier prévu à la constitution. Les membres ordinaires en règle peuvent proposer et appuyer une motion, à l’exception du commandant et du président de séance. Le président de séance ne peut amender une motion et ne vote que pour trancher une égalité après recomptage. Les motions sont appuyées, débattues puis votées. Leur texte et le résultat sont consignés au procès-verbal.
+<a id="article-20"></a>**20.** Tout membre du Mess, sauf le président du comité, peut proposer une motion. Les motions sont appuyées et débattues avant le vote.
 
-<a id="article-21"></a>**21.** Un avis de convocation est communiqué à chaque membre au moins 14 jours avant l’assemblée générale, même si la date a déjà été annoncée. Il indique les sujets à examiner.
+Les décisions sont adoptées à plus de la moitié des voix exprimées par les membres ordinaires en règle, sans compter les abstentions.
 
-## Réunions du comité
+Le président peut voter comme membre ordinaire, mais s’en abstient généralement. Il n’a pas de voix prépondérante. En cas d’égalité, la motion est rejetée.
 
-<a id="article-22"></a>**22.** Le comité se réunit pour préparer les dossiers, gérer les affaires courantes et suivre les décisions des assemblées. Ses réunions sont convoquées par le commandant ou le président. Elles ne remplacent pas une assemblée générale et ne peuvent trancher les questions réservées à celle-ci.
+Le texte des motions et le résultat des votes sont consignés au procès-verbal.
+
+<a id="article-21"></a>**21.** Le commandant peut assister aux assemblées et participer aux discussions. Chaque motion adoptée est soumise à son approbation.
+
+Sa signature au procès-verbal vaut approbation des motions adoptées, sauf celles qu’il désigne comme non approuvées ou en attente. Ces mentions sont conservées au procès-verbal avec le texte des motions et le résultat des votes.
+
+Seules les motions approuvées peuvent être mises en œuvre. Toute modification au fond d’une décision doit être soumise de nouveau à l’assemblée générale.
 
 ## Finances et cotisations
 
