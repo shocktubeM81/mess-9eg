@@ -40,7 +40,7 @@ Conformément à la [DOAD 5045-0](https://www.canada.ca/fr/ministere-defense-nat
 
   - **(1)** Toute autre personne désireuse de devenir membre associé doit adresser par écrit une demande officielle au président. Cette demande doit être appuyée par un membre ordinaire et affichée au moins 30 jours avant une assemblée générale. Si un membre juge qu’un candidat ne peut devenir membre associé, il doit faire part de ses observations/objections par écrit au président. De plus, la demande sera évaluée par le comité du mess pour acceptation. Néanmoins, il incombe que la demande soit présentée à l’assemblée générale suivante pour fins d’approbation.
 
-  - **(2)** Le total des membres mentionnés en (1) est limité à 65% du total des membres ordinaires; le secrétaire du comité dressera une liste d’attente au besoin.
+  - **(2)** Le total des membres mentionnés en (1) est limité à 65% du total des membres ordinaires; une liste d’attente sera dressée au besoin.
 
   - **(3)** À l’occasion de la première assemblée générale ordinaire ou extraordinaire de chaque année civile, le comité du mess doit présenter la question du renouvellement de tous les membres associés pour l’année financière suivante (du 1er avril de l’année courante au 31 Mars de l’année suivante).
 
@@ -94,7 +94,7 @@ Conformément à la [DOAD 5045-0](https://www.canada.ca/fr/ministere-defense-nat
 
 ## Comité du mess
 
-<a id="article-5"></a>**5.** Seuls les membres ordinaires peuvent faire partie du comité du mess. Seul un membre actif du 9 EG peut en être le président, et ce avec l’approbation du Commandant. Les membres du personnel des finances ne peuvent être président ou vice-président; ils peuvent exercer la fonction de secrétaire. Les tâches de chaque rôle sont définies dans les annexes de la constitution.
+<a id="article-5"></a>**5.** Seuls les membres ordinaires peuvent faire partie du comité du mess. Seul un membre actif du 9 EG peut en être le président, et ce avec l’approbation du Commandant. Les membres du personnel des finances ne peuvent être président ou vice-président. Les tâches de chaque rôle sont définies dans les annexes de la constitution.
 
 <a id="article-6"></a>**6.** Les membres du comité devront être représentatifs du Club Chimo et du Mess Combiné. La répartition des postes devra être occupée à 50% par les membres du Mess Combiné et 50% par les membres du Club Chimo.
 
@@ -286,11 +286,9 @@ Conformément à la [DOAD 5045-0](https://www.canada.ca/fr/ministere-defense-nat
 
 ## Modification des textes
 
-<a id="article-57"></a>**57.** Validité. Cette constitution ne peut être amendée qu'après qu'une proposition ait été mise par écrit et envoyée au secrétaire, et qu'ensuite elle ait été acceptée par la majorité des membres présents à la réunion.
+<a id="article-57"></a>57. Proposition et adoption. Toute proposition de modification à la constitution ou à ses annexes est transmise par écrit au PCAM et communiquée aux membres au moins 15 jours avant son examen. Elle doit être adoptée à la majorité des voix exprimées par les membres ayant droit de vote, lors d’une assemblée où le quorum est atteint.
 
-<a id="article-58"></a>**58.** Les propositions de modification des statuts ou règlements ne doivent pas être inscrites au registre des motions, mais présentées par écrit au PCAM qui les soumettra au comité du mess. Les propositions valables doivent être affichées pendant au moins 15 jours avant d’être étudiées à la prochaine assemblée générale ordinaire ou extraordinaire du mess. Si le comité du mess rejette les propositions, le PCAM doit en communiquer les raisons à l’auteur. Les statuts ne doivent, pour aucune considération, diverger ou aller à l’encontre des politiques des FC en matière d’exploitation des mess.
-
-<a id="article-59"></a>**59.** À tous les égards, une modification ainsi proposée devient valide et partie des présents statuts ou règlements une fois qu’elle est ratifiée à l’occasion d’une assemblée générale ordinaire ou extraordinaire où il y a quorum et qu’elle est subséquemment approuvée par le commandant des mess.
+<a id="article-58"></a>58. Approbation et publication. Toute modification adoptée entre en vigueur après l’approbation du commandant. Elle est intégrée à la constitution, puis communiquée aux membres avec sa date d’entrée en vigueur.
 
 ## Assemblées et portée des règlements
 
