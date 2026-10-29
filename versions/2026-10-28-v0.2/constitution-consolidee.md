@@ -172,7 +172,7 @@ La constitution établit les droits, les organes et les garanties; les quatre r�
 
 ## Finances et cotisations
 
-<a id="article-43"></a>**43.** Profits personnels. Les membres du comité ne peuvent faire aucun profit personnel, ni recevoir de rémunération ou avantage à l'occasion de leur participation à la gestion du Mess. Toutefois, si par l'effet d'une participation d'une firme faisant des affaires avec le Mess, un membre du comité est susceptible de retirer certains avantages, il doit en aviser le commandant (réf PFC 262 art 209 alinéa 2).
+<a id="article-43"></a>**43.** Profits personnels. Les membres du comité ne peuvent faire aucun profit personnel, ni recevoir de rémunération ou avantage à l'occasion de leur participation à la gestion du Mess. Toutefois, si par l'effet d'une participation d'une firme faisant des affaires avec le Mess, un membre du comité est susceptible de retirer certains avantages, il doit en aviser le commandant [A-PS-110-001/AG-002](https://cfmws.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-EN.pdf).
 
 <a id="article-44"></a>**44.** Salaire. Les serveurs formés et le régisseur peuvent recevoir un salaire comme employé du SBMFC, à condition d’avoir une partie du budget annuel prévu pour le salaire de la tâche en particulier.
 
