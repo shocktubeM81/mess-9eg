@@ -5,7 +5,7 @@ title: Concordance des 116 articles
 
 # Concordance des 116 articles
 
-Version 0.2.5 du 28 octobre 2026. Source : constitution.md au commit 8362362. Les clauses C1 à C6, R2.1 à R2.2, R3.1 à R3.4 et R3.7 à R3.10, ainsi que R4.1 à R4.4 sont nouvelles. La constitution conserve ses numéros. Les règlements suivent une numérotation propre; les anciens numéros ne servent ici que de repères de comparaison.
+Version 0.2.6 du 28 octobre 2026. Source : constitution.md au commit 8362362. Les clauses C1 à C6, R2.1 à R2.2, R3.1 à R3.4 et R3.7 à R3.10, ainsi que R4.1 à R4.4 sont nouvelles. La constitution conserve ses numéros. Les règlements suivent une numérotation propre; les anciens numéros ne servent ici que de repères de comparaison.
 
 | Article source | Destination | Traitement |
 |---|---|---|
@@ -65,25 +65,25 @@ Version 0.2.5 du 28 octobre 2026. Source : constitution.md au commit 8362362. Le
 | 54 | Constitution | Texte conservé |
 | 55 | Constitution | Texte conservé |
 | 56 | R4.2 | Texte conservé |
-| 57 | R1.19 | Texte conservé |
+| 57 | R1.16 | Texte conservé |
 | 58 | R4.5 | Texte conservé |
 | 59 | R4.3 | Modifié — voir tableau |
 | 60 | R4.12 | Texte conservé |
 | 61 | R4.8 | Texte conservé |
-| 62 | R1.10 | Texte conservé |
-| 63 | R1.17 | Texte conservé |
-| 64 | R1.11 | Texte conservé |
+| 62 | R1.9 | Texte conservé |
+| 63 | R1.14 | Texte conservé |
+| 64 | R1.4 | Texte conservé |
 | 65 | R1.1 | Texte conservé |
-| 66 | R1.15 | Texte conservé |
-| 67 | R1.2 | Texte conservé |
+| 66 | R1.13 | Texte conservé |
+| 67 | R1.6 | Texte conservé |
 | 68 | R4.4 | Modifié — voir tableau |
-| 69 | R1.3 | Texte conservé |
+| 69 | R1.7 | Texte conservé |
 | 70 | R1.8 | Texte conservé |
-| 71 | R1.12 | Texte conservé |
-| 72 | R1.13 | Texte conservé |
+| 71 | R1.10 | Texte conservé |
+| 72 | R1.11 | Texte conservé |
 | 73 | R3.14 | Modifié — voir tableau |
-| 74 | R1.4 | Texte conservé |
-| 75 | R1.5 | Texte conservé |
+| 74 | R1.2 | Texte conservé |
+| 75 | R1.3 | Texte conservé |
 | 76 | R2.3 | Texte conservé |
 | 77 | R2.6 | Texte conservé |
 | 78 | R2.7 | Texte conservé |
@@ -102,13 +102,13 @@ Version 0.2.5 du 28 octobre 2026. Source : constitution.md au commit 8362362. Le
 | 91 | Constitution | Texte conservé |
 | 92 | Constitution | Texte conservé |
 | 93 | Constitution | Texte conservé |
-| 94 | R1.18 | Texte conservé |
-| 95 | R1.6 | Texte conservé |
-| 96 | R1.7 | Texte conservé |
-| 97 | R1.9 | Texte conservé |
-| 98 | R1.16 | Texte conservé |
+| 94 | R1.15 | Texte conservé |
+| 95 | R1.4 | Texte conservé |
+| 96 | R1.5 | Texte conservé |
+| 97 | R1.8 | Texte conservé |
+| 98 | R1.13 | Texte conservé |
 | 99 | R2.10 | Texte conservé |
-| 100 | R1.14 | Texte conservé |
+| 100 | R1.12 | Texte conservé |
 | 101 | Constitution | Texte conservé |
 | 102 | Constitution | Texte conservé |
 | 103 | Constitution | Texte conservé |

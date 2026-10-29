@@ -5,7 +5,7 @@ title: Règlements du Mess
 
 # Règlements du Mess
 
-Version 0.2.5 du 28 octobre 2026 — Proposition à adopter et à approuver.
+Version 0.2.6 du 28 octobre 2026 — Proposition à adopter et à approuver.
 
 Chaque règlement constitue un document distinct. La constitution fixe les droits, les pouvoirs et les garanties; les règlements précisent les modalités pratiques.
 

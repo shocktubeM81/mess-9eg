@@ -5,7 +5,7 @@ title: R2 Meubles et décorations
 
 # R2 Meubles et décorations
 
-**Version 0.2.5 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. La constitution conserve ses repères; les règlements suivent une numérotation propre à chacun.
+**Version 0.2.6 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. La constitution conserve ses repères; les règlements suivent une numérotation propre à chacun.
 
 Ce règlement encadre l’utilisation, la conservation et la présentation des meubles, décorations et souvenirs du Mess. Il précise aussi la provenance des biens, les conditions d’acceptation des dons et les renseignements à conserver à l’inventaire.
 
@@ -33,7 +33,7 @@ Ce règlement encadre l’utilisation, la conservation et la présentation des m
 
 ## Tâches et responsabilités
 
-<a id="r2-9"></a>**R2.9.** L’inventaire distingue les biens du Mess, de la Couronne, du fonds d’unité et de tiers. Chaque fiche indique description, emplacement, provenance, date d’entrée, propriétaire, valeur connue, justificatif et conditions d’utilisation ou de restitution. Une provenance incertaine est signalée et vérifiée avant disposition. La responsabilité de tenir cet inventaire demeure celle prévue à l’article 37 de la constitution.
+<a id="r2-9"></a>**R2.9.** Le vice-président tient l’inventaire en distinguant les biens du Mess, de la Couronne, du fonds d’unité et de tiers. Chaque fiche indique description, emplacement, provenance, date d’entrée, propriétaire, valeur connue, justificatif et conditions d’utilisation ou de restitution. Une provenance incertaine est signalée et vérifiée avant disposition.
 
 <a id="r2-10"></a>**R2.10.** Les jeux, y compris l'équipement de billard seront gardés sous le contrôle du régisseur ou du
 

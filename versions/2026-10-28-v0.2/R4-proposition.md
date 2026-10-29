@@ -5,7 +5,7 @@ title: R4 Service de bar
 
 # R4 Service de bar
 
-**Version 0.2.5 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. La constitution conserve ses repères; les règlements suivent une numérotation propre à chacun.
+**Version 0.2.6 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. La constitution conserve ses repères; les règlements suivent une numérotation propre à chacun.
 
 Ce règlement encadre le service du bar, de l’ouverture à la fermeture. Il précise les refus de service, la protection des personnes mineures, la gestion des incidents et les responsabilités du personnel.
 
@@ -25,7 +25,7 @@ Ce règlement encadre le service du bar, de l’ouverture à la fermeture. Il pr
 
 ## Refus de service et incidents
 
-<a id="r4-7"></a>**R4.7.** Le refus est expliqué calmement. Le responsable appuie le serveur, propose au besoin de l’eau ou une boisson sans alcool et aide à organiser un retour sécuritaire. En cas de menace, de malaise ou de danger immédiat, il suspend le service et appelle les services d’urgence appropriés. Un relevé factuel de l’incident est transmis à l’autorité prévue à l’article R4.8 et conservé avec un accès restreint.
+<a id="r4-7"></a>**R4.7.** Le refus de service est expliqué calmement. Le responsable appuie le serveur, propose au besoin de l’eau ou une boisson sans alcool et aide à organiser un retour sécuritaire. En cas de menace, de malaise ou de danger immédiat, il suspend le service et appelle les services d’urgence appropriés. Un relevé factuel de l’incident est transmis au capitaine-adjudant et conservé avec un accès restreint.
 
 <a id="r4-8"></a>**R4.8.** Si une situation inusitée survient, le serveur doit fermer les bars promptement et contacter les autorités compétentes (pompiers, police ou médical). Tous les problèmes, réglés ou non, devront être rapportés au capitaine-adjudant dès que possible.
 
@@ -65,7 +65,7 @@ Ce règlement encadre le service du bar, de l’ouverture à la fermeture. Il pr
 
 - **(2)** La bière ne sera pas vendue à la caisse;
 
-- **(3)** Le vin régimentaire pourra être vendu à la bouteille, ou si autorisé par le PCAM, à la caisse, pour consommation dans le Mess et à l'extérieur du Mess.
+- **(3)** Le vin régimentaire pourra être vendu à la bouteille, ou si autorisé par le président du comité du Mess, à la caisse, pour consommation dans le Mess et à l'extérieur du Mess.
 
 <a id="r4-11"></a>**R4.11.** Devoirs du régisseur.
 

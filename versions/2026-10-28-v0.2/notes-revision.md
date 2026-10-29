@@ -5,7 +5,7 @@ title: Sources et validations de la révision
 
 # Sources et validations de la révision
 
-Version 0.2.5 du 28 octobre 2026
+Version 0.2.6 du 28 octobre 2026
 
 ## Sources consultées
 
@@ -38,7 +38,7 @@ La transcription actuelle, l’accueil, le thème et le domaine sont conservés.
 Ces sources éclairent la vérification à effectuer; elles ne constituent pas une validation particulière du financement proposé pour le 9 EG.
 ## Ajustement de la répartition des assemblées
 
-Version 0.2.5 du 28 octobre 2026. Par rapport à la version 0.2, les articles 12, 14, 23, 25 et 35 rejoignent la constitution. Le seuil de quorum reste à son article 8; le délai de 30 minutes et le contrôle pendant la séance passent au R3.8. Le calendrier pratique de l’article 13 rejoint le R3. La règle de majorité et les garanties du vote restent constitutionnelles; recomptage et consignation sont précisés au R3.7, et les modalités du vote par internet au R3.9. La clause C4 confirme cette limite entre les deux textes. Les articles 16 à 22 restent au R3 pour la préparation et le déroulement.
+Version 0.2.6 du 28 octobre 2026. Par rapport à la version 0.2, les articles 12, 14, 23, 25 et 35 rejoignent la constitution. Le seuil de quorum reste à son article 8; le délai de 30 minutes et le contrôle pendant la séance passent au R3.8. Le calendrier pratique de l’article 13 rejoint le R3. La règle de majorité et les garanties du vote restent constitutionnelles; recomptage et consignation sont précisés au R3.7, et les modalités du vote par internet au R3.9. La clause C4 confirme cette limite entre les deux textes. Les articles 16 à 22 restent au R3 pour la préparation et le déroulement.
 
 Cette répartition conserve quatre règlements et ne réduit aucun quorum, délai minimal, droit de vote, seuil particulier ou pouvoir réservé aux membres. Elle constitue une proposition à adopter et à approuver.
 ## Périmètre des règlements 3 et 4
@@ -53,11 +53,18 @@ La rédaction du refus de service a été vérifiée à partir des [indications 
 Les textes proposés ne fixent plus de période estivale exclue ni de dates limites au 30 mai ou au 30 août. Les dates sont indiquées dans les convocations; la fréquence trimestrielle et les délais minimaux constitutionnels restent applicables. L’article 13 du R3 est remplacé en ce sens. Le déroulement type et les indications de prise de parole sont raccourcis.
 
 Les tâches sont regroupées en fin de texte : responsabilités administratives dans la constitution, discipline au R1, inventaire au R2, présidence et tenue des dossiers au R3; les rôles du service de bar restent à la fin du R4. Ce déplacement facilite la consultation des règles avant la lecture des tâches attribuées.
-## Organisation et numérotation de la version 0.2.5
+## Organisation et numérotation de la version 0.2.6
 
 Les règlements sont regroupés par sujet et suivent chacun une numérotation continue R1.1, R1.2, etc. Les tâches restent à la fin. Le fond des dispositions est conservé; seuls l’ordre, les titres, les repères et les renvois changent. La constitution conserve son ordre et ses numéros; seuls les renvois vers les règlements et la mention de version sont adaptés. La concordance conserve le suivi des dispositions sources et des clauses ajoutées.
 ## Documents distincts et suppression des répétitions
 
-La version 0.2.5 présente chaque règlement sur une page autonome avec une courte introduction. Le R2 devient « Meubles et décorations »; sa portée conserve les souvenirs, la provenance et les dons. La page Règlements donne accès aux quatre documents; le recueil reste un complément.
+La version 0.2.6 présente chaque règlement sur une page autonome avec une courte introduction. Le R2 devient « Meubles et décorations »; sa portée conserve les souvenirs, la provenance et les dons. La page Règlements donne accès aux quatre documents; le recueil reste un complément.
 
 Le R3 renvoie aux délais constitutionnels des articles 25 et 115 au lieu de les reproduire, et conserve l’envoi des documents de séance au moins 7 jours avant. Il décrit la conduite pratique de la séance sans répéter qui exerce la présidence. La fiche d’inventaire du R2 conserve ses renseignements pratiques et renvoie à l’article 37 pour le titulaire de la fonction. Le classement des dossiers est décrit comme une modalité, sans réénoncer la fonction constitutionnelle du secrétaire. La constitution est conservée, hormis la version et le nouveau titre du R2.
+## Lecture autonome de la version 0.2.6
+
+Le R1 est rédigé par situations : accès aux locaux et conjoints, invités, personnes mineures et enfants, tenue, comportement, propreté et dommages, puis responsabilités. Les articles sources 64 et 95 sont fusionnés pour l’accompagnement, 70 et 97 pour la tenue, 66 et 98 pour la propreté. La concordance suit ces fusions; les 116 dispositions sources restent repérables, même si plusieurs aboutissent désormais à une règle commune.
+
+La présence d’enfants sous surveillance est présentée comme une situation distincte des invités personnels et des conjoints mineurs autorisés. Cette rédaction rapproche les anciens articles 67 et 69, dont la juxtaposition était ambiguë; elle conserve les conditions de présence des enfants, leur départ avant 19 h aux activités officielles sauf activités familiales, et l’interdiction d’alcool aux personnes de moins de 18 ans. Cette clarification doit être comprise et validée lors de l’examen de la proposition.
+
+Le titulaire de l’inventaire est nommé dans le R2, les destinataires d’un rapport d’incident sont explicités dans le R4 et les abréviations de fonction sont développées. La constitution conserve son contenu. Les règlements peuvent se lire chacun de façon suivie, tout en restant soumis à la constitution pour les pouvoirs et approbations.
