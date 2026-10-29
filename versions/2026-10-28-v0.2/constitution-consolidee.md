@@ -92,6 +92,42 @@ La constitution établit les droits, les organes et les garanties; les quatre r�
 
 *Note. Le privilège de membre à vie peu être révoqué suite à un manquement pouvant porté ombrage à l’escadron ou au Mess et Instituts du 9e Escadron du Génie. La révocation d’un membre à vie doit être voté lors d’une assemble du Mess et Instituts.
 
+## Comité du mess
+
+<a id="article-26"></a>
+**26.** Seuls les membres ordinaires peuvent faire partie du comité du mess. Seul un membre actif du 9 EG peut en être le président, et ce avec l’approbation du Commandant.
+
+<a id="article-27"></a>
+**27.** Les membres du comité devront être représentatifs du Club Chimo et du Mess Combiné. La répartition des postes devra être occupée à 50% par les membres du Mess Combiné et 50% par les membres du Club Chimo.
+
+<a id="article-28"></a>
+**28.** Le comité devrait se composer comme suit :
+
+  - **a.** Le président.
+
+  - **b.** Le vice-président.
+
+  - **c.** Le secrétaire-trésorier.
+
+  - **d.** Le responsable des activités du Club Chimo.
+
+  - **e.** Le responsable des activités du Mess Combiné.
+
+<a id="article-29"></a>**29.** Les postes de secrétaire et trésorier peuvent être remplis par deux personnes différentes.
+
+<a id="article-30"></a>**30.** Les membres de ce comité sont élus à majorité simple, généralement à la réunion du mois de décembre à l’exception du régisseur qui est nominé par le commandant.
+
+<a id="article-31"></a>**31.** Dans le cas de tout mess, il convient que tous les grades soient équitablement représentés au sein du comité, dans la mesure du possible.
+
+<a id="article-32"></a>**32.** Si un poste devient vacant, il doit être comblé à la première réunion suivant la date de vacance.
+
+<a id="article-33"></a>**33.** Les membres du comité du mess ainsi que tous ceux ou celles qui auront à autoriser ou à signer des achats ou paiements, devront le faire en tant que bon gestionnaire. Dans le cas de mauvaise gestion flagrante, dilapidation ou de détournement d’argent, la ou les personnes impliquées seront relevées de leurs fonctions et devront réparer les torts causés au Mess.
+
+<a id="article-34"></a>**34.** Destitution d'un membre du comité. Pour qu'une destitution soit autorisée, il faut une raison suffisante et la proposition de destitution doit être appuyée d'un vote au cours d'une assemblée. Un minimum de 75% des votes des personnes présentes à la réunion est obligatoire pour que la destitution soit en règle. L’avis de destitution doit être présenté au minimum un mois avant le vote.
+
+<a id="article-35"></a>**35.** Le comité prépare les dossiers, exécute les décisions des membres et gère les affaires courantes dans les limites du budget et des délégations approuvés. Il rend compte à l’assemblée et sert d’intermédiaire avec le commandant. Les élections, destitutions, cotisations, budgets et amendements réservés aux membres ne peuvent être décidés à leur place par le comité. Celui-ci obtient les approbations requises avant exécution.
+
+
 ## Assemblées générales
 
 <a id="article-5"></a>
@@ -134,41 +170,6 @@ La constitution établit les droits, les organes et les garanties; les quatre r�
   - **c.** La période d'office du président et du vice-président sera d'une durée minimale de un an selon la disponibilité de chacun.
 
 <a id="article-25"></a>**25.** Chaque membre reçoit un avis de convocation au moins 14 jours avant l’assemblée, même si sa date a déjà été annoncée. Toute proposition de modification est communiquée et affichée au moins 15 jours avant son étude. Le R3 précise la transmission des avis, de l’ordre du jour et des documents, sans réduire ces délais ni les droits des membres.
-
-## Composition et pouvoirs du comité
-
-<a id="article-26"></a>
-**26.** Précisons que seuls les membres ordinaires peuvent faire partie du comité du mess et que seul un membre actif du 9 EG peut en être le président, et ce avec l’approbation du Commandant.
-
-<a id="article-27"></a>
-**27.** Étant donné que le Mess regroupe le Club Chimo et le Mess Combiné, les membres du comité devront être représentatifs de ces 2 groupes. Par exemple, si le président est un membre du Club Chimo, le vice-président devra être un membre du Mess Combiné. La répartition des postes devra être occupée à 50% par les membres du Mess Combiné et 50% par les membres du Club Chimo. Les postes de président et vice-président seront alternés d'une année à l'autre entre le Club Chimo et le Mess Combiné. Débutant en décembre, les années paires, le poste de président sera attribué au Club Chimo et pour les années impaires le poste reviendra au Mess Combiné.
-
-<a id="article-28"></a>
-**28.** Le comité devrait se composer comme suit :
-
-  - **a.** Le président.
-
-  - **b.** Le vice-président.
-
-  - **c.** Le secrétaire-trésorier.
-
-  - **d.** Le responsable des activités du Club Chimo.
-
-  - **e.** Le responsable des activités du Mess Combiné.
-
-<a id="article-29"></a>**29.** Les postes de secrétaire et trésorier peuvent être remplis par deux personnes différentes.
-
-<a id="article-30"></a>**30.** Les membres de ce comité sont élus à majorité simple, généralement à la réunion du mois de décembre à l’exception du régisseur qui est nominé par le commandant.
-
-<a id="article-31"></a>**31.** Dans le cas de tout mess, il convient que tous les grades soient équitablement représentés au sein du comité, dans la mesure du possible.
-
-<a id="article-32"></a>**32.** Si un poste devient vacant, il doit être comblé à la première réunion suivant la date de vacance.
-
-<a id="article-33"></a>**33.** Les membres du comité du mess ainsi que tous ceux ou celles qui auront à autoriser ou à signer des achats ou paiements, devront le faire en tant que bon gestionnaire. Dans le cas de mauvaise gestion flagrante, dilapidation ou de détournement d’argent, la ou les personnes impliquées seront relevées de leurs fonctions et devront réparer les torts causés au Mess.
-
-<a id="article-34"></a>**34.** Destitution d'un membre du comité. Pour qu'une destitution soit autorisée, il faut une raison suffisante et la proposition de destitution doit être appuyée d'un vote au cours d'une assemblée. Un minimum de 75% des votes des personnes présentes à la réunion est obligatoire pour que la destitution soit en règle. L’avis de destitution doit être présenté au minimum un mois avant le vote.
-
-<a id="article-35"></a>**35.** Le comité prépare les dossiers, exécute les décisions des membres et gère les affaires courantes dans les limites du budget et des délégations approuvés. Il rend compte à l’assemblée et sert d’intermédiaire avec le commandant. Les élections, destitutions, cotisations, budgets et amendements réservés aux membres ne peuvent être décidés à leur place par le comité. Celui-ci obtient les approbations requises avant exécution.
 
 ## Finances et cotisations
 
