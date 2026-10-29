@@ -1,12 +1,5 @@
 ---
-layout: default
-title: Annexe E — Responsable des activités
-document_label: Partie II — Règlements
-document_group: administration
+layout: redirection
+title: Ancien lien du projet
+destination: annexe-e
 ---
-
-# Annexe E — Responsable des activités
-
-{% include conventions-references.md %}
-
-{% include textes/annexe-e.md %}

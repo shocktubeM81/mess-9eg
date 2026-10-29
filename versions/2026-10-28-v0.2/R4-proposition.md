@@ -1,12 +1,5 @@
 ---
-layout: default
-title: Règlement 4 — Service de bar
-doc_code: R4
-document_label: Partie II — Règlements
+layout: redirection
+title: Ancien lien du projet
+destination: reglement-4
 ---
-
-# Règlement 4 — Service de bar
-
-{% include conventions-references.md %}
-
-{% include textes/r4.md %}

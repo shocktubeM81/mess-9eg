@@ -62,59 +62,6 @@ def local_heading(line, shift):
     m=re.match(r'^(#+) (.+)',line)
     return '#'*max(1,len(m[1])-shift)+' '+m[2] if m else line
 
-def source_content(spec, body, destinations):
-    result=[]
-    for line in body:
-        if not line.strip():
-            result.append('');continue
-        local=local_heading(line,spec['shift'])
-        anchors=list(spec['anchors'].get(block_key(local),[]))
-        if local.startswith('#'):
-            heading_id=anchors.pop() if anchors else re.sub(r'[^a-z0-9-]','-',spec['source'].replace('/','-').replace('.md','')+'-'+clean_label(local).lower())
-            result.extend('<a id="'+a+'"></a>' for a in anchors)
-            local+=' {#'+heading_id+'}'
-        else:
-            result.extend('<a id="'+a+'"></a>' for a in anchors)
-            local=re.sub(r'^(\d+\.\d+\.) ',r'**\1** ',local)
-        def site_link(m):
-            if not m[2].startswith('#'):
-                return m[0]
-            ident=m[2][1:]
-            target=destinations.get(ident)
-            if target is None:
-                raise ValueError('Destination web inconnue: '+ident)
-            if target==page_for_source(spec['source']):
-                return m[0]
-            return '['+m[1]+']({{ \'/'+target+'\' | relative_url }}#'+ident+')'
-        local=LINK.sub(site_link,local)
-        result.append(local)
-    result.extend('<a id="'+a+'"></a>' for a in spec.get('tail_anchors',[]))
-    return '\n'.join(result).strip()+'\n'
-
-def page_for_source(source):
-    prefix='versions/2026-10-28-v0.2/'
-    name=Path(source).stem
-    if name=='statuts':return prefix+'constitution-consolidee.html'
-    if re.fullmatch(r'r[1-6]',name):return prefix+name.upper()+'-proposition.html'
-    if name.startswith('annexe-'):return prefix+'annexes/'+name+'.html'
-    return 'index.html'
-
-def write_site(segments):
-    destinations={}
-    for _,_,spec,_ in segments:
-        page=page_for_source(spec['source'])
-        for values in spec['anchors'].values():
-            for ident in values:destinations[ident]=page
-        for ident in spec.get('tail_anchors',[]):destinations[ident]=page
-        if spec['source'].startswith('textes/annexe-'):
-            destinations[Path(spec['source']).stem]=page
-    destinations['partie-1']=page_for_source('textes/statuts.md')
-    for n in range(1,7):destinations['reglement-'+str(n)]=page_for_source('textes/r'+str(n)+'.md')
-    # Les pages complètes et séparées incluent ces mêmes vues dérivées.
-    for _,_,spec,body in segments:
-        target=ROOT/'_includes'/spec['source']
-        target.write_text(source_content(spec,body,destinations),encoding='utf-8')
-
 def bookmark_name(value):
     return 'b_'+hashlib.sha1(value.encode('utf-8')).hexdigest()[:28]
 
@@ -339,14 +286,14 @@ def reportlab_pdf(blocks,profile,target):
 def main():
     ap=argparse.ArgumentParser(description=__doc__)
     ap.add_argument('--modele',default='9eg',help='Nom du profil JSON dans modeles, ou chemin du fichier')
-    ap.add_argument('--site',action='store_true',help='Actualiser aussi les vues du site à partir du maître')
+    ap.add_argument('--site',action='store_true',help='Compatibilité : le site lit directement le maître')
     ap.add_argument('--texte-seul',action='store_true',help='Produire seulement la copie TXT et, sur demande, les vues du site')
     ap.add_argument('--docx-seul',action='store_true',help='Produire le Word et la copie TXT sans exporter le PDF')
     ap.add_argument('--pdf-moteur',choices=['auto','word','reportlab'],default='auto')
     ap.add_argument('--sortie',default='exports',help='Dossier de sortie, relatif au projet ou absolu')
     args=ap.parse_args()
     master=ROOT/'texte-maitre.md';text=read(master)
-    structure=json.loads(read(ROOT/'outils/structure-maitre.json'))
+    structure=json.loads(read(ROOT/'_data/structure.json'))
     segments,count=validate(text,structure);blocks=document_blocks(text,segments)
     out=Path(args.sortie)
     if not out.is_absolute():out=ROOT/out
@@ -354,9 +301,8 @@ def main():
     plain=LINK.sub(lambda m:m[1]+' ('+m[2]+')' if not m[2].startswith('#') else m[1],text)
     plain=re.sub(r'^#+\s*','',plain,flags=re.M)
     (out/'statuts-et-reglements.txt').write_text(plain,encoding='utf-8-sig')
-    if args.site:write_site(segments)
     if args.texte_seul:
-        print('Copie TXT créée; vues web actualisées.' if args.site else 'Copie TXT créée.');return
+        print('Copie TXT créée.');return
     pp=Path(args.modele)
     if not pp.is_file():pp=ROOT/'modeles'/(args.modele+'.json')
     profile=json.loads(read(pp));docx=out/'statuts-et-reglements.docx';pdf=out/'statuts-et-reglements.pdf'

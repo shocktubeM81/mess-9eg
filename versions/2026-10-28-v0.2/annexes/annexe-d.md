@@ -1,12 +1,5 @@
 ---
-layout: default
-title: Annexe D — Trésorier
-document_label: Partie II — Règlements
-document_group: administration
+layout: redirection
+title: Ancien lien du projet
+destination: annexe-d
 ---
-
-# Annexe D — Trésorier
-
-{% include conventions-references.md %}
-
-{% include textes/annexe-d.md %}

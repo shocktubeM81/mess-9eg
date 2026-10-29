@@ -1,12 +1,5 @@
 ---
-layout: default
-title: Annexe A — Président du comité du Mess
-document_label: Partie II — Règlements
-document_group: administration
+layout: redirection
+title: Ancien lien du projet
+destination: annexe-a
 ---
-
-# Annexe A — Président du comité du Mess
-
-{% include conventions-references.md %}
-
-{% include textes/annexe-a.md %}

@@ -36,15 +36,14 @@ py -m pip install -r outils/requirements.txt
 
 Puis double-cliquez sur le fichier de génération. Sur cet ordinateur, le lanceur utilise en priorité le Python fourni avec Codex lorsqu’il est présent.
 
-## Actualiser aussi le site
+## Actualiser le site
 
-Pour régénérer les vues du site et les documents après une correction du maître :
-
-```powershell
-.\Generer-les-documents.ps1 -Site
-```
-
-Les fichiers sous **_includes/textes**, ainsi que les références et l’avant-propos sous **_includes**, sont désormais des vues générées. Ne les corrigez pas directement. La génération ne publie rien et ne fusionne aucune branche.
+Le site lit directement **texte-maitre.md** : aucune copie de texte web à
+régénérer ou à commettre. Jekyll convertit le Markdown en HTML à la construction.
+Le sommaire et les renvois numérotés utilisent JavaScript et les identifiants
+stables de **_data/structure.json**. Le texte reste lisible sans JavaScript.
+L’option `-Site` est conservée pour compatibilité, sans génération de vues.
+Une modification locale ne publie rien automatiquement sur GitHub.
 
 ## Changer la présentation
 

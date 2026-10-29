@@ -1,12 +1,5 @@
 ---
-layout: default
-title: Annexe F — Régisseur
-document_label: Partie II — Règlements
-document_group: administration
+layout: redirection
+title: Ancien lien du projet
+destination: annexe-f-regisseur
 ---
-
-# Annexe F — Régisseur
-
-{% include conventions-references.md %}
-
-{% include textes/annexe-f-regisseur.md %}

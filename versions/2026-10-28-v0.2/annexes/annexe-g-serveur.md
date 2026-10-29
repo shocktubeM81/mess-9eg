@@ -1,12 +1,5 @@
 ---
-layout: default
-title: Annexe G — Serveur
-document_label: Partie II — Règlements
-document_group: administration
+layout: redirection
+title: Ancien lien du projet
+destination: annexe-g-serveur
 ---
-
-# Annexe G — Serveur
-
-{% include conventions-references.md %}
-
-{% include textes/annexe-g-serveur.md %}
