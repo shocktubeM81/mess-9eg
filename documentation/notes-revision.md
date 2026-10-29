@@ -1,8 +1,3 @@
----
-layout: default
-title: Sources et validations de la révision
----
-
 # Sources et validations de la révision
 
 Version 0.2.7 du 28 octobre 2026
@@ -71,3 +66,7 @@ Le titulaire de l’inventaire est nommé dans le R2, les destinataires d’un r
 ## Tenue précisée dans la version 0.2.7
 
 La section tenue du R1 est présentée par points : vêtements, torse et chaussures, couvre-chef, uniforme, tenue minimale et personnel du bar. Le terme couvre-chef remplace l’énumération des modèles. La conformité de l’uniforme aux Instructions A-DH-265-000/AG-001 et aux directives applicables est explicitée. Le chapitre 2 officiel est cité; il traite du port de l’uniforme et du retrait de la coiffure au mess, avec exceptions religieuses et pour le personnel exerçant ses fonctions.
+
+## Nettoyage des documents
+
+La présentation est conservée uniquement dans index.md à la racine. Les quatre règlements et la constitution proposée sont les sources Markdown de référence. Le recueil, les index intermédiaires et les copies de la lettre ont été retirés. Les scripts qui produisaient ces copies ont également été retirés; les textes s’éditent directement. La concordance et les présentes notes sont conservées dans documentation, hors du site. Les anciennes copies restent récupérables dans l’historique Git. Le fond de la constitution et des règlements n’est pas modifié par ce nettoyage.
