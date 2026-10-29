@@ -40,3 +40,7 @@ La branche de révision reprend le gabarit, les styles et le sommaire de `propos
 ## Ajustement de la version 0.2.1
 
 Les principes des assemblées figurent dans la constitution; leur procédure et leur déroulement sont précisés au R3, distinct de la constitution. Le dossier daté conserve son adresse pour préserver les liens existants. Les documents affichent la version 0.2.1 du 28 octobre 2026.
+
+## Ajustement de la version 0.2.2
+
+R3 porte le titre « Assemblées et réunions » et précise comment les séances se préparent, se déroulent et sont documentées et communiquées. R4 est limité au « Service de bar », avec refus de service obligatoire en cas d’ébriété. Les règles financières et les réservations sont regroupées dans la constitution; les dispositions sur les locaux et les jeux sont réaffectées selon la concordance.

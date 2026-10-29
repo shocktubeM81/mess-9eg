@@ -1,11 +1,11 @@
 ---
 layout: default
-title: R4 Bar service et utilisation
+title: R4 Service de bar
 ---
 
-# R4 Bar service et utilisation
+# R4 Service de bar
 
-**Version 0.2.1 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les numéros historiques sont conservés pour faciliter la comparaison; les articles déplacés figurent dans les règlements.
+**Version 0.2.2 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les numéros historiques sont conservés pour faciliter la comparaison; les articles déplacés figurent dans les règlements.
 
 <a id="article-40"></a>**40.** Devoirs du serveur (barman).
 
@@ -51,24 +51,11 @@ title: R4 Bar service et utilisation
 
 - **e.** Il doit s’acquitter de toutes autres tâches assignées par le président du comité du Mess ou précisées dans les règlements appropriés.
 
-<a id="article-44"></a>**44.** Salaire. Les serveurs formés et le régisseur peuvent recevoir un salaire comme employé du SBMFC, à condition d’avoir une partie du budget annuel prévu pour le salaire de la tâche en particulier.
-
-- **(1)** Comme employés du SBMFC, ils seront supervisés par le régisseur qui sera à son tour supervisé par le PCAM.
-
-- **(2)** À défaut d’avoir un budget suffisant pour l’une ou l’autre des tâches énumérées plus haut, les membres seront considérés comme des bénévoles du SMBFC.
-
-
-
-
-- **(3)** Le régisseur pourra se faire rembourser ses frais de déplacement pour aller chercher ou porter des commandes et ce aux frais du mess. Selon les directives en vigueur par le SBMFC et jusqu’a concurrence de 500$ par année. »
-
-<a id="article-53"></a>**53.** Le barman recevra une indemnité de 75$ pour ces services lors des activités spéciales, tel que stipulé au para 44. Le montant maximum de 300$ par année s’applique pour les activités du Mess et Instituts, et ne s’applique pas lors des réceptions privées ayant fait l’objet d’une prestation de service.
-
 <a id="article-56"></a>**56.** Le mess doit respecter toutes les lois fédérales, provinciales et municipales relatives à la consommation de boissons alcoolisées. De plus, le prix de vente de ces boissons doit être affiché (réf. PFC 262 art 309).
 
 <a id="article-58"></a>**58.** Lors des différentes activités, le responsable de l’activité et les serveurs ne doit pas consommer d’alcool et veiller à ce que l’activité se déroule sans anicroche.
 
-<a id="article-59"></a>**59.** Les serveurs ont l'autorité au nom du commandant de ne pas servir des personnes en état d'ébriété.
+<a id="article-59"></a>**59.** Le personnel du bar ne doit ni vendre ni servir de boisson alcoolisée à une personne en état d’ébriété ou qui en présente manifestement les signes. Il refuse ou interrompt immédiatement le service et en informe le responsable de service. Le grade, la fonction, le paiement ou l’insistance du client ne permettent pas de passer outre ce refus. Aucun autre serveur ne doit le contourner en servant cette personne.
 
 <a id="article-60"></a>**60.** Le responsable des drogues et alcools de l'unité possède une autorité au nom du commandant
 
@@ -76,29 +63,14 @@ dans les deux locaux du mess.
 
 <a id="article-61"></a>**61.** Si une situation inusitée survient, le serveur doit fermer les bars promptement et contacter les autorités compétentes (pompiers, police ou médical). Tous les problèmes, réglés ou non, devront être rapportés au capitaine-adjudant dès que possible.
 
-<a id="article-66"></a>**66.** Les membres du mess doivent laisser l'endroit propre et replacer les meubles tels qu'ils étaient à leur arrivée.
+<a id="article-68"></a>**68.** Aucune boisson alcoolisée ne peut être vendue ou servie à une personne de moins de 18 ans. En cas de doute sur l’âge, le serveur demande une pièce d’identité permettant de le vérifier; si l’âge ne peut être établi, il refuse le service. Il ne sert pas non plus une personne qui achète pour remettre la boisson à un mineur ou contourner un refus de service.
 
-<a id="article-90"></a>**90.** Les réceptions privées peuvent être organisées par les membres du Mess ainsi que des non-membres désirant utiliser les locaux du Mess.
+## Application du service responsable
 
-<a id="article-91"></a>**91.** Les réservations seront faites par le biais du régisseur, qui devra présenter les demandes au président qui les fera suivre au commandant pour approbation. Le commandant se réserve le droit de refuser toute demande de réservation sans présenter de justification. Les réservations ne seront normalement pas acceptées pour les journées au cours desquels il y aura de l'entraînement à l’escadron car les membres auront toujours priorité pour l'utilisation de leur Mess.
+**R4.1.** Le présent règlement porte sur la préparation, la vente, le service et la fermeture du bar. Les règles de réservation des locaux, les pouvoirs administratifs et les autorisations financières figurent dans la constitution; la conduite générale et la propreté des lieux relèvent du R1.
 
-<a id="article-92"></a>**92.** Lorsqu’un membre associé, un membre honoraire ou un membre à vie souhaite procéder à la location du Mess combiné pour un événement privé, ceux-ci pourront le faire sans frais de location. Ils devront cependant payer les frais de barman, si applicables.
+**R4.2.** Le serveur demeure sobre pendant son service, observe les clients et applique sans délai les refus prévus aux articles 59 et 68. En cas de doute sur la capacité d’une personne à consommer sans danger, il suspend le service et consulte le responsable. Une difficulté de santé ou de communication ne doit pas être assimilée automatiquement à l’ébriété; si une personne semble en détresse, le responsable organise l’aide appropriée.
 
-<a id="article-93"></a>**93.** Le conseil d'administration établira les frais d'utilisation pour chaque demande. Ces frais seront inscrits sur le contrat d'utilisation. S'il s'agit d'une activité organisée:
+**R4.3.** Le refus est expliqué calmement. Le responsable appuie le serveur, propose au besoin de l’eau ou une boisson sans alcool et aide à organiser un retour sécuritaire. En cas de menace, de malaise ou de danger immédiat, il suspend le service et appelle les services d’urgence appropriés. Un relevé factuel de l’incident est transmis à l’autorité prévue à l’article 61 et conservé avec un accès restreint.
 
-
-
-
-- **a.** par un membre du Mess, les frais seront établis en fonction du coût réel (serveurs, nettoyage, etc), et les profits des ventes du bar pour cette activité serviront à couvrir les frais. Le membre qui organise l'activité sera tenu responsable de la balance des frais d'opération pour la réception; et
-
-- **b.** par un non-membre, le conseil établira un coût d'utilisation payable par le responsable de l'activité en conformité de la loi sur les prestations de service en vigueur. Ce coût d'utilisation couvrira tous les frais associés à l'activité, ainsi qu'un montant raisonnable pour l'amortissement des biens appartenant au Mess. À défaut d’avoir un représentant membre ordinaire en règle, le barman sera l’autorité lors de la réception.
-
-<a id="article-94"></a>**94.** Tout dommage aux biens du Mess et aux biens de la Couronne causé lors d'une réception privée sera imputé au responsable de l'activité et le comité prendra les mesures nécessaires pour obtenir le remboursement.
-
-<a id="article-98"></a>**98.** Les utilisateurs de/des jeu(x) sont responsables de la propreté des lieux ainsi que de l'équipement de jeux.
-
-<a id="article-99"></a>**99.** Les jeux, y compris l'équipement de billard seront gardés sous le contrôle du régisseur ou du
-
-personnel désigné par lui.
-
-<a id="article-100"></a>**100.** En conformité à l'OAFC 19-1, il n'y aura pas de loteries, sweepstakes, appareils à sous ou jeux de hasard dans le Mess, ou de permettre que ces mêmes jeux soient organisés au profit des militaires.
+**R4.4.** Avant l’ouverture, le responsable vérifie la présence de personnel autorisé, l’hygiène, les stocks, les prix affichés et les conditions applicables au service. À la fermeture, le personnel cesse les ventes, sécurise boissons, caisse et accès, nettoie le matériel et signale tout écart ou incident au régisseur. Les ventes à emporter et les formats de vente mentionnés à l’article 40 ne peuvent être pratiqués que si les autorisations applicables les permettent.

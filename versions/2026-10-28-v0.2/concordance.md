@@ -5,7 +5,7 @@ title: Concordance des 116 articles
 
 # Concordance des 116 articles
 
-Version 0.2.1 du 28 octobre 2026. Source : constitution.md au commit 8362362. Les clauses C1 à C4, R2.1 à R2.2 et R3.1 à R3.9 sont nouvelles. Les numéros historiques sont conservés.
+Version 0.2.2 du 28 octobre 2026. Source : constitution.md au commit 8362362. Les clauses C1 à C6, R2.1 à R2.2, R3.1 à R3.4 et R3.7 à R3.10, ainsi que R4.1 à R4.4 sont nouvelles. Les numéros historiques sont conservés.
 
 | Article source | Destination | Traitement |
 |---|---|---|
@@ -44,39 +44,39 @@ Version 0.2.1 du 28 octobre 2026. Source : constitution.md au commit 8362362. Le
 | 33 | Constitution | Texte conservé |
 | 34 | Constitution | Texte conservé |
 | 35 | Constitution | Modifié — voir tableau |
-| 36 | R3 | Texte conservé |
-| 37 | R3 | Texte conservé |
-| 38 | R3 | Texte conservé |
-| 39 | R3 | Texte conservé |
+| 36 | Constitution | Texte conservé |
+| 37 | Constitution | Texte conservé |
+| 38 | Constitution | Texte conservé |
+| 39 | Constitution | Texte conservé |
 | 40 | R4 | Texte conservé |
-| 41 | R3 | Texte conservé |
+| 41 | Constitution | Texte conservé |
 | 42 | R4 | Texte conservé |
 | 43 | Constitution | Texte conservé |
-| 44 | R4 | Texte conservé |
+| 44 | Constitution | Texte conservé |
 | 45 | Constitution | Texte conservé |
-| 46 | R3 | Texte conservé |
-| 47 | R3 | Texte conservé |
-| 48 | R3 | Texte conservé |
-| 49 | R3 | Texte conservé |
-| 50 | R3 | Texte conservé |
-| 51 | R3 | Texte conservé |
-| 52 | R3 | Texte conservé |
-| 53 | R4 | Texte conservé |
-| 54 | R3 | Texte conservé |
-| 55 | R3 | Texte conservé |
+| 46 | Constitution | Texte conservé |
+| 47 | Constitution | Texte conservé |
+| 48 | Constitution | Texte conservé |
+| 49 | Constitution | Texte conservé |
+| 50 | Constitution | Texte conservé |
+| 51 | Constitution | Texte conservé |
+| 52 | Constitution | Texte conservé |
+| 53 | Constitution | Texte conservé |
+| 54 | Constitution | Texte conservé |
+| 55 | Constitution | Texte conservé |
 | 56 | R4 | Texte conservé |
 | 57 | R1 | Texte conservé |
 | 58 | R4 | Texte conservé |
-| 59 | R4 | Texte conservé |
+| 59 | R4 | Modifié — voir tableau |
 | 60 | R4 | Texte conservé |
 | 61 | R4 | Texte conservé |
 | 62 | R1 | Texte conservé |
 | 63 | R1 | Texte conservé |
 | 64 | R1 | Texte conservé |
 | 65 | R1 | Texte conservé |
-| 66 | R4 | Texte conservé |
+| 66 | R1 | Texte conservé |
 | 67 | R1 | Texte conservé |
-| 68 | R1 | Texte conservé |
+| 68 | R4 | Modifié — voir tableau |
 | 69 | R1 | Texte conservé |
 | 70 | R1 | Texte conservé |
 | 71 | R1 | Texte conservé |
@@ -98,30 +98,30 @@ Version 0.2.1 du 28 octobre 2026. Source : constitution.md au commit 8362362. Le
 | 87 | R3 | Modifié — voir tableau |
 | 88 | R3 | Modifié — voir tableau |
 | 89 | R3 | Modifié — voir tableau |
-| 90 | R4 | Texte conservé |
-| 91 | R4 | Texte conservé |
-| 92 | R4 | Texte conservé |
-| 93 | R4 | Texte conservé |
-| 94 | R4 | Texte conservé |
+| 90 | Constitution | Texte conservé |
+| 91 | Constitution | Texte conservé |
+| 92 | Constitution | Texte conservé |
+| 93 | Constitution | Texte conservé |
+| 94 | R1 | Texte conservé |
 | 95 | R1 | Texte conservé |
 | 96 | R1 | Texte conservé |
 | 97 | R1 | Texte conservé |
-| 98 | R4 | Texte conservé |
-| 99 | R4 | Texte conservé |
-| 100 | R4 | Texte conservé |
-| 101 | R3 | Texte conservé |
-| 102 | R3 | Texte conservé |
-| 103 | R3 | Texte conservé |
-| 104 | R3 | Texte conservé |
-| 105 | R3 | Texte conservé |
-| 106 | R3 | Texte conservé |
-| 107 | R3 | Texte conservé |
-| 108 | R3 | Texte conservé |
-| 109 | R3 | Texte conservé |
-| 110 | R3 | Texte conservé |
-| 111 | R3 | Texte conservé |
-| 112 | R3 | Texte conservé |
-| 113 | R3 | Texte conservé |
+| 98 | R1 | Texte conservé |
+| 99 | R2 | Texte conservé |
+| 100 | R1 | Texte conservé |
+| 101 | Constitution | Texte conservé |
+| 102 | Constitution | Texte conservé |
+| 103 | Constitution | Texte conservé |
+| 104 | Constitution | Texte conservé |
+| 105 | Constitution | Texte conservé |
+| 106 | Constitution | Texte conservé |
+| 107 | Constitution | Texte conservé |
+| 108 | Constitution | Texte conservé |
+| 109 | Constitution | Texte conservé |
+| 110 | Constitution | Texte conservé |
+| 111 | Constitution | Texte conservé |
+| 112 | Constitution | Texte conservé |
+| 113 | Constitution | Texte conservé |
 | 114 | Constitution | Texte conservé |
 | 115 | Constitution | Texte conservé |
 | 116 | Constitution | Texte conservé |

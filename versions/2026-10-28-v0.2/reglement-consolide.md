@@ -5,7 +5,7 @@ title: Règlement intégral consolidé du Mess et Instituts du 9e Escadron du g�
 
 # Règlement intégral consolidé du Mess et Instituts du 9e Escadron du génie
 
-**Version 0.2.1 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les numéros historiques sont conservés pour faciliter la comparaison; les articles déplacés figurent dans les règlements.
+**Version 0.2.2 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les numéros historiques sont conservés pour faciliter la comparaison; les articles déplacés figurent dans les règlements.
 
 Les quatre règlements suivants constituent le texte intégral proposé. Les droits et garanties de la constitution leur sont applicables.
 
@@ -21,11 +21,11 @@ Les quatre règlements suivants constituent le texte intégral proposé. Les dro
 
 <a id="article-65"></a>**65.** Un militaire ne peut entrer dans un des locaux du mess auquel il ne peut avoir accès en vertu de son grade sauf dans l'exercice de ses fonctions (PFC 262 art 212 alinéa 2) ou lors d'invitation spéciale.
 
+<a id="article-66"></a>**66.** Les membres du mess doivent laisser l'endroit propre et replacer les meubles tels qu'ils étaient à leur arrivée.
+
 <a id="article-67"></a>**67.** Sous l'âge de 18 ans, seuls les conjoints ou conjointes avec l’accord du commandant et les
 
 membres du mess pourront accéder au mess. Ces personnes n’ont pas le droit de consommer de l'alcool.
-
-<a id="article-68"></a>**68.** Aucune personne civile ou militaire, n'ayant pas 18 ans d'âge, ne pourra consommer de boissons alcoolisées.
 
 <a id="article-69"></a>**69.** Accès au mess.
 
@@ -80,6 +80,8 @@ imposer un standard minimum qu'il jugera approprié.
 
 - **d.** Les membres peuvent être accompagnés d’un invité à une activité qui est financée par le PCAM moyennement le coût du repas mais il (l’invité, accompagnateur) n’aura pas le droit de participer aux tirages des prix de présences.
 
+<a id="article-94"></a>**94.** Tout dommage aux biens du Mess et aux biens de la Couronne causé lors d'une réception privée sera imputé au responsable de l'activité et le comité prendra les mesures nécessaires pour obtenir le remboursement.
+
 <a id="article-95"></a>**95.** Les membres du Mess peuvent amener des invités dans le Mess. Le membre sera responsable pour tout invité qu’il amènera et devra l'escorter en tout temps.
 
 <a id="article-96"></a>**96.** Un membre qui améne un invité dans le Mess devra le présenter:
@@ -89,6 +91,10 @@ imposer un standard minimum qu'il jugera approprié.
 - **b.** au SME, si le membre est un sergent ou adjudant.
 
 <a id="article-97"></a>**97.** Les invités doivent se plier aux règlements concernant la tenue vestimentaire et le comportement.
+
+<a id="article-98"></a>**98.** Les utilisateurs de/des jeu(x) sont responsables de la propreté des lieux ainsi que de l'équipement de jeux.
+
+<a id="article-100"></a>**100.** En conformité à l'OAFC 19-1, il n'y aura pas de loteries, sweepstakes, appareils à sous ou jeux de hasard dans le Mess, ou de permettre que ces mêmes jeux soient organisés au profit des militaires.
 
 
 
@@ -108,17 +114,21 @@ imposer un standard minimum qu'il jugera approprié.
 
 <a id="article-82"></a>**82.** Assurances. Le mobilier, les marchandises et le fonds d’appoint seront assurés à la pleine valeur contre le vol, la perte ou les dommages. Les meubles et l’équipement devront être assurés à un montant qui ne sera pas inférieur à la dernière évaluation contre les pertes et dommages.
 
+<a id="article-99"></a>**99.** Les jeux, y compris l'équipement de billard seront gardés sous le contrôle du régisseur ou du
+
+personnel désigné par lui.
+
 ## Provenance et dons
 
 **R2.1.** Le vice-président tient un inventaire distinguant biens du Mess, de la Couronne, du fonds d’unité et de tiers. Chaque fiche indique description, emplacement, provenance, date d’entrée, propriétaire, valeur connue, justificatif et conditions d’utilisation ou de restitution. Une provenance incertaine est signalée et vérifiée avant disposition.
 
 **R2.2.** Avant acceptation d’un don, le comité documente le donateur, le bien, les conditions, la destination et les coûts d’entretien. Il obtient les approbations exigées selon la nature et la propriété du bien. Aucun reçu fiscal, avantage ou transfert de propriété n’est promis sans autorité. Les coordonnées personnelles sont protégées dans la version du registre destinée aux membres.
 
-## R3 Procédure des assemblées administration archivage sauvegarde communication et transparence
+## R3 Assemblées et réunions
 
 <a id="article-13"></a>**13.** Le calendrier tient compte de la disponibilité estivale. Une assemblée peut être planifiée avant le 30 mai et une autre après le 30 août, dans leurs trimestres respectifs. L’absence de quorum entraîne une nouvelle convocation et ne transfère aucun pouvoir au comité.
 
-<a id="article-15"></a>**15.** Les délibérations d’une assemblée générale ne sont valides que si le quorum prévu à l’article 8 de la constitution est atteint. Le seul nombre des présents ne constitue pas le quorum.
+<a id="article-15"></a>**15.** À l’ouverture, le secrétaire vérifie les présences au regard du quorum fixé par la constitution et en inscrit le résultat au procès-verbal. Le président applique les modalités du R3.8 si le quorum manque.
 
 <a id="article-16"></a>**16.** Responsabilité du président. Les assemblées du mess sont présidées par le président, en son absence, par le vice-président. Le président de l’assemblée général, à titre, doit veiller à ce que:
 
@@ -161,140 +171,11 @@ aux règlements ou une proposition complexe, soit portée à l'attention des mem
 
 permettre de rassembler les renseignements nécessaires, de se faire une opinion et de préparer les questions qu'ils désirent poser.
 
-<a id="article-20"></a>**20.** Une proposition à l’assemblée vise à faire prendre position aux membres. Les membres ayant droit de vote peuvent proposer une motion, sauf le président de séance; le commandant ne propose pas de motion. Le membre obtient la parole du président, qui reformule le texte pour assurer sa compréhension. Le comité peut recommander une décision, mais ne dispose pas du vote réservé aux membres.
+<a id="article-20"></a>**20.** Le membre qui souhaite proposer une motion demande la parole au président de séance. Le texte de la proposition est formulé clairement, puis reformulé par le président pour que tous sachent sur quoi porte le débat. Le secrétaire en consigne le libellé. La recevabilité et les personnes habilitées à proposer sont déterminées par la constitution.
 
 <a id="article-21"></a>**21.** Appui à la proposition. Une proposition n'est valide que si elle est appuyée par un autre membre. À défaut d'un tel appui, le président déclare que "la proposition est irrecevable", puis passe au point suivant.
 
-<a id="article-22"></a>**22.** Une proposition recevable, appuyée et reformulée est débattue par l’assemblée et ne peut être écartée hors de ses procédures. Chaque membre doit pouvoir s’exprimer.
-
-<a id="article-36"></a>**36.** Devoirs du président du conseil d’administration du mess (PCAM).
-
-- **a.** Il doit rendre compte au commandant pour tout ce qui touche ses fonctions.
-
-- **b.** Il convoque et préside les réunions du Mess.
-
-- **c.** Il ne peut amender ou appuyer une motion. Dans le cas d'un vote erroné, il ordonne un nouveau vote. Il peut cependant trancher (i.e. utiliser son droit de vote) lorsque tout vote sera égal.
-
-- **d.** Il signe tous les procès-verbaux des séances tenues.
-
-- **e.** Il répond à toutes les questions relatives à l'administration du mess.
-
-- **f.** Il s'assure que les statuts et règlements du mess sont respectés.
-
-- **g.** Il contrôle le travail des autres membres du comité.
-
-- **h.** Il a la responsabilité de maintenir à jour les constitutions suite aux changements proposés et acceptés.
-
-- **i.** Il convoque les réunions du comité du Mess.
-
-- **j.** Il doit examiner les états financiers régulièrement.
-
-- **k.** Les membres du personnel des finances ne peuvent être président du Mess.
-
-<a id="article-37"></a>**37.** Devoirs du vice-président du conseil d’administration du mess (VPCAM).
-
-
-- **a.** Il doit rendre compte au président du comité du mess pour toute tâche lui incombant.
-
-- **b.** Il assiste le président et le remplace en cas d'absence.
-
-- **c.** Les fonctions qu'il devra remplir seront attribuées discrétionnairement par le président.
-
-- **d.** Il a le devoir de maintenir à jour le registre de gestion des meubles et équipements appartenant au Mess et ce selon la répartition propre au Club Chimo et Mess Combiné.
-
-- **e.** Les membres du personnel des finances ne peuvent être vice-président du Mess.
-
-<a id="article-38"></a>**38.** Devoirs du secrétaire.
-
-- **a.** Il doit rendre compte au président du comité du Mess.
-
-- **b.** Il prépare l'ordre du jour des réunions du Mess et publie les convocations des réunions.
-
-- **c.** Il doit prendre et consigner tous les procès-verbaux des réunions. Il est chargé de la garde des registres des procès-verbaux qui doivent être tenus selon la forme indiquée aux PFC 262 art. 319.
-
-
-
-
-- **d.** Il doit signer les procès-verbaux de toutes les réunions. Il doit remettre une copie signé au service de la comptabilité du Mess et Instituts.
-
-- **e.** Il doit tenir une liste complète de tous les membres ainsi que leur adresse et numéro(s) de téléphone.
-
-- **f.** Il est chargé de toute correspondance concernant le Mess.
-
-- **g.** Il s'assure qu'une copie de la constitution est disponible sur demande et qu'une copie est affichée à l'intérieur du Mess.
-
-- **h.** Les membres du personnel des finances peuvent être secrétaire du Mess.
-
-<a id="article-39"></a>**39.** Devoirs du trésorier.
-
-- **a.** Il a la responsabilité d'avoir une liste à jour des membres en règle. Toutes les cotisations sont payables du 1er avril au 31 mars
-
-- **b.** Il ne peut effectuer la tenue des livres comptables. Ceci sera fait par une tierce personne.
-
-- **c.** Il recommande au responsable des fonds non-publics les dépenses approuvées par le comité et les membres du Mess.
-
-<a id="article-41"></a>**41.** Responsabilités du responsable des activités du Club Chimo et Mess Combiné.
-
-- **a.** Il doit rendre compte au président du comité du Mess.
-
-- **b.** Il doit planifier et organiser le programme des activités récréatives.
-
-- **c.** Il doit dresser le budget des activités récréatives.
-
-- **d.** Il doit s’assurer que l’organisateur de l’activité en tant que tel, observe le programme et le budget alloué.
-
-- **e.** Il doit s’assurer un contrôle adéquat des recettes provenant des activités récréatives et veiller à une rapide rentrée des fonds.
-
-- **f.** Il doit veiller à posséder une publicité adéquate des activités organisées.
-
-- **g.** Il doit s’acquitter des tâches assignées par le président du comité des mess.
-
-*Note. Le responsable des activités n’est pas tenu d’ organiser les activités ; il doit par contre veiller sur le déroulement optimal de chacune d’elles.
-
-<a id="article-46"></a>**46.** Transactions.
-
-- **a.** Le privilège des chèques personnels sera enlevé à toute personne dont l'un de ses chèques se révèle sans fonds. Les frais de la banque lui seront réclamés.
-
-
-
-
-- **b.** Le prix des consommations sera affiché à la vue du consommateur. Tout changement de prix devra être approuvé, avant son entrée en vigueur, lors de l'assemblée du mess et/ou par approbation du commandant.
-
-- **c.** Paiement des achats et dépenses. Tous les achats et dépenses faits pour les besoins du mess seront payés par chèque.
-
-- **d.** Carte du Commandant. La carte du Commandant est un privilège utilisé par le Commandant afin de promouvoir et encourager la collaboration entre divers invités d’honneurs lors de fonctions officielles. Le montant maximum de la carte est de 50$ et renouvelable mensuellement. Le montant n’est pas cumulatif. Cette carte peut être utilisée par le PCAM en l’absence du Commandant.
-
-- **e.** Traite. Le PCAM peut sonner un maximum de trois traites au cours de l’année financière. Ces traites sont permises seulement lors des assemblées générales ou lors d’un événement extraordinaire et officiel (par exemple au dîner de la troupe ou dans le cadre de Anniversaire du 9 EG). Ce privilège peut être utilisé qu’une seule fois au cours de l’événement. Une consommation par membre présent dans le Mess au moment de la traite est autorisée. Le Commandant se réserve également ce privilège lors du dîner de la troupe.
-
-- **f.** Pour être membres en règles, les membres doivent avoir payé leur cotisation annuelle complète.
-
-- **g.** Opérations bancaires. Deux signatures sont obligatoires pour valider un chèque.
-
-<a id="article-47"></a>**47.** Dépenses du comité de divertissement.
-
-- **a.** Le comité du divertissement est autorisé à dépenser chaque mois le montant établi dans les prévisions budgétaires pour chaque mois de l’année, afin d’offrir des divertissements aux membres et à leurs invités, sous réserve des conditions suivantes :
-
-- **(1)** le calendrier des divertissements doit être approuvé par le comité du mess;
-
-- **(2)** les prévisions budgétaires annuelles doivent avoir été approuvées à l’occasion d’une assemblée générale ordinaire ou extraordinaire; et
-
-- **(3)** les fonds doivent être disponibles.
-
-- **b.** Toute dépense pour les divertissements doit être certifiée pour paiement par le PCAM.
-
-<a id="article-48"></a>**48.** Radiations et pertes. En cas de perte de biens ou de dommages à la propriété non publique. Lors des circonstances spéciales, le commandant peut radier une somme ne dépassant pas la valeur indiquée dans l’A-FN-105-001/AAG-001.
-
-<a id="article-49"></a>**49.** La répartition des revenus et des dépenses est basé sur le pourcentage des ventes des utilisateurs. Il est à noter que les frais d’exploitation du mess (frais fixes, entretient...) ont la priorité sur les activités sociales du mess.
-
-<a id="article-50"></a>**50.** Le président possède le pouvoir de dépenser un montant maximal de 100 $ mensuellement si nécessaire. Ce montant a pour but de faciliter les petits achats. Tous ces achats devront être appuyés ou acceptés lors de la prochaine assemblée.
-
-<a id="article-51"></a>**51.** Le fond du président est géré par le président et le trésorier du Mess. Ce fond doit servir à l'embellissement du Mess ou au bien-être de ses membres. Les dépenses seront autorisées par le président ou le trésorier et devront être acceptées lors de la prochaine réunion.
-
-<a id="article-52"></a>**52.** Un montant maximum de 100$ par activité, (Club Chimo et Combiné), octroyé mensuellement et elle est non cumulable. Toutefois, les revenus de l’activité devront générer au minimum l’investissement de départ. La gestion de ces dépenses doit être faite selon le principe du bon gestionnaire.
-
-<a id="article-54"></a>**54.** Les revenues des caisses enregistreuses seront comptabilisées mensuellement par les FNP afin de conserver un contrôle des dépenses et des revenus.
-
-<a id="article-55"></a>**55.** Tous revenus et toutes dépenses générés par les activités conjointes seront séparés également entre les utilisateurs.
+<a id="article-22"></a>**22.** Le président ouvre le débat sur la proposition appuyée, donne la parole à une personne à la fois et recentre les interventions sur le texte discuté. Le secrétaire consigne les amendements et le libellé finalement soumis au vote. Le président applique les droits et pouvoirs fixés par la constitution.
 
 <a id="article-73"></a>**73.** Les avis sont affichés selon les autorisations applicables du commandant. Le secrétaire organise les validations en amont pour respecter les délais du R3. Le tableau complète le canal direct de communication aux membres.
 
@@ -312,40 +193,6 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 <a id="article-89"></a>**89.** Le calendrier et les avis d’activités sont affichés et communiqués directement aux membres. Un relevé des décisions et le projet de procès-verbal sont accessibles dans les 14 jours suivant l’assemblée, avec indication des approbations encore attendues. Le procès-verbal adopté remplace ensuite le projet. Ce délai est une modalité proposée dans la présente révision.
 
-<a id="article-101"></a>**101.** Toute suggestion pour fonction sociale ou activité sera soumise au responsable des activités pour être votée lors d'une assemblée générale ou approbation du commandant.
-
-<a id="article-102"></a>**102.** Un calendrier des activités devra être affiché dans les locaux du mess pour que tous les membres puissent le consulter librement.
-
-<a id="article-103"></a>**103.** Un budget devra être soumis en décembre de chaque année afin de pouvoir planifier les activités avec les exercices du 9e Escadron du Génie ainsi que les autres occupants du manège.
-
-<a id="article-104"></a>**104.** Afin de souligner le support des familles des membres, une activité annuelle sous la thématique du Noël des enfants se fera prévu au calendrier des Mess. Un montant maximum de 150$ sera attribué pour financer cette activité.
-
-<a id="article-105"></a>**105.** Décès. Des fleurs ou autres pour un montant maximal de 50 $ seront envoyées au salon funéraire lors du décès du conjoint, des enfants, des parents. Pour ce qui est du décès d'un membre le montant pourra être doublé pour les membres réguliers et associés.
-
-<a id="article-106"></a>**106.** Naissance. Des fleurs ou autres cadeaux au montant maximal de 75 $ pour les naissances. Les fleurs ou autres cadeaux seront envoyées à l'hôpital ou à la résidence lors de la naissance d'un enfant d'un membre. Si les parents sont tous deux membres du Mess, le montant sera doublé.
-
-<a id="article-107"></a>**107.** Hospitalisation. Des fleurs ou cadeaux seront envoyés à l'hôpital ou à la résidence du membre suite à une hospitalisation et convalescence d'au moins 48 heures. Le montant maximal de 50 $ sera applicable. Cette clause inclus uniquement les membres réguliers et associés.
-
-<a id="article-108"></a>**108.** Cadeau d’appartenance.
-
-- **a.** Lorsqu’un membre fait parti du mess depuis plus de 1 an, un T-Shirt de l’unité lui sera remis d’une valeur ne dépassant pas 30$.
-
-- **b.** Lorsqu’un membre fait parti du mess depuis plus de 3 ans, un « mug » lui sera remis d’une valeur ne dépassant pas 75 $ (incluant la gravure).
-
-- **c.** Lorsqu’un membre a complété avec succès son cours de métier, un « coin » de l’unité lui sera remis d’une valeur ne dépassant pas 25$.
-
-<a id="article-109"></a>**109.** Départ de membres dits « spéciaux ». Lors du départ du Cmdt, du SME, Lcol (H) ou de tous membres ayant plus de 12 années d’appartenance au mess, un cadeau d’une valeur maximale de 150$ lui sera remis.
-
-<a id="article-110"></a>**110.** Cadeau de mission. Un cadeau pourra être offer au membre du 9 EG détaché en mission (Opération). Ce cadeau d’une valeur maximale de 50,00$ pourra être versé au personnel détaché du 9 EG qui est normalement un membre en règle du Mess et Instituts. Cette personne aura droit au cadeau de mission même s’il est absent de l’unité et qu’il n’a pas payé de cotisation au mess et Institut en raison de son déploiement en mission.
-
-<a id="article-111"></a>**111.** Changement de Cmdt. Des fleurs, pour un montant n’excédant pas 50,00$, seront offertes à la conjointe ou au conjoint du Cmdt sortant ainsi qu’à la conjointe ou au conjoint du Cmdt entrant.
-
-*Note. Il est de la responsabilité du membre ou de sa famille de prévenir la salle des rapports ou un membre du comité du Mess pour les articles mentionnés ci-haut. Le supérieur immédiat est responsable de remettre le présent au membre ou à la famille.
-
-<a id="article-112"></a>**112.** Toute plainte sera inscrite et remise au commandant adjoint.
-
-<a id="article-113"></a>**113.** Toute suggestion, proposition ou observation pourra aussi être remis au commandant adjoint.
-
 ## Procédure et déroulement des assemblées
 
 Les principes des assemblées, leur fréquence, le quorum, les droits des membres, les règles de majorité, les délais minimaux de convocation et les pouvoirs du comité figurent dans la constitution. Le présent règlement en organise la mise en œuvre. Les articles 13 et 15 à 22 précisent le calendrier, la vérification du quorum, la préparation et le déroulement; ils ne délèguent aucun pouvoir supplémentaire au comité.
@@ -355,6 +202,10 @@ Les principes des assemblées, leur fréquence, le quorum, les droits des membre
 **R3.8.** Le secrétaire vérifie et consigne le quorum au début de la séance et lorsqu’une perte de quorum est signalée. Si le quorum n’est pas atteint 30 minutes après l’heure prévue, l’assemblée est annulée et une nouvelle convocation est organisée conformément à la constitution. Si le quorum est perdu pendant la séance, aucune nouvelle décision n’est prise; les points non décidés sont reportés et les membres en sont informés.
 
 **R3.9.** Pour un vote par internet autorisé par la constitution, le comité étudie et communique la proposition avant le scrutin. L’avis indique le texte exact, les membres admissibles, les dates d’ouverture et de clôture et le moyen de voter. La participation reste facultative. Le secrétaire vérifie l’admissibilité et le quorum et conserve le texte, les dates, le décompte et la preuve du quorum; il communique le résultat en précisant les approbations encore attendues.
+
+## Déroulement des réunions du comité
+
+**R3.10.** Pour une réunion du comité convoquée selon la constitution, le secrétaire communique la date, le lieu ou le moyen de connexion, les sujets et les pièces utiles aux participants. Le président présente les points à traiter, distribue la parole et fait préciser les suites à donner. Le compte rendu distingue décisions relevant de la délégation du comité, tâches de préparation et recommandations à présenter à l’assemblée. Il désigne un responsable et une échéance pour chaque suivi. Les décisions et recommandations communicables sont diffusées aux membres conformément aux règles documentaires ci-dessous. Cette procédure ne crée ni quorum ni pouvoir de décision nouveau pour le comité.
 
 ## Gestion documentaire et continuité
 
@@ -366,13 +217,9 @@ Les principes des assemblées, leur fréquence, le quorum, les droits des membre
 
 **R3.4.** Les comptes rendus du comité destinés aux membres distinguent les décisions prises dans sa délégation et les recommandations à voter, avec les mêmes précautions de confidentialité. Le site public diffuse les textes autorisés. Les documents réservés aux membres et les pièces confidentielles restent dans un répertoire interne aux accès appropriés et ne sont pas publiés sur GitHub.
 
-## Suivi des fonds
 
-**R3.5.** Le trésorier présente distinctement pour chaque fonds concerné les soldes d’ouverture et de clôture, les sources de revenus, les dépenses et les engagements. Chaque opération indique source, objet, bénéficiaire, justificatif, vote ou délégation et approbations. Les livres demeurent tenus par un tiers selon l’article 39 et les exigences de paiement et de double signature de l’article 46 sont maintenues.
 
-**R3.6.** Avant mise en place ou modification du financement du fonds d’unité ou du fonds cadeau, le comité obtient confirmation écrite de la qualification BNP, des sources admissibles, de la destination et des autorités d’approbation. Il soumet aux membres une proposition chiffrée identifiant les comptes ou suivis concernés. Cette clause n’autorise ni cotisation nouvelle, ni prélèvement, ni transfert. Les articles 105 à 111 conservent leurs bénéficiaires et plafonds; leur déplacement ne vaut pas autorisation nouvelle de dépense.
-
-## R4 Bar service et utilisation
+## R4 Service de bar
 
 <a id="article-40"></a>**40.** Devoirs du serveur (barman).
 
@@ -418,24 +265,11 @@ Les principes des assemblées, leur fréquence, le quorum, les droits des membre
 
 - **e.** Il doit s’acquitter de toutes autres tâches assignées par le président du comité du Mess ou précisées dans les règlements appropriés.
 
-<a id="article-44"></a>**44.** Salaire. Les serveurs formés et le régisseur peuvent recevoir un salaire comme employé du SBMFC, à condition d’avoir une partie du budget annuel prévu pour le salaire de la tâche en particulier.
-
-- **(1)** Comme employés du SBMFC, ils seront supervisés par le régisseur qui sera à son tour supervisé par le PCAM.
-
-- **(2)** À défaut d’avoir un budget suffisant pour l’une ou l’autre des tâches énumérées plus haut, les membres seront considérés comme des bénévoles du SMBFC.
-
-
-
-
-- **(3)** Le régisseur pourra se faire rembourser ses frais de déplacement pour aller chercher ou porter des commandes et ce aux frais du mess. Selon les directives en vigueur par le SBMFC et jusqu’a concurrence de 500$ par année. »
-
-<a id="article-53"></a>**53.** Le barman recevra une indemnité de 75$ pour ces services lors des activités spéciales, tel que stipulé au para 44. Le montant maximum de 300$ par année s’applique pour les activités du Mess et Instituts, et ne s’applique pas lors des réceptions privées ayant fait l’objet d’une prestation de service.
-
 <a id="article-56"></a>**56.** Le mess doit respecter toutes les lois fédérales, provinciales et municipales relatives à la consommation de boissons alcoolisées. De plus, le prix de vente de ces boissons doit être affiché (réf. PFC 262 art 309).
 
 <a id="article-58"></a>**58.** Lors des différentes activités, le responsable de l’activité et les serveurs ne doit pas consommer d’alcool et veiller à ce que l’activité se déroule sans anicroche.
 
-<a id="article-59"></a>**59.** Les serveurs ont l'autorité au nom du commandant de ne pas servir des personnes en état d'ébriété.
+<a id="article-59"></a>**59.** Le personnel du bar ne doit ni vendre ni servir de boisson alcoolisée à une personne en état d’ébriété ou qui en présente manifestement les signes. Il refuse ou interrompt immédiatement le service et en informe le responsable de service. Le grade, la fonction, le paiement ou l’insistance du client ne permettent pas de passer outre ce refus. Aucun autre serveur ne doit le contourner en servant cette personne.
 
 <a id="article-60"></a>**60.** Le responsable des drogues et alcools de l'unité possède une autorité au nom du commandant
 
@@ -443,29 +277,14 @@ dans les deux locaux du mess.
 
 <a id="article-61"></a>**61.** Si une situation inusitée survient, le serveur doit fermer les bars promptement et contacter les autorités compétentes (pompiers, police ou médical). Tous les problèmes, réglés ou non, devront être rapportés au capitaine-adjudant dès que possible.
 
-<a id="article-66"></a>**66.** Les membres du mess doivent laisser l'endroit propre et replacer les meubles tels qu'ils étaient à leur arrivée.
+<a id="article-68"></a>**68.** Aucune boisson alcoolisée ne peut être vendue ou servie à une personne de moins de 18 ans. En cas de doute sur l’âge, le serveur demande une pièce d’identité permettant de le vérifier; si l’âge ne peut être établi, il refuse le service. Il ne sert pas non plus une personne qui achète pour remettre la boisson à un mineur ou contourner un refus de service.
 
-<a id="article-90"></a>**90.** Les réceptions privées peuvent être organisées par les membres du Mess ainsi que des non-membres désirant utiliser les locaux du Mess.
+## Application du service responsable
 
-<a id="article-91"></a>**91.** Les réservations seront faites par le biais du régisseur, qui devra présenter les demandes au président qui les fera suivre au commandant pour approbation. Le commandant se réserve le droit de refuser toute demande de réservation sans présenter de justification. Les réservations ne seront normalement pas acceptées pour les journées au cours desquels il y aura de l'entraînement à l’escadron car les membres auront toujours priorité pour l'utilisation de leur Mess.
+**R4.1.** Le présent règlement porte sur la préparation, la vente, le service et la fermeture du bar. Les règles de réservation des locaux, les pouvoirs administratifs et les autorisations financières figurent dans la constitution; la conduite générale et la propreté des lieux relèvent du R1.
 
-<a id="article-92"></a>**92.** Lorsqu’un membre associé, un membre honoraire ou un membre à vie souhaite procéder à la location du Mess combiné pour un événement privé, ceux-ci pourront le faire sans frais de location. Ils devront cependant payer les frais de barman, si applicables.
+**R4.2.** Le serveur demeure sobre pendant son service, observe les clients et applique sans délai les refus prévus aux articles 59 et 68. En cas de doute sur la capacité d’une personne à consommer sans danger, il suspend le service et consulte le responsable. Une difficulté de santé ou de communication ne doit pas être assimilée automatiquement à l’ébriété; si une personne semble en détresse, le responsable organise l’aide appropriée.
 
-<a id="article-93"></a>**93.** Le conseil d'administration établira les frais d'utilisation pour chaque demande. Ces frais seront inscrits sur le contrat d'utilisation. S'il s'agit d'une activité organisée:
+**R4.3.** Le refus est expliqué calmement. Le responsable appuie le serveur, propose au besoin de l’eau ou une boisson sans alcool et aide à organiser un retour sécuritaire. En cas de menace, de malaise ou de danger immédiat, il suspend le service et appelle les services d’urgence appropriés. Un relevé factuel de l’incident est transmis à l’autorité prévue à l’article 61 et conservé avec un accès restreint.
 
-
-
-
-- **a.** par un membre du Mess, les frais seront établis en fonction du coût réel (serveurs, nettoyage, etc), et les profits des ventes du bar pour cette activité serviront à couvrir les frais. Le membre qui organise l'activité sera tenu responsable de la balance des frais d'opération pour la réception; et
-
-- **b.** par un non-membre, le conseil établira un coût d'utilisation payable par le responsable de l'activité en conformité de la loi sur les prestations de service en vigueur. Ce coût d'utilisation couvrira tous les frais associés à l'activité, ainsi qu'un montant raisonnable pour l'amortissement des biens appartenant au Mess. À défaut d’avoir un représentant membre ordinaire en règle, le barman sera l’autorité lors de la réception.
-
-<a id="article-94"></a>**94.** Tout dommage aux biens du Mess et aux biens de la Couronne causé lors d'une réception privée sera imputé au responsable de l'activité et le comité prendra les mesures nécessaires pour obtenir le remboursement.
-
-<a id="article-98"></a>**98.** Les utilisateurs de/des jeu(x) sont responsables de la propreté des lieux ainsi que de l'équipement de jeux.
-
-<a id="article-99"></a>**99.** Les jeux, y compris l'équipement de billard seront gardés sous le contrôle du régisseur ou du
-
-personnel désigné par lui.
-
-<a id="article-100"></a>**100.** En conformité à l'OAFC 19-1, il n'y aura pas de loteries, sweepstakes, appareils à sous ou jeux de hasard dans le Mess, ou de permettre que ces mêmes jeux soient organisés au profit des militaires.
+**R4.4.** Avant l’ouverture, le responsable vérifie la présence de personnel autorisé, l’hygiène, les stocks, les prix affichés et les conditions applicables au service. À la fermeture, le personnel cesse les ventes, sécurise boissons, caisse et accès, nettoie le matériel et signale tout écart ou incident au régisseur. Les ventes à emporter et les formats de vente mentionnés à l’article 40 ne peuvent être pratiqués que si les autorisations applicables les permettent.

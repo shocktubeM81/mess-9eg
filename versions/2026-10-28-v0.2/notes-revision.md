@@ -5,7 +5,7 @@ title: Sources et validations de la révision
 
 # Sources et validations de la révision
 
-Version 0.2.1 du 28 octobre 2026
+Version 0.2.2 du 28 octobre 2026
 
 ## Sources consultées
 
@@ -38,6 +38,13 @@ La transcription actuelle, l’accueil, le thème et le domaine sont conservés.
 Ces sources éclairent la vérification à effectuer; elles ne constituent pas une validation particulière du financement proposé pour le 9 EG.
 ## Ajustement de la répartition des assemblées
 
-Version 0.2.1 du 28 octobre 2026. Par rapport à la version 0.2, les articles 12, 14, 23, 25 et 35 rejoignent la constitution. Le seuil de quorum reste à son article 8; le délai de 30 minutes et le contrôle pendant la séance passent au R3.8. Le calendrier pratique de l’article 13 rejoint le R3. La règle de majorité et les garanties du vote restent constitutionnelles; recomptage et consignation sont précisés au R3.7, et les modalités du vote par internet au R3.9. La clause C4 confirme cette limite entre les deux textes. Les articles 16 à 22 restent au R3 pour la préparation et le déroulement.
+Version 0.2.2 du 28 octobre 2026. Par rapport à la version 0.2, les articles 12, 14, 23, 25 et 35 rejoignent la constitution. Le seuil de quorum reste à son article 8; le délai de 30 minutes et le contrôle pendant la séance passent au R3.8. Le calendrier pratique de l’article 13 rejoint le R3. La règle de majorité et les garanties du vote restent constitutionnelles; recomptage et consignation sont précisés au R3.7, et les modalités du vote par internet au R3.9. La clause C4 confirme cette limite entre les deux textes. Les articles 16 à 22 restent au R3 pour la préparation et le déroulement.
 
 Cette répartition conserve quatre règlements et ne réduit aucun quorum, délai minimal, droit de vote, seuil particulier ou pouvoir réservé aux membres. Elle constitue une proposition à adopter et à approuver.
+## Périmètre des règlements 3 et 4
+
+La version 0.2.2 retient les titres courts « R3 Assemblées et réunions » et « R4 Service de bar ». Le R3 explique leur tenue et leur suivi : préparation, prise de parole, motions, scrutins, comptes rendus, archivage, sauvegarde et communication proactive. Les principes, les pouvoirs administratifs et les finances sont dans la constitution. Les anciennes clauses R3.5 et R3.6 y deviennent C5 et C6.
+
+Les réservations et les modalités financières des réceptions privées figurent également dans la constitution. Les articles sur la propreté, les dommages et le comportement pendant les jeux passent au R1; le contrôle de leur matériel passe au R2. Le R4 se limite au service du bar : personnel, stocks, hygiène, refus de service, protection des mineurs et incidents. Les plafonds de rémunération existants restent dans les dispositions financières constitutionnelles.
+
+La rédaction du refus de service a été vérifiée à partir des [indications de la RACJ sur les obligations du titulaire de permis](https://www.racj.gouv.qc.ca/alcool/vendre-ou-servir-des-boissons-alcooliques-pour-consommation-sur-place/permis-accessoire), qui rappellent l’interdiction de vendre à une personne en état d’ivresse. Les règles proposées pour le Mess précisent la conduite du personnel; elles ne prétendent pas établir le permis particulier applicable aux locaux.

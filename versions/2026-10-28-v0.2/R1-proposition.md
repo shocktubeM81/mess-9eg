@@ -5,7 +5,7 @@ title: R1 Tenue et comportement
 
 # R1 Tenue et comportement
 
-**Version 0.2.1 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les numéros historiques sont conservés pour faciliter la comparaison; les articles déplacés figurent dans les règlements.
+**Version 0.2.2 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les numéros historiques sont conservés pour faciliter la comparaison; les articles déplacés figurent dans les règlements.
 
 <a id="article-57"></a>**57.** Le président du mess est responsable envers le commandant de la discipline dans le Mess. Dans le cas d'absence du président, le membre senior présent est responsable du maintien de la discipline (réf. PFC 262 art 310).
 
@@ -17,11 +17,11 @@ title: R1 Tenue et comportement
 
 <a id="article-65"></a>**65.** Un militaire ne peut entrer dans un des locaux du mess auquel il ne peut avoir accès en vertu de son grade sauf dans l'exercice de ses fonctions (PFC 262 art 212 alinéa 2) ou lors d'invitation spéciale.
 
+<a id="article-66"></a>**66.** Les membres du mess doivent laisser l'endroit propre et replacer les meubles tels qu'ils étaient à leur arrivée.
+
 <a id="article-67"></a>**67.** Sous l'âge de 18 ans, seuls les conjoints ou conjointes avec l’accord du commandant et les
 
 membres du mess pourront accéder au mess. Ces personnes n’ont pas le droit de consommer de l'alcool.
-
-<a id="article-68"></a>**68.** Aucune personne civile ou militaire, n'ayant pas 18 ans d'âge, ne pourra consommer de boissons alcoolisées.
 
 <a id="article-69"></a>**69.** Accès au mess.
 
@@ -76,6 +76,8 @@ imposer un standard minimum qu'il jugera approprié.
 
 - **d.** Les membres peuvent être accompagnés d’un invité à une activité qui est financée par le PCAM moyennement le coût du repas mais il (l’invité, accompagnateur) n’aura pas le droit de participer aux tirages des prix de présences.
 
+<a id="article-94"></a>**94.** Tout dommage aux biens du Mess et aux biens de la Couronne causé lors d'une réception privée sera imputé au responsable de l'activité et le comité prendra les mesures nécessaires pour obtenir le remboursement.
+
 <a id="article-95"></a>**95.** Les membres du Mess peuvent amener des invités dans le Mess. Le membre sera responsable pour tout invité qu’il amènera et devra l'escorter en tout temps.
 
 <a id="article-96"></a>**96.** Un membre qui améne un invité dans le Mess devra le présenter:
@@ -85,3 +87,7 @@ imposer un standard minimum qu'il jugera approprié.
 - **b.** au SME, si le membre est un sergent ou adjudant.
 
 <a id="article-97"></a>**97.** Les invités doivent se plier aux règlements concernant la tenue vestimentaire et le comportement.
+
+<a id="article-98"></a>**98.** Les utilisateurs de/des jeu(x) sont responsables de la propreté des lieux ainsi que de l'équipement de jeux.
+
+<a id="article-100"></a>**100.** En conformité à l'OAFC 19-1, il n'y aura pas de loteries, sweepstakes, appareils à sous ou jeux de hasard dans le Mess, ou de permettre que ces mêmes jeux soient organisés au profit des militaires.

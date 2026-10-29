@@ -10,7 +10,7 @@ $t=[regex]::Replace($m.Groups[2].Value,'(?s)<!--.*?-->','')
 $a[[int]$m.Groups[1].Value]=[regex]::Replace($t,'(?m)^## .*$','').Trim()
 }
 if($a.Count -ne 116){throw 'Source incomplète'}
-$edit[1]='Les références DOAD 5045-0 et A-PS-110-001/AG-002 citées dans la source demeurent applicables sous réserve de leur version en vigueur. La constitution fixe les droits des membres, les organes de décision et les garanties financières. Quatre règlements en précisent les modalités : R1 tenue et comportement; R2 mobilier, décorations, souvenirs, provenance et dons; R3 assemblées, administration, archivage, sauvegarde, communication proactive et transparence; R4 bar, service et utilisation. Un règlement ne peut modifier un pouvoir réservé aux membres ni contourner une approbation requise. Le terme commandant désigne le commandant du 9 EG; les fonctions sʼappliquent sans distinction de genre.'
+$edit[1]='Les références DOAD 5045-0 et A-PS-110-001/AG-002 citées dans la source demeurent applicables sous réserve de leur version en vigueur. La constitution fixe les droits des membres, les organes de décision et les garanties financières. Quatre règlements en précisent les modalités : R1 tenue et comportement; R2 mobilier, décorations, souvenirs, provenance et dons; R3 assemblées et réunions; R4 service de bar. Un règlement ne peut modifier un pouvoir réservé aux membres ni contourner une approbation requise. Le terme commandant désigne le commandant du 9 EG; les fonctions sʼappliquent sans distinction de genre.'
 $edit[5]='Une assemblée générale des membres est tenue chaque trimestre. Le calendrier annuel tient compte des entraînements et est communiqué aux membres. Les réunions du comité préparent et exécutent les décisions; elles ne remplacent aucune assemblée trimestrielle.'
 $edit[7]='Un rapport financier sommaire est présenté à chaque assemblée générale. Il distingue les opérations du Mess, le fonds cadeau et, le cas échéant, les opérations relatives au fonds dʼunité, sans confondre leur propriété ni leur autorité financière.'
 $edit[13]='Le calendrier tient compte de la disponibilité estivale. Une assemblée peut être planifiée avant le 30 mai et une autre après le 30 août, dans leurs trimestres respectifs. Lʼabsence de quorum entraîne une nouvelle convocation et ne transfère aucun pouvoir au comité.'
@@ -34,17 +34,31 @@ $edit[86]='Les documents sont validés par lʼautorité compétente avant diffus
 $edit[87]='La constitution et les quatre règlements en vigueur sont accessibles en permanence aux membres dans un répertoire commun et dans les locaux. Les procès-verbaux adoptés, décisions, budgets et rapports financiers destinés aux membres y sont aussi accessibles. Les anciennes versions sont archivées et distinguées. Le site public ne remplace pas cet accès réservé aux membres.'
 $edit[88]='À son admission, chaque membre reçoit les textes ou un accès direct, avec copie sur demande. Il est informé de lʼemplacement des documents, du canal dʼavis et du moyen de soumettre une question. Toute modification approuvée est annoncée aux membres : déposer un fichier sans avis ne suffit pas.'
 $edit[89]='Le calendrier et les avis dʼactivités sont affichés et communiqués directement aux membres. Un relevé des décisions et le projet de procès-verbal sont accessibles dans les 14 jours suivant lʼassemblée, avec indication des approbations encore attendues. Le procès-verbal adopté remplace ensuite le projet. Ce délai est une modalité proposée dans la présente révision.'
+$edit[59]="Le personnel du bar ne doit ni vendre ni servir de boisson alcoolisée à une personne en état d’ébriété ou qui en présente manifestement les signes. Il refuse ou interrompt immédiatement le service et en informe le responsable de service. Le grade, la fonction, le paiement ou l’insistance du client ne permettent pas de passer outre ce refus. Aucun autre serveur ne doit le contourner en servant cette personne."
+$edit[68]="Aucune boisson alcoolisée ne peut être vendue ou servie à une personne de moins de 18 ans. En cas de doute sur l’âge, le serveur demande une pièce d’identité permettant de le vérifier; si l’âge ne peut être établi, il refuse le service. Il ne sert pas non plus une personne qui achète pour remettre la boisson à un mineur ou contourner un refus de service."
 # Répartition affinée après la demande du 28 octobre 2026.
 $edit[8]="Le quorum dʼune assemblée générale ordinaire ou extraordinaire est formé de plus de 50 % des membres ordinaires en règle et disponibles en région. Aucune décision de lʼassemblée ne peut être prise sans ce quorum. La vérification et la nouvelle convocation sont précisées au R3."
 $edit[23]="Les décisions de lʼassemblée sont adoptées à une majorité strictement supérieure à la moitié des voix exprimées par les membres ayant droit de vote, sans compter les abstentions, sauf seuil particulier prévu à la constitution. Le président de séance ne propose, nʼamende ni nʼappuie de motion et ne vote que pour trancher une égalité confirmée selon le R3. Les votes par internet sont permis sous réserve du quorum de lʼarticle 8, de la qualité de membre ordinaire actif et en règle, dʼun délai minimal de 15 jours, de la priorité aux assemblées et du maintien du veto du commandant. Ils ne peuvent autoriser une dépense supérieure à 200 dollars ni remplacer les assemblées trimestrielles ou les procédures dʼamendement des articles 114 à 116. Le R3 fixe les modalités de préparation, de scrutin et de consignation."
 $edit[25]="Chaque membre reçoit un avis de convocation au moins 14 jours avant lʼassemblée, même si sa date a déjà été annoncée. Toute proposition de modification est communiquée et affichée au moins 15 jours avant son étude. Le R3 précise la transmission des avis, de lʼordre du jour et des documents, sans réduire ces délais ni les droits des membres."
-$core=@(1..12)+@(14,23,24,25)+@(26..35)+@(43,45,114,115,116)
-$r1=@(57,62,63,64,65,67,68,69,70,71,72,74,75,95,96,97)
-$r2=@(76..82)
-$r4=@(40,42,44,53,56,58,59,60,61,66,90,91,92,93,94,98,99,100)
-$r3=@(1..116|Where-Object{$_ -notin $core -and $_ -notin $r1 -and $_ -notin $r2 -and $_ -notin $r4})
-function Blocks($ns){$out=foreach($n in $ns){$b=if($edit.ContainsKey($n)){$edit[$n]}else{$a[$n]};"<a id=`"article-$n`"></a>**$n.** $b"};$out -join "`n`n"}
-$status='**Version 0.2.1 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les numéros historiques sont conservés pour faciliter la comparaison; les articles déplacés figurent dans les règlements.'
+$edit[15]="À l’ouverture, le secrétaire vérifie les présences au regard du quorum fixé par la constitution et en inscrit le résultat au procès-verbal. Le président applique les modalités du R3.8 si le quorum manque."
+$edit[20]="Le membre qui souhaite proposer une motion demande la parole au président de séance. Le texte de la proposition est formulé clairement, puis reformulé par le président pour que tous sachent sur quoi porte le débat. Le secrétaire en consigne le libellé. La recevabilité et les personnes habilitées à proposer sont déterminées par la constitution."
+$edit[22]="Le président ouvre le débat sur la proposition appuyée, donne la parole à une personne à la fois et recentre les interventions sur le texte discuté. Le secrétaire consigne les amendements et le libellé finalement soumis au vote. Le président applique les droits et pouvoirs fixés par la constitution."
+$r1=@(57,62,63,64,65,66,67,69,70,71,72,74,75,94,95,96,97,98,100)
+$r2=@(76..82)+@(99)
+$r3=@(13,15,16,17,18,19,20,21,22,73,83,84,85,86,87,88,89)
+$r4=@(40,42,56,58,59,60,61,68)
+$core=@(1..116|Where-Object{$_ -notin $r1 -and $_ -notin $r2 -and $_ -notin $r3 -and $_ -notin $r4})
+
+
+
+
+function Blocks($ns){$out=foreach($n in $ns){$b=if($edit.ContainsKey($n)){$edit[$n]}else{$a[$n]};$heading=''
+if($ns -contains 1){
+$headings=@{1='Identité et membres';5='Assemblées générales';23='Votes et élections';26='Composition et pouvoirs du comité';36='Responsabilités administratives';43='Finances et cotisations';90='Réceptions privées';101='Activités';105='Fonds cadeau';112='Plaintes et suggestions';114='Modification des textes'}
+if($headings.ContainsKey([int]$n)){$heading="## $($headings[[int]$n])`n`n"}
+}
+"$heading<a id=`"article-$n`"></a>**$n.** $b"};$out -join "`n`n"}
+$status='**Version 0.2.2 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les numéros historiques sont conservés pour faciliter la comparaison; les articles déplacés figurent dans les règlements.'
 $funds=@"
 ## Assemblées et portée des règlements
 
@@ -56,7 +70,12 @@ $funds=@"
 
 **C2.** Le fonds cadeau fait lʼobjet dʼun suivi distinct des opérations du Mess et du fonds dʼunité. Sa qualification, ses sources admissibles et son mode de comptabilisation sont confirmés auprès de lʼautorité compétente BNP avant toute nouvelle modalité de financement ou tout transfert. Le suivi distinct ne crée ni personnalité juridique ni compte bancaire autonome.
 
-**C3.** Les membres votent les cotisations, le budget et les changements aux prestations. Le comité exécute dans ses délégations. Un vote ne dispense pas des approbations du commandant ou des autorités financières compétentes. La présente révision nʼautorise automatiquement aucun transfert entre fonds. Les bénéficiaires et plafonds existants des cadeaux sont conservés au R3, sous réserve de leur admissibilité aux règles applicables.
+**C3.** Les membres votent les cotisations, le budget et les changements aux prestations. Le comité exécute dans ses délégations. Un vote ne dispense pas des approbations du commandant ou des autorités financières compétentes. La présente révision nʼautorise automatiquement aucun transfert entre fonds. Les bénéficiaires et plafonds existants des cadeaux sont conservés dans la section financière de la constitution, sous réserve de leur admissibilité aux règles applicables.
+## Suivi des fonds
+
+**C5.** Le trésorier présente distinctement pour chaque fonds concerné les soldes dʼouverture et de clôture, les sources de revenus, les dépenses et les engagements. Chaque opération indique source, objet, bénéficiaire, justificatif, vote ou délégation et approbations. Les livres demeurent tenus par un tiers selon lʼarticle 39 et les exigences de paiement et de double signature de lʼarticle 46 sont maintenues.
+
+**C6.** Avant mise en place ou modification du financement du fonds dʼunité ou du fonds cadeau, le comité obtient confirmation écrite de la qualification BNP, des sources admissibles, de la destination et des autorités dʼapprobation. Il soumet aux membres une proposition chiffrée identifiant les comptes ou suivis concernés. Cette clause nʼautorise ni cotisation nouvelle, ni prélèvement, ni transfert. Les articles 105 à 111 conservent leurs bénéficiaires et plafonds; leur déplacement ne vaut pas autorisation nouvelle de dépense.
 "@
 Save 'constitution-consolidee.md' ("# Constitution du Mess et Instituts du 9e Escadron du génie`n`n$status`n`nManège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québec.`n`nLa constitution établit les droits, les organes et les garanties; les quatre règlements en précisent les modalités. Les articles historiques absents de cette constitution sont reproduits dans les règlements, selon la concordance.`n`n"+(Blocks $core)+"`n`n"+$funds)
 $extra2=@"
@@ -77,6 +96,10 @@ Les principes des assemblées, leur fréquence, le quorum, les droits des membre
 
 **R3.9.** Pour un vote par internet autorisé par la constitution, le comité étudie et communique la proposition avant le scrutin. L’avis indique le texte exact, les membres admissibles, les dates d’ouverture et de clôture et le moyen de voter. La participation reste facultative. Le secrétaire vérifie l’admissibilité et le quorum et conserve le texte, les dates, le décompte et la preuve du quorum; il communique le résultat en précisant les approbations encore attendues.
 
+## Déroulement des réunions du comité
+
+**R3.10.** Pour une réunion du comité convoquée selon la constitution, le secrétaire communique la date, le lieu ou le moyen de connexion, les sujets et les pièces utiles aux participants. Le président présente les points à traiter, distribue la parole et fait préciser les suites à donner. Le compte rendu distingue décisions relevant de la délégation du comité, tâches de préparation et recommandations à présenter à l’assemblée. Il désigne un responsable et une échéance pour chaque suivi. Les décisions et recommandations communicables sont diffusées aux membres conformément aux règles documentaires ci-dessous. Cette procédure ne crée ni quorum ni pouvoir de décision nouveau pour le comité.
+
 ## Gestion documentaire et continuité
 
 **R3.1.** Le secrétaire tient un répertoire structuré : constitution, règlements, convocations, ordres du jour, procès-verbaux, décisions, budgets, rapports financiers, inventaires et correspondance officielle. Chaque document porte date, version, statut et preuves dʼadoption et dʼapprobation requises. Le registre des décisions précise responsable, échéance et suivi. Les dossiers du comité et ceux des assemblées sont distincts et reliés par les recommandations et décisions correspondantes.
@@ -87,21 +110,28 @@ Les principes des assemblées, leur fréquence, le quorum, les droits des membre
 
 **R3.4.** Les comptes rendus du comité destinés aux membres distinguent les décisions prises dans sa délégation et les recommandations à voter, avec les mêmes précautions de confidentialité. Le site public diffuse les textes autorisés. Les documents réservés aux membres et les pièces confidentielles restent dans un répertoire interne aux accès appropriés et ne sont pas publiés sur GitHub.
 
-## Suivi des fonds
 
-**R3.5.** Le trésorier présente distinctement pour chaque fonds concerné les soldes dʼouverture et de clôture, les sources de revenus, les dépenses et les engagements. Chaque opération indique source, objet, bénéficiaire, justificatif, vote ou délégation et approbations. Les livres demeurent tenus par un tiers selon lʼarticle 39 et les exigences de paiement et de double signature de lʼarticle 46 sont maintenues.
-
-**R3.6.** Avant mise en place ou modification du financement du fonds dʼunité ou du fonds cadeau, le comité obtient confirmation écrite de la qualification BNP, des sources admissibles, de la destination et des autorités dʼapprobation. Il soumet aux membres une proposition chiffrée identifiant les comptes ou suivis concernés. Cette clause nʼautorise ni cotisation nouvelle, ni prélèvement, ni transfert. Les articles 105 à 111 conservent leurs bénéficiaires et plafonds; leur déplacement ne vaut pas autorisation nouvelle de dépense.
 "@
-$titles=@('R1 Tenue et comportement','R2 Mobilier décorations souvenirs provenance et dons','R3 Procédure des assemblées administration archivage sauvegarde communication et transparence','R4 Bar service et utilisation')
-$groups=@($r1,$r2,$r3,$r4);$extras=@('',$extra2,$extra3,'')
+$extra4=@"
+## Application du service responsable
+
+**R4.1.** Le présent règlement porte sur la préparation, la vente, le service et la fermeture du bar. Les règles de réservation des locaux, les pouvoirs administratifs et les autorisations financières figurent dans la constitution; la conduite générale et la propreté des lieux relèvent du R1.
+
+**R4.2.** Le serveur demeure sobre pendant son service, observe les clients et applique sans délai les refus prévus aux articles 59 et 68. En cas de doute sur la capacité d’une personne à consommer sans danger, il suspend le service et consulte le responsable. Une difficulté de santé ou de communication ne doit pas être assimilée automatiquement à l’ébriété; si une personne semble en détresse, le responsable organise l’aide appropriée.
+
+**R4.3.** Le refus est expliqué calmement. Le responsable appuie le serveur, propose au besoin de l’eau ou une boisson sans alcool et aide à organiser un retour sécuritaire. En cas de menace, de malaise ou de danger immédiat, il suspend le service et appelle les services d’urgence appropriés. Un relevé factuel de l’incident est transmis à l’autorité prévue à l’article 61 et conservé avec un accès restreint.
+
+**R4.4.** Avant l’ouverture, le responsable vérifie la présence de personnel autorisé, l’hygiène, les stocks, les prix affichés et les conditions applicables au service. À la fermeture, le personnel cesse les ventes, sécurise boissons, caisse et accès, nettoie le matériel et signale tout écart ou incident au régisseur. Les ventes à emporter et les formats de vente mentionnés à l’article 40 ne peuvent être pratiqués que si les autorisations applicables les permettent.
+"@
+$titles=@('R1 Tenue et comportement','R2 Mobilier décorations souvenirs provenance et dons','R3 Assemblées et réunions','R4 Service de bar')
+$groups=@($r1,$r2,$r3,$r4);$extras=@('',$extra2,$extra3,$extra4)
 $full="# Règlement intégral consolidé du Mess et Instituts du 9e Escadron du génie`n`n$status`n`nLes quatre règlements suivants constituent le texte intégral proposé. Les droits et garanties de la constitution leur sont applicables.`n`n"
 for($i=0;$i -lt 4;$i++){$b=(Blocks $groups[$i])+"`n`n"+$extras[$i];Save ("R{0}-proposition.md" -f ($i+1)) ("# $($titles[$i])`n`n$status`n`n"+$b);$full+="## $($titles[$i])`n`n$b`n`n"}
 Save 'reglement-consolide.md' $full
 Save 'lettre-presentation.md' @"
 # Présentation de la révision des documents du Mess
 
-28 octobre 2026 — Version 0.2.1 proposée
+28 octobre 2026 — Version 0.2.2 proposée
 
 Aux membres du Mess et Instituts du 9e Escadron du génie,
 
@@ -111,7 +141,7 @@ La constitution actuelle mêle les droits des membres à de nombreux détails pr
 
 La confusion entre comité et assemblée peut rendre incertain le lieu où une décision doit être prise. La proposition distingue la préparation et la gestion courante du comité des décisions réservées aux membres. La constitution conserve expressément la fréquence trimestrielle, le quorum, les droits de vote, les délais minimaux de convocation et les pouvoirs des membres; le R3 précise la procédure et le déroulement des assemblées.
 
-Des dossiers dispersés ou conservés sans être communiqués nuisent à la continuité et à la participation. Le R3 prévoit classement commun, sauvegardes, relève documentée et communication proactive des avis, décisions et documents accessibles aux membres. Chacun pourra consulter les textes, comprendre les décisions et se sentir inclus, avec protection des renseignements personnels.
+Des dossiers dispersés ou conservés sans être communiqués nuisent à la continuité et à la participation. Dans le prolongement des assemblées et réunions, le R3 prévoit classement commun, sauvegardes, relève documentée et communication proactive des avis, décisions et documents accessibles aux membres. Chacun pourra consulter les textes, comprendre les décisions et se sentir inclus, avec protection des renseignements personnels.
 
 Enfin, le suivi distinct du fonds dʼunité, du fonds cadeau et des opérations du Mess clarifie lʼorigine et lʼutilisation des sommes. Toute nouvelle affectation demeure conditionnelle à la vérification des règles BNP et aux approbations nécessaires.
 
@@ -126,11 +156,11 @@ $rows=@(
 @('Biens et dons','Approbation du conseil aux art. 79 et 81; pas de registre de provenance détaillé','Comité dans ses délégations; propriété, provenance et conditions documentées','La présence au Mess ne prouve pas la propriété. Le registre prévient les dispositions contraires aux dons et prêts.','Art. 79, 81; R2.1 et R2.2'),
 @('Communication','Tableau, livre et copie des textes aux art. 73, 83, 85 à 89','Canal direct, accès commun, avis de mise à jour et relevé sous 14 jours','Un document déposé peut demeurer inconnu des membres absents. La communication proactive permet une participation informée et inclusive.','Art. 73, 83, 85 à 89; R3.3 et R3.4'),
 @('Continuité','Garde des registres et correspondance à lʼart. 38','Répertoire, suivi, suppléant, sauvegarde mensuelle et après adoption, restauration annuelle','La relève du comité peut entraîner perte de dossiers et de contexte. Des responsabilités et sauvegardes explicites assurent la continuité.','R3.1 et R3.2'),
-@('Fonds et BNP','Cotisations réservées au Mess; cadeaux aux art. 105 à 111; fonds dʼunité sans cadre distinct','Suivis séparés et confirmation préalable des sources, qualification et approbations; plafonds conservés','Confondre les fonds masque la destination des sommes. La traçabilité évite de prendre un vote pour une autorisation suffisante.','C1 à C3; R3.5 et R3.6')
+@('Fonds et BNP','Cotisations réservées au Mess; cadeaux aux art. 105 à 111; fonds dʼunité sans cadre distinct','Suivis séparés et confirmation préalable des sources, qualification et approbations; plafonds conservés','Confondre les fonds masque la destination des sommes. La traçabilité évite de prendre un vote pour une autorisation suffisante.','C1 à C3, C5 et C6')
 )
 $tab="# Tableau des modifications Avant Après Pourquoi`n`n$status`n`nSeuls les changements de fond et la réorganisation figurent ici. Les simples déplacements sont détaillés dans la concordance. Les délais nouveaux sont proposés à lʼadoption, et ne sont pas attribués à une décision antérieure inaccessible.`n`n| Sujet | Avant | Après | Problème et pourquoi | Mise en œuvre |`n|---|---|---|---|---|`n"
 foreach($r in $rows){$tab+='| '+($r -join ' | ')+" |`n"};Save 'tableau-modifications.md' $tab
-$map="# Concordance des 116 articles`n`nVersion 0.2.1 du 28 octobre 2026. Source : constitution.md au commit 8362362. Les clauses C1 à C4, R2.1 à R2.2 et R3.1 à R3.9 sont nouvelles. Les numéros historiques sont conservés.`n`n| Article source | Destination | Traitement |`n|---|---|---|`n"
+$map="# Concordance des 116 articles`n`nVersion 0.2.2 du 28 octobre 2026. Source : constitution.md au commit 8362362. Les clauses C1 à C6, R2.1 à R2.2, R3.1 à R3.4 et R3.7 à R3.10, ainsi que R4.1 à R4.4 sont nouvelles. Les numéros historiques sont conservés.`n`n| Article source | Destination | Traitement |`n|---|---|---|`n"
 foreach($n in 1..116){$dest=if($n -in $core){'Constitution'}elseif($n -in $r1){'R1'}elseif($n -in $r2){'R2'}elseif($n -in $r3){'R3'}else{'R4'};$action=if($edit.ContainsKey($n)){'Modifié — voir tableau'}else{'Texte conservé'};$map+="| $n | $dest | $action |`n"};Save 'concordance.md' $map
 Save 'index.md' @"
 ---
@@ -140,7 +170,7 @@ title: Révision des documents du Mess du 28 octobre 2026
 
 # Révision des documents du Mess
 
-**Version 0.2.1 du 28 octobre 2026 — Proposition à discuter et à adopter.**
+**Version 0.2.2 du 28 octobre 2026 — Proposition à discuter et à adopter.**
 
 Les droits des membres et les assemblées trimestrielles sont maintenus. La révision simplifie lʼorganisation des textes et renforce lʼaccès aux documents ainsi que leur communication proactive.
 
@@ -148,8 +178,8 @@ Les droits des membres et les assemblées trimestrielles sont maintenus. La rév
 - [Tableau Avant Après Pourquoi des seules modifications](tableau-modifications.md)
 - [R1 Tenue et comportement](R1-proposition.md)
 - [R2 Mobilier décorations souvenirs provenance et dons](R2-proposition.md)
-- [R3 Procédure des assemblées administration archivage sauvegarde communication et transparence](R3-proposition.md)
-- [R4 Bar service et utilisation](R4-proposition.md)
+- [R3 Assemblées et réunions](R3-proposition.md)
+- [R4 Service de bar](R4-proposition.md)
 - [Constitution intégrale consolidée](constitution-consolidee.md)
 - [Règlement intégral consolidé réunissant R1 à R4](reglement-consolide.md)
 - [Concordance des 116 articles](concordance.md)
@@ -159,7 +189,7 @@ Les droits des membres et les assemblées trimestrielles sont maintenus. La rév
 Save 'notes-revision.md' @"
 # Sources et validations de la révision
 
-Version 0.2.1 du 28 octobre 2026
+Version 0.2.2 du 28 octobre 2026
 
 ## Sources consultées
 
@@ -212,10 +242,27 @@ $update=@"
 
 ## Ajustement de la répartition des assemblées
 
-Version 0.2.1 du 28 octobre 2026. Par rapport à la version 0.2, les articles 12, 14, 23, 25 et 35 rejoignent la constitution. Le seuil de quorum reste à son article 8; le délai de 30 minutes et le contrôle pendant la séance passent au R3.8. Le calendrier pratique de l’article 13 rejoint le R3. La règle de majorité et les garanties du vote restent constitutionnelles; recomptage et consignation sont précisés au R3.7, et les modalités du vote par internet au R3.9. La clause C4 confirme cette limite entre les deux textes. Les articles 16 à 22 restent au R3 pour la préparation et le déroulement.
+Version 0.2.2 du 28 octobre 2026. Par rapport à la version 0.2, les articles 12, 14, 23, 25 et 35 rejoignent la constitution. Le seuil de quorum reste à son article 8; le délai de 30 minutes et le contrôle pendant la séance passent au R3.8. Le calendrier pratique de l’article 13 rejoint le R3. La règle de majorité et les garanties du vote restent constitutionnelles; recomptage et consignation sont précisés au R3.7, et les modalités du vote par internet au R3.9. La clause C4 confirme cette limite entre les deux textes. Les articles 16 à 22 restent au R3 pour la préparation et le déroulement.
 
 Cette répartition conserve quatre règlements et ne réduit aucun quorum, délai minimal, droit de vote, seuil particulier ou pouvoir réservé aux membres. Elle constitue une proposition à adopter et à approuver.
 "@
 [IO.File]::AppendAllText((Join-Path $dir 'notes-revision.md'),$update,$enc)
 $tableRow="| Principes et procédure des assemblées | Règles de gouvernance et déroulement regroupés dans le même texte source | Principes dans la constitution; procédure et déroulement dans le R3 distinct | Les droits et pouvoirs doivent rester repérables dans la constitution. Séparer les modalités facilite leur consultation sans permettre au règlement de modifier ces garanties. | Constitution art. 5 à 12, 14, 23 à 25, 35 et C4; R3 art. 13, 15 à 22 et R3.7 à R3.9 |`n"
 [IO.File]::AppendAllText((Join-Path $dir 'tableau-modifications.md'),$tableRow,$enc)
+
+$clarification=@"
+
+## Périmètre des règlements 3 et 4
+
+La version 0.2.2 retient les titres courts « R3 Assemblées et réunions » et « R4 Service de bar ». Le R3 explique leur tenue et leur suivi : préparation, prise de parole, motions, scrutins, comptes rendus, archivage, sauvegarde et communication proactive. Les principes, les pouvoirs administratifs et les finances sont dans la constitution. Les anciennes clauses R3.5 et R3.6 y deviennent C5 et C6.
+
+Les réservations et les modalités financières des réceptions privées figurent également dans la constitution. Les articles sur la propreté, les dommages et le comportement pendant les jeux passent au R1; le contrôle de leur matériel passe au R2. Le R4 se limite au service du bar : personnel, stocks, hygiène, refus de service, protection des mineurs et incidents. Les plafonds de rémunération existants restent dans les dispositions financières constitutionnelles.
+
+La rédaction du refus de service a été vérifiée à partir des [indications de la RACJ sur les obligations du titulaire de permis](https://www.racj.gouv.qc.ca/alcool/vendre-ou-servir-des-boissons-alcooliques-pour-consommation-sur-place/permis-accessoire), qui rappellent l’interdiction de vendre à une personne en état d’ivresse. Les règles proposées pour le Mess précisent la conduite du personnel; elles ne prétendent pas établir le permis particulier applicable aux locaux.
+"@
+[IO.File]::AppendAllText((Join-Path $dir 'notes-revision.md'),$clarification,$enc)
+$rowsAdded=@"
+| Périmètre du R3 | Assemblées, administration et finances mêlées dans le texte source | R3 Assemblées et réunions : modalités pratiques et suivi documentaire; principes, administration et finances dans la constitution | Un règlement de procédure doit expliquer comment les séances ont lieu sans redéfinir les pouvoirs constitutionnels. Les communications et sauvegardes restent rattachées au suivi des séances. | Constitution; R3 art. 13, 15 à 22, 73, 83 à 89 et clauses documentaires et de procédure |
+| Service de bar | Art. 59 : autorité de ne pas servir une personne en état d’ébriété; art. 68 : interdiction de consommation aux moins de 18 ans | Refus obligatoire et immédiat; arrêt du service; soutien au serveur; vérification de l’âge et prévention du contournement; R4 limité au bar | Une simple faculté peut laisser le personnel hésiter ou subir des pressions. Une conduite claire facilite un service responsable et uniforme. | R4 art. 59 et 68; R4.1 à R4.4 |
+"@
+[IO.File]::AppendAllText((Join-Path $dir 'tableau-modifications.md'),$rowsAdded+"`n",$enc)

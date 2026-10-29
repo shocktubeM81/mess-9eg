@@ -5,7 +5,7 @@ title: R2 Mobilier décorations souvenirs provenance et dons
 
 # R2 Mobilier décorations souvenirs provenance et dons
 
-**Version 0.2.1 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les numéros historiques sont conservés pour faciliter la comparaison; les articles déplacés figurent dans les règlements.
+**Version 0.2.2 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les numéros historiques sont conservés pour faciliter la comparaison; les articles déplacés figurent dans les règlements.
 
 <a id="article-76"></a>**76.** Tout bien appartenant au mess ne sera déplacé sans le consentement du président ou du commandant.
 
@@ -20,6 +20,10 @@ title: R2 Mobilier décorations souvenirs provenance et dons
 <a id="article-81"></a>**81.** Toute décoration permanente, plaque, tableau ou trophée requiert l’approbation du comité dans les limites de ses pouvoirs avant installation. L’inventaire indique provenance, propriétaire et conditions du don ou du prêt. Une inscription commémorative ne prouve pas la propriété.
 
 <a id="article-82"></a>**82.** Assurances. Le mobilier, les marchandises et le fonds d’appoint seront assurés à la pleine valeur contre le vol, la perte ou les dommages. Les meubles et l’équipement devront être assurés à un montant qui ne sera pas inférieur à la dernière évaluation contre les pertes et dommages.
+
+<a id="article-99"></a>**99.** Les jeux, y compris l'équipement de billard seront gardés sous le contrôle du régisseur ou du
+
+personnel désigné par lui.
 
 ## Provenance et dons
 
