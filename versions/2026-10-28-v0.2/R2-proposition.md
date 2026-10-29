@@ -23,7 +23,7 @@ Ce règlement encadre les dons, l’installation, l’utilisation et la conserva
 
 <a id="r2-4"></a>**R2.4.** Les livres, journaux et revues fournis aux membres restent au Mess.
 
-<a id="r2-5"></a>**R2.5.** Le retrait ou la vente suit le [Manuel PSP, chapitre 9-4, paragraphe 78](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=313). En cas de dissolution ou de modification de la situation de l’unité, voir le [chapitre 10-5](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=364). Les pouvoirs locaux restent ceux de la [constitution, articles 11 et 13](constitution-consolidee.md#article-11). La propriété et les conditions de don ou de prêt sont vérifiées avant toute disposition.
+<a id="r2-5"></a>**R2.5.** Le retrait ou la vente suit le [Manuel PSP, chapitre 9-4, paragraphe 78](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf). En cas de dissolution ou de modification de la situation de l’unité, voir le [chapitre 10-5](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf). Les pouvoirs locaux restent ceux de la [constitution, articles 11 et 13](constitution-consolidee.md#article-11). La propriété et les conditions de don ou de prêt sont vérifiées avant toute disposition.
 
 ## Dommages et assurances
 
