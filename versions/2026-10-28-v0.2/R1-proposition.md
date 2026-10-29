@@ -9,13 +9,13 @@ title: R1 Tenue et comportement
 
 Ce règlement précise la tenue, le comportement et les conditions pratiques de fréquentation du Mess. Il s’applique à toute personne admise dans les locaux afin de préserver des lieux accueillants, propres et respectueux.
 
-## Accès aux locaux et conjoints
+## Accès aux locaux
 
 <a id="r1-1"></a>**R1.1.** Les locaux du Mess sont répartis selon les grades. Un militaire utilise le local correspondant à son grade. L’accès à un autre local est permis dans l’exercice de ses fonctions ou après une invitation spéciale autorisée par le commandant ou le président du comité du Mess.
 
 <a id="r1-2"></a>**R1.2.** Les conjoints des membres peuvent participer aux activités du Mess même en l’absence du membre. Ils doivent pouvoir s’identifier; en cas de doute sur leur identité, un membre du comité est consulté. Lorsque le membre est à l’extérieur de la région, son conjoint reçoit le même traitement que celui réservé au membre. Pour un conjoint de moins de 18 ans, l’autorisation du commandant est requise.
 
-## Invités personnels et officiels
+## Invités
 
 <a id="r1-3"></a>**R1.3.** Le Mess peut recevoir des invités officiels, dont il assume les frais dans les limites approuvées. Les membres peuvent également recevoir des invités personnels, qui restent sous leur responsabilité. Lorsqu’un membre accompagne un invité à une activité financée par le président du comité, l’invité paie son repas et ne participe pas aux tirages des prix de présence.
 
@@ -23,7 +23,7 @@ Ce règlement précise la tenue, le comportement et les conditions pratiques de 
 
 <a id="r1-5"></a>**R1.5.** Un officier présente son invité au commandant. Un sergent ou un adjudant présente son invité au sergent-major de l’escadron.
 
-## Personnes mineures et enfants
+## Personnes mineures
 
 <a id="r1-6"></a>**R1.6.** Les personnes de moins de 18 ans admises au Mess sont les membres du Mess, les conjoints autorisés par le commandant et les enfants dans les conditions précisées ci-dessous. Aucune boisson alcoolisée ne peut leur être vendue ou servie.
 
@@ -45,6 +45,8 @@ Ce règlement précise la tenue, le comportement et les conditions pratiques de 
 
 ## Comportement et sécurité
 
+<a id="r1-16"></a>**R1.16.** Le président répond au commandant de la discipline dans les locaux. En son absence, le membre senior présent veille au maintien de l’ordre.
+
 <a id="r1-9"></a>**R1.9.** Les membres et leurs invités respectent les règles du Mess et contribuent au maintien de l’ordre et d’un climat amical. Les comportements perturbateurs donnent lieu à un rappel à l’ordre et sont signalés au sergent-major de l’escadron.
 
 <a id="r1-10"></a>**R1.10.** Il est interdit de dormir dans les locaux du Mess, y compris derrière le bar, pour des raisons d’hygiène et de sécurité.
@@ -60,7 +62,3 @@ Ce règlement précise la tenue, le comportement et les conditions pratiques de 
 <a id="r1-14"></a>**R1.14.** Tout dommage causé par un membre ou son invité est signalé au président, même s’il est accidentel. Les frais de réparation ou de remise en état peuvent être réclamés selon la responsabilité établie; le seul signalement d’un accident ne rend pas automatiquement le membre responsable du coût.
 
 <a id="r1-15"></a>**R1.15.** Lors d’une réception privée, le responsable de l’activité répond des dommages causés aux biens du Mess ou de la Couronne. Le comité assure le suivi du remboursement.
-
-## Tâches et responsabilités
-
-<a id="r1-16"></a>**R1.16.** Le président répond au commandant de la discipline dans les locaux. En son absence, le membre senior présent veille au maintien de l’ordre.
