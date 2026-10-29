@@ -5,7 +5,7 @@ title: R2 Mobilier décorations souvenirs provenance et dons
 
 # R2 Mobilier décorations souvenirs provenance et dons
 
-**Version 0.2.2 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les numéros historiques sont conservés pour faciliter la comparaison; les articles déplacés figurent dans les règlements.
+**Version 0.2.3 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les numéros historiques sont conservés pour faciliter la comparaison; les articles déplacés figurent dans les règlements.
 
 <a id="article-76"></a>**76.** Tout bien appartenant au mess ne sera déplacé sans le consentement du président ou du commandant.
 
@@ -27,6 +27,8 @@ personnel désigné par lui.
 
 ## Provenance et dons
 
-**R2.1.** Le vice-président tient un inventaire distinguant biens du Mess, de la Couronne, du fonds d’unité et de tiers. Chaque fiche indique description, emplacement, provenance, date d’entrée, propriétaire, valeur connue, justificatif et conditions d’utilisation ou de restitution. Une provenance incertaine est signalée et vérifiée avant disposition.
-
 **R2.2.** Avant acceptation d’un don, le comité documente le donateur, le bien, les conditions, la destination et les coûts d’entretien. Il obtient les approbations exigées selon la nature et la propriété du bien. Aucun reçu fiscal, avantage ou transfert de propriété n’est promis sans autorité. Les coordonnées personnelles sont protégées dans la version du registre destinée aux membres.
+
+## Tâches et responsabilités
+
+**R2.1.** Le vice-président tient un inventaire distinguant biens du Mess, de la Couronne, du fonds d’unité et de tiers. Chaque fiche indique description, emplacement, provenance, date d’entrée, propriétaire, valeur connue, justificatif et conditions d’utilisation ou de restitution. Une provenance incertaine est signalée et vérifiée avant disposition.

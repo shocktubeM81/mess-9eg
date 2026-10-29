@@ -5,9 +5,7 @@ title: R1 Tenue et comportement
 
 # R1 Tenue et comportement
 
-**Version 0.2.2 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les numéros historiques sont conservés pour faciliter la comparaison; les articles déplacés figurent dans les règlements.
-
-<a id="article-57"></a>**57.** Le président du mess est responsable envers le commandant de la discipline dans le Mess. Dans le cas d'absence du président, le membre senior présent est responsable du maintien de la discipline (réf. PFC 262 art 310).
+**Version 0.2.3 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les numéros historiques sont conservés pour faciliter la comparaison; les articles déplacés figurent dans les règlements.
 
 <a id="article-62"></a>**62.** Tous les membres ainsi que leurs invités doivent observer la constitution du mess. Les dissidents doivent être ramenés à l’ordre et référés au SME afin de conserver le climat amical des lieux.
 
@@ -91,3 +89,7 @@ imposer un standard minimum qu'il jugera approprié.
 <a id="article-98"></a>**98.** Les utilisateurs de/des jeu(x) sont responsables de la propreté des lieux ainsi que de l'équipement de jeux.
 
 <a id="article-100"></a>**100.** En conformité à l'OAFC 19-1, il n'y aura pas de loteries, sweepstakes, appareils à sous ou jeux de hasard dans le Mess, ou de permettre que ces mêmes jeux soient organisés au profit des militaires.
+
+## Tâches et responsabilités
+
+<a id="article-57"></a>**57.** Le président du mess est responsable envers le commandant de la discipline dans le Mess. Dans le cas d'absence du président, le membre senior présent est responsable du maintien de la discipline (réf. PFC 262 art 310).

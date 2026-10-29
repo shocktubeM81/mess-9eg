@@ -5,7 +5,7 @@ title: Concordance des 116 articles
 
 # Concordance des 116 articles
 
-Version 0.2.2 du 28 octobre 2026. Source : constitution.md au commit 8362362. Les clauses C1 à C6, R2.1 à R2.2, R3.1 à R3.4 et R3.7 à R3.10, ainsi que R4.1 à R4.4 sont nouvelles. Les numéros historiques sont conservés.
+Version 0.2.3 du 28 octobre 2026. Source : constitution.md au commit 8362362. Les clauses C1 à C6, R2.1 à R2.2, R3.1 à R3.4 et R3.7 à R3.10, ainsi que R4.1 à R4.4 sont nouvelles. Les numéros historiques sont conservés.
 
 | Article source | Destination | Traitement |
 |---|---|---|
@@ -24,10 +24,10 @@ Version 0.2.2 du 28 octobre 2026. Source : constitution.md au commit 8362362. Le
 | 13 | R3 | Modifié — voir tableau |
 | 14 | Constitution | Texte conservé |
 | 15 | R3 | Modifié — voir tableau |
-| 16 | R3 | Texte conservé |
+| 16 | R3 | Modifié — voir tableau |
 | 17 | R3 | Modifié — voir tableau |
-| 18 | R3 | Texte conservé |
-| 19 | R3 | Texte conservé |
+| 18 | R3 | Modifié — voir tableau |
+| 19 | R3 | Modifié — voir tableau |
 | 20 | R3 | Modifié — voir tableau |
 | 21 | R3 | Texte conservé |
 | 22 | R3 | Modifié — voir tableau |

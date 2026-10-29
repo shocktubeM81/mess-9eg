@@ -43,6 +43,12 @@ $edit[25]="Chaque membre reçoit un avis de convocation au moins 14 jours avant 
 $edit[15]="À l’ouverture, le secrétaire vérifie les présences au regard du quorum fixé par la constitution et en inscrit le résultat au procès-verbal. Le président applique les modalités du R3.8 si le quorum manque."
 $edit[20]="Le membre qui souhaite proposer une motion demande la parole au président de séance. Le texte de la proposition est formulé clairement, puis reformulé par le président pour que tous sachent sur quoi porte le débat. Le secrétaire en consigne le libellé. La recevabilité et les personnes habilitées à proposer sont déterminées par la constitution."
 $edit[22]="Le président ouvre le débat sur la proposition appuyée, donne la parole à une personne à la fois et recentre les interventions sur le texte discuté. Le secrétaire consigne les amendements et le libellé finalement soumis au vote. Le président applique les droits et pouvoirs fixés par la constitution."
+# Simplification de la lecture et suppression des contraintes estivales.
+$edit[13]="Les dates, le lieu et, s’il y a lieu, le moyen de connexion sont indiqués dans la convocation. Aucune période de l’année n’est exclue pour tenir une assemblée ou une réunion."
+$edit[15]="Le quorum est vérifié et consigné selon la procédure du R3.8, en appliquant le seuil fixé par la constitution."
+$edit[16]="Le président, ou le vice-président en son absence, dirige la séance. Il distribue la parole, évite les répétitions et veille au respect de l’ordre du jour et des procédures. Les interventions lui sont adressées, une personne à la fois."
+$edit[18]="L’assemblée suit normalement cet ordre : ouverture et vérification du quorum; adoption du procès-verbal précédent; rapports du président, des finances et des sous-comités; suivi des décisions; nouvelles affaires; levée de la séance. Le procès-verbal transmis à l’avance n’a pas à être relu intégralement."
+$edit[19]="Les propositions importantes ou complexes sont accompagnées des renseignements utiles à leur discussion et transmises avec les documents de séance, selon les délais applicables."
 $r1=@(57,62,63,64,65,66,67,69,70,71,72,74,75,94,95,96,97,98,100)
 $r2=@(76..82)+@(99)
 $r3=@(13,15,16,17,18,19,20,21,22,73,83,84,85,86,87,88,89)
@@ -58,7 +64,7 @@ $headings=@{1='Identité et membres';5='Assemblées générales';23='Votes et é
 if($headings.ContainsKey([int]$n)){$heading="## $($headings[[int]$n])`n`n"}
 }
 "$heading<a id=`"article-$n`"></a>**$n.** $b"};$out -join "`n`n"}
-$status='**Version 0.2.2 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les numéros historiques sont conservés pour faciliter la comparaison; les articles déplacés figurent dans les règlements.'
+$status='**Version 0.2.3 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les numéros historiques sont conservés pour faciliter la comparaison; les articles déplacés figurent dans les règlements.'
 $funds=@"
 ## Assemblées et portée des règlements
 
@@ -77,7 +83,7 @@ $funds=@"
 
 **C6.** Avant mise en place ou modification du financement du fonds dʼunité ou du fonds cadeau, le comité obtient confirmation écrite de la qualification BNP, des sources admissibles, de la destination et des autorités dʼapprobation. Il soumet aux membres une proposition chiffrée identifiant les comptes ou suivis concernés. Cette clause nʼautorise ni cotisation nouvelle, ni prélèvement, ni transfert. Les articles 105 à 111 conservent leurs bénéficiaires et plafonds; leur déplacement ne vaut pas autorisation nouvelle de dépense.
 "@
-Save 'constitution-consolidee.md' ("# Constitution du Mess et Instituts du 9e Escadron du génie`n`n$status`n`nManège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québec.`n`nLa constitution établit les droits, les organes et les garanties; les quatre règlements en précisent les modalités. Les articles historiques absents de cette constitution sont reproduits dans les règlements, selon la concordance.`n`n"+(Blocks $core)+"`n`n"+$funds)
+Save 'constitution-consolidee.md' ("# Constitution du Mess et Instituts du 9e Escadron du génie`n`n$status`n`nManège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québec.`n`nLa constitution établit les droits, les organes et les garanties; les quatre règlements en précisent les modalités. Les articles historiques absents de cette constitution sont reproduits dans les règlements, selon la concordance.`n`n"+(Blocks @($core|Where-Object{$_ -notin @(36,37,38,39,41)}))+"`n`n"+$funds+"`n`n## Tâches et responsabilités`n`n"+(Blocks @(36,37,38,39,41)))
 $extra2=@"
 ## Provenance et dons
 
@@ -88,7 +94,7 @@ $extra2=@"
 $extra3=@"
 ## Procédure et déroulement des assemblées
 
-Les principes des assemblées, leur fréquence, le quorum, les droits des membres, les règles de majorité, les délais minimaux de convocation et les pouvoirs du comité figurent dans la constitution. Le présent règlement en organise la mise en œuvre. Les articles 13 et 15 à 22 précisent le calendrier, la vérification du quorum, la préparation et le déroulement; ils ne délèguent aucun pouvoir supplémentaire au comité.
+Les principes des assemblées, leur fréquence, le quorum, les droits des membres, les règles de majorité, les délais minimaux de convocation et les pouvoirs du comité figurent dans la constitution. Le présent règlement en organise la mise en œuvre. Les articles 13 et 15 à 22 précisent la convocation, la vérification du quorum, la préparation et le déroulement; ils ne délèguent aucun pouvoir supplémentaire au comité.
 
 **R3.7.** Lors du scrutin, le président fait procéder au décompte des voix. En cas d’égalité, il ordonne un recomptage; si l’égalité subsiste, il exerce la voix prépondérante prévue à l’article 23 de la constitution. Un vote erroné fait l’objet d’un nouveau vote. Le procès-verbal consigne le texte de la proposition, le résultat, les abstentions et l’application éventuelle d’un seuil particulier.
 
@@ -126,12 +132,12 @@ $extra4=@"
 $titles=@('R1 Tenue et comportement','R2 Mobilier décorations souvenirs provenance et dons','R3 Assemblées et réunions','R4 Service de bar')
 $groups=@($r1,$r2,$r3,$r4);$extras=@('',$extra2,$extra3,$extra4)
 $full="# Règlement intégral consolidé du Mess et Instituts du 9e Escadron du génie`n`n$status`n`nLes quatre règlements suivants constituent le texte intégral proposé. Les droits et garanties de la constitution leur sont applicables.`n`n"
-for($i=0;$i -lt 4;$i++){$b=(Blocks $groups[$i])+"`n`n"+$extras[$i];if($i -eq 3){$b="## Règles de service`n`n"+(Blocks @(56,58,59,61,68))+"`n`n"+$extra4+"`n`n## Rôles et responsabilités`n`n"+(Blocks @(40,42,60))};Save ("R{0}-proposition.md" -f ($i+1)) ("# $($titles[$i])`n`n$status`n`n"+$b);$full+="## $($titles[$i])`n`n$b`n`n"}
+for($i=0;$i -lt 4;$i++){$b=(Blocks $groups[$i])+"`n`n"+$extras[$i];if($i -eq 0){$b=(Blocks @($r1|Where-Object{$_ -ne 57}))+"`n`n## Tâches et responsabilités`n`n"+(Blocks @(57))};if($i -eq 1){$inventory=[regex]::Match($extra2,'(?s)\*\*R2\.1\..*?(?=\*\*R2\.2\.)').Value.Trim();$donation=[regex]::Match($extra2,'(?s)\*\*R2\.2\..*').Value.Trim();$b=(Blocks $r2)+"`n`n## Provenance et dons`n`n"+$donation+"`n`n## Tâches et responsabilités`n`n"+$inventory};if($i -eq 2){$records=[regex]::Match($extra3,'(?s)\*\*R3\.1\..*?(?=\*\*R3\.3\.)').Value.Trim();$procedures=$extra3.Replace($records,'').Replace('## Gestion documentaire et continuité','## Accès aux documents et communication');$b="## Préparation et déroulement`n`n"+(Blocks @($r3|Where-Object{$_ -ne 16}))+"`n`n"+$procedures+"`n`n## Tâches et responsabilités`n`n"+(Blocks @(16))+"`n`n"+$records};if($i -eq 3){$b="## Règles de service`n`n"+(Blocks @(56,58,59,61,68))+"`n`n"+$extra4+"`n`n## Rôles et responsabilités`n`n"+(Blocks @(40,42,60))};Save ("R{0}-proposition.md" -f ($i+1)) ("# $($titles[$i])`n`n$status`n`n"+$b);$full+="## $($titles[$i])`n`n$b`n`n"}
 Save 'reglement-consolide.md' $full
 Save 'lettre-presentation.md' @"
 # Présentation de la révision des documents du Mess
 
-28 octobre 2026 — Version 0.2.2 proposée
+28 octobre 2026 — Version 0.2.3 proposée
 
 Aux membres du Mess et Instituts du 9e Escadron du génie,
 
@@ -149,7 +155,7 @@ Le tableau Avant Après Pourquoi présente uniquement les changements. Les propo
 "@
 $rows=@(
 @('Organisation','116 articles dans un seul texte','Constitution et quatre règlements','Les droits essentiels sont difficiles à repérer parmi les détails. La séparation facilite lecture et mise à jour en maintenant les approbations.','Art. 1; concordance'),
-@('Assemblées','Art. 5 : trimestrielles ou selon décision; exclusion estivale art. 13','Une assemblée par trimestre et calendrier adapté','Un report ou une réunion du comité pourrait remplacer la participation des membres. La fréquence devient explicite.','Constitution art. 5, 7, 8, 12, 14, 23, 25, 35 et C4; R3 art. 13, 15 à 22 et R3.7 à R3.9'),
+@('Assemblées','Art. 5 : trimestrielles ou selon décision; exclusion estivale art. 13','Une assemblée par trimestre, sans exclusion estivale','Un report ou une réunion du comité pourrait remplacer la participation des membres. La fréquence devient explicite.','Constitution art. 5, 7, 8, 12, 14, 23, 25, 35 et C4; R3 art. 13, 15 à 22 et R3.7 à R3.9'),
 @('Quorum','Art. 8 : plus de 50 %; art. 15 : nombre des présents','Seuil unique de lʼart. 8','Deux formulations rendent incertaine la validité des décisions. Le renvoi maintient la garantie existante.','Art. 15'),
 @('Avis','Art. 17 : 7 jours; art. 25 : 2 semaines ou annonce; art. 115 : 15 jours','Avis 14 jours; documents 7 jours; amendements 15 jours','Les délais concurrents compliquent la préparation. Leur articulation donne aux membres le temps de préparer leurs questions.','Art. 17, 25'),
 @('Pouvoir de décision','Art. 20 et 22 parlent du Comité; majorité formulée 50 % plus un','Assemblée compétente et majorité strictement supérieure à la moitié des voix exprimées','Le vocabulaire peut suggérer un transfert de pouvoir et rendre le calcul ambigu. Le texte précise qui décide et comment.','Art. 20, 22, 23, 35'),
@@ -160,7 +166,7 @@ $rows=@(
 )
 $tab="# Tableau des modifications Avant Après Pourquoi`n`n$status`n`nSeuls les changements de fond et la réorganisation figurent ici. Les simples déplacements sont détaillés dans la concordance. Les délais nouveaux sont proposés à lʼadoption, et ne sont pas attribués à une décision antérieure inaccessible.`n`n| Sujet | Avant | Après | Problème et pourquoi | Mise en œuvre |`n|---|---|---|---|---|`n"
 foreach($r in $rows){$tab+='| '+($r -join ' | ')+" |`n"};Save 'tableau-modifications.md' $tab
-$map="# Concordance des 116 articles`n`nVersion 0.2.2 du 28 octobre 2026. Source : constitution.md au commit 8362362. Les clauses C1 à C6, R2.1 à R2.2, R3.1 à R3.4 et R3.7 à R3.10, ainsi que R4.1 à R4.4 sont nouvelles. Les numéros historiques sont conservés.`n`n| Article source | Destination | Traitement |`n|---|---|---|`n"
+$map="# Concordance des 116 articles`n`nVersion 0.2.3 du 28 octobre 2026. Source : constitution.md au commit 8362362. Les clauses C1 à C6, R2.1 à R2.2, R3.1 à R3.4 et R3.7 à R3.10, ainsi que R4.1 à R4.4 sont nouvelles. Les numéros historiques sont conservés.`n`n| Article source | Destination | Traitement |`n|---|---|---|`n"
 foreach($n in 1..116){$dest=if($n -in $core){'Constitution'}elseif($n -in $r1){'R1'}elseif($n -in $r2){'R2'}elseif($n -in $r3){'R3'}else{'R4'};$action=if($edit.ContainsKey($n)){'Modifié — voir tableau'}else{'Texte conservé'};$map+="| $n | $dest | $action |`n"};Save 'concordance.md' $map
 Save 'index.md' @"
 ---
@@ -170,7 +176,7 @@ title: Révision des documents du Mess du 28 octobre 2026
 
 # Révision des documents du Mess
 
-**Version 0.2.2 du 28 octobre 2026 — Proposition à discuter et à adopter.**
+**Version 0.2.3 du 28 octobre 2026 — Proposition à discuter et à adopter.**
 
 Les droits des membres et les assemblées trimestrielles sont maintenus. La révision simplifie lʼorganisation des textes et renforce lʼaccès aux documents ainsi que leur communication proactive.
 
@@ -189,7 +195,7 @@ Les droits des membres et les assemblées trimestrielles sont maintenus. La rév
 Save 'notes-revision.md' @"
 # Sources et validations de la révision
 
-Version 0.2.2 du 28 octobre 2026
+Version 0.2.3 du 28 octobre 2026
 
 ## Sources consultées
 
@@ -242,7 +248,7 @@ $update=@"
 
 ## Ajustement de la répartition des assemblées
 
-Version 0.2.2 du 28 octobre 2026. Par rapport à la version 0.2, les articles 12, 14, 23, 25 et 35 rejoignent la constitution. Le seuil de quorum reste à son article 8; le délai de 30 minutes et le contrôle pendant la séance passent au R3.8. Le calendrier pratique de l’article 13 rejoint le R3. La règle de majorité et les garanties du vote restent constitutionnelles; recomptage et consignation sont précisés au R3.7, et les modalités du vote par internet au R3.9. La clause C4 confirme cette limite entre les deux textes. Les articles 16 à 22 restent au R3 pour la préparation et le déroulement.
+Version 0.2.3 du 28 octobre 2026. Par rapport à la version 0.2, les articles 12, 14, 23, 25 et 35 rejoignent la constitution. Le seuil de quorum reste à son article 8; le délai de 30 minutes et le contrôle pendant la séance passent au R3.8. Le calendrier pratique de l’article 13 rejoint le R3. La règle de majorité et les garanties du vote restent constitutionnelles; recomptage et consignation sont précisés au R3.7, et les modalités du vote par internet au R3.9. La clause C4 confirme cette limite entre les deux textes. Les articles 16 à 22 restent au R3 pour la préparation et le déroulement.
 
 Cette répartition conserve quatre règlements et ne réduit aucun quorum, délai minimal, droit de vote, seuil particulier ou pouvoir réservé aux membres. Elle constitue une proposition à adopter et à approuver.
 "@
@@ -266,3 +272,16 @@ $rowsAdded=@"
 | Service de bar | Art. 59 : autorité de ne pas servir une personne en état d’ébriété; art. 68 : interdiction de consommation aux moins de 18 ans | Refus obligatoire et immédiat; arrêt du service; soutien au serveur; vérification de l’âge et prévention du contournement; R4 limité au bar | Une simple faculté peut laisser le personnel hésiter ou subir des pressions. Une conduite claire facilite un service responsable et uniforme. | R4 art. 59 et 68; R4.1 à R4.4 |
 "@
 [IO.File]::AppendAllText((Join-Path $dir 'tableau-modifications.md'),$rowsAdded+"`n",$enc)
+$summary=@"
+
+## Simplification de la version 0.2.3
+
+Les textes proposés ne fixent plus de période estivale exclue ni de dates limites au 30 mai ou au 30 août. Les dates sont indiquées dans les convocations; la fréquence trimestrielle et les délais minimaux constitutionnels restent applicables. L’article 13 du R3 est remplacé en ce sens. Le déroulement type et les indications de prise de parole sont raccourcis.
+
+Les tâches sont regroupées en fin de texte : responsabilités administratives dans la constitution, discipline au R1, inventaire au R2, présidence et tenue des dossiers au R3; les rôles du service de bar restent à la fin du R4. Ce déplacement facilite la consultation des règles avant la lecture des tâches attribuées.
+"@
+[IO.File]::AppendAllText((Join-Path $dir 'notes-revision.md'),$summary,$enc)
+$summaryRow=@"
+| Calendrier et lisibilité | Art. 13 source : exclusion du 30 mai au 30 août; consignes de séance et tâches dispersées | Suppression de l’exclusion estivale; déroulement raccourci; tâches regroupées à la fin des textes | Les contraintes saisonnières rigidifient inutilement la planification. Lire les règles avant les tâches permet de comprendre plus vite le fonctionnement, tout en conservant les assemblées trimestrielles et les délais de convocation. | R3 art. 13, 15, 16, 18 et 19; sections finales des tâches et responsabilités |
+"@
+[IO.File]::AppendAllText((Join-Path $dir 'tableau-modifications.md'),$summaryRow+"`n",$enc)

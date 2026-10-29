@@ -5,7 +5,7 @@ title: Constitution du Mess et Instituts du 9e Escadron du génie
 
 # Constitution du Mess et Instituts du 9e Escadron du génie
 
-**Version 0.2.2 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les numéros historiques sont conservés pour faciliter la comparaison; les articles déplacés figurent dans les règlements.
+**Version 0.2.3 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les numéros historiques sont conservés pour faciliter la comparaison; les articles déplacés figurent dans les règlements.
 
 Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québec.
 
@@ -156,92 +156,6 @@ apporter quelque chose de bénéfique ou de prestige à l'unité.
 <a id="article-34"></a>**34.** Destitution d'un membre du comité. Pour qu'une destitution soit autorisée, il faut une raison suffisante et la proposition de destitution doit être appuyée d'un vote au cours d'une assemblée. Un minimum de 75% des votes des personnes présentes à la réunion est obligatoire pour que la destitution soit en règle. L’avis de destitution doit être présenté au minimum un mois avant le vote.
 
 <a id="article-35"></a>**35.** Le comité prépare les dossiers, exécute les décisions des membres et gère les affaires courantes dans les limites du budget et des délégations approuvés. Il rend compte à l’assemblée et sert d’intermédiaire avec le commandant. Les élections, destitutions, cotisations, budgets et amendements réservés aux membres ne peuvent être décidés à leur place par le comité. Celui-ci obtient les approbations requises avant exécution.
-
-## Responsabilités administratives
-
-<a id="article-36"></a>**36.** Devoirs du président du conseil d’administration du mess (PCAM).
-
-- **a.** Il doit rendre compte au commandant pour tout ce qui touche ses fonctions.
-
-- **b.** Il convoque et préside les réunions du Mess.
-
-- **c.** Il ne peut amender ou appuyer une motion. Dans le cas d'un vote erroné, il ordonne un nouveau vote. Il peut cependant trancher (i.e. utiliser son droit de vote) lorsque tout vote sera égal.
-
-- **d.** Il signe tous les procès-verbaux des séances tenues.
-
-- **e.** Il répond à toutes les questions relatives à l'administration du mess.
-
-- **f.** Il s'assure que les statuts et règlements du mess sont respectés.
-
-- **g.** Il contrôle le travail des autres membres du comité.
-
-- **h.** Il a la responsabilité de maintenir à jour les constitutions suite aux changements proposés et acceptés.
-
-- **i.** Il convoque les réunions du comité du Mess.
-
-- **j.** Il doit examiner les états financiers régulièrement.
-
-- **k.** Les membres du personnel des finances ne peuvent être président du Mess.
-
-<a id="article-37"></a>**37.** Devoirs du vice-président du conseil d’administration du mess (VPCAM).
-
-
-- **a.** Il doit rendre compte au président du comité du mess pour toute tâche lui incombant.
-
-- **b.** Il assiste le président et le remplace en cas d'absence.
-
-- **c.** Les fonctions qu'il devra remplir seront attribuées discrétionnairement par le président.
-
-- **d.** Il a le devoir de maintenir à jour le registre de gestion des meubles et équipements appartenant au Mess et ce selon la répartition propre au Club Chimo et Mess Combiné.
-
-- **e.** Les membres du personnel des finances ne peuvent être vice-président du Mess.
-
-<a id="article-38"></a>**38.** Devoirs du secrétaire.
-
-- **a.** Il doit rendre compte au président du comité du Mess.
-
-- **b.** Il prépare l'ordre du jour des réunions du Mess et publie les convocations des réunions.
-
-- **c.** Il doit prendre et consigner tous les procès-verbaux des réunions. Il est chargé de la garde des registres des procès-verbaux qui doivent être tenus selon la forme indiquée aux PFC 262 art. 319.
-
-
-
-
-- **d.** Il doit signer les procès-verbaux de toutes les réunions. Il doit remettre une copie signé au service de la comptabilité du Mess et Instituts.
-
-- **e.** Il doit tenir une liste complète de tous les membres ainsi que leur adresse et numéro(s) de téléphone.
-
-- **f.** Il est chargé de toute correspondance concernant le Mess.
-
-- **g.** Il s'assure qu'une copie de la constitution est disponible sur demande et qu'une copie est affichée à l'intérieur du Mess.
-
-- **h.** Les membres du personnel des finances peuvent être secrétaire du Mess.
-
-<a id="article-39"></a>**39.** Devoirs du trésorier.
-
-- **a.** Il a la responsabilité d'avoir une liste à jour des membres en règle. Toutes les cotisations sont payables du 1er avril au 31 mars
-
-- **b.** Il ne peut effectuer la tenue des livres comptables. Ceci sera fait par une tierce personne.
-
-- **c.** Il recommande au responsable des fonds non-publics les dépenses approuvées par le comité et les membres du Mess.
-
-<a id="article-41"></a>**41.** Responsabilités du responsable des activités du Club Chimo et Mess Combiné.
-
-- **a.** Il doit rendre compte au président du comité du Mess.
-
-- **b.** Il doit planifier et organiser le programme des activités récréatives.
-
-- **c.** Il doit dresser le budget des activités récréatives.
-
-- **d.** Il doit s’assurer que l’organisateur de l’activité en tant que tel, observe le programme et le budget alloué.
-
-- **e.** Il doit s’assurer un contrôle adéquat des recettes provenant des activités récréatives et veiller à une rapide rentrée des fonds.
-
-- **f.** Il doit veiller à posséder une publicité adéquate des activités organisées.
-
-- **g.** Il doit s’acquitter des tâches assignées par le président du comité des mess.
-
-*Note. Le responsable des activités n’est pas tenu d’ organiser les activités ; il doit par contre veiller sur le déroulement optimal de chacune d’elles.
 
 ## Finances et cotisations
 
@@ -410,3 +324,89 @@ apporter quelque chose de bénéfique ou de prestige à l'unité.
 **C5.** Le trésorier présente distinctement pour chaque fonds concerné les soldes d’ouverture et de clôture, les sources de revenus, les dépenses et les engagements. Chaque opération indique source, objet, bénéficiaire, justificatif, vote ou délégation et approbations. Les livres demeurent tenus par un tiers selon l’article 39 et les exigences de paiement et de double signature de l’article 46 sont maintenues.
 
 **C6.** Avant mise en place ou modification du financement du fonds d’unité ou du fonds cadeau, le comité obtient confirmation écrite de la qualification BNP, des sources admissibles, de la destination et des autorités d’approbation. Il soumet aux membres une proposition chiffrée identifiant les comptes ou suivis concernés. Cette clause n’autorise ni cotisation nouvelle, ni prélèvement, ni transfert. Les articles 105 à 111 conservent leurs bénéficiaires et plafonds; leur déplacement ne vaut pas autorisation nouvelle de dépense.
+
+## Tâches et responsabilités
+
+<a id="article-36"></a>**36.** Devoirs du président du conseil d’administration du mess (PCAM).
+
+- **a.** Il doit rendre compte au commandant pour tout ce qui touche ses fonctions.
+
+- **b.** Il convoque et préside les réunions du Mess.
+
+- **c.** Il ne peut amender ou appuyer une motion. Dans le cas d'un vote erroné, il ordonne un nouveau vote. Il peut cependant trancher (i.e. utiliser son droit de vote) lorsque tout vote sera égal.
+
+- **d.** Il signe tous les procès-verbaux des séances tenues.
+
+- **e.** Il répond à toutes les questions relatives à l'administration du mess.
+
+- **f.** Il s'assure que les statuts et règlements du mess sont respectés.
+
+- **g.** Il contrôle le travail des autres membres du comité.
+
+- **h.** Il a la responsabilité de maintenir à jour les constitutions suite aux changements proposés et acceptés.
+
+- **i.** Il convoque les réunions du comité du Mess.
+
+- **j.** Il doit examiner les états financiers régulièrement.
+
+- **k.** Les membres du personnel des finances ne peuvent être président du Mess.
+
+<a id="article-37"></a>**37.** Devoirs du vice-président du conseil d’administration du mess (VPCAM).
+
+
+- **a.** Il doit rendre compte au président du comité du mess pour toute tâche lui incombant.
+
+- **b.** Il assiste le président et le remplace en cas d'absence.
+
+- **c.** Les fonctions qu'il devra remplir seront attribuées discrétionnairement par le président.
+
+- **d.** Il a le devoir de maintenir à jour le registre de gestion des meubles et équipements appartenant au Mess et ce selon la répartition propre au Club Chimo et Mess Combiné.
+
+- **e.** Les membres du personnel des finances ne peuvent être vice-président du Mess.
+
+<a id="article-38"></a>**38.** Devoirs du secrétaire.
+
+- **a.** Il doit rendre compte au président du comité du Mess.
+
+- **b.** Il prépare l'ordre du jour des réunions du Mess et publie les convocations des réunions.
+
+- **c.** Il doit prendre et consigner tous les procès-verbaux des réunions. Il est chargé de la garde des registres des procès-verbaux qui doivent être tenus selon la forme indiquée aux PFC 262 art. 319.
+
+
+
+
+- **d.** Il doit signer les procès-verbaux de toutes les réunions. Il doit remettre une copie signé au service de la comptabilité du Mess et Instituts.
+
+- **e.** Il doit tenir une liste complète de tous les membres ainsi que leur adresse et numéro(s) de téléphone.
+
+- **f.** Il est chargé de toute correspondance concernant le Mess.
+
+- **g.** Il s'assure qu'une copie de la constitution est disponible sur demande et qu'une copie est affichée à l'intérieur du Mess.
+
+- **h.** Les membres du personnel des finances peuvent être secrétaire du Mess.
+
+<a id="article-39"></a>**39.** Devoirs du trésorier.
+
+- **a.** Il a la responsabilité d'avoir une liste à jour des membres en règle. Toutes les cotisations sont payables du 1er avril au 31 mars
+
+- **b.** Il ne peut effectuer la tenue des livres comptables. Ceci sera fait par une tierce personne.
+
+- **c.** Il recommande au responsable des fonds non-publics les dépenses approuvées par le comité et les membres du Mess.
+
+<a id="article-41"></a>**41.** Responsabilités du responsable des activités du Club Chimo et Mess Combiné.
+
+- **a.** Il doit rendre compte au président du comité du Mess.
+
+- **b.** Il doit planifier et organiser le programme des activités récréatives.
+
+- **c.** Il doit dresser le budget des activités récréatives.
+
+- **d.** Il doit s’assurer que l’organisateur de l’activité en tant que tel, observe le programme et le budget alloué.
+
+- **e.** Il doit s’assurer un contrôle adéquat des recettes provenant des activités récréatives et veiller à une rapide rentrée des fonds.
+
+- **f.** Il doit veiller à posséder une publicité adéquate des activités organisées.
+
+- **g.** Il doit s’acquitter des tâches assignées par le président du comité des mess.
+
+*Note. Le responsable des activités n’est pas tenu d’ organiser les activités ; il doit par contre veiller sur le déroulement optimal de chacune d’elles.

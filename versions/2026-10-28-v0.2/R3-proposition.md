@@ -5,52 +5,19 @@ title: R3 Assemblées et réunions
 
 # R3 Assemblées et réunions
 
-**Version 0.2.2 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les numéros historiques sont conservés pour faciliter la comparaison; les articles déplacés figurent dans les règlements.
+**Version 0.2.3 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les numéros historiques sont conservés pour faciliter la comparaison; les articles déplacés figurent dans les règlements.
 
-<a id="article-13"></a>**13.** Le calendrier tient compte de la disponibilité estivale. Une assemblée peut être planifiée avant le 30 mai et une autre après le 30 août, dans leurs trimestres respectifs. L’absence de quorum entraîne une nouvelle convocation et ne transfère aucun pouvoir au comité.
+## Préparation et déroulement
 
-<a id="article-15"></a>**15.** À l’ouverture, le secrétaire vérifie les présences au regard du quorum fixé par la constitution et en inscrit le résultat au procès-verbal. Le président applique les modalités du R3.8 si le quorum manque.
+<a id="article-13"></a>**13.** Les dates, le lieu et, s’il y a lieu, le moyen de connexion sont indiqués dans la convocation. Aucune période de l’année n’est exclue pour tenir une assemblée ou une réunion.
 
-<a id="article-16"></a>**16.** Responsabilité du président. Les assemblées du mess sont présidées par le président, en son absence, par le vice-président. Le président de l’assemblée général, à titre, doit veiller à ce que:
-
-- **a.** tout se déroule conformément aux usages parlementaires;
-
-- **b.** chaque membre ait l'occasion de s'exprimer, en évitant toutefois les redites;
-
-- **c.** tous les propos lui soient adressés; et
-
-- **d.** la parole ne soit accordée qu'à une seule personne à la fois.
+<a id="article-15"></a>**15.** Le quorum est vérifié et consigné selon la procédure du R3.8, en appliquant le seuil fixé par la constitution.
 
 <a id="article-17"></a>**17.** Le secrétaire transmet à tous les membres l’avis de convocation au moins 14 jours avant l’assemblée, puis l’ordre du jour et les documents utiles au moins 7 jours avant. Toute proposition de modification est communiquée et affichée au moins 15 jours avant son étude, conformément à l’article 115. L’avis et l’ordre du jour sont également affichés dans les locaux.
 
-<a id="article-18"></a>**18.** Ordre des délibérations. L'ordre des délibérations d'une assemblée générale est habituellement le suivant:
+<a id="article-18"></a>**18.** L’assemblée suit normalement cet ordre : ouverture et vérification du quorum; adoption du procès-verbal précédent; rapports du président, des finances et des sous-comités; suivi des décisions; nouvelles affaires; levée de la séance. Le procès-verbal transmis à l’avance n’a pas à être relu intégralement.
 
-- **a.** ouverture de la séance ;
-
-- **b.** lecture du procès-verbal de la dernière réunion (On peut remettre un exemplaire de ce procès-verbal à chacun des membres avant l'assemblée et en éviter ainsi la lecture) ;
-
-- **c.** adoption du procès-verbal de la dernière assemblée;
-
-- **d.** rapports du président;
-
-- **e.** états financier ;
-
-- **f.** rapports des sous-comités;
-
-- **g.** affaires courantes découlant du procés-verbal de la derniére assemblée;
-
-- **h.** nouvelles affaires; et
-
-- **i.** levée de la séance.
-
-<a id="article-19"></a>**19.** Il est bon qu'une question d'importance, comme une proposition de modification aux statuts ou
-
-aux règlements ou une proposition complexe, soit portée à l'attention des membres à l'avance pour leur
-
-
-
-
-permettre de rassembler les renseignements nécessaires, de se faire une opinion et de préparer les questions qu'ils désirent poser.
+<a id="article-19"></a>**19.** Les propositions importantes ou complexes sont accompagnées des renseignements utiles à leur discussion et transmises avec les documents de séance, selon les délais applicables.
 
 <a id="article-20"></a>**20.** Le membre qui souhaite proposer une motion demande la parole au président de séance. Le texte de la proposition est formulé clairement, puis reformulé par le président pour que tous sachent sur quoi porte le débat. Le secrétaire en consigne le libellé. La recevabilité et les personnes habilitées à proposer sont déterminées par la constitution.
 
@@ -76,7 +43,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 ## Procédure et déroulement des assemblées
 
-Les principes des assemblées, leur fréquence, le quorum, les droits des membres, les règles de majorité, les délais minimaux de convocation et les pouvoirs du comité figurent dans la constitution. Le présent règlement en organise la mise en œuvre. Les articles 13 et 15 à 22 précisent le calendrier, la vérification du quorum, la préparation et le déroulement; ils ne délèguent aucun pouvoir supplémentaire au comité.
+Les principes des assemblées, leur fréquence, le quorum, les droits des membres, les règles de majorité, les délais minimaux de convocation et les pouvoirs du comité figurent dans la constitution. Le présent règlement en organise la mise en œuvre. Les articles 13 et 15 à 22 précisent la convocation, la vérification du quorum, la préparation et le déroulement; ils ne délèguent aucun pouvoir supplémentaire au comité.
 
 **R3.7.** Lors du scrutin, le président fait procéder au décompte des voix. En cas d’égalité, il ordonne un recomptage; si l’égalité subsiste, il exerce la voix prépondérante prévue à l’article 23 de la constitution. Un vote erroné fait l’objet d’un nouveau vote. Le procès-verbal consigne le texte de la proposition, le résultat, les abstentions et l’application éventuelle d’un seuil particulier.
 
@@ -88,12 +55,20 @@ Les principes des assemblées, leur fréquence, le quorum, les droits des membre
 
 **R3.10.** Pour une réunion du comité convoquée selon la constitution, le secrétaire communique la date, le lieu ou le moyen de connexion, les sujets et les pièces utiles aux participants. Le président présente les points à traiter, distribue la parole et fait préciser les suites à donner. Le compte rendu distingue décisions relevant de la délégation du comité, tâches de préparation et recommandations à présenter à l’assemblée. Il désigne un responsable et une échéance pour chaque suivi. Les décisions et recommandations communicables sont diffusées aux membres conformément aux règles documentaires ci-dessous. Cette procédure ne crée ni quorum ni pouvoir de décision nouveau pour le comité.
 
-## Gestion documentaire et continuité
+## Accès aux documents et communication
 
-**R3.1.** Le secrétaire tient un répertoire structuré : constitution, règlements, convocations, ordres du jour, procès-verbaux, décisions, budgets, rapports financiers, inventaires et correspondance officielle. Chaque document porte date, version, statut et preuves d’adoption et d’approbation requises. Le registre des décisions précise responsable, échéance et suivi. Les dossiers du comité et ceux des assemblées sont distincts et reliés par les recommandations et décisions correspondantes.
 
-**R3.2.** Le secrétaire et un suppléant désigné disposent d’un accès de continuité. Une sauvegarde indépendante du répertoire courant est effectuée au moins mensuellement et après toute adoption ou approbation. La restauration est vérifiée au moins annuellement et lors de la relève du secrétaire. La relève comprend inventaire des dossiers, transfert sécurisé des accès et décisions en cours. Les documents sont conservés selon les exigences applicables; aucune durée réglementaire non vérifiée n’est créée ici.
 
 **R3.3.** Tous les membres ont accès aux documents de gouvernance. Coordonnées, dossiers individuels, données médicales, renseignements de sécurité et finances personnelles sont protégés. Une version expurgée permet la consultation du contenu collectif. Toute restriction est expliquée au demandeur, qui peut la soumettre au président puis à l’autorité compétente. La confidentialité ne permet pas de cacher une décision collective ou son incidence financière.
 
 **R3.4.** Les comptes rendus du comité destinés aux membres distinguent les décisions prises dans sa délégation et les recommandations à voter, avec les mêmes précautions de confidentialité. Le site public diffuse les textes autorisés. Les documents réservés aux membres et les pièces confidentielles restent dans un répertoire interne aux accès appropriés et ne sont pas publiés sur GitHub.
+
+
+
+## Tâches et responsabilités
+
+<a id="article-16"></a>**16.** Le président, ou le vice-président en son absence, dirige la séance. Il distribue la parole, évite les répétitions et veille au respect de l’ordre du jour et des procédures. Les interventions lui sont adressées, une personne à la fois.
+
+**R3.1.** Le secrétaire tient un répertoire structuré : constitution, règlements, convocations, ordres du jour, procès-verbaux, décisions, budgets, rapports financiers, inventaires et correspondance officielle. Chaque document porte date, version, statut et preuves d’adoption et d’approbation requises. Le registre des décisions précise responsable, échéance et suivi. Les dossiers du comité et ceux des assemblées sont distincts et reliés par les recommandations et décisions correspondantes.
+
+**R3.2.** Le secrétaire et un suppléant désigné disposent d’un accès de continuité. Une sauvegarde indépendante du répertoire courant est effectuée au moins mensuellement et après toute adoption ou approbation. La restauration est vérifiée au moins annuellement et lors de la relève du secrétaire. La relève comprend inventaire des dossiers, transfert sécurisé des accès et décisions en cours. Les documents sont conservés selon les exigences applicables; aucune durée réglementaire non vérifiée n’est créée ici.

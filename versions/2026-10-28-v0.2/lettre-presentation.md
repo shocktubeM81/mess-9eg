@@ -5,7 +5,7 @@ title: Présentation de la révision des documents du Mess
 
 # Présentation de la révision des documents du Mess
 
-28 octobre 2026 — Version 0.2.2 proposée
+28 octobre 2026 — Version 0.2.3 proposée
 
 Aux membres du Mess et Instituts du 9e Escadron du génie,
 
