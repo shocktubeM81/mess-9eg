@@ -1,0 +1,8 @@
+{
+  "maitre": "texte-maitre.md",
+  "sha256": "18d9ad222f17617ed70a7e5f7902899710dd43dddc956f2ea9a093bb9006049b",
+  "paragraphes": 199,
+  "modele": "9eg.json",
+  "pdf_moteur": "reportlab",
+  "word_pdf_erreur": null
+}

@@ -1,0 +1,14 @@
+const fs = require('fs');
+const nodes = JSON.parse(fs.readFileSync('tmp/anchor-input.json','utf8'));
+const ids = new Map();
+for (const n of nodes) n.before = a => ids.set(a.id,a);
+const article = {children:nodes, appendChild(n){n.before=a=>ids.set(a.id,a);}};
+global.document = {getElementById(id){if(id==='structure-texte')return {textContent:fs.readFileSync('_data/structure.json','utf8')};if(id==='document')return article;return ids.get(id);},createElement(){return {};}};
+global.location={hash:''};
+const src=fs.readFileSync('assets/js/site.js','utf8');
+eval(src.slice(src.indexOf('  const structureNode'),src.indexOf('  const followOldReference')));
+const master=fs.readFileSync('texte-maitre.md','utf8');
+const links=[...master.matchAll(/\]\(#([^)]*)\)/g)].map(m=>m[1]);
+const missing=links.filter(id=>!ids.has(id));
+console.log(ids.size+' ancres; '+links.length+' renvois; destinations manquantes:',missing);
+if(missing.length)process.exit(1);

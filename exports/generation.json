@@ -1,0 +1,8 @@
+{
+  "maitre": "texte-maitre.md",
+  "sha256": "11b96bcd1b2883dd125aa2aac6694b4ba7e2fad3c75d5dcf3617895ca704beea",
+  "paragraphes": 199,
+  "modele": "9eg.json",
+  "pdf_moteur": "word",
+  "word_pdf_erreur": null
+}
