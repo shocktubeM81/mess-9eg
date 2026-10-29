@@ -7,23 +7,27 @@ document_group: constitution
 
 # Annexe G — Régisseur
 
-**Version 0.3 du 28 octobre 2026 — Proposition à discuter et à adopter.** Cette annexe fait partie intégrante de la constitution et suit la même procédure de modification et d’approbation.
+**Version 0.4 du 29 octobre 2026 — Proposition à discuter et à adopter.**
 
 [Constitution du Mess et Instituts](../constitution-consolidee.md) · [Liste des annexes](../constitution-consolidee.md#annexes-des-responsabilites)
 
 ## Responsabilités
 
-- **a.** Il doit rendre compte au président du comité du Mess.
+- **a.** Rendre compte au président.
 
-- **b.** Il doit surveiller et former le personnel du bar tout en veillant à assurer le meilleur rendement.
+- **b.** Superviser et former le personnel du bar. Appuyer les refus de service et organiser l’aide nécessaire en cas d’incident.
 
-- **c.** Il doit commander la marchandise et les fournitures destinées au bar.
+- **c.** Commander, recevoir et sécuriser les marchandises et fournitures.
 
-- **d.** Il doit recevoir et assurer la mise en lieu sûr de la marchandise et des fournitures.
+- **d.** Vérifier les conditions d’ouverture : personnel, hygiène, stocks, prix et autorisations. Assurer le suivi des écarts signalés à la fermeture.
 
-- **e.** Il doit s’acquitter de toutes autres tâches assignées par le président du comité du Mess ou précisées dans les règlements appropriés.
+- **e.** Recevoir les demandes de réservation et les transmettre au président pour présentation au commandant.
 
-- **f.** Garder le contrôle des équipements de jeu, dont le billard, ou désigner le personnel qui en assure la garde.
+- **f.** Tenir les justificatifs des déplacements liés aux commandes.
+
+- **g.** Contrôler les équipements de jeu ou en confier la garde à une personne désignée.
+
+- **h.** Accomplir les tâches confiées par le président.
 
 ## Navigation entre les annexes
 

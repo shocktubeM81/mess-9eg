@@ -1,3 +1,112 @@
+# Concordance de la version 0.4
+
+29 octobre 2026. Les tableaux antérieurs sont conservés ci-dessous comme historique de travail. Leurs numéros ne sont pas ceux de la version actuelle. Les adresses des fichiers sont inchangées.
+
+## Constitution : version 0.3 vers version 0.4
+
+| Article 0.3 | Destination 0.4 |
+|---|---|
+| 1 | Constitution 1 |
+| 2 | Constitution 2 |
+| 3 | Constitution 3 |
+| 4 | Constitution 4 |
+| 5 | Constitution 5 |
+| 6 | Constitution 6 |
+| 7 | Constitution 7 |
+| 8 | Constitution 8 |
+| 9 | Constitution 9 |
+| 10 | Constitution 6 |
+| 11 | Constitution 10 |
+| 12 | Constitution 11 |
+| 13 | Constitution 12 |
+| 14 | Constitution 13 |
+| 15 | Constitution 14 |
+| 16 | Constitution 9 |
+| 17 | Constitution 15 |
+| 18 | Constitution 16 |
+| 19 | Constitution 17 |
+| 20 | Constitution 18 |
+| 21 | Constitution 19 |
+| 22 | Constitution 20 |
+| 23 | Constitution 17 et 21 |
+| 24 | Constitution 21 |
+| 25 | Constitution 9 |
+| 26 | Constitution 22 |
+| 27 | Constitution 23 |
+| 28 | Constitution 24 |
+| 29 | Constitution 25 |
+| 30 | Constitution 26 |
+| 31 | Constitution 27 |
+| 32 | Constitution 28 |
+| 33 | Constitution 29 |
+| 34 | Constitution 30 |
+| 35 | Constitution 31 |
+| 36 | Constitution 32 |
+| 37 | Constitution 33 |
+| 38 | Constitution 34 |
+| 39 | Constitution 35 |
+| 40 | Constitution 36 |
+| 41 | Constitution 37 |
+| 42 | Constitution 38 |
+| 43 | Constitution 39 |
+| 44 | Constitution 40 |
+| 45 | R3.1 |
+| 46 | Constitution 41 |
+| 47 | Constitution 42 |
+| 48 | Constitution 43 |
+| 49 | Constitution 44 |
+| 50 | Constitution 45 |
+| 51 | Constitution 46 |
+| 52 | Constitution 47 |
+| 53 | Constitution 48 |
+| 54 | Constitution 49 |
+| 55 | Constitution 50 |
+| 56 | Constitution 51 |
+| 57 | Constitution 52 |
+| 58 | Constitution 53 |
+| 59 | Constitution 17 et 21; annexe A |
+| 60 | Constitution 54 |
+| 61 | Constitution 55 |
+| 62 | Constitution 56 |
+| 63 | Constitution 57 |
+| 64 | Constitution 55 et 56; annexe A |
+
+Les tâches retirées sont regroupées dans les annexes. Les modalités de quorum passent de l’ancien article 18 au R3.4. Le contenu détaillé du rapport financier reste au nouvel article 57. Les plafonds et conditions des prestations sont conservés.
+
+## Règlements : version 0.3 vers version 0.4
+
+| Texte 0.3 | Destination 0.4 |
+|---|---|
+| R1.1 et R1.2 | R1.1 et R1.2 |
+| R1.3 à R1.5 | R1.4 et R1.5 |
+| R1.6 et R1.7 | R1.3; interdiction aux mineurs dans la constitution 34; contrôles au R4.2 |
+| R1.8 à R1.13 | R1.6 à R1.11 |
+| R1.14 et R1.15 | R1.12 et R1.13; responsabilité financière R2.6; suivi annexe A |
+| R2.1 à R2.5 | R2.1 à R2.5; tâches annexe B |
+| R2.6 et R2.7 | R2.6 |
+| R2.8 et R2.9 | R2.7 et R2.8 |
+| R3.1 à R3.3 | R3.1 à R3.3; tâches annexe C |
+| R3.4 et R3.5 | R3.4; tâche annexe C |
+| R3.6 | R3.5 |
+| R3.7 et R3.8 | R3.6; tâche annexe A |
+| R3.9 et R3.10 | R3.7 et R3.8; pouvoirs constitution 21; tâches annexes A et C |
+| R3.11 | R3.9; procédure conditionnelle d’un vote décisionnel retirée, faute d’autorisation dans la constitution |
+| R3.12 | R3.10; tâches annexes A et C |
+| R3.13 à R3.16 | R3.1, R3.11 et R3.12 |
+| R3.17 et R3.18 | R3.13 et R3.17 |
+| R3.19 et R3.20 | R3.14 et R3.15; compte rendu R3.10 |
+| R3.21 et R3.22 | R3.16; suivi annexes A et C |
+| R3.23 et R3.24 | R3.10, R3.17 et R3.18; tâches annexe C |
+| R4.1 et R4.2 | Introduction, constitution 34 et références du R4 |
+| R4.3 et R4.4 | R4.1 et R4.2; tâches annexes G et H |
+| R4.5 et R4.6 | R4.3; sobriété du personnel constitution 34 |
+| R4.7 et R4.8 | R4.4 et R4.5; tâches annexes G et H |
+| R4.9 et R4.10 | R4.6 et R4.7; tâches annexes G et H |
+
+---
+
+## Historique des concordances précédentes
+
 # Concordance des 116 articles
 
 Version 0.3 du 28 octobre 2026. Source historique : constitution.md au commit 8362362; ordre et modifications manuelles récupérés au commit 38a3600. Les clauses C1 à C6, R2.1 à R2.2, R3.1 à R3.4 et R3.7 à R3.10, ainsi que R4.1 à R4.4 sont nouvelles. La constitution suit désormais une numérotation continue dans l’ordre de lecture. Les règlements suivent une numérotation propre; les anciens numéros ne servent ici que de repères de comparaison.

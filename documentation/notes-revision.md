@@ -102,3 +102,16 @@ Vérification visuelle dans un aperçu local utilisant le gabarit et les fichier
 ## Annexes distinctes et rôles du Mess
 
 Les huit annexes du Mess sont publiées sur des pages autonomes, sans copie dans le corps de la constitution. La constitution conserve leur sommaire et leur statut constitutionnel. Les annexes du commandant et du responsable des drogues et de l’alcool ont été retirées à la demande de l’utilisateur, ces fonctions relevant de l’unité. Les pouvoirs du commandant figurant dans le corps de la constitution restent inchangés. Les annexes restantes sont renumérotées de A à H et proposent un retour vers la constitution et une navigation précédente/suivante.
+
+
+## Version 0.4 — 29 octobre 2026
+
+Simplification rédactionnelle demandée par l’utilisateur. Les textes passent de 64 à 57 articles constitutionnels et de 58 à 46 articles réglementaires. Les phrases de rappel et les renvois à d’autres articles sont retirés des règlements. Les liens aux références externes sont regroupés à leur fin. Les pouvoirs d’approbation restent explicites; les tâches de préparation, de communication, de contrôle et de fermeture sont réunies dans les annexes.
+
+Les clauses d’élection et de représentation sont regroupées. Les modalités de quorum restent dans le R3; son seuil et l’exigence de quorum restent constitutionnels. La procédure conditionnelle d’un hypothétique vote décisionnel par internet est retirée : la constitution ne l’autorise pas. Une consultation en ligne reste une consultation.
+
+Les articles financiers redondants sont réunis. Le plafond annuel des consommations, les bénéficiaires et plafonds des cadeaux, les seuils de vote et les délais de 30 jours (admission associée), 14 jours (convocation), 15 jours (modification constitutionnelle), 7 jours (documents) et 14 jours (relevé des décisions) sont conservés. La fréquence trimestrielle, les sauvegardes mensuelles, les essais annuels de restauration et le traitement des dommages restent exigés.
+
+La transcription originale, les adresses des pages et le gabarit web sont conservés. Le tableau comparatif utilise les numéros actuels; les anciennes concordances sont identifiées comme historiques. Cette passe ne constitue pas une nouvelle validation des politiques ou lois citées.
+
+Vérifications de la version 0.4 : numérotation continue des cinq textes, 68 liens locaux et leurs ancres, absence d’identifiants en double et gabarit commun des 16 pages. Contrôle des seuils, délais et plafonds conservés, puis lecture comparative des dispositions regroupées. Aperçu du R3 sur ordinateur et du R1 sur téléphone sans débordement horizontal; sommaire et page active vérifiés. Le contrôle Git confirme que la transcription originale est inchangée. La compilation complète Jekyll reste à effectuer lors du déploiement.

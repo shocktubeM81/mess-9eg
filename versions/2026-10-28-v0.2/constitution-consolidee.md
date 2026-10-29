@@ -5,13 +5,13 @@ title: Constitution du Mess et Instituts du 9e Escadron du génie
 
 # Constitution du Mess et Instituts du 9e Escadron du génie
 
-**Version 0.3 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les articles suivent l’ordre de lecture; les responsabilités sont regroupées en annexes.
+**Version 0.4 du 29 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après adoption avec quorum et approbation du commandant.
 
 Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québec.
 
 ## Avant-propos
 
-Conformément à la [DOAD 5045-0](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/directives-ordonnances-administratives-defense/serie-5000/5045/5045-0-programmes-de-soutien-du-personnel-des-forces-canadiennes.html) et à la publication [A-PS-110-001/AG-002](https://sbmfc.ca/a-propos/politiques-et-publications/aa-ps-110-soutien-public-aux-programmes-de-bemm), dans leur version en vigueur, la constitution et ses annexes fixent les règles générales du Mess, les droits des membres et les pouvoirs des responsables. Quatre règlements en précisent l’application :
+Conformément à la [DOAD 5045-0](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/directives-ordonnances-administratives-defense/serie-5000/5045/5045-0-programmes-de-soutien-du-personnel-des-forces-canadiennes.html) et à la publication [A-PS-110-001/AG-002](https://sbmfc.ca/a-propos/politiques-et-publications/aa-ps-110-soutien-public-aux-programmes-de-bemm), dans leur version en vigueur, la constitution et ses annexes fixent les règles générales du Mess, les droits des membres et les pouvoirs des responsables. Les règlements précisent son application sans la modifier :
 
 - [R1 — Tenue et comportement](R1-proposition.md);
 - [R2 — Meubles et décorations](R2-proposition.md);
@@ -28,291 +28,177 @@ Conformément à la [DOAD 5045-0](https://www.canada.ca/fr/ministere-defense-nat
 
 ## Membres
 
-<a id="article-4"></a>**4.** Les membres du mess sont ordinaires, associés, ou honoraires.
+<a id="article-4"></a>**4.** Les membres du Mess sont ordinaires, associés ou honoraires.
 
-- **a.** Membres ordinaires.
-
-  - **(1)** Personnel militaire ou civil travaillant au 9 EG.
-
-  - **(2)** Personnel militaire ou civil attaché au 9 EG (exemple : personnel du centre de recrutement et membres CIC des différents corps de cadets).
-
-- **b.** Membres associés.
-
-  - **(1)** Toute autre personne désireuse de devenir membre associé doit adresser par écrit une demande officielle au président. Cette demande doit être appuyée par un membre ordinaire et affichée au moins 30 jours avant une assemblée générale. Si un membre juge qu’un candidat ne peut devenir membre associé, il doit faire part de ses observations/objections par écrit au président. De plus, la demande sera évaluée par le comité du mess pour acceptation. Néanmoins, il incombe que la demande soit présentée à l’assemblée générale suivante pour fins d’approbation.
-
-  - **(2)** Le total des membres mentionnés en (1) est limité à 65% du total des membres ordinaires; une liste d’attente sera dressée au besoin.
-
-  - **(3)** À l’occasion de la première assemblée générale ordinaire ou extraordinaire de chaque année civile, le comité du mess doit présenter la question du renouvellement de tous les membres associés pour l’année financière suivante (du 1er avril de l’année courante au 31 Mars de l’année suivante).
-
-  - **(4)** Le comité du mess peut annuler les privilèges d’un membre associé pour non-paiement des cotisations, inconduite, désobéissance aux statuts et règlements du mess ou pour tout autre motif valable.
-
-  - **(5)** Un membre associé dont les privilèges ont été révoqués pour non-paiement des cotisations doit, s’il désire réintégrer le mess, présenter une nouvelle demande, conformément aux dispositions de l’alinéa (1) ou (2) à moins qu’il puisse se justifier auprès du PCAM pour ne pas avoir versé ses cotisations.
-
-  - **(6)** Les membres associés peuvent participer aux activités sociales et assister aux assemblées du Mess, où ils peuvent prendre part aux discussions sans droit de vote, conformément à l’[article 19](#article-19). Ils ne peuvent faire partie du comité du Mess. Ils peuvent prêter leur concours au comité ou à des sous-comités, sans toutefois assumer de responsabilités.
-
-  - **(7)** Les membres associés ne doivent pas assister à des évènements officiels à caractère militaire comme des dîners régimentaires, la « levée » du Jour de l’an, les visites inter-mess, etc., à moins d’avoir reçu du PCAM une invitation en bonne et due forme.
-
-  - **(8)** Voici les deux classes éligibles pour appliquer en tant que membre associé :
-
-    **(a)** Classe I — militaires.
-
-    - **i.** Militaires à la retraite ou libérés des Forces armées canadiennes.
-
-    - **ii.** Militaires encore en service mais faisant partie d’une autre unité ou base.
-
-    **(b)** Classe II — civils.
-
-    - **i.** Anciens membres des Mess du 9 EG.
-
-    - **ii.** Personnes qui peuvent apporter quelque chose de bénéfique à l'unité.
-
-- **c.** Membres honoraires.
-
-  - **(1)** Tout membre de la force régulière ou de la première réserve membre d’un autre mess et considéré comme membre honoraire du mess correspondant à son grade.
-
-  - **(2)** Les membres honoraires peuvent également être toute personne de marque invitée à devenir membre honoraire du mess pour une période n’excédant pas une année, sous réserve de la possibilité de renouvellement pour d’autres périodes d’une année, sur la recommandation du comité du mess et avec l’approbation du cmdt ;
-
-  - **(3)** Les personnes susceptibles à être choisies à devenir membres honoraires sont :
-
-    - **(a)** Les anciens combattants.
-
-    - **(b)** Les personnes ayant fait quelque chose d'exceptionnel pour l'unité.
-
-    - **(c)** Toute personne, qui en vertu de son statut civil ou militaire, pourrait apporter quelque chose de bénéfique ou de prestige à l'unité.
-
-- **d.** Membres honoraires à vie. Les membres honoraires à vie sont des anciens membres ordinaires ou honoraires à qui on leur accorde un statut « à vie » lors de leur départ à la retraite. Si un membre honoraire à vie désire devenir membre associé, il peut en faire la demande au cmdt par l’entremise du comité du mess. Les personnes pouvant devenir membres à vie sont ceux ayant apporté une contribution majeure au 9 EG mais ne faisant plus partie de l’escadron. Les personnes suivantes sont considérées «de facto» comme membre honoraires à vie :
-
-  - **(1)** Les anciens commandants du 9 EG.
-
-  - **(2)** Les anciens sergents-major du 9 EG.
-
-  - **(3)** Les anciens lieutenants-colonels honoraires du 9 EG.
-
-  - **(4)** Les membres ayant plus de 12 ans de services au sein du 9 EG.
-
-*Note. Le privilège de membre à vie peu être révoqué suite à un manquement pouvant porté ombrage à l’escadron ou au Mess et Instituts du 9e Escadron du Génie. La révocation d’un membre à vie doit être voté lors d’une assemble du Mess et Instituts.
+- **a. Membres ordinaires.** Personnel militaire ou civil travaillant au 9 EG ou y étant attaché, notamment le personnel du centre de recrutement et les membres CIC des corps de cadets.
+- **b. Membres associés.**
+  - **(1)** La demande écrite est adressée au président et appuyée par un membre ordinaire. Elle est affichée au moins 30 jours avant une assemblée générale. Les objections sont transmises par écrit au président. La demande est examinée par le comité, puis soumise à l’approbation de l’assemblée générale suivante.
+  - **(2)** Le nombre de membres associés est limité à 65 % du nombre de membres ordinaires. Une liste d’attente est tenue au besoin.
+  - **(3)** Le renouvellement pour l’année financière suivante est soumis à la première assemblée générale de chaque année civile.
+  - **(4)** Le comité peut révoquer les privilèges pour non-paiement, inconduite, non-respect des textes du Mess ou autre motif valable.
+  - **(5)** Après une révocation pour non-paiement, une nouvelle demande est requise, sauf si le défaut de paiement est justifié auprès du président.
+  - **(6)** Les membres associés peuvent participer aux activités sociales et aider le comité ou les sous-comités, sans y assumer de responsabilités.
+  - **(7)** La participation aux événements officiels à caractère militaire exige une invitation du président.
+  - **(8)** Deux classes sont admissibles : **classe I**, militaires retraités, libérés ou en service dans une autre unité ou base; **classe II**, civils ayant été membres des Mess du 9 EG ou pouvant contribuer au bien de l’unité.
+- **c. Membres honoraires.**
+  - **(1)** Les militaires de la Force régulière ou de la Première réserve membres d’un autre mess sont membres honoraires du mess correspondant à leur grade.
+  - **(2)** Une personne de marque peut être invitée pour un an, renouvelable, sur recommandation du comité et avec l’approbation du commandant.
+  - **(3)** Sont admissibles les anciens combattants, les personnes ayant rendu un service exceptionnel à l’unité et celles pouvant contribuer à son bien ou à son prestige.
+- **d. Membres honoraires à vie.** Ce statut peut être accordé à la retraite à un ancien membre ordinaire ou honoraire ayant apporté une contribution majeure au 9 EG. Les anciens commandants, sergents-majors et lieutenants-colonels honoraires du 9 EG, ainsi que les membres ayant plus de 12 ans de service au 9 EG, en bénéficient de fait. Une demande de statut associé peut être adressée au commandant par l’entremise du comité. Le statut à vie peut être révoqué par un vote de l’assemblée pour un manquement portant ombrage à l’escadron ou au Mess.
 
 ## Comité du mess
 
-<a id="article-5"></a>**5.** Seuls les membres ordinaires peuvent faire partie du comité du mess. Seul un membre actif du 9 EG peut en être le président, et ce avec l’approbation du Commandant. Les membres du personnel des finances ne peuvent être président ou vice-président. Les tâches de chaque rôle sont définies dans les annexes de la constitution.
+<a id="article-5"></a>**5.** Seuls les membres ordinaires peuvent siéger au comité. La présidence est réservée à un membre actif du 9 EG, avec l’approbation du commandant. Le personnel des finances ne peut occuper la présidence ou la vice-présidence.
 
-<a id="article-6"></a>**6.** Les membres du comité devront être représentatifs du Club Chimo et du Mess Combiné. La répartition des postes devra être occupée à 50% par les membres du Mess Combiné et 50% par les membres du Club Chimo.
+<a id="article-6"></a>**6.** Le comité comprend autant de membres du Club Chimo que du Mess Combiné. Les grades y sont représentés équitablement dans la mesure du possible.
 
-<a id="article-7"></a>**7.** Le comité devrait se composer comme suit :
+<a id="article-7"></a>**7.** Le comité comprend le président, le vice-président, le secrétaire-trésorier et un responsable des activités pour chacun des deux locaux.
 
-  - **a.** Le président.
+<a id="article-8"></a>**8.** Les fonctions de secrétaire et de trésorier peuvent être confiées à deux personnes.
 
-  - **b.** Le vice-président.
+<a id="article-9"></a>**9.** Les membres du comité sont élus à la majorité simple par l’assemblée générale, normalement en décembre. Le mandat du président et du vice-président est d’au moins un an, selon leur disponibilité. Normalement, au plus la moitié du comité est remplacée à une même assemblée. Le régisseur est nommé par le commandant.
 
-  - **c.** Le secrétaire-trésorier.
+<a id="article-10"></a>**10.** Un poste vacant est comblé à la première réunion suivant la vacance.
 
-  - **d.** Le responsable des activités du Club Chimo.
+<a id="article-11"></a>**11.** Toute personne autorisant un achat ou un paiement doit agir avec diligence. La mauvaise gestion flagrante, la dilapidation ou le détournement de fonds entraînent la relève des fonctions et la réparation des torts causés au Mess.
 
-  - **e.** Le responsable des activités du Mess Combiné.
+<a id="article-12"></a>**12.** La destitution d’un membre du comité exige un motif suffisant, un préavis d’au moins un mois et un vote favorable d’au moins 75 % des personnes présentes à l’assemblée.
 
-<a id="article-8"></a>**8.** Les postes de secrétaire et trésorier peuvent être remplis par deux personnes différentes.
-
-<a id="article-9"></a>**9.** Les membres de ce comité sont élus à majorité simple, généralement à la réunion du mois de décembre à l’exception du régisseur qui est nominé par le commandant.
-
-<a id="article-10"></a>**10.** Dans le cas de tout mess, il convient que tous les grades soient équitablement représentés au sein du comité, dans la mesure du possible.
-
-<a id="article-11"></a>**11.** Si un poste devient vacant, il doit être comblé à la première réunion suivant la date de vacance.
-
-<a id="article-12"></a>**12.** Les membres du comité du mess ainsi que tous ceux ou celles qui auront à autoriser ou à signer des achats ou paiements, devront le faire en tant que bon gestionnaire. Dans le cas de mauvaise gestion flagrante, dilapidation ou de détournement d’argent, la ou les personnes impliquées seront relevées de leurs fonctions et devront réparer les torts causés au Mess.
-
-<a id="article-13"></a>**13.** Destitution d'un membre du comité. Pour qu'une destitution soit autorisée, il faut une raison suffisante et la proposition de destitution doit être appuyée d'un vote au cours d'une assemblée. Un minimum de 75% des votes des personnes présentes à la réunion est obligatoire pour que la destitution soit en règle. L’avis de destitution doit être présenté au minimum un mois avant le vote.
-
-<a id="article-14"></a>**14.** Le comité prépare les dossiers, exécute les décisions des membres et gère les affaires courantes dans les limites du budget et des délégations approuvés. Il rend compte à l’assemblée et sert d’intermédiaire avec le commandant. Les élections, destitutions, cotisations, budgets et amendements réservés aux membres ne peuvent être décidés à leur place par le comité. Celui-ci obtient les approbations requises avant exécution.
-
+<a id="article-13"></a>**13.** Le comité gère les affaires courantes dans les limites du budget et des délégations approuvés. Les élections, destitutions, cotisations, budgets et modifications à la constitution relèvent des membres. Les approbations requises précèdent l’exécution des décisions.
 
 ## Assemblées générales
 
-<a id="article-15"></a>**15.** Une assemblée générale des membres est tenue chaque trimestre. Le calendrier annuel tient compte des entraînements et est communiqué aux membres. Les réunions du comité préparent et exécutent les décisions; elles ne remplacent aucune assemblée trimestrielle.
+<a id="article-14"></a>**14.** Une assemblée générale des membres est tenue chaque trimestre. Une réunion du comité ne peut la remplacer.
 
-<a id="article-16"></a>**16.** Lors d'une réunion spéciale, généralement au mois de décembre, les membres du comité du mess seront élus. Lors de toute élection, normalement pas plus de 50% des membres du comité ne sera substitué à une même assemblée.
+<a id="article-15"></a>**15.** Un rapport financier sommaire est présenté à chaque assemblée générale.
 
-<a id="article-17"></a>**17.** Un rapport financier sommaire est présenté à chaque assemblée générale. Il distingue les opérations du Mess, le fonds cadeau et, le cas échéant, les opérations relatives au fonds d’unité, sans confondre leur propriété ni leur autorité financière.
+<a id="article-16"></a>**16.** Le quorum est formé de plus de 50 % des membres ordinaires en règle et disponibles en région. Toute décision de l’assemblée exige le quorum.
 
-<a id="article-18"></a>**18.** Le quorum d’une assemblée générale ordinaire ou extraordinaire est formé de plus de 50 % des membres ordinaires en règle et disponibles en région. Aucune décision de l’assemblée ne peut être prise sans ce quorum. Le quorum est vérifié à l’ouverture et avant toute décision si une perte de quorum est signalée. Sans quorum 30 minutes après l’heure prévue, l’assemblée est annulée et convoquée de nouveau; aucune décision ne peut être prise après une perte de quorum.
+<a id="article-17"></a>**17.** Les membres ordinaires en règle ont droit de vote. Les membres associés et honoraires peuvent assister aux assemblées et participer aux discussions, sans voter.
 
-<a id="article-19"></a>**19.** Les membres honoraires et associés peuvent assister aux réunions et participer aux discussions, mais n'ont aucun droit de vote.
+<a id="article-18"></a>**18.** Le commandant peut assister aux assemblées et participer aux discussions, sans voter. À la révision du procès-verbal, il peut opposer son veto à une décision, mais ne peut modifier la proposition.
 
-<a id="article-20"></a>**20.** Le commandant pourra être présent aux réunions s'il le désire, mais il ne participera pas au vote. Par contre, il pourra exprimer son opinion. Lors de la révision du procès verbale, le commandant pourra annuler un vote avec son droit de véto. Il ne peut pas seulement modifier la proposition.
+<a id="article-19"></a>**19.** Une assemblée extraordinaire peut être convoquée par le commandant, le président ou une demande écrite d’au moins 25 % des membres ordinaires en règle.
 
-<a id="article-21"></a>**21.** Il faut noter que les réunions extraordinaires peuvent être convoquées par le commandant, le président du comité du mess ou par une demande écrite d'au moins 25% des membres ordinaires en règle.
+<a id="article-20"></a>**20.** Le commandant ou le président peut convoquer une réunion du comité.
 
-<a id="article-22"></a>**22.** Au niveau des réunions du comité du mess, c'est le commandant ou le président de ce comité qui les convoque.
+<a id="article-21"></a>**21.** Les décisions sont adoptées à plus de la moitié des voix exprimées, sans compter les abstentions, sauf seuil particulier prévu à la constitution. Les membres ordinaires en règle peuvent proposer et appuyer une motion, à l’exception du commandant et du président de séance. Le président de séance ne peut amender une motion et ne vote que pour trancher une égalité après recomptage. Les motions sont appuyées, débattues puis votées. Leur texte et le résultat sont consignés au procès-verbal.
 
-<a id="article-23"></a>**23.** Introduction. Une assemblée générale vise à permettre aux membres de discuter à fond, d'une manière démocratique, de sujets reliés à l'exploitation du mess et de prendre des décisions qui reflètent la volonté de la majorité.
-
-<a id="article-24"></a>**24.** Les décisions de l’assemblée sont adoptées à une majorité strictement supérieure à la moitié des voix exprimées par les membres ayant droit de vote, sans compter les abstentions, sauf seuil particulier prévu à la constitution. Le président de séance ne propose, n’amende ni n’appuie de motion et ne vote que pour trancher une égalité qui subsiste après recomptage. Les membres ordinaires en règle peuvent proposer et appuyer des motions; le président de séance et le commandant ne proposent ni n’appuient de motion.
-
-<a id="article-25"></a>**25.** Mise en candidature.
-
-  - **a.** Le président est voté par l’assemblée générale.
-
-  - **b.** Le vice-président est voté par l’assemblée générale.
-
-  - **c.** La période d'office du président et du vice-président sera d'une durée minimale de un an selon la disponibilité de chacun.
-
-<a id="article-26"></a>**26.** Chaque membre reçoit un avis de convocation au moins 14 jours avant l’assemblée, même si sa date a déjà été annoncée. Toute proposition de modification est communiquée et affichée au moins 15 jours avant son étude. Les avis précisent les sujets à examiner afin que les membres puissent préparer leur participation.
+<a id="article-22"></a>**22.** Un avis de convocation est communiqué à chaque membre au moins 14 jours avant l’assemblée, même si la date a déjà été annoncée. Il indique les sujets à examiner.
 
 ## Finances et cotisations
 
-<a id="article-27"></a>**27.** Profits personnels. Les membres du comité ne peuvent faire aucun profit personnel, ni recevoir de rémunération ou avantage à l'occasion de leur participation à la gestion du Mess. Toutefois, si par l'effet d'une participation d'une firme faisant des affaires avec le Mess, un membre du comité est susceptible de retirer certains avantages, il doit en aviser le commandant [Manuel des politiques des PSP](https://www.sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf).
+<a id="article-23"></a>**23.** Les membres du comité ne peuvent tirer de profit personnel, de rémunération ou d’avantage de leur gestion du Mess. Tout avantage possible lié à leur participation à une entreprise faisant affaire avec le Mess est déclaré au commandant ([Manuel des politiques des PSP](https://www.sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf)).
 
-<a id="article-28"></a>**28.** Salaire. Les serveurs formés et le régisseur peuvent recevoir un salaire comme employé du SBMFC, à condition d’avoir une partie du budget annuel prévu pour le salaire de la tâche en particulier.
+<a id="article-24"></a>**24.** Les serveurs formés et le régisseur peuvent être rémunérés comme employés des SBMFC si le budget annuel prévoit leur salaire. Sinon, ces fonctions sont bénévoles. Les frais de déplacement du régisseur pour les commandes sont remboursables selon les directives des SBMFC, jusqu’à 500 $ par année.
 
-- **(1)** Comme employés du SBMFC, ils seront supervisés par le régisseur qui sera à son tour supervisé par le PCAM.
+<a id="article-25"></a>**25.** Les cotisations servent uniquement aux besoins du Mess ([Manuel des politiques des PSP, chapitre 9-1](https://www.sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf)).
 
-- **(2)** À défaut d’avoir un budget suffisant pour l’une ou l’autre des tâches énumérées plus haut, les membres seront considérés comme des bénévoles du SMBFC.
+- **a.** Elles sont dues par les membres ordinaires et associés pour l’année du 1er avril au 31 mars suivant.
+- **b.** Les taux annuels et les comptes de dépôt sont votés à la dernière assemblée de l’année financière, en mars. Tout changement de taux exige un vote de l’assemblée.
+- **c.** Les réservistes paient par délégation de solde, en un ou deux versements.
+- **d.** Les militaires de la Force régulière et les civils paient directement au Mess, en espèces ou par chèque. Un reçu est remis.
+- **e.** Une période de service hors de l’unité comme membre ordinaire d’un autre mess donne droit à un remboursement sur preuve de paiement. Il est calculé au prorata des jours, au taux annuel du local d’appartenance.
+- **f.** En cas d’enrôlement, de mutation, d’attachement ou de libération en cours d’année, la cotisation est calculée au prorata des jours d’appartenance. Le trop-perçu est remboursé.
+- **g.** Les remboursements sont effectués par transfert de fonds selon les directives des SBMFC.
 
+<a id="article-26"></a>**26.** Transactions.
 
+- **a.** Tout changement de prix des consommations exige, avant son entrée en vigueur, l’approbation de l’assemblée et/ou du commandant.
+- **b.** Les achats et dépenses du Mess sont payés par chèque.
+- **c.** Seuls le président et le commandant peuvent offrir une consommation par membre présent aux frais du Mess, en sonnant la cloche ou en distribuant des billets. L’offre bénéficie à l’ensemble des membres présents. Le coût total reste dans le plafond annuel du budget approuvé.
 
+<a id="article-27"></a>**27.** Le comité de divertissement peut engager les dépenses mensuelles prévues au budget annuel adopté par l’assemblée, si les fonds sont disponibles et si le comité du Mess a approuvé le calendrier des activités.
 
-- **(3)** Le régisseur pourra se faire rembourser ses frais de déplacement pour aller chercher ou porter des commandes et ce aux frais du mess. Selon les directives en vigueur par le SBMFC et jusqu’a concurrence de 500$ par année. »
+<a id="article-28"></a>**28.** Le commandant peut autoriser la radiation d’une perte ou d’un dommage aux biens non publics dans les circonstances et limites prévues par l’[A-FN-105-001/AG-001](https://sbmfc.ca/a-propos/politiques-et-publications/comptabilite-biens-non-publics/a-fn-105).
 
-<a id="article-29"></a>**29.** Cotisations.
+<a id="article-29"></a>**29.** Les revenus et dépenses sont répartis selon le pourcentage des ventes des utilisateurs. Les frais d’exploitation ont priorité sur les activités sociales.
 
-- **a.** Les cotisations couvriront les frais d'exploitation du Mess, et ne peuvent servir que pour les besoins du Mess ([Manuel des politiques des PSP, chapitre 9-1](https://www.sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf)).
+<a id="article-30"></a>**30.** Le président peut engager jusqu’à 100 $ par mois pour de petits achats. Ces dépenses sont soumises à la prochaine assemblée pour acceptation.
 
-- **b.** Elles ne sont payables que par les membres ordinaires et associés.
-
-- **c.** Les cotisations couvrent du 1er avril au 31 mars d'une même année.
-
-- **d.** Tout changement au montant des cotisations annuelles est sujet au vote lors d'une assemblée générale.
-
-- **e.** Les taux des cotisations annuelles pour les membres ordinaires et associés seront votés lors de la dernière assemblée ordinaire ou extraordinaire de l’année, i.e. au mois de mars de chaque année.
-
-- **f.** Le montant total des cotisations sera déposé dans le ou les comptes selon la proposition retenue suite à un vote pris par les membres durant une assemblée, i.e. au mois de mars de chaque année.
-
-- **g.** Pour les réservistes, la cotisation sera payée en un ou deux versement par délégation de solde.
-
-- **h.** Pour les membres de la force régulière et les membres civils, ils devront payer leur cotisation directement au Mess en argent comptant, ou par chèque. Sur réception du paiement, un reçu sera émis.
-
-- **i.** La cotisation sera remboursé pour une période passée en service à l’extérieure de l’unité, pendant laquelle le membre aura été membre ordinaire d’un autre mess. Une preuve de paiement devra être présentée. Le montant du remboursement sera équivalent au nombre de jours qu’il aura été membre ordinaire de l’autre mess aux taux annuel en vigueur au Club Chimo ou Mess combiné.
-
-- **j.** Le personnel qui s’enrôle, est muté, attaché ou libéré pendant la période du 1er avril au 31 mars d'une même année, devra payer sa cotisation proportionnellement au nombre de jours où il a été membre ordinaire du mess. Si la cotisation a déjà été payée au début de l’année, les journées payées en trop lui seront remboursées.
-
-- **k.** Le mess paiera le remboursement de cotisation par transferts de fonds conformément aux directives du SBMFC.
-
-<a id="article-30"></a>**30.** Transactions.
-
-- **a.** Le prix des consommations sera affiché à la vue du consommateur. Tout changement de prix devra être approuvé, avant son entrée en vigueur, lors de l'assemblée du mess et/ou par approbation du commandant.
-
-- **b.** Paiement des achats et dépenses. Tous les achats et dépenses faits pour les besoins du mess seront payés par chèque.
-
-- **c.** Consommations offertes par le Mess. Seuls le PCAM et le commandant peuvent autoriser une consommation par membre présent aux frais du Mess, en sonnant la cloche ou en distribuant des billets. L’offre doit bénéficier à l’ensemble des membres présents. Le coût total de ces consommations ne doit pas dépasser le plafond annuel fixé au budget approuvé. Les règles de service du bar demeurent applicables.
-
-<a id="article-31"></a>**31.** Dépenses du comité de divertissement. Le comité du divertissement est autorisé à dépenser chaque mois le montant établi dans les prévisions budgétaires, afin d’offrir des divertissements aux membres et à leurs invités, sous réserve des conditions suivantes :
-
-- **(1)** le calendrier des divertissements doit être approuvé par le comité du mess;
-
-- **(2)** les prévisions budgétaires annuelles doivent avoir été approuvées à l’occasion d’une assemblée générale ordinaire ou extraordinaire; et
-
-- **(3)** les fonds doivent être disponibles.
-
-<a id="article-32"></a>**32.** Radiations et pertes. En cas de perte de biens ou de dommages à la propriété non publique. Lors des circonstances spéciales, le commandant peut radier une somme ne dépassant pas la valeur indiquée dans l’[A-FN-105-001/AG-001](https://sbmfc.ca/a-propos/politiques-et-publications/comptabilite-biens-non-publics/a-fn-105).
-
-<a id="article-33"></a>**33.** La répartition des revenus et des dépenses est basé sur le pourcentage des ventes des utilisateurs. Il est à noter que les frais d’exploitation du mess (frais fixes, entretient...) ont la priorité sur les activités sociales du mess.
-
-<a id="article-34"></a>**34.** Le président possède le pouvoir de dépenser un montant maximal de 100 $ mensuellement si nécessaire. Ce montant a pour but de faciliter les petits achats. Tous ces achats devront être appuyés ou acceptés lors de la prochaine assemblée.
-
-<a id="article-35"></a>**35.** Le fond du président est géré par le président et le trésorier du Mess. Ce fond doit servir à l'embellissement du Mess ou au bien-être de ses membres. Les dépenses seront autorisées par le président ou le trésorier et devront être acceptées lors de la prochaine réunion.
+<a id="article-31"></a>**31.** Le fonds du président sert à l’embellissement du Mess et au bien-être des membres. Ses dépenses sont autorisées par le président ou le trésorier, puis soumises à la prochaine réunion pour acceptation.
 
 ## Règles générales d’utilisation du Mess
 
-<a id="article-36"></a>**36.** Toute personne admise au Mess respecte l’ordre, la propreté, la sécurité et une tenue convenable. Les membres répondent de leurs invités. Les conditions particulières d’accès, d’accompagnement et de tenue peuvent être précisées par règlement, dans le respect des [Instructions sur la tenue des Forces canadiennes](https://www.canada.ca/fr/services/defense/fac/systeme-identite-militaire/instructions-tenue/chapitre-2.html) pour le port de l’uniforme.
+<a id="article-32"></a>**32.** Toute personne admise au Mess respecte l’ordre, la propreté, la sécurité et une tenue convenable. Les membres répondent de leurs invités. Un règlement peut préciser les conditions d’accès, d’accompagnement et de tenue. Le port de l’uniforme respecte les [Instructions sur la tenue des Forces canadiennes](https://www.canada.ca/fr/services/defense/fac/systeme-identite-militaire/instructions-tenue/chapitre-2.html).
 
-<a id="article-37"></a>**37.** Il est interdit d’installer une décoration permanente, une plaque, un tableau ou un trophée, ou de déplacer, retirer ou vendre un bien du Mess, sauf dans les cas et selon les conditions autorisés par règlement. Toute permission respecte la propriété du bien, les conditions de don ou de prêt, les délégations et les approbations financières applicables. La provenance des biens reçus doit être documentée.
+<a id="article-33"></a>**33.** Il est interdit d’installer une décoration permanente, une plaque, un tableau ou un trophée, ou de déplacer, retirer ou vendre un bien du Mess, sauf dans les cas autorisés par règlement. Toute permission respecte la propriété, les conditions de don ou de prêt, les délégations et les approbations financières. La provenance des biens reçus est documentée.
 
-<a id="article-38"></a>**38.** Le service du bar est assuré par le personnel autorisé et respecte les lois et les autorisations applicables. Il est interdit de vendre ou servir de l’alcool aux personnes de moins de 18 ans ou en état d’ébriété. Le personnel demeure sobre pendant son service et les prix sont affichés. Un règlement peut préciser les modalités du service, les contrôles et les mesures de sécurité; il ne peut autoriser un service interdit par la loi.
+<a id="article-34"></a>**34.** Le service du bar est réservé au personnel autorisé. Il respecte les lois et les autorisations applicables. Il est interdit de vendre ou servir de l’alcool aux personnes de moins de 18 ans ou en état d’ébriété. Le personnel reste sobre pendant le service. Les prix sont affichés. Un règlement peut préciser les modalités de service et de sécurité.
 
-<a id="article-39"></a>**39.** Les membres ont accès aux textes de gouvernance, aux décisions, aux budgets et aux rapports qui leur sont destinés. Les avis et les changements sont communiqués de façon proactive. Les renseignements personnels et confidentiels sont protégés. Les documents officiels et les preuves d’approbation sont conservés et sauvegardés; un règlement peut préciser les moyens de consultation, de communication et de conservation.
+<a id="article-35"></a>**35.** Les membres ont accès aux textes de gouvernance, décisions, budgets et rapports qui leur sont destinés. Les avis et changements leur sont communiqués directement. Les renseignements personnels et confidentiels sont protégés. Les documents officiels et les preuves d’approbation sont conservés et sauvegardés. Un règlement peut préciser ces modalités.
 
 ## Réceptions privées
 
-<a id="article-40"></a>**40.** Les réceptions privées peuvent être organisées par les membres du Mess ainsi que des non-membres désirant utiliser les locaux du Mess.
+<a id="article-36"></a>**36.** Les membres et les non-membres peuvent organiser une réception privée au Mess.
 
-<a id="article-41"></a>**41.** Les réservations seront faites par le biais du régisseur, qui devra présenter les demandes au président qui les fera suivre au commandant pour approbation. Le commandant se réserve le droit de refuser toute demande de réservation sans présenter de justification. Les réservations ne seront normalement pas acceptées pour les journées au cours desquels il y aura de l'entraînement à l’escadron car les membres auront toujours priorité pour l'utilisation de leur Mess.
+<a id="article-37"></a>**37.** Toute réservation exige l’approbation du commandant, qui peut la refuser sans justification. Les membres ont priorité sur l’utilisation des locaux. Les réservations ne sont normalement pas acceptées les jours d’entraînement de l’escadron.
 
-<a id="article-42"></a>**42.** Lorsqu’un membre associé, un membre honoraire ou un membre à vie souhaite procéder à la location du Mess combiné pour un événement privé, ceux-ci pourront le faire sans frais de location. Ils devront cependant payer les frais de barman, si applicables.
+<a id="article-38"></a>**38.** Les membres associés, honoraires et honoraires à vie peuvent réserver le Mess Combiné sans frais de location. Les frais de service du bar restent payables.
 
-<a id="article-43"></a>**43.** Le conseil d'administration établira les frais d'utilisation pour chaque demande. Ces frais seront inscrits sur le contrat d'utilisation. S'il s'agit d'une activité organisée:
+<a id="article-39"></a>**39.** Les frais d’utilisation sont établis par le comité et inscrits au contrat.
 
-- **a.** par un membre du Mess, les frais seront établis en fonction du coût réel (serveurs, nettoyage, etc), et les profits des ventes du bar pour cette activité serviront à couvrir les frais. Le membre qui organise l'activité sera tenu responsable de la balance des frais d'opération pour la réception; et
-
-- **b.** par un non-membre, le conseil établira un coût d'utilisation payable par le responsable de l'activité en conformité de la loi sur les prestations de service en vigueur. Ce coût d'utilisation couvrira tous les frais associés à l'activité, ainsi qu'un montant raisonnable pour l'amortissement des biens appartenant au Mess. À défaut d’avoir un représentant membre ordinaire en règle, le barman sera l’autorité lors de la réception.
+- **a.** Pour une activité d’un membre, ils correspondent aux frais réels, notamment de service et de nettoyage. Les profits du bar servent à les couvrir. Le membre paie le solde.
+- **b.** Pour une activité d’un non-membre, ils couvrent tous les frais et un montant raisonnable d’amortissement des biens, conformément à la loi sur les prestations de service.
 
 ## Activités
 
-<a id="article-44"></a>**44.** Toute suggestion pour fonction sociale ou activité sera soumise au responsable des activités pour être votée lors d'une assemblée générale ou approbation du commandant.
+<a id="article-40"></a>**40.** Les propositions d’activités sont soumises au vote de l’assemblée ou à l’approbation du commandant.
 
-<a id="article-45"></a>**45.** Un calendrier des activités devra être affiché dans les locaux du mess pour que tous les membres puissent le consulter librement.
+<a id="article-41"></a>**41.** Un budget des activités est soumis en décembre pour coordonner le calendrier avec les exercices du 9 EG et les autres occupants du manège.
 
-<a id="article-46"></a>**46.** Un budget devra être soumis en décembre de chaque année afin de pouvoir planifier les activités avec les exercices du 9e Escadron du Génie ainsi que les autres occupants du manège.
-
-<a id="article-47"></a>**47.** Afin de souligner le support des familles des membres, une activité annuelle sous la thématique du Noël des enfants se fera prévu au calendrier des Mess. Un montant maximum de 150$ sera attribué pour financer cette activité.
+<a id="article-42"></a>**42.** Le calendrier prévoit un Noël des enfants annuel pour souligner le soutien des familles. Son financement est limité à 150 $.
 
 ## Fonds cadeau
 
-<a id="article-48"></a>**48.** Décès. Des fleurs ou autres pour un montant maximal de 50 $ seront envoyées au salon funéraire lors du décès du conjoint, des enfants, des parents. Pour ce qui est du décès d'un membre le montant pourra être doublé pour les membres réguliers et associés.
+<a id="article-43"></a>**43.** Décès. Des fleurs ou un autre présent d’au plus 50 $ sont envoyés au salon funéraire au décès du conjoint, d’un enfant ou d’un parent d’un membre. Au décès d’un membre ordinaire ou associé, ce montant peut être doublé.
 
-<a id="article-49"></a>**49.** Naissance. Des fleurs ou autres cadeaux au montant maximal de 75 $ pour les naissances. Les fleurs ou autres cadeaux seront envoyées à l'hôpital ou à la résidence lors de la naissance d'un enfant d'un membre. Si les parents sont tous deux membres du Mess, le montant sera doublé.
+<a id="article-44"></a>**44.** Naissance. Des fleurs ou un cadeau d’au plus 75 $ sont envoyés à l’hôpital ou au domicile à la naissance d’un enfant d’un membre. Le montant est doublé si les deux parents sont membres.
 
-<a id="article-50"></a>**50.** Hospitalisation. Des fleurs ou cadeaux seront envoyés à l'hôpital ou à la résidence du membre suite à une hospitalisation et convalescence d'au moins 48 heures. Le montant maximal de 50 $ sera applicable. Cette clause inclus uniquement les membres réguliers et associés.
+<a id="article-45"></a>**45.** Hospitalisation. Des fleurs ou un cadeau d’au plus 50 $ sont envoyés à l’hôpital ou au domicile d’un membre ordinaire ou associé après une hospitalisation et une convalescence d’au moins 48 heures.
 
-<a id="article-51"></a>**51.** Cadeau d’appartenance.
+<a id="article-46"></a>**46.** Cadeaux d’appartenance.
 
-- **a.** Lorsqu’un membre fait parti du mess depuis plus de 1 an, un T-Shirt de l’unité lui sera remis d’une valeur ne dépassant pas 30$.
+- **a.** Après plus d’un an au Mess : un t-shirt de l’unité d’au plus 30 $.
+- **b.** Après plus de trois ans : une chope d’au plus 75 $, gravure comprise.
+- **c.** Après la réussite du cours de métier : une pièce de l’unité d’au plus 25 $.
 
-- **b.** Lorsqu’un membre fait parti du mess depuis plus de 3 ans, un « mug » lui sera remis d’une valeur ne dépassant pas 75 $ (incluant la gravure).
+<a id="article-47"></a>**47.** Au départ du commandant, du sergent-major de l’escadron, du lieutenant-colonel honoraire ou d’un membre ayant plus de 12 ans d’appartenance au Mess, un cadeau d’au plus 150 $ est remis.
 
-- **c.** Lorsqu’un membre a complété avec succès son cours de métier, un « coin » de l’unité lui sera remis d’une valeur ne dépassant pas 25$.
+<a id="article-48"></a>**48.** Un cadeau de mission d’au plus 50 $ peut être offert à un membre du 9 EG détaché en opération et normalement en règle au Mess. L’absence de cotisation pendant le déploiement ne lui fait pas perdre ce droit.
 
-<a id="article-52"></a>**52.** Départ de membres dits « spéciaux ». Lors du départ du Cmdt, du SME, Lcol (H) ou de tous membres ayant plus de 12 années d’appartenance au mess, un cadeau d’une valeur maximale de 150$ lui sera remis.
+<a id="article-49"></a>**49.** Au changement de commandant, des fleurs d’au plus 50 $ sont offertes à chacun des conjoints du commandant sortant et du commandant entrant.
 
-<a id="article-53"></a>**53.** Cadeau de mission. Un cadeau pourra être offer au membre du 9 EG détaché en mission (Opération). Ce cadeau d’une valeur maximale de 50,00$ pourra être versé au personnel détaché du 9 EG qui est normalement un membre en règle du Mess et Instituts. Cette personne aura droit au cadeau de mission même s’il est absent de l’unité et qu’il n’a pas payé de cotisation au mess et Institut en raison de son déploiement en mission.
-
-<a id="article-54"></a>**54.** Changement de Cmdt. Des fleurs, pour un montant n’excédant pas 50,00$, seront offertes à la conjointe ou au conjoint du Cmdt sortant ainsi qu’à la conjointe ou au conjoint du Cmdt entrant.
-
-*Note. Il est de la responsabilité du membre ou de sa famille de prévenir la salle des rapports ou un membre du comité du Mess pour les articles mentionnés ci-haut. Le supérieur immédiat est responsable de remettre le présent au membre ou à la famille.
+Le membre ou sa famille signale l’événement à la salle des rapports ou au comité.
 
 ## Plaintes et suggestions
 
-<a id="article-55"></a>**55.** Toute plainte sera inscrite et remise au commandant adjoint.
+<a id="article-50"></a>**50.** Toute plainte est consignée et remise au commandant adjoint.
 
-<a id="article-56"></a>**56.** Toute suggestion, proposition ou observation pourra aussi être remis au commandant adjoint.
+<a id="article-51"></a>**51.** Les suggestions, propositions et observations peuvent aussi être remises au commandant adjoint.
 
 ## Modification des textes
 
-<a id="article-57"></a>**57.** Proposition et adoption. Toute proposition de modification à la constitution ou à ses annexes est transmise par écrit au PCAM et communiquée aux membres au moins 15 jours avant son examen. Elle doit être adoptée à la majorité des voix exprimées par les membres ayant droit de vote, lors d’une assemblée où le quorum est atteint.
+<a id="article-52"></a>**52.** Toute proposition de modification à la constitution ou à ses annexes est transmise par écrit au président et communiquée aux membres au moins 15 jours avant son examen. Son adoption exige la majorité des voix exprimées par les membres ayant droit de vote, lors d’une assemblée avec quorum.
 
-<a id="article-58"></a>**58.** Approbation et publication. Toute modification adoptée entre en vigueur après l’approbation du commandant. Elle est intégrée à la constitution, puis communiquée aux membres avec sa date d’entrée en vigueur.
-
-## Assemblées et portée des règlements
-
-<a id="article-59"></a>**59.** Les assemblées générales sont les instances de délibération et de décision des membres. Chaque membre peut participer aux discussions selon sa catégorie; le droit de vote est réservé aux membres ordinaires en règle, sous les exclusions et règles particulières de la constitution. Le président, ou le vice-président en son absence, préside les assemblées. Les propositions sont appuyées puis débattues avant le vote; le résultat et le texte adopté sont consignés au procès-verbal. Un règlement peut préciser le déroulement des séances, sans changer leur fréquence, le quorum, les droits de vote ou les approbations requises.
+<a id="article-53"></a>**53.** Une modification adoptée entre en vigueur après l’approbation du commandant. Le texte à jour et sa date d’entrée en vigueur sont communiqués aux membres.
 
 ## Fonds et garanties financières
 
-<a id="article-60"></a>**60.** Les cotisations du Mess sont affectées aux besoins du Mess. Le fonds d’unité ne peut être assimilé au fonds du Mess ni être alimenté par un simple changement d’étiquette des cotisations. Toute opération respecte la propriété et la destination des biens non publics (BNP), les règles financières applicables et les approbations nécessaires.
+<a id="article-54"></a>**54.** Le fonds d’unité est distinct du fonds du Mess. Une réaffectation des cotisations ne peut se faire par simple changement de désignation. Toute opération respecte la propriété et la destination des biens non publics (BNP), les règles financières et les approbations requises.
 
-<a id="article-61"></a>**61.** Le fonds cadeau fait l’objet d’un suivi distinct des opérations du Mess et du fonds d’unité. Sa qualification, ses sources admissibles et son mode de comptabilisation sont confirmés auprès de l’autorité compétente BNP avant toute nouvelle modalité de financement ou tout transfert. Le suivi distinct ne crée ni personnalité juridique ni compte bancaire autonome.
+<a id="article-55"></a>**55.** Le fonds cadeau est suivi séparément des opérations du Mess et du fonds d’unité. Ce suivi ne crée ni personnalité juridique ni compte bancaire autonome. Avant toute nouvelle modalité de financement ou tout transfert concernant ces fonds, une confirmation écrite des autorités BNP précise la qualification des fonds, les sources admissibles, leur destination et les approbations requises. Une proposition chiffrée est ensuite soumise aux membres, avec les comptes ou suivis concernés.
 
-<a id="article-62"></a>**62.** Les membres votent les cotisations, le budget et les changements aux prestations. Le comité exécute dans ses délégations. Un vote ne dispense pas des approbations du commandant ou des autorités financières compétentes. La présente révision n’autorise automatiquement aucun transfert entre fonds. Les bénéficiaires et plafonds existants des cadeaux sont conservés dans la section financière de la constitution, sous réserve de leur admissibilité aux règles applicables.
+<a id="article-56"></a>**56.** Les changements aux prestations sont votés par les membres. Les opérations financières exigent les approbations du commandant et des autorités financières compétentes. La présente constitution n’autorise à elle seule aucun nouveau prélèvement ni transfert entre fonds. Les prestations restent soumises aux règles BNP applicables.
+
 ## Suivi des fonds
 
-<a id="article-63"></a>**63.** Le trésorier présente distinctement pour chaque fonds concerné les soldes d’ouverture et de clôture, les sources de revenus, les dépenses et les engagements. Chaque opération indique source, objet, bénéficiaire, justificatif, vote ou délégation et approbations. La tenue des livres est confiée à une tierce personne; les paiements respectent les règles financières et les approbations applicables.
-
-<a id="article-64"></a>**64.** Avant mise en place ou modification du financement du fonds d’unité ou du fonds cadeau, le comité obtient confirmation écrite de la qualification BNP, des sources admissibles, de la destination et des autorités d’approbation. Il soumet aux membres une proposition chiffrée identifiant les comptes ou suivis concernés. Cette clause n’autorise ni cotisation nouvelle, ni prélèvement, ni transfert. Les articles 48 à 54 conservent leurs bénéficiaires et plafonds; leur déplacement ne vaut pas autorisation nouvelle de dépense.
-
-
+<a id="article-57"></a>**57.** Le rapport de chaque fonds indique les soldes d’ouverture et de clôture, les revenus, les dépenses et les engagements. Chaque opération précise sa source, son objet, son bénéficiaire, sa pièce justificative et ses autorisations. La tenue des livres est confiée à une tierce personne.
 
 <a id="annexes-des-responsabilites"></a>
 ## Annexes des responsabilités
 
-Les annexes ci-dessous font partie intégrante de la constitution et suivent la même procédure de modification et d’approbation. Elles attribuent les tâches des responsables du Mess sans élargir les pouvoirs définis dans la constitution. Chaque annexe peut être lue et imprimée séparément.
+Les annexes font partie intégrante de la constitution. Elles regroupent les tâches de chaque rôle sans élargir ses pouvoirs.
 
 - [Annexe A — Président du comité du Mess](annexes/annexe-a.md)
 - [Annexe B — Vice-président du comité du Mess](annexes/annexe-b.md)

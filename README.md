@@ -1,6 +1,6 @@
 # Mess et Instituts du 9e Escadron du génie
 
-Proposition de révision du 28 octobre 2026, version 0.3, préparée sur `revision-documents-2026-10-28`. Les textes restent soumis à l’adoption des membres et à l’approbation du commandant.
+Proposition de révision du 29 octobre 2026, version 0.4, préparée sur `revision-documents-2026-10-28`. Les textes restent soumis à l’adoption des membres et à l’approbation du commandant.
 
 ## Documents de référence
 
@@ -13,7 +13,7 @@ Proposition de révision du 28 octobre 2026, version 0.3, préparée sur `revisi
 - [Tableau Avant Après Pourquoi](versions/2026-10-28-v0.2/tableau-modifications.md)
 - [Transcription originale](constitution.md)
 
-La constitution donne accès à huit annexes par rôle, chacune dans son propre document. Les fonctions du commandant et du responsable des drogues et de l’alcool relèvent de l’unité et ne font pas l’objet d’une annexe du Mess. Les articles sont numérotés dans leur ordre de lecture; les règlements sont complémentaires et comportent des références cliquables.
+La constitution donne accès à huit annexes par rôle, chacune dans son propre document. Les fonctions du commandant et du responsable des drogues et de l’alcool relèvent de l’unité et ne font pas l’objet d’une annexe du Mess. La constitution compte 57 articles; les règlements en comptent respectivement 13, 8, 18 et 7. Les références externes restent cliquables. Les tâches des titulaires sont regroupées dans les annexes. Les adresses des pages sont conservées pour maintenir les liens existants.
 
 Ces fichiers Markdown sont les sources à modifier directement. La présentation et les règlements n’ont chacun qu’un texte de référence. Les recueils, les index intermédiaires et les anciens générateurs qui recréaient des copies ont été retirés. Les versions précédentes restent dans l’historique Git.
 

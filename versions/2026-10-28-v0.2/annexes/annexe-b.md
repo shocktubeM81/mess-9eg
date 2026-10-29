@@ -7,19 +7,21 @@ document_group: constitution
 
 # Annexe B — Vice-président du comité du Mess
 
-**Version 0.3 du 28 octobre 2026 — Proposition à discuter et à adopter.** Cette annexe fait partie intégrante de la constitution et suit la même procédure de modification et d’approbation.
+**Version 0.4 du 29 octobre 2026 — Proposition à discuter et à adopter.**
 
 [Constitution du Mess et Instituts](../constitution-consolidee.md) · [Liste des annexes](../constitution-consolidee.md#annexes-des-responsabilites)
 
 ## Responsabilités
 
-- **a.** Il doit rendre compte au président du comité du mess pour toute tâche lui incombant.
+- **a.** Rendre compte au président.
 
-- **b.** Il assiste le président et le remplace en cas d'absence.
+- **b.** Assister le président et le remplacer en son absence.
 
-- **c.** Les fonctions qu'il devra remplir seront attribuées discrétionnairement par le président.
+- **c.** Accomplir les tâches confiées par le président.
 
-- **d.** Il a le devoir de maintenir à jour le registre de gestion des meubles et équipements appartenant au Mess et ce selon la répartition propre au Club Chimo et Mess Combiné.
+- **d.** Tenir à jour l’inventaire des meubles et équipements, en distinguant le Club Chimo et le Mess Combiné.
+
+- **e.** Documenter la provenance, les propriétaires, les conditions des dons et des prêts, ainsi que les coûts d’entretien. Faire vérifier les approbations et la couverture d’assurance.
 
 ## Navigation entre les annexes
 

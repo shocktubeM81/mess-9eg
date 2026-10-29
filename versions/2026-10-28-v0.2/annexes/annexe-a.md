@@ -7,35 +7,35 @@ document_group: constitution
 
 # Annexe A — Président du comité du Mess
 
-**Version 0.3 du 28 octobre 2026 — Proposition à discuter et à adopter.** Cette annexe fait partie intégrante de la constitution et suit la même procédure de modification et d’approbation.
+**Version 0.4 du 29 octobre 2026 — Proposition à discuter et à adopter.**
 
 [Constitution du Mess et Instituts](../constitution-consolidee.md) · [Liste des annexes](../constitution-consolidee.md#annexes-des-responsabilites)
 
 ## Responsabilités
 
-- **a.** Il doit rendre compte au commandant pour tout ce qui touche ses fonctions.
+- **a.** Rendre compte au commandant de l’administration du Mess.
 
-- **b.** Il convoque et préside les réunions du Mess.
+- **b.** Préparer les dossiers du comité, faire exécuter les décisions et rendre compte à l’assemblée.
 
-- **c.** Il ne peut amender ou appuyer une motion. Dans le cas d'un vote erroné, il ordonne un nouveau vote. Il exerce sa voix prépondérante seulement lorsqu’une égalité subsiste après recomptage.
+- **c.** Convoquer et présider les assemblées et les réunions du comité. Le vice-président le remplace en son absence.
 
-- **d.** Il signe tous les procès-verbaux des séances tenues.
+- **d.** Distribuer la parole, reformuler les motions avant le débat et recentrer les interventions sur le texte discuté.
 
-- **e.** Il répond à toutes les questions relatives à l'administration du mess.
+- **e.** Faire compter les voix, ordonner le recomptage en cas d’égalité et faire reprendre un vote erroné.
 
-- **f.** Il s'assure que les statuts et règlements du mess sont respectés.
+- **f.** Signer les procès-verbaux et tenir à jour la constitution après les modifications approuvées.
 
-- **g.** Il contrôle le travail des autres membres du comité.
+- **g.** Répondre aux questions administratives et veiller au respect des textes du Mess.
 
-- **h.** Il a la responsabilité de maintenir à jour les constitutions suite aux changements proposés et acceptés.
+- **h.** Superviser les membres du comité et le régisseur. Examiner régulièrement les états financiers.
 
-- **i.** Il convoque les réunions du comité du Mess.
+- **i.** Veiller à la discipline dans les locaux. En son absence, le membre le plus haut gradé présent veille au maintien de l’ordre.
 
-- **j.** Il doit examiner les états financiers régulièrement.
+- **j.** Faire confirmer les modalités BNP avant tout nouveau financement ou transfert et préparer la proposition chiffrée destinée aux membres.
 
-- **k.** Répondre de la discipline dans les locaux. En son absence, le membre senior présent veille au maintien de l’ordre.
+- **k.** Organiser le suivi des suggestions, plaintes, dommages et remboursements. Soumettre à l’assemblée les questions de sa compétence.
 
-- **l.** Pendant les séances, distribuer la parole, éviter les répétitions et veiller au respect de l’ordre du jour et des procédures.
+- **l.** Faire remettre les présents au membre ou à sa famille par le supérieur immédiat, après le signalement de l’événement.
 
 ## Navigation entre les annexes
 

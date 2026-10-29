@@ -7,19 +7,21 @@ document_group: constitution
 
 # Annexe D — Trésorier
 
-**Version 0.3 du 28 octobre 2026 — Proposition à discuter et à adopter.** Cette annexe fait partie intégrante de la constitution et suit la même procédure de modification et d’approbation.
+**Version 0.4 du 29 octobre 2026 — Proposition à discuter et à adopter.**
 
 [Constitution du Mess et Instituts](../constitution-consolidee.md) · [Liste des annexes](../constitution-consolidee.md#annexes-des-responsabilites)
 
 ## Responsabilités
 
-- **a.** Il a la responsabilité d'avoir une liste à jour des membres en règle. Toutes les cotisations sont payables du 1er avril au 31 mars
+- **a.** Tenir la liste des membres en règle.
 
-- **b.** Il ne peut effectuer la tenue des livres comptables. Ceci sera fait par une tierce personne.
+- **b.** Recommander au responsable des fonds non publics les dépenses approuvées par le comité et les membres.
 
-- **c.** Il recommande au responsable des fonds non-publics les dépenses approuvées par le comité et les membres du Mess.
+- **c.** Présenter le rapport financier à chaque assemblée, en distinguant les fonds. Conserver les pièces et les approbations.
 
-- **d.** Présenter les soldes, revenus, dépenses et engagements en distinguant chaque fonds, puis conserver les pièces et les approbations requises.
+- **d.** Faire assurer la tenue des livres par une tierce personne; ne pas l’effectuer soi-même.
+
+- **e.** Gérer le fonds du président avec celui-ci.
 
 ## Navigation entre les annexes
 

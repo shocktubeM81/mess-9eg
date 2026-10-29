@@ -7,27 +7,25 @@ document_group: constitution
 
 # Annexe E — Responsable des activités du Club Chimo
 
-**Version 0.3 du 28 octobre 2026 — Proposition à discuter et à adopter.** Cette annexe fait partie intégrante de la constitution et suit la même procédure de modification et d’approbation.
+**Version 0.4 du 29 octobre 2026 — Proposition à discuter et à adopter.**
 
 [Constitution du Mess et Instituts](../constitution-consolidee.md) · [Liste des annexes](../constitution-consolidee.md#annexes-des-responsabilites)
 
 ## Responsabilités
 
-- **a.** Il doit rendre compte au président du comité du Mess.
+- **a.** Rendre compte au président.
 
-- **b.** Il doit planifier et organiser le programme des activités récréatives.
+- **b.** Planifier le programme des activités et préparer le budget de décembre. Coordonner le calendrier avec l’unité et les autres occupants du manège.
 
-- **c.** Il doit dresser le budget des activités récréatives.
+- **c.** Recevoir les propositions d’activités et les transmettre pour approbation.
 
-- **d.** Il doit s’assurer que l’organisateur de l’activité en tant que tel, observe le programme et le budget alloué.
+- **d.** Confier l’organisation des activités et en suivre le déroulement. Veiller au respect du programme et du budget.
 
-- **e.** Il doit s’assurer un contrôle adéquat des recettes provenant des activités récréatives et veiller à une rapide rentrée des fonds.
+- **e.** Contrôler les recettes et leur remise rapide.
 
-- **f.** Il doit veiller à posséder une publicité adéquate des activités organisées.
+- **f.** Faire connaître les activités aux membres.
 
-- **g.** Il doit s’acquitter des tâches assignées par le président du comité des mess.
-
-*Note. Le responsable des activités n’est pas tenu d’ organiser les activités ; il doit par contre veiller sur le déroulement optimal de chacune d’elles.
+- **g.** Accomplir les tâches confiées par le président.
 
 ## Navigation entre les annexes
 

@@ -7,33 +7,29 @@ document_group: constitution
 
 # Annexe H — Serveur
 
-**Version 0.3 du 28 octobre 2026 — Proposition à discuter et à adopter.** Cette annexe fait partie intégrante de la constitution et suit la même procédure de modification et d’approbation.
+**Version 0.4 du 29 octobre 2026 — Proposition à discuter et à adopter.**
 
 [Constitution du Mess et Instituts](../constitution-consolidee.md) · [Liste des annexes](../constitution-consolidee.md#annexes-des-responsabilites)
 
 ## Responsabilités
 
-- **a.** Sous la supervision du régisseur.
+- **a.** Travailler sous la supervision du régisseur.
 
-- **b.** Nettoyer les contenants, le comptoir et l’équipement du bar.
+- **b.** Contrôler l’âge en cas de doute, surveiller les signes d’ébriété et appliquer les refus de service. Informer le responsable de service.
 
-- **c.** Nettoyer et polir les verres selon les règles d’hygiène.
+- **c.** Proposer de l’eau, une boisson sans alcool ou une aide au retour sécuritaire au besoin.
 
-- **d.** Polir l’argenterie et les chopes à bière.
+- **d.** Suspendre le service en cas de danger. Fermer le bar et appeler les services compétents selon la situation. Signaler les incidents au capitaine-adjudant et en consigner les faits.
 
-- **e.** Remplir le réfrigérateur.
+- **e.** Nettoyer les verres, contenants, comptoirs et équipements. Entretenir les chopes et l’argenterie.
 
-- **f.** Ramasser et nettoyer les verres sales à mesure.
+- **f.** Remplir les réfrigérateurs et présenter les articles en vente.
 
-- **g.** Présenter les articles en vente de façon convenable.
+- **g.** Vérifier la propreté des salles et signaler les bris, disparitions et écarts au régisseur.
 
-- **h.** Vérifier la tenue des salles du Mess quant à la propreté.
+- **h.** À la fermeture, cesser les ventes, sécuriser les boissons et la caisse, nettoyer le matériel, fermer les fenêtres, éteindre les lumières et verrouiller les accès.
 
-- **i.** Vérifier constamment le mobilier et les possessions du Mess, et signaler les disparitions et bris.
-
-- **j.** Rester alerte afin de donner un service immédiat aux personnes utilisant le Mess.
-
-- **k.** Fermer toutes les lumières et toutes les fenêtres.
+- **i.** Lors d’une réception sans représentant membre ordinaire en règle, exercer l’autorité sur place.
 
 ## Navigation entre les annexes
 
