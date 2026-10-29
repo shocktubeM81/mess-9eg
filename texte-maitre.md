@@ -4,19 +4,25 @@ Version 0.11 du 29 octobre 2026 — Projet à adopter et à approuver.
 
 ## Références
 
-Liens mis à jour le 29 octobre 2026.
-
 Réf. A. [Manuel des politiques des PSP](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=1)
+
 B. [ORFC — Chapitre 27, Mess, cantines et instituts](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/ordonnances-reglements-royaux/vol-1-administration/chapitre-27-mess-cantines-instituts.html)
+
 C. [DOAD 9003-1 — Biens non publics](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/directives-ordonnances-administratives-defense/serie-9000/9003/9003-1-biens-non-publics.html)
+
 D. [A-FN-105 — Comptabilité des biens non publics](https://sbmfc.ca/a-propos/politiques-et-publications/comptabilite-biens-non-publics/a-fn-105)
+
 E. [Politique de passation de marchés des biens non publics](https://sbmfc.ca/a-propos/politiques-et-publications/approvisionnement-et-passation-de-marches/politique-de-passation-de-marches-des-biens-non-publics)
+
 F. [Instructions sur la tenue des Forces canadiennes — A-DH-265-000/AG-001](https://www.canada.ca/fr/services/defense/fac/systeme-identite-militaire/instructions-tenue/chapitre-2.html)
+
 G. [Loi sur les infractions en matière de boissons alcooliques](https://www.legisquebec.gouv.qc.ca/fr/document/lc/I-8.1)
+
 H. [DOAD 5045-0 — Programmes de soutien du personnel des Forces canadiennes](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/directives-ordonnances-administratives-defense/serie-5000/5045/5045-0-programmes-de-soutien-du-personnel-des-forces-canadiennes.html)
+
 I. [A-PS-110-001/AG-002 — Soutien public aux programmes de bien-être et de maintien du moral](https://sbmfc.ca/a-propos/politiques-et-publications/aa-ps-110-soutien-public-aux-programmes-de-bemm)
 
-Dans les renvois, « réf. » identifie le document ci-dessus; « chap. », « para. » et « art. » précisent respectivement le chapitre, le paragraphe et l’article. Chaque renvoi conserve son lien vers la source et, pour les PDF, la page visée.
+Les liens sont à jour du 29 octobre 2026.
 
 ## Avant-propos
 
@@ -55,8 +61,6 @@ Commandant du 9e Escadron du génie
 Signé à : ____________________ Le : ____________________
 
 ## Partie I — Statuts
-
-Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québec.
 
 ### 1. Nom
 
@@ -192,8 +196,6 @@ Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québe
 
 ### Règlement 2 — Meubles et décorations
 
-#### Dons et décorations
-
 ##### 1. Dons
 
 1.1. Avant l’acceptation d’un don, le dossier précise le donateur, le bien, sa destination, les conditions et les coûts d’entretien. Les approbations dépendent de la nature et du propriétaire du bien. Aucun reçu fiscal, avantage ou transfert de propriété ne peut être promis sans autorisation.
@@ -201,8 +203,6 @@ Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québe
 ##### 2. Décorations
 
 2.1. L’installation d’une décoration permanente, d’une plaque, d’un tableau ou d’un trophée exige l’approbation du comité, dans les limites de ses pouvoirs. Une inscription commémorative ne prouve pas la propriété.
-
-#### Utilisation des biens
 
 ##### 3. Déplacement des biens
 
@@ -212,8 +212,6 @@ Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québe
 
 4.1. Les livres, journaux et revues fournis aux membres restent au Mess.
 
-#### Disposition, pertes et assurances
-
 ##### 5. Disposition, pertes et assurances
 
 5.1. La disposition des biens suit la [réf. A, chap. 9-4, para. 78](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=313) et la [réf. A, chap. 9-4, para. 79](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=313) ou, en cas de dissolution ou de modification de la situation de l’unité, la [réf. A, chap. 10-5](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=364). Les pertes et dommages suivent la [réf. D, chap. 30](https://sbmfc.ca/a-propos/politiques-et-publications/comptabilite-biens-non-publics/a-fn-105) et les assurances la [réf. D, chap. 11](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/8.4.5/Policies/AF-N-105/Chap11_f.pdf#page=1). Les pouvoirs financiers restent ceux du [paragraphe 5.1 des statuts](#statuts-p-5-1) et du règlement sur les finances.
@@ -222,15 +220,11 @@ Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québe
 
 5.3. Le signalement ne constitue pas une reconnaissance de dette et aucune facturation à un membre ou à un organisateur n’est automatique. Pour une réception privée, les conditions du contrat sont aussi prises en compte. Les biens de la Couronne relèvent de leur propre procédure; le règlement ne garantit pas une indemnisation intégrale.
 
-#### Inventaire
-
 ##### 6. Inventaire
 
 6.1. L’inventaire distingue les biens du Mess, de la Couronne, du fonds d’unité et de tiers. Chaque fiche indique la description, l’emplacement, la provenance, la date d’entrée, le propriétaire, la valeur connue, les justificatifs et les conditions d’utilisation ou de restitution. Une provenance incertaine est vérifiée avant toute disposition. Les coordonnées personnelles sont masquées dans la version accessible aux membres.
 
 ### Règlement 3 — Assemblées et réunions
-
-#### Préparation
 
 ##### 1. Calendrier
 
@@ -239,8 +233,6 @@ Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québe
 ##### 2. Convocation et documents
 
 2.1. La convocation indique la date, l’heure, le lieu et, s’il y a lieu, le moyen de connexion. Les délais de convocation et de modification des textes sont ceux du règlement sur l’administration et du [paragraphe 11.1 des statuts](#statuts-p-11-1). Les documents utiles sont transmis normalement 7 jours avant la séance. Le dépôt des propositions et l’affichage de l’ordre du jour suivent la [réf. A, chap. 9-4, para. 41](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297) et la [réf. A, chap. 9-4, para. 42](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297).
-
-#### Déroulement des assemblées
 
 ##### 3. Quorum
 
@@ -252,13 +244,9 @@ Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québe
 
 4.2. Les abstentions et les seuils particuliers appliqués sont consignés au procès-verbal. Un décompte contesté est vérifié; un vote erroné est repris.
 
-#### Réunions du comité
-
 ##### 5. Réunions du comité
 
 5.1. Les participants à une réunion du comité reçoivent la date, le lieu ou le moyen de connexion, les sujets et les documents utiles. Le compte rendu distingue les décisions du comité, les tâches de préparation et les recommandations à l’assemblée. Chaque suivi indique un responsable et une échéance.
-
-#### Communication et accès
 
 ##### 6. Communication
 
@@ -274,8 +262,6 @@ Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québe
 
 8.1. Les suggestions, plaintes et commentaires sont reçus selon le règlement sur l’administration. Seuls les éléments destinés au suivi collectif figurent au registre. Le suivi collectif est communiqué sans renseignements personnels. Les questions relevant des membres sont soumises à l’assemblée. Les demandes urgentes sont transmises directement au président; leur suivi collectif est inscrit à la prochaine séance.
 
-#### Conservation et relève
-
 ##### 9. Conservation et relève
 
 9.1. Les dossiers sont classés par catégorie : textes, convocations, ordres du jour, procès-verbaux, décisions, finances, inventaires et correspondance. Les documents portent leur date, version et statut, avec les preuves d’adoption et d’approbation. Les anciennes versions sont archivées. Les dossiers du comité et des assemblées sont distincts; leurs recommandations et décisions correspondantes sont reliées.
@@ -284,15 +270,11 @@ Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québe
 
 ### Règlement 4 — Service de bar
 
-#### Service et vente d’alcool
-
 ##### 1. Service et vente d’alcool
 
 1.1. Le service, la formation du personnel et les ventes d’alcool suivent la [réf. A, chap. 9-2](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=275) et la [réf. A, chap. 9-4, para. 58 à 60](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=308). La protection des mineurs suit la [réf. G, art. 103.1 à 103.3](https://www.legisquebec.gouv.qc.ca/fr/document/lc/I-8.1).
 
 1.2. Le personnel reste sobre pendant le service. Le responsable de service appuie les refus; le service ne permet pas de les contourner. Une difficulté de santé ou de communication ne constitue pas, à elle seule, un signe d’ébriété. Les modalités de vente autorisées sont communiquées au personnel.
-
-#### Refus et incidents
 
 ##### 2. Aide lors d’un refus
 
@@ -302,13 +284,9 @@ Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québe
 
 3.1. En cas de menace, de malaise ou de danger immédiat, le service concerné est suspendu et les secours appropriés sont appelés. Le bar est fermé si la situation l’exige. Les incidents sont signalés au capitaine-adjudant dès que possible. Un relevé factuel est conservé avec un accès restreint.
 
-#### Ouverture et fermeture
-
 ##### 4. Ouverture et fermeture
 
 4.1. L’ouverture exige du personnel autorisé, des conditions d’hygiène adéquates, des stocks vérifiés et des prix affichés. À la fermeture, les ventes cessent, les boissons et la caisse sont sécurisées, le matériel est nettoyé et les accès sont verrouillés. Tout écart est signalé au régisseur.
-
-#### Paiements
 
 ##### 5. Paiements
 
