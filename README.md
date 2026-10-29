@@ -20,3 +20,14 @@ Ce dépôt contient une transcription Markdown de la constitution actuelle, en p
 Texte d'origine : *Statuts et règlements du Mess et Instituts du 9e Escadron du génie*, adoptés le 10 septembre 2022, avant-propos daté du 20 août 2024. Le PDF source est un document numérisé de 20 pages, sans couche de texte. Les 116 articles sont présents. La transcription est à relire contre le PDF original avant publication officielle, notamment pour vérifier les libellés et les renvois.
 
 Les changements GitHub ne constituent pas à eux seuls une ratification ou une approbation de modifications aux statuts ou règlements.
+
+
+## Projet de révision — octobre 2026
+
+Les documents ci-dessous sont des **propositions non adoptées** et ne remplacent pas la constitution historique en vigueur :
+
+- [Constitution révisée proposée](projets/constitution-revisee.md)
+- [Règlements internes proposés](projets/reglements-internes.md)
+- [Tableau de concordance et points à valider](projets/concordance.md)
+
+L'objectif est de simplifier les textes locaux, de renvoyer aux directives supérieures applicables et de mieux organiser les réunions, la documentation, l'archivage et la communication aux membres. La ratification en assemblée générale et l'approbation du commandant demeurent nécessaires. Les données personnelles et documents sensibles ne doivent pas être publiés sur ce dépôt public.
