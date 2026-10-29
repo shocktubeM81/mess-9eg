@@ -7,21 +7,31 @@ document_group: administration
 
 # Annexe B — Vice-président du comité du Mess
 
-**Version 0.9 du 29 octobre 2026 — Proposition à discuter et à adopter.**
+**Version 0.10 du 29 octobre 2026 — Proposition à discuter et à adopter.**
 
-[Constitution du Mess et Instituts](../constitution-consolidee.md) · [Liste des annexes du R5](../R5-proposition.md#annexes-des-responsabilites)
+[Statuts du Mess et Instituts](../constitution-consolidee.md) · [Liste des annexes du R5](../R5-proposition.md#annexes-des-responsabilites)
 
-## Responsabilités
+## 1. Responsabilités
 
-- **a.** Rendre compte au président.
+<a id="fonction-p-1-1"></a>
 
-- **b.** Assister le président et le remplacer en son absence.
+**1.1.** Rendre compte au président.
 
-- **c.** Accomplir les tâches confiées par le président.
+<a id="fonction-p-1-2"></a>
 
-- **d.** Tenir à jour l’inventaire des meubles et équipements, en distinguant le Club Chimo et le Mess Combiné.
+**1.2.** Assister le président et le remplacer en son absence.
 
-- **e.** Documenter la provenance, les propriétaires, les conditions des dons et des prêts, ainsi que les coûts d’entretien. Faire vérifier les approbations et la couverture d’assurance.
+<a id="fonction-p-1-3"></a>
+
+**1.3.** Accomplir les tâches confiées par le président.
+
+<a id="fonction-p-1-4"></a>
+
+**1.4.** Tenir à jour l’inventaire des meubles et équipements, en distinguant le Club Chimo et le Mess Combiné.
+
+<a id="fonction-p-1-5"></a>
+
+**1.5.** Documenter la provenance, les propriétaires, les conditions des dons et des prêts, ainsi que les coûts d’entretien. Faire vérifier les approbations et la couverture d’assurance.
 
 ## Navigation entre les annexes
 

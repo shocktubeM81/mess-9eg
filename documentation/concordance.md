@@ -514,3 +514,12 @@ La première colonne utilise les numéros de la constitution 0.8. Le contenu op�
 | 56 — Entrée en vigueur et diffusion | [article 11](../versions/2026-10-28-v0.2/constitution-consolidee.md#statuts-article-11) |
 
 Les annexes A à H appartiennent maintenant au R5; leurs chemins de fichiers ne changent pas. L’ancienne cible constitutionnelle des annexes renvoie vers leur liste au R5. Les renvois des règlements et de l’annexe D sont adaptés. Les tableaux de correspondance des versions précédentes demeurent historiques.
+
+
+## Version 0.10 — Statuts et règlements
+
+La lecture comporte deux niveaux : statuts, puis règlements R1 à R5. Les statuts suivent les 11 rubriques du tableau 9-4-3 du Manuel PSP. Chaque paragraphe normatif est numéroté N.M; les renvois actifs visent ces paragraphes. Les anciennes cibles sont conservées.
+
+Le déroulement des assemblées (motions, débats, scrutins et procès-verbaux) renvoie au tableau 9-4-4 et aux paragraphes 29 et 44 du chapitre 9-4, au lieu de reprendre leurs procédures. L’ancien point R3.3 est regroupé avec la convocation; les anciens points R3.4 à R3.10 deviennent les rubriques 3 à 9. Les délais locaux, le traitement d’un quorum perdu, la vérification d’un vote contesté et les garanties de diffusion restent présents. Les renvois R5 vers R1 à R4 remplacent les reprises internes.
+
+Les montants, les critères des prestations et les approbations locales ne sont pas modifiés par cette passe. Les validations de conformité déjà signalées restent nécessaires.

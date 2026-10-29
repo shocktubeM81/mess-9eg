@@ -154,3 +154,12 @@ Les 43 articles du nouveau R5 reprennent les modalités déplacées de la consti
 Deux choix locaux sont maintenus au lieu de reprendre automatiquement le modèle : les assemblées restent trimestrielles (le modèle indique au moins deux par an) et le délai de modification reste de 15 jours (le modèle indique sept jours). La composition minimale et la procédure élective locales sont conservées. Le modèle ne sert pas à attribuer au comité de nouveaux pouvoirs financiers.
 
 La nouvelle navigation donne accès au R5. Les renvois actifs sont adaptés; les anciens articles et les anciennes annexes peuvent être retrouvés depuis une rubrique repliable de la constitution.
+
+
+## Version 0.10 — Statuts et règlements
+
+La lecture comporte deux niveaux : statuts, puis règlements R1 à R5. Les statuts suivent les 11 rubriques du tableau 9-4-3 du Manuel PSP. Chaque paragraphe normatif est numéroté N.M; les renvois actifs visent ces paragraphes. Les anciennes cibles sont conservées.
+
+Le déroulement des assemblées (motions, débats, scrutins et procès-verbaux) renvoie au tableau 9-4-4 et aux paragraphes 29 et 44 du chapitre 9-4, au lieu de reprendre leurs procédures. L’ancien point R3.3 est regroupé avec la convocation; les anciens points R3.4 à R3.10 deviennent les rubriques 3 à 9. Les délais locaux, le traitement d’un quorum perdu, la vérification d’un vote contesté et les garanties de diffusion restent présents. Les renvois R5 vers R1 à R4 remplacent les reprises internes.
+
+Les montants, les critères des prestations et les approbations locales ne sont pas modifiés par cette passe. Les validations de conformité déjà signalées restent nécessaires.

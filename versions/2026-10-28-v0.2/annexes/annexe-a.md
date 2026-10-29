@@ -7,35 +7,59 @@ document_group: administration
 
 # Annexe A — Président du comité du Mess
 
-**Version 0.9 du 29 octobre 2026 — Proposition à discuter et à adopter.**
+**Version 0.10 du 29 octobre 2026 — Proposition à discuter et à adopter.**
 
-[Constitution du Mess et Instituts](../constitution-consolidee.md) · [Liste des annexes du R5](../R5-proposition.md#annexes-des-responsabilites)
+[Statuts du Mess et Instituts](../constitution-consolidee.md) · [Liste des annexes du R5](../R5-proposition.md#annexes-des-responsabilites)
 
-## Responsabilités
+## 1. Responsabilités
 
-- **a.** Rendre compte au commandant de l’administration du Mess.
+<a id="fonction-p-1-1"></a>
 
-- **b.** Préparer les dossiers du comité, faire exécuter les décisions et rendre compte à l’assemblée.
+**1.1.** Rendre compte au commandant de l’administration du Mess.
 
-- **c.** Convoquer et présider les assemblées et les réunions du comité. Le vice-président le remplace en son absence.
+<a id="fonction-p-1-2"></a>
 
-- **d.** Distribuer la parole, reformuler les motions avant le débat et recentrer les interventions sur le texte discuté.
+**1.2.** Préparer les dossiers du comité, faire exécuter les décisions et rendre compte à l’assemblée.
 
-- **e.** Faire compter les voix, vérifier un décompte contesté et faire reprendre un vote erroné, selon le [R3.5](../R3-proposition.md#r3-article-5).
+<a id="fonction-p-1-3"></a>
 
-- **f.** Signer les procès-verbaux et tenir à jour la constitution après les modifications approuvées.
+**1.3.** Convoquer et présider les assemblées et les réunions du comité. Le vice-président le remplace en son absence.
 
-- **g.** Répondre aux questions administratives et veiller au respect des textes du Mess.
+<a id="fonction-p-1-4"></a>
 
-- **h.** Superviser les membres du comité et le régisseur. Examiner régulièrement les états financiers.
+**1.4.** Conduire les assemblées conformément au [Manuel PSP, chapitre 9-4, tableau 9-4-4](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=298).
 
-- **i.** Veiller à la discipline dans les locaux. En l’absence du président et du vice-président, le membre le plus haut gradé présent veille au maintien de l’ordre.
+<a id="fonction-p-1-5"></a>
 
-- **j.** Faire confirmer les modalités BNP avant tout nouveau financement ou transfert et préparer la proposition chiffrée destinée aux membres.
+**1.5.** Veiller à la consignation des décisions et des votes selon le [R3, paragraphe 4.1](../R3-proposition.md#r3-p-4-1).
 
-- **k.** Organiser le suivi des suggestions, plaintes, dommages et remboursements. Soumettre à l’assemblée les questions de sa compétence.
+<a id="fonction-p-1-6"></a>
 
-- **l.** Faire remettre les présents au membre ou à sa famille par le supérieur immédiat, après le signalement de l’événement.
+**1.6.** Signer les procès-verbaux et tenir à jour les statuts après les modifications approuvées.
+
+<a id="fonction-p-1-7"></a>
+
+**1.7.** Répondre aux questions administratives et veiller au respect des textes du Mess.
+
+<a id="fonction-p-1-8"></a>
+
+**1.8.** Superviser les membres du comité et le régisseur. Examiner régulièrement les états financiers.
+
+<a id="fonction-p-1-9"></a>
+
+**1.9.** Veiller à la discipline dans les locaux. En l’absence du président et du vice-président, le membre le plus haut gradé présent veille au maintien de l’ordre.
+
+<a id="fonction-p-1-10"></a>
+
+**1.10.** Faire confirmer les modalités BNP avant tout nouveau financement ou transfert et préparer la proposition chiffrée destinée aux membres.
+
+<a id="fonction-p-1-11"></a>
+
+**1.11.** Organiser le suivi des suggestions, plaintes, dommages et remboursements. Soumettre à l’assemblée les questions de sa compétence.
+
+<a id="fonction-p-1-12"></a>
+
+**1.12.** Faire remettre les présents au membre ou à sa famille par le supérieur immédiat, après le signalement de l’événement.
 
 ## Navigation entre les annexes
 

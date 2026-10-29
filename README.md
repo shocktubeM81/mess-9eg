@@ -1,11 +1,19 @@
 # Mess et Instituts du 9e Escadron du génie
 
-Proposition de révision du 29 octobre 2026, version 0.9, préparée sur `codex/revision-reglements-psp-2026-10-29`. La passe 0.9 rapproche la constitution des 11 rubriques du modèle PSP. Les modalités locales sont regroupées dans un nouveau R5 — Administration et finances; les R1 à R4 sont conservés. Les textes restent soumis à l’adoption des membres et à l’approbation du commandant.
+Proposition de révision du 29 octobre 2026, version 0.10, préparée sur `codex/revision-reglements-psp-2026-10-29`. La passe 0.9 rapproche la constitution des 11 rubriques du modèle PSP. Les modalités locales sont regroupées dans un nouveau R5 — Administration et finances; les R1 à R4 sont conservés. Les textes restent soumis à l’adoption des membres et à l’approbation du commandant.
+
+## Structure de lecture
+
+- [Statuts et règlements](index.md)
+  - [Statuts](versions/2026-10-28-v0.2/constitution-consolidee.md)
+  - [Règlements](reglements.md)
+
+Chaque paragraphe normatif porte un numéro décimal. Les renvois précisent le règlement et le paragraphe; les anciennes cibles sont conservées. Les procédures d’assemblée déjà couvertes par le tableau 9-4-4 du Manuel PSP sont remplacées par un lien, en conservant les modalités locales.
 
 ## Documents de référence
 
 - [Présentation](index.md)
-- [Constitution proposée](versions/2026-10-28-v0.2/constitution-consolidee.md)
+- [Statuts proposés](versions/2026-10-28-v0.2/constitution-consolidee.md)
 - [R1 Tenue et comportement](versions/2026-10-28-v0.2/R1-proposition.md)
 - [R2 Meubles et décorations](versions/2026-10-28-v0.2/R2-proposition.md)
 - [R3 Assemblées et réunions](versions/2026-10-28-v0.2/R3-proposition.md)
@@ -14,7 +22,7 @@ Proposition de révision du 29 octobre 2026, version 0.9, préparée sur `codex/
 - [Tableau Avant Après Pourquoi](versions/2026-10-28-v0.2/tableau-modifications.md)
 - [Transcription originale](constitution.md)
 
-La constitution compte 11 articles. Les cinq règlements précisent son application : R1 (11 articles), R2 (6), R3 (10), R4 (5) et R5 (43). Les huit annexes par rôle font désormais partie du R5. Les dispositions transférées conservent les choix locaux, les montants, les délais et les approbations. Les anciennes références restent accessibles depuis la constitution. Chaque renvoi distinct possède son propre lien, avec la page PDF lorsque connue.
+Les statuts comptent 11 rubriques. Leurs paragraphes et ceux des règlements et annexes sont numérotés. Les huit annexes des fonctions font partie du R5.
 
 Ces fichiers Markdown sont les sources à modifier directement. La présentation et les règlements n’ont chacun qu’un texte de référence. Les recueils, les index intermédiaires et les anciens générateurs qui recréaient des copies ont été retirés. Les versions précédentes restent dans l’historique Git.
 

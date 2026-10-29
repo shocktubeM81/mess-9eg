@@ -1,128 +1,182 @@
 ---
 layout: default
-title: Constitution du Mess et Instituts du 9e Escadron du génie
-document_label: Constitution
+title: Statuts du Mess et Instituts du 9e Escadron du génie
+document_label: Statuts
 ---
 
-# Statuts et règlements, Mess et Instituts du 9e Escadron du génie
+# Statuts du Mess et Instituts du 9e Escadron du génie
 
-**Version 0.9 du 29 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après adoption avec quorum et approbation du commandant.
+**Version 0.10 du 29 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après adoption avec quorum et approbation du commandant.
 
 Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québec.
-
-La présente constitution suit la structure des [statuts types du tableau 9-4-3 du Manuel PSP](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=294). Les modalités locales se trouvent dans les règlements suivants :
-
-- [R1 — Tenue et comportement](R1-proposition.md);
-- [R2 — Meubles et décorations](R2-proposition.md);
-- [R3 — Assemblées et réunions](R3-proposition.md);
-- [R4 — Service de bar](R4-proposition.md);
-- [R5 — Administration et finances](R5-proposition.md).
 
 <a id="statuts-article-1"></a>
 
 ## 1. Nom
 
-Le Mess et Instituts du 9 EG, ci-après appelé « le Mess », comprend deux locaux : le « Club Chimo », destiné aux soldats, caporaux et caporaux-chefs, et le « Mess Combiné », destiné aux sergents, adjudants et officiers.
+<a id="statuts-p-1-1"></a>
+
+**1.1.** Le Mess et Instituts du 9 EG, ci-après appelé « le Mess », comprend deux locaux : le « Club Chimo », destiné aux soldats, caporaux et caporaux-chefs, et le « Mess Combiné », destiné aux sergents, adjudants et officiers.
 
 <a id="statuts-article-2"></a>
 
 ## 2. Établissement et administration
 
-L’établissement et l’administration du Mess relèvent de l’[article 27.01 des ORFC](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/ordonnances-reglements-royaux/vol-1-administration/chapitre-27-mess-cantines-instituts.html). Le commandant du 9 EG exerce les fonctions de commandant du Mess et Instituts.
+<a id="statuts-p-2-1"></a>
 
-Le Mess est administré conformément au [Manuel des politiques des PSP, chapitre 9-4](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=281) et à la [DOAD 9003-1 — Biens non publics](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/directives-ordonnances-administratives-defense/serie-9000/9003/9003-1-biens-non-publics.html). Les règlements prolongent la constitution et en précisent l’application; ils ne peuvent en modifier les pouvoirs ou les droits.
+**2.1.** L’établissement et l’administration du Mess relèvent de l’[article 27.01 des ORFC](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/ordonnances-reglements-royaux/vol-1-administration/chapitre-27-mess-cantines-instituts.html). Le commandant du 9 EG exerce les fonctions de commandant du Mess et Instituts.
+
+<a id="statuts-p-2-2"></a>
+
+**2.2.** Le Mess est administré conformément au [Manuel des politiques des PSP, chapitre 9-4](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=281) et à la [DOAD 9003-1 — Biens non publics](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/directives-ordonnances-administratives-defense/serie-9000/9003/9003-1-biens-non-publics.html). Les règlements complètent les statuts et en précisent l’application; ils ne peuvent en modifier les pouvoirs ou les droits.
 
 <a id="statuts-article-3"></a>
 
 ## 3. But
 
-Le Mess favorise l’esprit de corps, le bien-être des membres et les liens entre eux. Ses deux locaux offrent à chaque groupe un espace de rencontre adapté, dans le respect des rapports de leadership au sein de l’unité.
+<a id="statuts-p-3-1"></a>
 
-Le Mess rend compte des fonds et des biens qui lui sont confiés, selon le [R2.6](R2-proposition.md#r2-article-6) et le [R5.23](R5-proposition.md#r5-article-23).
+**3.1.** Le Mess favorise l’esprit de corps, le bien-être des membres et les liens entre eux. Ses deux locaux offrent à chaque groupe un espace de rencontre adapté, dans le respect des rapports de leadership au sein de l’unité.
+
+<a id="statuts-p-3-2"></a>
+
+**3.2.** Le Mess rend compte des fonds et des biens qui lui sont confiés, selon le [R2, paragraphe 6.1](R2-proposition.md#r2-p-6-1) et le [R5, paragraphe 23.1](R5-proposition.md#r5-p-23-1).
 
 <a id="statuts-article-4"></a>
 
 ## 4. Membres
 
-Le Mess comprend les catégories suivantes, définies dans le Manuel PSP :
+<a id="statuts-p-4-1"></a>
 
-- **4.1. Membres ordinaires.** Personnes admissibles selon le [chapitre 9-1, paragraphe 13](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=268).
-- **4.2. Membres associés.** Personnes admissibles selon le [chapitre 9-1, paragraphe 14](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=269).
-- **4.3. Membres honoraires.** Affiliations prévues au [chapitre 9-1, paragraphe 18](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=270) et au [paragraphe 19](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=270).
-- **4.4. Membres honoraires à vie.** Affiliations prévues au [chapitre 9-1, paragraphe 21](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=270).
+**4.1.** **Membres ordinaires.** Personnes admissibles selon le [chapitre 9-1, paragraphe 13](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=268).
 
-Les démarches, privilèges et critères locaux sont précisés au [R5.1](R5-proposition.md#r5-article-1).
+<a id="statuts-p-4-2"></a>
+
+**4.2.** **Membres associés.** Personnes admissibles selon le [chapitre 9-1, paragraphe 14](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=269).
+
+<a id="statuts-p-4-3"></a>
+
+**4.3.** **Membres honoraires.** Affiliations prévues au [chapitre 9-1, paragraphe 18](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=270) et au [paragraphe 19](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=270).
+
+<a id="statuts-p-4-4"></a>
+
+**4.4.** **Membres honoraires à vie.** Affiliations prévues au [chapitre 9-1, paragraphe 21](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=270).
+
+<a id="statuts-p-4-5"></a>
+
+**4.5.** Les démarches, privilèges et critères locaux sont précisés au [R5, paragraphe 1.1](R5-proposition.md#r5-p-1-1).
 
 <a id="statuts-article-5"></a>
 
 ## 5. Comité du Mess
 
-Le Mess est administré par un comité élu en assemblée générale par les membres ayant droit de vote, parmi les membres ordinaires. Le comité du Mess, ci-après appelé « le comité », assure l’administration courante du Mess et la mise en œuvre des décisions de l’assemblée générale, dans les limites du budget et des délégations approuvés. Les élections, destitutions, cotisations, budgets et modifications à la constitution sont décidés par les membres en assemblée générale. Ces décisions ne peuvent être prises en réunion du comité.
+<a id="statuts-p-5-1"></a>
 
-L’admissibilité, la représentation, les élections, les postes vacants et la fin des mandats sont précisés au [R5.2](R5-proposition.md#r5-article-2), au [R5.3](R5-proposition.md#r5-article-3), au [R5.4](R5-proposition.md#r5-article-4), au [R5.5](R5-proposition.md#r5-article-5) et au [R5.7](R5-proposition.md#r5-article-7).
+**5.1.** Le Mess est administré par un comité élu en assemblée générale par les membres ayant droit de vote, parmi les membres ordinaires. Le comité du Mess, ci-après appelé « le comité », assure l’administration courante du Mess et la mise en œuvre des décisions de l’assemblée générale, dans les limites du budget et des délégations approuvés. Les élections, destitutions, cotisations, budgets et modifications aux statuts sont décidés par les membres en assemblée générale. Ces décisions ne peuvent être prises en réunion du comité.
+
+<a id="statuts-p-5-2"></a>
+
+**5.2.** L’admissibilité, la représentation, les élections, les postes vacants et la fin des mandats sont précisés au [R5, paragraphe 2.1](R5-proposition.md#r5-p-2-1), au [R5, paragraphe 3.1](R5-proposition.md#r5-p-3-1), au [R5, paragraphe 4.1](R5-proposition.md#r5-p-4-1), au [R5, paragraphe 5.1](R5-proposition.md#r5-p-5-1) et au [R5, paragraphe 7.1](R5-proposition.md#r5-p-7-1).
 
 <a id="statuts-article-6"></a>
 
 ## 6. Composition du comité
 
-Le comité comprend au minimum :
+<a id="statuts-p-6-1"></a>
 
-  - **a.** un président;
-  - **b.** un vice-président; et
-  - **c.** un secrétaire ou un trésorier.
+**6.1.** Le comité comprend au minimum :
 
-La représentation des deux locaux suit le [R5.3](R5-proposition.md#r5-article-3). D’autres fonctions peuvent être confiées selon les besoins et les modalités d’élection ou de nomination déjà prévues dans les règlements.
+<a id="statuts-p-6-2"></a>
+
+**6.2.** un président;
+
+<a id="statuts-p-6-3"></a>
+
+**6.3.** un vice-président; et
+
+<a id="statuts-p-6-4"></a>
+
+**6.4.** un secrétaire ou un trésorier.
+
+<a id="statuts-p-6-5"></a>
+
+**6.5.** La représentation des deux locaux suit le [R5, paragraphe 3.1](R5-proposition.md#r5-p-3-1). D’autres fonctions peuvent être confiées selon les besoins et les modalités d’élection ou de nomination déjà prévues dans les règlements.
 
 <a id="statuts-article-7"></a>
 
 ## 7. Fonctions et responsabilités
 
-Les fonctions et responsabilités sont énoncées dans les [annexes A à H du R5](R5-proposition.md#annexes-des-responsabilites). Elles n’élargissent pas les pouvoirs des titulaires. Les achats et paiements respectent les délégations applicables, selon le [R5.6](R5-proposition.md#r5-article-6).
+<a id="statuts-p-7-1"></a>
+
+**7.1.** Les fonctions et responsabilités sont énoncées dans les [annexes A à H du R5](R5-proposition.md#annexes-des-responsabilites). Elles n’élargissent pas les pouvoirs des titulaires. Les achats et paiements respectent les délégations applicables, selon le [R5, paragraphe 6.1](R5-proposition.md#r5-p-6-1).
 
 <a id="statuts-article-8"></a>
 
 ## 8. Fréquence des réunions
 
-Les réunions du comité ont lieu au moins une fois par mois, conformément au [Manuel PSP, chapitre 9-4, paragraphe 39](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=296). Une assemblée générale des membres est tenue chaque trimestre. Le calendrier tient compte des entraînements, selon le [R3.1](R3-proposition.md#r3-article-1).
+<a id="statuts-p-8-1"></a>
+
+**8.1.** Les réunions du comité ont lieu au moins une fois par mois, conformément au [Manuel PSP, chapitre 9-4, paragraphe 39](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=296). Une assemblée générale des membres est tenue chaque trimestre. Le calendrier tient compte des entraînements, selon le [R3, paragraphe 1.1](R3-proposition.md#r3-p-1-1).
 
 <a id="statuts-article-9"></a>
 
 ## 9. Assemblées générales
 
-Les assemblées générales examinent les finances, les projets d’activités et toute question concernant le Mess. Elles élisent les administrateurs et prennent les décisions réservées aux membres.
+<a id="statuts-p-9-1"></a>
 
-Les membres ordinaires en règle ont droit de vote. Les membres associés et honoraires peuvent assister aux assemblées et participer aux discussions, sans voter.
+**9.1.** Les assemblées générales examinent les finances, les projets d’activités et toute question concernant le Mess. Elles élisent les administrateurs et prennent les décisions réservées aux membres.
 
-Le quorum et la validation d’une séance particulière suivent le [Manuel PSP, chapitre 9-4, paragraphe 43](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297). Les modalités de quorum, de motions et de vote sont précisées au [R3.4](R3-proposition.md#r3-article-4) et au [R3.5](R3-proposition.md#r3-article-5).
+<a id="statuts-p-9-2"></a>
 
-La présentation des motions et le vote suivent le [Manuel PSP, chapitre 9-4, tableau 9-4-4, paragraphes 7 à 15](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=299).
+**9.2.** Les membres ordinaires en règle ont droit de vote. Les membres associés et honoraires peuvent assister aux assemblées et participer aux discussions, sans voter.
 
-Le commandant peut assister aux assemblées et participer aux discussions. Chaque motion adoptée est soumise à son approbation.
+<a id="statuts-p-9-3"></a>
 
-Sa signature au procès-verbal approuve les motions adoptées, sauf celles qu’il indique comme non approuvées ou en attente. Le procès-verbal conserve ces mentions, le texte des motions et le résultat des votes.
+**9.3.** Le quorum et la validation d’une séance particulière suivent le [Manuel PSP, chapitre 9-4, paragraphe 43](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297). Les modalités de quorum, de motions et de vote sont précisées au [R3, paragraphe 3.1](R3-proposition.md#r3-p-3-1) et au [R3, paragraphe 4.1](R3-proposition.md#r3-p-4-1).
 
-Seules les motions approuvées peuvent être mises en œuvre. Toute modification au fond d’une décision doit être soumise de nouveau à l’assemblée générale.
+<a id="statuts-p-9-4"></a>
 
-Les assemblées extraordinaires suivent le [R5.8](R5-proposition.md#r5-article-8) et les convocations le [R5.9](R5-proposition.md#r5-article-9). Les seuils particuliers et les compétences réservées par la constitution ou ses règlements restent applicables.
+**9.4.** Le commandant peut assister aux assemblées et participer aux discussions. Chaque motion adoptée est soumise à son approbation.
+
+<a id="statuts-p-9-5"></a>
+
+**9.5.** Sa signature au procès-verbal approuve les motions adoptées, sauf celles qu’il indique comme non approuvées ou en attente. Le procès-verbal conserve ces mentions, le texte des motions et le résultat des votes.
+
+<a id="statuts-p-9-6"></a>
+
+**9.6.** Seules les motions approuvées peuvent être mises en œuvre. Toute modification au fond d’une décision doit être soumise de nouveau à l’assemblée générale.
+
+<a id="statuts-p-9-7"></a>
+
+**9.7.** Les assemblées extraordinaires suivent le [R5, paragraphe 8.1](R5-proposition.md#r5-p-8-1) et les convocations le [R5, paragraphe 9.1](R5-proposition.md#r5-p-9-1). Les seuils particuliers et les compétences réservées par les statuts ou leurs règlements restent applicables.
 
 <a id="statuts-article-10"></a>
 
 ## 10. Réunions du comité
 
-Le commandant ou le président convoque les réunions du comité pour préparer les dossiers, examiner la situation financière, gérer les affaires courantes et suivre les décisions. Le comité agit dans les limites du budget et des délégations approuvés; il ne tranche pas les questions réservées à l’assemblée générale.
+<a id="statuts-p-10-1"></a>
 
-Les comptes rendus distinguent les décisions du comité, ses recommandations et les suivis, selon le [R3.6](R3-proposition.md#r3-article-6).
+**10.1.** Le commandant ou le président convoque les réunions du comité pour préparer les dossiers, examiner la situation financière, gérer les affaires courantes et suivre les décisions. Le comité agit dans les limites du budget et des délégations approuvés; il ne tranche pas les questions réservées à l’assemblée générale.
+
+<a id="statuts-p-10-2"></a>
+
+**10.2.** Les comptes rendus distinguent les décisions du comité, ses recommandations et les suivis, selon le [R3, paragraphe 5.1](R3-proposition.md#r3-p-5-1).
 
 <a id="statuts-article-11"></a>
 
 ## 11. Modification des textes
 
-Toute proposition de modification à la constitution ou à ses règlements, y compris leurs annexes, est transmise par écrit au président et communiquée aux membres au moins 15 jours avant son examen. Son adoption exige la majorité des voix exprimées par les membres ayant droit de vote, lors d’une assemblée avec quorum.
+<a id="statuts-p-11-1"></a>
 
-Une modification adoptée entre en vigueur après l’approbation du commandant. Le texte à jour et sa date d’entrée en vigueur sont communiqués aux membres.
+**11.1.** Toute proposition de modification aux statuts ou à leurs règlements, y compris leurs annexes, est transmise par écrit au président et communiquée aux membres au moins 15 jours avant son examen. Son adoption exige la majorité des voix exprimées par les membres ayant droit de vote, lors d’une assemblée avec quorum.
+
+<a id="statuts-p-11-2"></a>
+
+**11.2.** Une modification adoptée entre en vigueur après l’approbation du commandant. Le texte à jour et sa date d’entrée en vigueur sont communiqués aux membres.
 
 ## Références générales
 
+- [Modèle de statuts du Manuel PSP, tableau 9-4-3](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=294).
 - [DOAD 5045-0 — Programmes de soutien du personnel des Forces canadiennes](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/directives-ordonnances-administratives-defense/serie-5000/5045/5045-0-programmes-de-soutien-du-personnel-des-forces-canadiennes.html).
 - [A-PS-110-001/AG-002 — Soutien public aux programmes de bien-être et de maintien du moral](https://sbmfc.ca/a-propos/politiques-et-publications/aa-ps-110-soutien-public-aux-programmes-de-bemm).
 - [Annexes des responsabilités du R5](R5-proposition.md#annexes-des-responsabilites).

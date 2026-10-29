@@ -253,3 +253,12 @@ La branche de publication, le domaine et la transcription originale sont inchang
 
 
 Contrôles 0.9 : 11 rubriques constitutionnelles et 43 articles R5 numérotés; quatre sous-catégories de membres rendues; 344 liens internes ou cibles de redirection vérifiés. Les 114 anciennes cibles, y compris celles des annexes, sont testées pour la redirection du site. Les montants et les conditions chiffrées ainsi que les références externes de la constitution précédente sont conservés dans la constitution ou le R5. Le rendu Markdown est contrôlé avec Marked; aucune compilation Jekyll complète n’est revendiquée. Contrôle des espaces Git sans erreur. Le titre local « Statuts et règlements, Mess et Instituts du 9e Escadron du génie » est conservé; le renvoi DOAD 9003-1 demandé précédemment reste au R5.6.
+
+
+## Version 0.10 — Statuts et règlements
+
+La lecture comporte deux niveaux : statuts, puis règlements R1 à R5. Les statuts suivent les 11 rubriques du tableau 9-4-3 du Manuel PSP. Chaque paragraphe normatif est numéroté N.M; les renvois actifs visent ces paragraphes. Les anciennes cibles sont conservées.
+
+Le déroulement des assemblées (motions, débats, scrutins et procès-verbaux) renvoie au tableau 9-4-4 et aux paragraphes 29 et 44 du chapitre 9-4, au lieu de reprendre leurs procédures. L’ancien point R3.3 est regroupé avec la convocation; les anciens points R3.4 à R3.10 deviennent les rubriques 3 à 9. Les délais locaux, le traitement d’un quorum perdu, la vérification d’un vote contesté et les garanties de diffusion restent présents. Les renvois R5 vers R1 à R4 remplacent les reprises internes.
+
+Les montants, les critères des prestations et les approbations locales ne sont pas modifiés par cette passe. Les validations de conformité déjà signalées restent nécessaires.
