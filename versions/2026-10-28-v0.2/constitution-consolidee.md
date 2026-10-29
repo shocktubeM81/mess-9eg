@@ -40,11 +40,11 @@ Conformément à la [DOAD 5045-0](https://www.canada.ca/fr/ministere-defense-nat
 <a id="article-4"></a>
 **4. Catégories et admission.** Les catégories de membres et leur admissibilité relèvent du [Manuel PSP, chapitre 9-1, paragraphes 11 à 23](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=268). Les dispositions locales suivantes précisent les démarches et la reconnaissance des membres.
 
-### Membres ordinaires
+### 4.1. Membres ordinaires
 
 Le statut est établi selon le paragraphe 13 de cette référence pour les militaires desservis par le Mess. Le fait de travailler au 9 EG ou d’y être attaché ne confère pas, à lui seul, le statut de membre ordinaire à une personne civile. Sa demande est examinée dans la catégorie applicable.
 
-### Membres associés
+### 4.2. Membres associés
 
 - **Admission.** Les catégories admissibles sont celles du paragraphe 14 de la référence. La demande écrite est adressée au président et appuyée par un membre ordinaire. Elle est affichée au moins 30 jours avant son examen. Les observations sont transmises au président. Le comité présente sa recommandation à l’assemblée; les approbations et la possibilité d’une admission temporaire suivent les paragraphes 14 à 17 de la référence.
 - **Nombre de membres.** Le plafond local est de 65 % du nombre de membres ordinaires. Une liste d’attente est tenue au besoin, selon les priorités de la référence.
@@ -52,11 +52,11 @@ Le statut est établi selon le paragraphe 13 de cette référence pour les milit
 - **Participation.** Les privilèges et la participation aux travaux du comité suivent le paragraphe 17 de la référence. La participation aux événements officiels à caractère militaire exige une invitation du président.
 - **Révocation et nouvelle demande.** Le comité peut révoquer les privilèges pour non-paiement, inconduite, non-respect des textes du Mess ou autre motif valable. Après une révocation pour non-paiement, une nouvelle demande est requise, sauf si le défaut de paiement est justifié auprès du président.
 
-### Membres honoraires
+### 4.3. Membres honoraires
 
 L’affiliation, les approbations et les privilèges suivent les paragraphes 18, 19, 22 et 23 de la référence. Les anciens combattants et les personnes ayant rendu un service exceptionnel ou contribué au bien ou au prestige de l’unité peuvent être proposés dans la catégorie à laquelle ils sont admissibles.
 
-### Membres honoraires à vie
+### 4.4. Membres honoraires à vie
 
 L’admissibilité relève du paragraphe 21 de la référence. Parmi les militaires admissibles, la reconnaissance locale bénéficie, à leur retraite, aux anciens commandants, sergents-majors et lieutenants-colonels honoraires du 9 EG, ainsi qu’aux membres ayant plus de 12 ans de service au 9 EG. Elle peut aussi reconnaître une contribution majeure à l’unité.
 
