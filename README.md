@@ -5,12 +5,12 @@ Le [document complet](index.md) présente **Partie I — Statuts**, puis **Parti
 ## Documents
 
 - [Statuts](versions/2026-10-28-v0.2/constitution-consolidee.md)
-- [Règlement sur la tenue et le comportement](versions/2026-10-28-v0.2/R1-proposition.md)
-- [Règlement sur les meubles et les décorations](versions/2026-10-28-v0.2/R2-proposition.md)
-- [Règlement sur les assemblées et les réunions](versions/2026-10-28-v0.2/R3-proposition.md)
-- [Règlement sur le service de bar](versions/2026-10-28-v0.2/R4-proposition.md)
-- [Règlement sur l’administration](versions/2026-10-28-v0.2/R5-proposition.md)
-- [Règlement sur les finances](versions/2026-10-28-v0.2/R6-proposition.md)
+- [Règlement 1 — Tenue et comportement](versions/2026-10-28-v0.2/R1-proposition.md)
+- [Règlement 2 — Meubles et décorations](versions/2026-10-28-v0.2/R2-proposition.md)
+- [Règlement 3 — Assemblées et réunions](versions/2026-10-28-v0.2/R3-proposition.md)
+- [Règlement 4 — Service de bar](versions/2026-10-28-v0.2/R4-proposition.md)
+- [Règlement 5 — Administration](versions/2026-10-28-v0.2/R5-proposition.md)
+- [Règlement 6 — Finances](versions/2026-10-28-v0.2/R6-proposition.md)
 
 ## Sources et suivi
 

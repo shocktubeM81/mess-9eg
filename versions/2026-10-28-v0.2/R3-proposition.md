@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Règlement sur les assemblées et les réunions
+title: Règlement 3 — Assemblées et réunions
 doc_code: R3
 document_label: Partie II — Règlements
 ---
 
-# Règlement sur les assemblées et les réunions
+# Règlement 3 — Assemblées et réunions
 
 {% include conventions-references.md %}
 

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Règlement sur les finances
+title: Règlement 6 — Finances
 doc_code: R6
 document_label: Partie II — Règlements
 ---
 
-# Règlement sur les finances
+# Règlement 6 — Finances
 
 {% include conventions-references.md %}
 

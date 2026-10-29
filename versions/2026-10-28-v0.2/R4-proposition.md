@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Règlement sur le service de bar
+title: Règlement 4 — Service de bar
 doc_code: R4
 document_label: Partie II — Règlements
 ---
 
-# Règlement sur le service de bar
+# Règlement 4 — Service de bar
 
 {% include conventions-references.md %}
 

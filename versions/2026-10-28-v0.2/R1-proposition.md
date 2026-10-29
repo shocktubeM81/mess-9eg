@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Règlement sur la tenue et le comportement
+title: Règlement 1 — Tenue et comportement
 doc_code: R1
 document_label: Partie II — Règlements
 modification: 2026-10-29
 ---
 
-# Règlement sur la tenue et le comportement
+# Règlement 1 — Tenue et comportement
 
 {% include conventions-references.md %}
 

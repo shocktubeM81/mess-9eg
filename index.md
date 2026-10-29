@@ -20,37 +20,37 @@ document_label: Statuts et règlements
 ## Partie II — Règlements
 
 <a id="reglement-1"></a>
-### Règlement sur la tenue et le comportement
+### Règlement 1 — Tenue et comportement
 
 {% capture texte_r1 %}{% include textes/r1.md %}{% endcapture %}
 {{ texte_r1 | markdownify | replace: '<h3', '<h5' | replace: '</h3>', '</h5>' | replace: '<h2', '<h4' | replace: '</h2>', '</h4>' }}
 
 <a id="reglement-2"></a>
-### Règlement sur les meubles et les décorations
+### Règlement 2 — Meubles et décorations
 
 {% capture texte_r2 %}{% include textes/r2.md %}{% endcapture %}
 {{ texte_r2 | markdownify | replace: '<h3', '<h5' | replace: '</h3>', '</h5>' | replace: '<h2', '<h4' | replace: '</h2>', '</h4>' }}
 
 <a id="reglement-3"></a>
-### Règlement sur les assemblées et les réunions
+### Règlement 3 — Assemblées et réunions
 
 {% capture texte_r3 %}{% include textes/r3.md %}{% endcapture %}
 {{ texte_r3 | markdownify | replace: '<h3', '<h5' | replace: '</h3>', '</h5>' | replace: '<h2', '<h4' | replace: '</h2>', '</h4>' }}
 
 <a id="reglement-4"></a>
-### Règlement sur le service de bar
+### Règlement 4 — Service de bar
 
 {% capture texte_r4 %}{% include textes/r4.md %}{% endcapture %}
 {{ texte_r4 | markdownify | replace: '<h3', '<h5' | replace: '</h3>', '</h5>' | replace: '<h2', '<h4' | replace: '</h2>', '</h4>' }}
 
 <a id="reglement-5"></a>
-### Règlement sur l’administration
+### Règlement 5 — Administration
 
 {% capture texte_r5 %}{% include textes/r5.md %}{% endcapture %}
 {{ texte_r5 | markdownify | replace: '<h3', '<h5' | replace: '</h3>', '</h5>' | replace: '<h2', '<h4' | replace: '</h2>', '</h4>' }}
 
 <a id="reglement-6"></a>
-### Règlement sur les finances
+### Règlement 6 — Finances
 
 {% capture texte_r6 %}{% include textes/r6.md %}{% endcapture %}
 {{ texte_r6 | markdownify | replace: '<h3', '<h5' | replace: '</h3>', '</h5>' | replace: '<h2', '<h4' | replace: '</h2>', '</h4>' }}

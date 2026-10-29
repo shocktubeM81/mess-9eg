@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Règlement sur l’administration
+title: Règlement 5 — Administration
 doc_code: R5
 document_label: Partie II — Règlements
 ---
 
-# Règlement sur l’administration
+# Règlement 5 — Administration
 
 {% include conventions-references.md %}
 
