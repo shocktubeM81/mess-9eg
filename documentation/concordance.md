@@ -365,3 +365,86 @@ Les adresses des documents et les identifiants existants sont conservés. L’an
 Dispositions révisées : constitution 4, 9, 11, 15, 16 (rédaction), 18, 20, 22 à 25, 27, 30, 31, 40, 50 à 52; R3.8 et R3.16; annexes A e et i, D a. Les modifications de forme du début de la constitution ne changent pas les règles. La numérotation n’est pas refaite pendant cette passe.
 
 Le tableau 0.6 explique chaque modification par rapport à 0.5. Les concordances précédentes sont historiques. Le statut ordinaire des civils n’est plus automatique; cette correction peut influer sur le vote et doit être examinée avant adoption.
+
+
+## Mise à jour 0.7 — regroupements des règlements
+
+| Règlement | Correspondance des anciens repères vers les nouveaux |
+|---|---|
+| R1 | 1 à 11 inchangés; 12 et 13 transférés au R2.5, avec renvoi depuis le R1 |
+| R2 | 1 à 4 inchangés; 5, 6 et 7 deviennent 5; 8 devient 6 |
+| R3 | 1 à 4 inchangés; 5 à 9 deviennent 5; 10 devient 6; 11 et 12 deviennent 7; 13 à 15 deviennent 8; 16 devient 9; 17 et 18 deviennent 10 |
+| R4 | 1, 2, 3 et 7 deviennent 1; 4 devient 2; 5 devient 3; 6 devient 4; 8 devient 5 |
+
+Les nouveaux liens utilisent les identifiants `r1-article-1`, `r2-article-1`, etc. Les anciens identifiants `r1-1`, `r2-1`, etc. sont conservés comme alias de leur disposition d’arrivée. Pour R1.12 et R1.13, l’ancienne cible mène au renvoi vers R2.5. Cette distinction évite de réaffecter un ancien lien à un sujet différent pendant la renumérotation.
+
+La constitution 18 renvoie toujours au quorum R3.4; la constitution 51 renvoie maintenant au suivi R3.9; l’annexe A e renvoie au déroulement et vote R3.5. Le détail des regroupements figure au tableau 0.7.
+
+
+## Mise à jour 0.8 — constitution lisible et numérotée en continu
+
+La constitution compte 56 articles. Son ancien article 13, déjà présent comme paragraphe introductif du comité, devient l’article 5. L’ancien repère 8 était un alias de la composition minimale; il demeure rattaché à cette même disposition, désormais l’article 8. Aucune disposition n’est créée pour combler un numéro.
+
+Les anciens articles 54 à 57 rejoignent la section financière, aux numéros 31 à 34. L’ordre des autres thèmes est conservé : dispositions, membres, comité, assemblées, finances, utilisation, réceptions, activités, fonds cadeau, plaintes et modifications.
+
+| Ancien repère constitutionnel | Numéro 0.8 |
+|---|---|
+| 1 | 1 |
+| 2 | 2 |
+| 3 | 3 |
+| 4 | 4 |
+| 5 | 6 |
+| 6 | 7 |
+| 7 | 8 |
+| 8 | 8 |
+| 9 | 9 |
+| 10 | 10 |
+| 11 | 11 |
+| 12 | 12 |
+| 13 | 5 |
+| 14 | 13 |
+| 15 | 14 |
+| 16 | 15 |
+| 17 | 16 |
+| 18 | 17 |
+| 19 | 18 |
+| 20 | 19 |
+| 21 | 20 |
+| 22 | 21 |
+| 23 | 22 |
+| 24 | 23 |
+| 25 | 24 |
+| 26 | 25 |
+| 27 | 26 |
+| 28 | 27 |
+| 29 | 28 |
+| 30 | 29 |
+| 31 | 30 |
+| 32 | 35 |
+| 33 | 36 |
+| 34 | 37 |
+| 35 | 38 |
+| 36 | 39 |
+| 37 | 40 |
+| 38 | 41 |
+| 39 | 42 |
+| 40 | 43 |
+| 41 | 44 |
+| 42 | 45 |
+| 43 | 46 |
+| 44 | 47 |
+| 45 | 48 |
+| 46 | 49 |
+| 47 | 50 |
+| 48 | 51 |
+| 49 | 52 |
+| 50 | 53 |
+| 51 | 54 |
+| 52 | 55 |
+| 53 | 56 |
+| 54 | 31 |
+| 55 | 32 |
+| 56 | 33 |
+| 57 | 34 |
+
+Les nouveaux liens utilisent `constitution-article-N`. Tous les anciens identifiants `article-N` sont conservés comme alias vers le même contenu, quel que soit son nouveau numéro. Les libellés et les cibles des renvois courants sont adaptés dans la constitution, les règlements et l’annexe D. Les tableaux et notes des étapes antérieures restent historiques.

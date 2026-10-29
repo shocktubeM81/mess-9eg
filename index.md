@@ -5,7 +5,7 @@ title: Présentation de la révision des documents du Mess
 
 # Présentation de la révision des documents du Mess
 
-29 octobre 2026 — Version 0.6 proposée
+29 octobre 2026 — Version 0.8 proposée
 
 Aux membres du Mess et Instituts du 9e Escadron du génie,
 
@@ -13,7 +13,9 @@ Je vous soumets une révision pour faciliter la lecture de nos règles et le sui
 
 La constitution conserve les droits des membres, les pouvoirs de décision et les garanties financières. Quatre règlements précisent les modalités pratiques : tenue et comportement, meubles et décorations, assemblées et réunions, service de bar. Les tâches sont regroupées dans huit annexes, une par rôle du Mess.
 
-Cette version remplace les reprises de politiques par des renvois précis. Elle assouplit les modalités de participation, de vente et de sauvegarde. Les consommations offertes et le quorum d’une séance particulière renvoient aux politiques PSP. Les montants des prestations sont conservés. Le comité reste distinct de l’assemblée. Les catégories de membres et le quorum renvoient aux politiques PSP. La proposition corrige l’attribution automatique du statut ordinaire aux civils; cette correction et ses conséquences sur les droits de vote doivent être examinées avant adoption. Les modalités financières locales restent à confirmer auprès des autorités compétentes.
+La constitution présente maintenant des articles courts avec un titre, des catégories de membres distinctes et les garanties financières regroupées avec les finances. Ses 56 articles sont numérotés en continu. Les quatre règlements conservent les regroupements précédents et comptent 32 articles.
+
+Les droits des membres, les montants des prestations, les délais et les pouvoirs restent ceux de la proposition précédente. La correction du statut ordinaire automatiquement attribué aux civils demeure à examiner avant adoption, avec ses conséquences sur les droits de vote. Les validations financières et opérationnelles encore nécessaires sont indiquées dans la documentation de travail.
 
 La communication directe des avis et décisions, l’accès aux documents, leur classement et leurs sauvegardes facilitent la participation et la relève. Les renseignements confidentiels restent protégés. Le suivi du Mess, du fonds cadeau et du fonds d’unité demeure distinct, avec les vérifications BNP requises.
 

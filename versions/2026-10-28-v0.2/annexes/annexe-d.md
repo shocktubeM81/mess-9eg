@@ -7,13 +7,13 @@ document_group: constitution
 
 # Annexe D — Trésorier
 
-**Version 0.6 du 29 octobre 2026 — Proposition à discuter et à adopter.**
+**Version 0.8 du 29 octobre 2026 — Proposition à discuter et à adopter.**
 
 [Constitution du Mess et Instituts](../constitution-consolidee.md) · [Liste des annexes](../constitution-consolidee.md#annexes-des-responsabilites)
 
 ## Responsabilités
 
-- **a.** Tenir la liste des membres par catégorie et suivre les cotisations. Distinguer la liste des personnes ayant droit de vote du dénombrement servant au quorum selon les [articles 17 et 18](../constitution-consolidee.md#article-17).
+- **a.** Tenir la liste des membres par catégorie et suivre les cotisations. Distinguer la liste des personnes ayant droit de vote du dénombrement servant au quorum selon les [articles 16 et 17](../constitution-consolidee.md#constitution-article-16).
 
 - **b.** Transmettre au responsable des biens non publics les recommandations de dépenses du Mess. Exercer les pouvoirs financiers délégués, s’il y a lieu, dans leurs limites et selon les directives en vigueur.
 

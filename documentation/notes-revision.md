@@ -205,3 +205,35 @@ Cette section actualise les points laissés ouverts en 0.5. Base GitHub de la pa
 6. Lors de l’examen par les membres, distinguer les exigences externes, les choix locaux conservés et les assouplissements proposés. Le plafond de 65 % des associés et l’affichage de 30 jours sont des règles locales conservées; ils ne sont pas présentés comme des exigences PSP.
 
 La copie locale comportait des marqueurs de conflit. Leur résolution reprend exactement la version déjà intégrée sur la branche de proposition avant les changements 0.6; aucun autre choix de fond n’est tiré de ces marqueurs. Le dépôt de cette passe ne fusionne pas la PR et ne met aucun texte en vigueur.
+
+
+## Révision 0.7 — regroupements demandés le 29 octobre 2026
+
+Les six regroupements présentés à l’utilisateur sont appliqués : déroulement des assemblées, service et vente d’alcool, disposition/pertes/assurances, dommages, communication/accès documentaire et conservation/relève. Les quatre règlements passent de 47 à 32 articles. Le tableau 0.7 et la concordance précisent tous les déplacements.
+
+Les références PSP déjà vérifiées sont réutilisées, avec les fragments de page rétablis. Pour R2.5, l’A-FN-105 demeure une référence distincte : une formule « conformément aux PSP » ne remplace pas les règles d’assurance ou de traitement des pertes. L’indisponibilité du chapitre 30 reste signalée dans les vérifications précédentes; le regroupement ne constitue pas une nouvelle validation de son contenu.
+
+Les prescriptions opérationnelles du R4 sont conservées : contrôle de l’âge en cas de doute, soutien du responsable aux refus de service, prise en compte des difficultés de santé ou de communication, aide au retour, suspension et appel aux secours en cas de danger, destinataire des incidents, relevé confidentiel, ouverture/fermeture et moyens de paiement.
+
+Les délais et garanties documentaires du R3 restent applicables : documents de séance normalement 7 jours avant, délai de 14 jours pour le relevé et le projet de procès-verbal, accès équivalent sans numérique, confidentialité, explication et recours en cas de restriction, archives, sauvegarde, suppléance et relève. La constitution conserve les droits des membres et les approbations. Les règles d’accès et d’enfants, la tenue civile et les modalités de réservation ne sont pas supprimées par ces regroupements.
+
+La numérotation des règlements est continue; les anciennes ancres sont conservées. Les renvois courants sont adaptés. Les notes, tableaux et concordances des versions antérieures demeurent historiques. La constitution n’est modifiée que pour ses renvois au R3 et sa mention de version. Aucun nouveau seuil, délai, plafond, pouvoir ou motif de restriction n’est créé par cette passe. La PR reste en brouillon, sans fusion.
+
+
+Contrôles de la passe 0.7 : 87 liens internes vérifiés, numérotation continue des 32 articles, conservation de toutes les anciennes ancres R1 à R4 et adaptation des renvois courants. Aucun marqueur de conflit ni identifiant en double; contrôle des espaces Git sans erreur. Aucun rendu Jekyll exécuté.
+
+
+## Révision 0.8 — lisibilité de la constitution
+
+À la demande de l’utilisateur, les regroupements 0.7 sont conservés et la constitution est réorganisée pour la lecture. Chaque article reçoit un titre court. L’article sur les membres est présenté en quatre sous-sections; les démarches des membres associés sont regroupées par sujet sans modifier leur contenu. Les garanties et le suivi financier rejoignent les finances.
+
+Le paragraphe du comité qui portait déjà l’ancre 13 devient un article numéroté. La constitution comporte ainsi 56 articles réels, numérotés en continu. L’ancienne ancre 8 était un alias; aucun article de fond n’est inventé pour combler ce numéro. La concordance indique la correspondance complète.
+
+Cette passe conserve les conditions d’admission, les droits de vote, les majorités, les délais, les plafonds et montants des prestations, les compétences et les approbations. Les expressions ambiguës ou références non vérifiées déjà signalées, notamment l’approbation « et/ou » des prix et l’ancienne mention de la loi sur les prestations de service, ne sont pas réinterprétées à l’occasion d’une révision de forme. Elles restent à valider comme indiqué aux étapes précédentes.
+
+Les renvois sont adaptés à la nouvelle numérotation. Les anciennes ancres constitutionnelles et réglementaires restent utilisables. Les références externes et leurs fragments de page PDF sont conservés. Les notes et tableaux antérieurs documentent les versions correspondantes; ils ne doivent pas être lus comme la numérotation actuelle.
+
+La version 0.8 reste une proposition à adopter et à approuver. Aucun texte n’entre en vigueur du seul fait de cette mise à jour de la PR; aucune fusion n’est effectuée.
+
+
+Contrôles 0.8 : 56 articles constitutionnels numérotés en continu et titrés; 57 anciennes ancres constitutionnelles conservées; 32 articles réglementaires conservés; 87 liens internes et leurs cibles vérifiés. Comparaison des montants et conditions chiffrées avec 0.7 sans différence; les 20 occurrences de références externes de la constitution sont conservées. Aucun identifiant en double, marqueur de conflit ou erreur d’espacement Git. Aucun rendu Jekyll exécuté.
