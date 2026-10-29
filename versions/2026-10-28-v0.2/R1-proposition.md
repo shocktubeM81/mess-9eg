@@ -25,24 +25,23 @@ Ce règlement précise la tenue, le comportement et les conditions pratiques de 
 
 ## Personnes mineures et enfants
 
-<a id="r1-6"></a>**R1.6.** Les personnes de moins de 18 ans admises au Mess sont les membres du Mess, les conjoints autorisés par le commandant et les enfants dans les conditions précisées ci-dessous. Leur admission ne leur permet pas de consommer de l’alcool : aucune boisson alcoolisée ne peut leur être vendue ou servie.
+<a id="r1-6"></a>**R1.6.** Les personnes de moins de 18 ans admises au Mess sont les membres du Mess, les conjoints autorisés par le commandant et les enfants dans les conditions précisées ci-dessous. Aucune boisson alcoolisée ne peut leur être vendue ou servie.
 
 <a id="r1-7"></a>**R1.7.** Pendant les ouvertures normales, les enfants peuvent utiliser la salle de télévision sous la surveillance de leurs parents. Lors d’une activité officielle, ils quittent le Mess avant 19 h, sauf si l’activité est familiale.
 
 ## Tenue
 
-<a id="r1-8"></a>**R1.8.** Les membres et leurs invités respectent les règles suivantes :
+<a id="r1-8"></a>**R1.8.** La tenue dans les locaux du Mess respecte les règles suivantes :
 
-- **Tenue générale.** Porter des vêtements propres et convenables. Les vêtements dégradants ou répulsifs sont interdits.
-- **Torse et chaussures.** Garder le torse couvert et porter des chaussures; les pieds nus sont interdits.
-- **Couvre-chef.** Retirer son couvre-chef à l’entrée du Mess, sous réserve des exceptions prévues par les instructions militaires, notamment pour les pratiques religieuses ou l’exercice de fonctions.
-- **Port de l’uniforme.** Lorsqu’un militaire porte l’uniforme, celui-ci demeure conforme aux Instructions sur la tenue des Forces canadiennes (A-DH-265-000/AG-001), dans leur version en vigueur, ainsi qu’aux directives de tenue applicables de la chaîne de commandement. L’uniforme est propre, soigné et porté avec les articles et insignes autorisés.
-- **Tenue minimale.** En cas d’abus, le commandant ou le président peut préciser la tenue minimale exigée, dans le respect des instructions militaires applicables.
+**a. Tenue générale.** Porter des vêtements propres et convenables. Les vêtements dégradants ou répulsifs sont interdits.
 
-Pour le personnel du bar :
+**b. Torse et chaussures.** Garder le torse couvert et porter des chaussures; les pieds nus sont interdits.
 
-- **Soirées spéciales.** Chemise blanche, nœud papillon et pantalon noir, ou tenue équivalente.
-- **Autres ouvertures et fins de semaine d’entraînement.** Uniforme de la journée ou tenue propre. Le port de l’uniforme demeure soumis aux exigences ci-dessus.
+**c. Couvre-chef.** Retirer son couvre-chef à l’entrée du Mess, sous réserve des exceptions prévues par les instructions militaires, notamment pour les pratiques religieuses ou l’exercice de fonctions.
+
+**d. Port de l’uniforme.** Lorsqu’un militaire porte l’uniforme, celui-ci demeure conforme aux Instructions sur la tenue des Forces canadiennes (A-DH-265-000/AG-001), dans leur version en vigueur, ainsi qu’aux directives de tenue applicables de la chaîne de commandement. L’uniforme est propre, soigné et porté avec les articles et insignes autorisés.
+
+**e. Tenue minimale.** En cas d’abus, le commandant ou le président peut préciser la tenue minimale exigée, dans le respect des instructions militaires applicables.
 
 Référence : [Instructions sur la tenue des Forces canadiennes, chapitre 2 — Politique et apparence](https://www.canada.ca/fr/services/defense/fac/systeme-identite-militaire/instructions-tenue/chapitre-2.html), notamment les rubriques sur le port de l’uniforme, les coiffures et les vêtements civils.
 

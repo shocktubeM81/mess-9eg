@@ -70,3 +70,7 @@ La section tenue du R1 est présentée par points : vêtements, torse et chaussu
 ## Nettoyage des documents
 
 La présentation est conservée uniquement dans index.md à la racine. Les quatre règlements et la constitution proposée sont les sources Markdown de référence. Le recueil, les index intermédiaires et les copies de la lettre ont été retirés. Les scripts qui produisaient ces copies ont également été retirés; les textes s’éditent directement. La concordance et les présentes notes sont conservées dans documentation, hors du site. Les anciennes copies restent récupérables dans l’historique Git. Le fond de la constitution et des règlements n’est pas modifié par ce nettoyage.
+
+## Ajustement de rédaction du 28 octobre 2026
+
+Au R1.6, la phrase sur l’admission des mineurs est allégée : seule demeure la règle « Aucune boisson alcoolisée ne peut leur être vendue ou servie. » Au R1.8, les points sont identifiés de a à e. Les prescriptions particulières de tenue du personnel du bar sont supprimées; les règles générales s’appliquent à toute personne admise dans les locaux.
