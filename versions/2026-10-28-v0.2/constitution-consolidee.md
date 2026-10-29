@@ -11,15 +11,21 @@ Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québe
 
 La constitution établit les droits, les organes et les garanties; les quatre règlements en précisent les modalités. Les articles historiques absents de cette constitution sont reproduits dans les règlements, selon la concordance.
 
-## Identité et membres
+## Dispositions générales
 
-<a id="article-1"></a>**1.** Les références DOAD 5045-0 et A-PS-110-001/AG-002 citées dans la source demeurent applicables sous réserve de leur version en vigueur. La constitution fixe les droits des membres, les organes de décision et les garanties financières. Quatre règlements en précisent les modalités : R1 tenue et comportement; R2 meubles et décorations; R3 assemblées et réunions; R4 service de bar. Un règlement ne peut modifier un pouvoir réservé aux membres ni contourner une approbation requise. Le terme commandant désigne le commandant du 9 EG; les fonctions s’appliquent sans distinction de genre.
+<a id="article-1"></a>
+**1.** Les références DOAD 5045-0 et A-PS-110-001/AG-002 citées dans la source demeurent applicables sous réserve de leur version en vigueur. La constitution fixe les droits des membres, les organes de décision et les garanties financières. Quatre règlements en précisent les modalités : R1 tenue et comportement; R2 meubles et décorations; R3 assemblées et réunions; R4 service de bar. Un règlement ne peut modifier un pouvoir réservé aux membres ni contourner une approbation requise. Le terme commandant désigne le commandant du 9 EG; les fonctions s’appliquent sans distinction de genre.
 
-<a id="article-2"></a>**2.** Ce mess sera désigné par "Mess et Instituts". Par contre, le local regroupant les soldats, caporaux et caporaux-chef sera désigné sous l’appellation de « Club Chimo » et le local regroupant les sergents et plus gradés sera désigné « Mess Combiné ».
+## Membres
 
-<a id="article-3"></a>**3.** La présence d'un mess dans l'enceinte du manège militaire a pour but d'entretenir un esprit de corps, amenant par le fait même la présence d'une certaine efficacité et d'un certain bien-être au sein de l'unité. Cela permet également aux membres de mieux se connaître. Il y aura 2 locaux pour préserver l'intimité de chaque groupe et conserver ainsi un leadership au sein des troupes.
+<a id="article-2"></a>
+**2.** Ce mess sera désigné par "Mess et Instituts". Par contre, le local regroupant les soldats, caporaux et caporaux-chef sera désigné sous l’appellation de « Club Chimo » et le local regroupant les sergents et plus gradés sera désigné « Mess Combiné ».
 
-<a id="article-4"></a>**4.** Les membres du mess sont ordinaires, associés, ou honoraires II est à noter que seuls les membres ordinaires peuvent faire partie du comité du mess.
+<a id="article-3"></a>
+**3.** La présence d'un mess dans l'enceinte du manège militaire a pour but d'entretenir un esprit de corps, amenant par le fait même la présence d'une certaine efficacité et d'un certain bien-être au sein de l'unité. Cela permet également aux membres de mieux se connaître. Il y aura 2 locaux pour préserver l'intimité de chaque groupe et conserver ainsi un leadership au sein des troupes.
+
+<a id="article-4"></a>
+**4.** Les membres du mess sont ordinaires, associés, ou honoraires II est à noter que seuls les membres ordinaires peuvent faire partie du comité du mess.
 
 - **a.** Membres ordinaires.
 
