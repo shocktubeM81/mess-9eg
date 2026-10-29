@@ -15,7 +15,7 @@ Ce règlement précise la préparation des séances, leur déroulement et la ges
 
 <a id="r3-1"></a>**R3.1.** Le calendrier annuel tient compte des entraînements. Les dates des assemblées et des activités sont communiquées aux membres et affichées dans les locaux. Aucune période de l’année n’est exclue.
 
-<a id="r3-2"></a>**R3.2.** La convocation indique la date, l’heure, le lieu et, s’il y a lieu, le moyen de connexion. Les délais de convocation et de modification des textes sont ceux des [articles 16 et 52 de la constitution](constitution-consolidee.md#article-16). Les documents utiles sont transmis normalement 7 jours avant la séance. Le dépôt des propositions et l’affichage de l’ordre du jour suivent le [Manuel PSP, chapitre 9-4, paragraphes 41 et 42](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf).
+<a id="r3-2"></a>**R3.2.** La convocation indique la date, l’heure, le lieu et, s’il y a lieu, le moyen de connexion. Les délais de convocation et de modification des textes sont ceux des [articles 16 et 52 de la constitution](constitution-consolidee.md#article-16). Les documents utiles sont transmis normalement 7 jours avant la séance. Le dépôt des propositions et l’affichage de l’ordre du jour suivent le [Manuel PSP, chapitre 9-4, paragraphes 41 et 42](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297).
 
 <a id="r3-3"></a>**R3.3.** Une proposition importante ou complexe est accompagnée des renseignements nécessaires à son examen.
 
@@ -25,7 +25,7 @@ Ce règlement précise la préparation des séances, leur déroulement et la ges
 
 <a id="r3-5"></a>**R3.5.** L’ordre habituel est : ouverture; adoption du procès-verbal; rapports du président, des finances et des sous-comités; suivi des décisions; nouvelles affaires; levée. Un procès-verbal transmis à l’avance n’a pas à être relu intégralement.
 
-<a id="r3-6"></a>**R3.6.** La présentation, l’appui et l’examen des motions suivent le [Manuel PSP, chapitre 9-4, tableau 9-4-4](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf). Les droits de vote et les majorités restent définis à la [constitution, articles 17 à 20](constitution-consolidee.md#article-17).
+<a id="r3-6"></a>**R3.6.** La présentation, l’appui et l’examen des motions suivent le [Manuel PSP, chapitre 9-4, tableau 9-4-4](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=298). Les droits de vote et les majorités restent définis à la [constitution, articles 17 à 20](constitution-consolidee.md#article-17).
 
 <a id="r3-7"></a>**R3.7.** Une seule personne parle à la fois. Les interventions portent sur la motion. Les amendements et le texte soumis au vote sont consignés.
 
@@ -33,7 +33,7 @@ Ce règlement précise la préparation des séances, leur déroulement et la ges
 
 ## Consultations et réunions du comité
 
-<a id="r3-9"></a>**R3.9.** Les assemblées virtuelles et le vote électronique suivent le [Manuel PSP, chapitre 9-4, paragraphe 44](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf). La convocation précise les modalités de participation. Une simple consultation ne remplace pas un vote tenu dans ce cadre. Les résultats sont joints au procès-verbal.
+<a id="r3-9"></a>**R3.9.** Les assemblées virtuelles et le vote électronique suivent le [Manuel PSP, chapitre 9-4, paragraphe 44](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297). La convocation précise les modalités de participation. Une simple consultation ne remplace pas un vote tenu dans ce cadre. Les résultats sont joints au procès-verbal.
 
 <a id="r3-10"></a>**R3.10.** Les participants à une réunion du comité reçoivent la date, le lieu ou le moyen de connexion, les sujets et les documents utiles. Le compte rendu distingue les décisions du comité, les tâches de préparation et les recommandations à l’assemblée. Chaque suivi indique un responsable et une échéance.
 
@@ -59,4 +59,4 @@ Ce règlement précise la préparation des séances, leur déroulement et la ges
 
 ## Références
 
-[Manuel des politiques des PSP, chapitre 9-4](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf).
+[Manuel des politiques des PSP, chapitre 9-4](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=281).
