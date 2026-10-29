@@ -9,6 +9,14 @@ show_downloads: false
 exclude:
   - documentation
   - README.md
+  - texte-maitre.md
+  - MODE-EMPLOI.md
+  - outils
+  - modeles
+  - exports
+  - tmp
+  - Generer-les-documents.ps1
+  - Generer-les-documents.cmd
 plugins:
   - jekyll-relative-links
 relative_links:
