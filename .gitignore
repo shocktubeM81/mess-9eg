@@ -3,3 +3,10 @@
 __pycache__/
 *.pyc
 ~$*.docx
+/site/_includes/texte-maitre.md
+/site/_data/structure.json
+/site/constitution.md
+/site/_site/
+/site/.jekyll-cache/
+/site/.jekyll-metadata
+/_site/

@@ -13,8 +13,8 @@ jobs:
       - uses: actions/setup-python@v6
         with:
           python-version: '3.12'
-      - run: python -m pip install -r outils/requirements.txt
-      - run: python outils/generer-documents.py --pdf-moteur reportlab
+      - run: python -m pip install -r generateur/requirements.txt
+      - run: python generateur/generer-documents.py --pdf-moteur reportlab
       - name: Consigner le commit construit
         run: git rev-parse HEAD > exports/commit.txt
       - uses: actions/upload-artifact@v6

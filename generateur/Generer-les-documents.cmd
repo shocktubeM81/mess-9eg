@@ -7,5 +7,5 @@ if errorlevel 1 (
   exit /b 1
 )
 echo.
-echo Documents disponibles dans le dossier exports.
+echo Documents disponibles dans le dossier exports a la racine du depot.
 pause

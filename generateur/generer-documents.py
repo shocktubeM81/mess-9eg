@@ -1,4 +1,4 @@
-"""Le maître UTF-8 est la seule entrée des exports et des vues web."""
+"""Produire les exports à partir du maître Markdown partagé dans textes/."""
 from __future__ import annotations
 import argparse
 import hashlib
@@ -285,15 +285,15 @@ def reportlab_pdf(blocks,profile,target):
 
 def main():
     ap=argparse.ArgumentParser(description=__doc__)
-    ap.add_argument('--modele',default='9eg',help='Nom du profil JSON dans modeles, ou chemin du fichier')
+    ap.add_argument('--modele',default='9eg',help='Nom du profil JSON dans generateur/modeles, ou chemin du fichier')
     ap.add_argument('--site',action='store_true',help='Compatibilité : le site lit directement le maître')
-    ap.add_argument('--texte-seul',action='store_true',help='Produire seulement la copie TXT et, sur demande, les vues du site')
+    ap.add_argument('--texte-seul',action='store_true',help='Produire seulement la copie TXT')
     ap.add_argument('--docx-seul',action='store_true',help='Produire le Word et la copie TXT sans exporter le PDF')
     ap.add_argument('--pdf-moteur',choices=['auto','word','reportlab'],default='auto')
     ap.add_argument('--sortie',default='exports',help='Dossier de sortie, relatif au projet ou absolu')
     args=ap.parse_args()
-    master=ROOT/'texte-maitre.md';text=read(master)
-    structure=json.loads(read(ROOT/'_data/structure.json'))
+    master=ROOT/'textes/texte-maitre.md';text=read(master)
+    structure=json.loads(read(ROOT/'textes/structure.json'))
     segments,count=validate(text,structure);blocks=document_blocks(text,segments)
     out=Path(args.sortie)
     if not out.is_absolute():out=ROOT/out
@@ -304,7 +304,7 @@ def main():
     if args.texte_seul:
         print('Copie TXT créée.');return
     pp=Path(args.modele)
-    if not pp.is_file():pp=ROOT/'modeles'/(args.modele+'.json')
+    if not pp.is_file():pp=ROOT/'generateur/modeles'/(args.modele+'.json')
     profile=json.loads(read(pp));docx=out/'statuts-et-reglements.docx';pdf=out/'statuts-et-reglements.pdf'
     make_docx(blocks,profile,docx)
     if args.docx_seul:
@@ -312,14 +312,14 @@ def main():
     engine='reportlab';error=None
     if args.pdf_moteur in ('auto','word') and os.name=='nt':
         try:
-            subprocess.run(['powershell.exe','-NoProfile','-File',str(ROOT/'outils/exporter-pdf.ps1'),'-Document',str(docx),'-Pdf',str(pdf)],check=True,timeout=90,capture_output=True,text=True)
+            subprocess.run(['powershell.exe','-NoProfile','-File',str(ROOT/'generateur/exporter-pdf.ps1'),'-Document',str(docx),'-Pdf',str(pdf)],check=True,timeout=90,capture_output=True,text=True)
             engine='word'
         except (subprocess.SubprocessError,OSError) as exc:
             error=str(exc)
             if isinstance(exc,subprocess.CalledProcessError):error+='\n'+(exc.stderr or '')
             if args.pdf_moteur=='word':raise RuntimeError('Export PDF Word impossible: '+error) from exc
     if engine=='reportlab':reportlab_pdf(blocks,profile,pdf)
-    info={'maitre':master.name,'sha256':hashlib.sha256(master.read_bytes()).hexdigest(),'paragraphes':count,'modele':pp.name,'pdf_moteur':engine,'word_pdf_erreur':error}
+    info={'maitre':master.relative_to(ROOT).as_posix(),'sha256':hashlib.sha256(master.read_bytes()).hexdigest(),'paragraphes':count,'modele':pp.name,'pdf_moteur':engine,'word_pdf_erreur':error}
     (out/'generation.json').write_text(json.dumps(info,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     print(f'{count} paragraphes. Word et PDF créés dans exports. Moteur PDF: {engine}.')
     if error:print('Word indisponible; PDF produit avec ReportLab. La pagination peut différer de celle de Word.')

@@ -1,55 +1,71 @@
-# Organisation après nettoyage
+# Organisation du dépôt
 
-Le maître `texte-maitre.md` reste inchangé : projet 0.11 non adopté.
-`constitution.md` et `documentation/` conservent la transcription et les traces
-des révisions. L’original manque pour certifier le texte en vigueur.
+Le rangement distingue le contenu de ses deux usages : site web et fichiers.
 
-## Suppressions et simplification
+```text
+textes/                         # contenu partagé
+  texte-maitre.md                # projet courant non adopté
+  structure.json                # identifiants des renvois
+  archives/constitution.md       # transcription historique
+site/                           # présentation et construction du site
+  _layouts/
+  assets/
+  _data/redirections.json
+  versions/                     # anciennes URL uniquement
+  index.md
+  _config.yml
+  preparer.py
+  Gemfile
+  CNAME
+generateur/                     # production Word, PDF et TXT
+  modeles/
+  generer-documents.py
+  exporter-pdf.ps1
+  requirements.txt
+  Generer-les-documents.cmd
+  Generer-les-documents.ps1
+documentation/                  # notes et concordances
+exports/                        # fichiers produits, ignorés par Git
+tmp/                            # fichiers temporaires, ignorés par Git
+.github/workflows/
+  documents.yml
+  site.yml
+```
 
-Les 18 copies Markdown sous `_includes/` ont été supprimées.
-`index.md` lit directement le maître avec `include_relative` et `markdownify`.
-Les anciennes pages `versions/` et `reglements.md` sont des redirections :
-leurs URL sont conservées, sans recopier les dispositions. Les correspondances
-historiques de fragments sont dans `_data/redirections.json`.
-Le code de génération des copies web a été retiré du générateur Python.
+Le maître et la transcription ont été déplacés sans modifier leur contenu.
+Les notes de révision sont conservées; seuls les chemins des liens locaux
+sont adaptés au rangement. Git conserve les versions antérieures : aucune
+réécriture d’historique ni suppression de branche.
 
-`outils/structure-maitre.json` est déplacé dans `_data/structure.json` pour
-partager la même table d’identifiants entre le site Jekyll et les exports.
-JavaScript ajoute les ancres des renvois au HTML; sans JavaScript, le texte
-reste lisible mais ces renvois et les redirections automatiques sont limités.
-Les pages de redirection comportent un lien utilisable sans JavaScript.
+## Deux processus indépendants
 
-## Organisation conservée
+**Documents** : le générateur lit `textes/`, utilise ses modèles et écrit dans
+`exports/`. Il n’a aucune dépendance aux fichiers du site.
 
-- Racine : maître, accueil et lanceurs simples.
-- `_layouts/`, `assets/` : présentation du site.
-- `_data/` : identifiants et correspondances historiques, sans dispositions.
-- `documentation/`, `constitution.md` : historique documentaire.
-- `outils/`, `modeles/` : génération Word/PDF et présentation.
-- `exports/`, `tmp/` : sorties ignorées par Git.
-- `versions/` : compatibilité des anciens liens uniquement.
+**Site** : `site/preparer.py` copie à l’identique le maître, sa table d’identifiants
+et la transcription dans les emplacements Jekyll. Ces trois copies sont ignorées
+par Git et doivent être régénérées, jamais modifiées. Aucun générateur Word/PDF
+ni ses dépendances ne sont nécessaires. Jekyll affiche le Markdown avec
+`markdownify`; JavaScript restaure les ancres et le sommaire.
 
-Le regroupement physique dans `site/` et `textes/` est différé : il imposerait
-un changement de configuration Pages sans supprimer davantage de doublons.
-Aucun historique Git n’est réécrit; Git conserve les fichiers supprimés.
+Les URL publiques restent inchangées. Le préfixe `site/` appartient seulement au
+rangement du dépôt. Les anciennes pages restent de petites redirections.
 
-## Génération et statut
+## Publication
 
-GitHub Actions réutilise le générateur existant pour DOCX, PDF ReportLab, TXT,
-empreinte du maître et commit construit. Les copies de travail sont conservées
-30 jours; elles ne constituent pas une archive officielle ou une adoption.
-Le PDF ReportLab peut avoir une pagination différente de Word. Relire les
-exports avant diffusion officielle; l’export Word local reste disponible.
-Les dépendances restent définies par plages, sans garantie de reconstruction
-strictement identique.
+Le workflow `Site web` construit le site et fournit un artefact pour vérification.
+La publication est manuelle, réservée à la branche par défaut, avec l’option
+`publier`. Configurer GitHub Pages pour utiliser GitHub Actions avant la mise
+en service de ce rangement; les réglages distants ne sont pas changés ici.
+Voir [les instructions du site](../site/README.md).
 
-Conserver ce générateur évite une seconde chaîne. Pandoc demanderait un filtre
-pour les identifiants, un modèle Word et un moteur PDF, puis une comparaison
-des renvois et mises en page avant remplacement.
+## Statut des textes
 
-Après adoption documentée, associer décision, preuves, dates réelles et commit
-exact à un tag annoté. Ne pas classer le projet actuel comme approuvé.
+Le projet reste non adopté. La transcription mentionne une adoption ancienne,
+mais l’original manque pour certifier le texte actuellement en vigueur.
+Après adoption documentée, associer décision, justificatifs, dates réelles et
+commit exact à un tag annoté. Une génération ne constitue pas une adoption.
+Les artefacts Actions de 30 jours sont des copies de travail temporaires.
 
-Références : [Jekyll include_relative](https://jekyllrb.com/docs/includes/),
-[GitHub Actions](https://docs.github.com/en/actions/tutorials/build-and-test-code/python),
-[Pandoc](https://pandoc.org/MANUAL.html).
+Le générateur existant est conservé. Un passage à Pandoc demanderait une
+migration des identifiants et du modèle, puis une comparaison des exports.
