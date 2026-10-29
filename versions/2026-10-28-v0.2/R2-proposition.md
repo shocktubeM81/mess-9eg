@@ -7,7 +7,7 @@ document_label: Règlement R2
 
 # Règlement sur les meubles et les décorations
 
-**Version 0.7 du 29 octobre 2026 — Proposition à discuter et à adopter.**
+**Version 0.8 du 29 octobre 2026 — Proposition à discuter et à adopter.**
 
 Ce règlement encadre les dons, l’installation, l’utilisation et la conservation des biens du Mess.
 
@@ -37,7 +37,7 @@ Ce règlement encadre les dons, l’installation, l’utilisation et la conserva
 <a id="r2-5"></a>
 <a id="r2-6"></a>
 <a id="r2-7"></a>
-**R2.5.** La disposition des biens suit le [Manuel PSP, chapitre 9-4, paragraphes 78 et 79](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=313) ou, en cas de dissolution ou de modification de la situation de l’unité, le [chapitre 10-5](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=364). Les pertes et dommages et les assurances suivent respectivement les chapitres 30 et 11 de l’[A-FN-105](https://sbmfc.ca/a-propos/politiques-et-publications/comptabilite-biens-non-publics/a-fn-105). Les pouvoirs financiers restent ceux des [articles 11 et 13 de la constitution](constitution-consolidee.md#article-11).
+**R2.5.** La disposition des biens suit le [Manuel PSP, chapitre 9-4, paragraphes 78 et 79](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=313) ou, en cas de dissolution ou de modification de la situation de l’unité, le [chapitre 10-5](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=364). Les pertes et dommages et les assurances suivent respectivement les chapitres 30 et 11 de l’[A-FN-105](https://sbmfc.ca/a-propos/politiques-et-publications/comptabilite-biens-non-publics/a-fn-105). Les pouvoirs financiers restent ceux des [articles 5 et 11 de la constitution](constitution-consolidee.md#constitution-article-11).
 
 Tout dommage, même accidentel, est signalé au président. Avant une disposition, la propriété et les conditions de don ou de prêt sont vérifiées. Le vice-président fait confirmer la couverture applicable au Mess de la Réserve, selon l’[A-FN-105, chapitre 11, paragraphes 2, 6 et 17 à 20](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/8.4.5/Policies/AF-N-105/Chap11_f.pdf#page=1).
 

@@ -8,7 +8,7 @@ modification: 2026-10-29
 
 # Règlement sur la tenue et le comportement
 
-**Version 0.7 du 29 octobre 2026 — Proposition à discuter et à adopter.**
+**Version 0.8 du 29 octobre 2026 — Proposition à discuter et à adopter.**
 
 Ce règlement précise les conditions d’accès, la tenue et le comportement dans les locaux du Mess.
 
@@ -16,7 +16,7 @@ Ce règlement précise les conditions d’accès, la tenue et le comportement da
 
 <a id="r1-article-1"></a>
 <a id="r1-1"></a>
-**R1.1.** L’accès selon le grade et les invitations relève du [Manuel PSP, chapitre 9-1, paragraphes 29 à 31](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=274). Pour les deux locaux du 9 EG, voir la [constitution, article 2](constitution-consolidee.md#article-2).
+**R1.1.** L’accès selon le grade et les invitations relève du [Manuel PSP, chapitre 9-1, paragraphes 29 à 31](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=274). Pour les deux locaux du 9 EG, voir la [constitution, article 2](constitution-consolidee.md#constitution-article-2).
 
 <a id="r1-article-2"></a>
 <a id="r1-2"></a>

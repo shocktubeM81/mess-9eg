@@ -379,3 +379,72 @@ Le tableau 0.6 explique chaque modification par rapport à 0.5. Les concordances
 Les nouveaux liens utilisent les identifiants `r1-article-1`, `r2-article-1`, etc. Les anciens identifiants `r1-1`, `r2-1`, etc. sont conservés comme alias de leur disposition d’arrivée. Pour R1.12 et R1.13, l’ancienne cible mène au renvoi vers R2.5. Cette distinction évite de réaffecter un ancien lien à un sujet différent pendant la renumérotation.
 
 La constitution 18 renvoie toujours au quorum R3.4; la constitution 51 renvoie maintenant au suivi R3.9; l’annexe A e renvoie au déroulement et vote R3.5. Le détail des regroupements figure au tableau 0.7.
+
+
+## Mise à jour 0.8 — constitution lisible et numérotée en continu
+
+La constitution compte 56 articles. Son ancien article 13, déjà présent comme paragraphe introductif du comité, devient l’article 5. L’ancien repère 8 était un alias de la composition minimale; il demeure rattaché à cette même disposition, désormais l’article 8. Aucune disposition n’est créée pour combler un numéro.
+
+Les anciens articles 54 à 57 rejoignent la section financière, aux numéros 31 à 34. L’ordre des autres thèmes est conservé : dispositions, membres, comité, assemblées, finances, utilisation, réceptions, activités, fonds cadeau, plaintes et modifications.
+
+| Ancien repère constitutionnel | Numéro 0.8 |
+|---|---|
+| 1 | 1 |
+| 2 | 2 |
+| 3 | 3 |
+| 4 | 4 |
+| 5 | 6 |
+| 6 | 7 |
+| 7 | 8 |
+| 8 | 8 |
+| 9 | 9 |
+| 10 | 10 |
+| 11 | 11 |
+| 12 | 12 |
+| 13 | 5 |
+| 14 | 13 |
+| 15 | 14 |
+| 16 | 15 |
+| 17 | 16 |
+| 18 | 17 |
+| 19 | 18 |
+| 20 | 19 |
+| 21 | 20 |
+| 22 | 21 |
+| 23 | 22 |
+| 24 | 23 |
+| 25 | 24 |
+| 26 | 25 |
+| 27 | 26 |
+| 28 | 27 |
+| 29 | 28 |
+| 30 | 29 |
+| 31 | 30 |
+| 32 | 35 |
+| 33 | 36 |
+| 34 | 37 |
+| 35 | 38 |
+| 36 | 39 |
+| 37 | 40 |
+| 38 | 41 |
+| 39 | 42 |
+| 40 | 43 |
+| 41 | 44 |
+| 42 | 45 |
+| 43 | 46 |
+| 44 | 47 |
+| 45 | 48 |
+| 46 | 49 |
+| 47 | 50 |
+| 48 | 51 |
+| 49 | 52 |
+| 50 | 53 |
+| 51 | 54 |
+| 52 | 55 |
+| 53 | 56 |
+| 54 | 31 |
+| 55 | 32 |
+| 56 | 33 |
+| 57 | 34 |
+
+Les nouveaux liens utilisent `constitution-article-N`. Tous les anciens identifiants `article-N` sont conservés comme alias vers le même contenu, quel que soit son nouveau numéro. Les libellés et les cibles des renvois courants sont adaptés dans la constitution, les règlements et l’annexe D. Les tableaux et notes des étapes antérieures restent historiques.

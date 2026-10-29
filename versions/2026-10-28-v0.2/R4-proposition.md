@@ -7,7 +7,7 @@ document_label: Règlement R4
 
 # Règlement sur le service de bar
 
-**Version 0.7 du 29 octobre 2026 — Proposition à discuter et à adopter.**
+**Version 0.8 du 29 octobre 2026 — Proposition à discuter et à adopter.**
 
 Ce règlement précise les contrôles de service, les refus, les incidents et la fermeture du bar.
 
@@ -18,7 +18,7 @@ Ce règlement précise les contrôles de service, les refus, les incidents et la
 <a id="r4-2"></a>
 <a id="r4-3"></a>
 <a id="r4-7"></a>
-**R4.1.** Le service, la formation du personnel et les ventes de boissons alcoolisées sont régis par le [Manuel PSP, chapitre 9-2](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=275) et le [chapitre 9-4, paragraphes 58 à 60](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=308), ainsi que par les lois et les autorisations applicables. Les règles générales du Mess sont précisées à l’[article 34 de la constitution](constitution-consolidee.md#article-34).
+**R4.1.** Le service, la formation du personnel et les ventes de boissons alcoolisées sont régis par le [Manuel PSP, chapitre 9-2](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=275) et le [chapitre 9-4, paragraphes 58 à 60](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=308), ainsi que par les lois et les autorisations applicables. Les règles générales du Mess sont précisées à l’[article 37 de la constitution](constitution-consolidee.md#constitution-article-37).
 
 En cas de doute sur l’âge, une pièce d’identité est demandée avant de servir de l’alcool, selon les [articles 103.1 à 103.3 de la Loi sur les infractions en matière de boissons alcooliques](https://www.legisquebec.gouv.qc.ca/fr/document/lc/I-8.1). Le responsable de service appuie le personnel dans l’application des refus; le service ne permet pas de les contourner. Une difficulté de santé ou de communication ne constitue pas, à elle seule, un signe d’ébriété. Les modalités de vente autorisées sont communiquées au personnel.
 

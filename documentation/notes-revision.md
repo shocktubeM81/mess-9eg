@@ -221,3 +221,19 @@ La numérotation des règlements est continue; les anciennes ancres sont conserv
 
 
 Contrôles de la passe 0.7 : 87 liens internes vérifiés, numérotation continue des 32 articles, conservation de toutes les anciennes ancres R1 à R4 et adaptation des renvois courants. Aucun marqueur de conflit ni identifiant en double; contrôle des espaces Git sans erreur. Aucun rendu Jekyll exécuté.
+
+
+## Révision 0.8 — lisibilité de la constitution
+
+À la demande de l’utilisateur, les regroupements 0.7 sont conservés et la constitution est réorganisée pour la lecture. Chaque article reçoit un titre court. L’article sur les membres est présenté en quatre sous-sections; les démarches des membres associés sont regroupées par sujet sans modifier leur contenu. Les garanties et le suivi financier rejoignent les finances.
+
+Le paragraphe du comité qui portait déjà l’ancre 13 devient un article numéroté. La constitution comporte ainsi 56 articles réels, numérotés en continu. L’ancienne ancre 8 était un alias; aucun article de fond n’est inventé pour combler ce numéro. La concordance indique la correspondance complète.
+
+Cette passe conserve les conditions d’admission, les droits de vote, les majorités, les délais, les plafonds et montants des prestations, les compétences et les approbations. Les expressions ambiguës ou références non vérifiées déjà signalées, notamment l’approbation « et/ou » des prix et l’ancienne mention de la loi sur les prestations de service, ne sont pas réinterprétées à l’occasion d’une révision de forme. Elles restent à valider comme indiqué aux étapes précédentes.
+
+Les renvois sont adaptés à la nouvelle numérotation. Les anciennes ancres constitutionnelles et réglementaires restent utilisables. Les références externes et leurs fragments de page PDF sont conservés. Les notes et tableaux antérieurs documentent les versions correspondantes; ils ne doivent pas être lus comme la numérotation actuelle.
+
+La version 0.8 reste une proposition à adopter et à approuver. Aucun texte n’entre en vigueur du seul fait de cette mise à jour de la PR; aucune fusion n’est effectuée.
+
+
+Contrôles 0.8 : 56 articles constitutionnels numérotés en continu et titrés; 57 anciennes ancres constitutionnelles conservées; 32 articles réglementaires conservés; 87 liens internes et leurs cibles vérifiés. Comparaison des montants et conditions chiffrées avec 0.7 sans différence; les 20 occurrences de références externes de la constitution sont conservées. Aucun identifiant en double, marqueur de conflit ou erreur d’espacement Git. Aucun rendu Jekyll exécuté.

@@ -5,7 +5,7 @@ title: Tableau des modifications Avant Après Pourquoi
 
 # Tableau des modifications Avant Après Pourquoi
 
-**Version 0.7 du 29 octobre 2026 — Proposition à discuter et à adopter.**
+**Version 0.8 du 29 octobre 2026 — Proposition à discuter et à adopter.**
 
 Seules les modifications sont présentées. La première section compare la proposition à la transcription originale. La seconde explique la simplification de la version 0.3. Les numéros de la dernière colonne sont ceux de la version actuelle.
 
@@ -113,3 +113,19 @@ Les repères de la colonne « Avant » sont ceux de la version 0.6 et des textes
 Les règles locales d’accès, d’enfants, de tenue civile, de réservation et de paiement ne sont pas remplacées par un renvoi général aux PSP. Les délais, plafonds et approbations ne changent pas. Les règlements comptent désormais 11, 6, 10 et 5 articles, soit 32 au total.
 
 Les anciennes ancres restent disponibles pour les liens déjà diffusés; les liens des textes courants utilisent les nouvelles cibles. La constitution et l’annexe A sont harmonisées pour les renvois au R3. Les tableaux antérieurs restent historiques.
+
+
+## Lisibilité de la constitution — version 0.8 du 29 octobre 2026
+
+Cette passe reprend les règles de la version 0.7. Elle améliore leur présentation et ne constitue pas une nouvelle décision de fond.
+
+| Présentation antérieure | Présentation 0.8 | Effet |
+|---|---|---|
+| Articles sans titre et numérotation discontinue | 56 articles numérotés en continu, chacun avec un titre court | Faciliter le repérage et la citation |
+| Long article sur les membres avec plusieurs niveaux de listes | Quatre sous-sections : ordinaires, associés, honoraires et honoraires à vie | Retrouver sa situation; regrouper les démarches associées par sujet |
+| Rôle du comité dans un paragraphe introductif non numéroté | Article 5 « Rôle et pouvoirs du comité » | Rendre ce contenu identifiable sans créer de pouvoir |
+| Garanties et suivi des fonds placés après la modification des textes | Articles 31 à 34, immédiatement après les autres dispositions financières | Lire ensemble les budgets, les fonds et les garanties |
+| Phrases longues et rappels de versions antérieures | Paragraphes plus courts et listes pour les renseignements à confirmer | Conserver les exigences en évitant les commentaires historiques dans les règles |
+| Renvois avec l’ancienne numérotation | Libellés et cibles des textes courants adaptés | Conserver les anciens liens sans confondre leurs numéros avec les numéros actuels |
+
+Les montants, les délais, les majorités, les critères d’admission et de prestation, les compétences et les approbations sont conservés. Les quatre règlements gardent leurs 32 articles. Les versions précédentes des tableaux et les anciens numéros restent historiques; la concordance 0.8 donne le passage aux nouveaux numéros.
