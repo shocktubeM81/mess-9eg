@@ -15,13 +15,13 @@ La constitution et ses annexes fixent les règles générales du Mess, les droit
 
 <a id="article-1"></a>**1.** Les références [DOAD 5045-0](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/directives-ordonnances-administratives-defense/serie-5000/5045/5045-0-programmes-de-soutien-du-personnel-des-forces-canadiennes.html) et [A-PS-110-001/AG-002](https://sbmfc.ca/a-propos/politiques-et-publications/aa-ps-110-soutien-public-aux-programmes-de-bemm) s’appliquent dans leur version en vigueur. La constitution fixe les droits des membres, les organes de décision et les garanties financières. Quatre règlements en précisent les modalités : [R1 tenue et comportement](R1-proposition.md); [R2 meubles et décorations](R2-proposition.md); [R3 assemblées et réunions](R3-proposition.md); [R4 service de bar](R4-proposition.md). La constitution s’applique même en l’absence d’un règlement complémentaire. Un règlement peut préciser les conditions d’une permission prévue par la constitution, mais ne peut lever une interdiction absolue, modifier les pouvoirs des membres ni contourner une approbation requise. Le terme commandant désigne le commandant du 9 EG; les fonctions s’appliquent sans distinction de genre.
 
-## Membres
-
-<a id="article-2"></a>**2.** Ce mess sera désigné par "Mess et Instituts". Par contre, le local regroupant les soldats, caporaux et caporaux-chef sera désigné sous l’appellation de « Club Chimo » et le local regroupant les sergents et plus gradés sera désigné « Mess Combiné ».
+<a id="article-2"></a>**2.** Le mess du 9 EG porte le nom de « Mess et Instituts ». Il comprend deux locaux : le « Club Chimo », destiné aux soldats, caporaux et caporaux-chefs, et le « Mess Combiné », destiné aux sergents et aux grades supérieurs.
 
 <a id="article-3"></a>**3.** La présence d'un mess dans l'enceinte du manège militaire a pour but d'entretenir un esprit de corps, amenant par le fait même la présence d'une certaine efficacité et d'un certain bien-être au sein de l'unité. Cela permet également aux membres de mieux se connaître. Il y aura 2 locaux pour préserver l'intimité de chaque groupe et conserver ainsi un leadership au sein des troupes.
 
-<a id="article-4"></a>**4.** Les membres du mess sont ordinaires, associés, ou honoraires II est à noter que seuls les membres ordinaires peuvent faire partie du comité du mess.
+## Membres
+
+<a id="article-4"></a>**4.** Les membres du mess sont ordinaires, associés, ou honoraires.
 
 - **a.** Membres ordinaires.
 
@@ -32,9 +32,6 @@ La constitution et ses annexes fixent les règles générales du Mess, les droit
 - **b.** Membres associés.
 
   - **(1)** Toute autre personne désireuse de devenir membre associé doit adresser par écrit une demande officielle au président. Cette demande doit être appuyée par un membre ordinaire et affichée au moins 30 jours avant une assemblée générale. Si un membre juge qu’un candidat ne peut devenir membre associé, il doit faire part de ses observations/objections par écrit au président. De plus, la demande sera évaluée par le comité du mess pour acceptation. Néanmoins, il incombe que la demande soit présentée à l’assemblée générale suivante pour fins d’approbation.
-
-
-
 
   - **(2)** Le total des membres mentionnés en (1) est limité à 65% du total des membres ordinaires; le secrétaire du comité dressera une liste d’attente au besoin.
 
