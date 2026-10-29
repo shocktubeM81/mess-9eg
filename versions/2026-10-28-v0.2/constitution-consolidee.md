@@ -20,9 +20,9 @@ Conformément à la [DOAD 5045-0](https://www.canada.ca/fr/ministere-defense-nat
 
 ## Dispositions générales
 
-<a id="article-1"></a>**1. Nom et locaux.** Le mess du 9 EG porte le nom de « Mess et Instituts ». Il comprend deux locaux : le « Club Chimo », destiné aux soldats, caporaux et caporaux-chefs, et le « Mess Combiné », destiné aux sergents et aux grades supérieurs.
+<a id="article-1"></a>**1. Objet.** Le Mess et Instituts favorise l’esprit de corps, le bien-être des membres et les liens entre eux. Ses deux locaux offrent à chaque groupe un espace de rencontre adapté, dans le respect des rapports de leadership au sein de l’unité.
 
-<a id="article-2"></a>**2. Objet.** Le Mess et Instituts favorise l’esprit de corps, le bien-être des membres et les liens entre eux. Ses deux locaux offrent à chaque groupe un espace de rencontre adapté, dans le respect des rapports de leadership au sein de l’unité.
+<a id="article-2"></a>**2. Nom et locaux.** Le mess du 9 EG porte le nom de « Mess et Instituts ». Il comprend deux locaux : le « Club Chimo », destiné aux soldats, caporaux et caporaux-chefs, et le « Mess Combiné », destiné aux sergents et aux grades supérieurs.
 
 <a id="article-3"></a>**3. Commandant du Mess.** Le commandant du 9 EG exerce les fonctions de commandant du Mess et Instituts.
 
