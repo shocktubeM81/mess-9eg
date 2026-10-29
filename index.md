@@ -21,7 +21,6 @@ Les règlements précisent les modalités locales. Le R5 regroupe l’administra
 
 ## Suivi de la révision
 
-- [Tableau des modifications]({{ '/versions/2026-10-28-v0.2/tableau-modifications.html' | relative_url }})
 - [Texte original transcrit]({{ '/constitution.html' | relative_url }})
 
 Les montants, délais et choix locaux conservés restent soumis aux validations indiquées dans la documentation de travail. La révision ne vaut pas adoption.

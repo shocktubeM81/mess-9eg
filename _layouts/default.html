@@ -25,7 +25,6 @@
       <a href="{{ '/' | relative_url }}" {% if page.path == 'index.md' %}aria-current="page"{% endif %}>Statuts et règlements</a>
       <a href="{{ '/versions/2026-10-28-v0.2/constitution-consolidee.html' | relative_url }}" {% if page.name == 'constitution-consolidee.md' or page.document_group == 'constitution' %}aria-current="page"{% endif %}>Statuts</a>
       <a href="{{ '/reglements.html' | relative_url }}" {% if page.doc_code or page.document_group == 'administration' or page.document_group == 'reglements' %}aria-current="page"{% endif %}>Règlements</a>
-      <a href="{{ '/versions/2026-10-28-v0.2/tableau-modifications.html' | relative_url }}" {% if page.name == 'tableau-modifications.md' %}aria-current="page"{% endif %}>Changements</a>
       <a href="{{ '/constitution.html' | relative_url }}" {% if page.path == 'constitution.md' %}aria-current="page"{% endif %}>Texte original</a>
     </nav>
     {% if page.doc_code or page.document_group == 'administration' or page.document_group == 'reglements' %}

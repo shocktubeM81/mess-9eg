@@ -19,7 +19,6 @@ Chaque paragraphe normatif porte un numéro décimal. Les renvois précisent le 
 - [R3 Assemblées et réunions](versions/2026-10-28-v0.2/R3-proposition.md)
 - [R4 Service de bar](versions/2026-10-28-v0.2/R4-proposition.md)
 - [R5 Administration et finances](versions/2026-10-28-v0.2/R5-proposition.md)
-- [Tableau Avant Après Pourquoi](versions/2026-10-28-v0.2/tableau-modifications.md)
 - [Transcription originale](constitution.md)
 
 Les statuts comptent 11 rubriques. Leurs paragraphes et ceux des règlements et annexes sont numérotés. Les huit annexes des fonctions font partie du R5.
