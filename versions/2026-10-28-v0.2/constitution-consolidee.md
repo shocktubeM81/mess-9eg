@@ -45,9 +45,9 @@ Conformément à la [DOAD 5045-0](https://www.canada.ca/fr/ministere-defense-nat
   - **(5)** Après une révocation pour non-paiement, une nouvelle demande est requise, sauf si le défaut de paiement est justifié auprès du président.
   - **(6)** Les membres associés peuvent participer aux activités sociales et aider le comité ou les sous-comités, sans y assumer de responsabilités.
   - **(7)** La participation aux événements officiels à caractère militaire exige une invitation du président.
-  - **(8)** Deux classes sont admissibles : 
-  
-    - **classe I**, militaires retraités, libérés ou en service dans une autre unité ou base; 
+  - **(8)** Deux classes sont admissibles :
+
+    - **classe I**, militaires retraités, libérés ou en service dans une autre unité ou base;
     - **classe II**, civils ayant été membres des Mess du 9 EG ou pouvant contribuer au bien de l’unité.
 - **c. Membres honoraires.**
   - **(1)** Les militaires de la Force régulière ou de la Première réserve membres d’un autre mess sont membres honoraires du mess correspondant à leur grade.
