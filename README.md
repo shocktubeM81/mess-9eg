@@ -30,6 +30,6 @@ La transcription originale provient des statuts adoptés le 10 septembre 2022, a
 
 Le site conserve la présentation de `proposition-amendements`, avec navigation directe vers les documents. `_layouts/default.html`, `assets/css/style.scss` et `assets/js/site.js` définissent cette présentation.
 
-Le drapeau de l’en-tête est conservé localement dans `assets/images/drapeau-genie.svg`, à partir du [fichier fourni sur Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Canadian_Military_Engineers_Flag.svg). Ses proportions de 2 pour 1 sont préservées.
+L’en-tête commun à toutes les pages affiche le monogramme « 9e » encadré.
 
 Ce nettoyage ne change pas la branche de publication GitHub Pages ni le domaine `mess.9eg.ca`. La branche `main` et le site public ne sont pas remplacés automatiquement.
