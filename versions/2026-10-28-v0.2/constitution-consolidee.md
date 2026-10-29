@@ -34,7 +34,7 @@ Conformément à la [DOAD 5045-0](https://www.canada.ca/fr/ministere-defense-nat
 ## Membres
 
 <a id="article-4"></a>
-**4.** Les catégories de membres et leur admissibilité relèvent du [Manuel PSP, chapitre 9-1, paragraphes 11 à 23](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf). Les dispositions locales suivantes précisent les démarches et la reconnaissance des membres.
+**4.** Les catégories de membres et leur admissibilité relèvent du [Manuel PSP, chapitre 9-1, paragraphes 11 à 23](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=268). Les dispositions locales suivantes précisent les démarches et la reconnaissance des membres.
 
 - **a. Membres ordinaires.** Le statut est établi selon le paragraphe 13 de cette référence pour les militaires desservis par le Mess. Le fait de travailler au 9 EG ou d’y être attaché ne confère pas, à lui seul, le statut de membre ordinaire à une personne civile. Sa demande est examinée dans la catégorie applicable.
 - **b. Membres associés.**
@@ -69,13 +69,13 @@ Le comité du Mess, ci-après appelé « le comité », assure l’administratio
   - **c.** un secrétaire ou un trésorier.
 
 <a id="article-9"></a>
-**9.** Les postes élus sont pourvus à la majorité simple par l’assemblée générale, normalement en décembre. La durée des mandats, leur prolongation et la relève échelonnée suivent le [Manuel PSP, chapitre 9-4, paragraphe 18](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf). Le régisseur est nommé par le commandant.
+**9.** Les postes élus sont pourvus à la majorité simple par l’assemblée générale, normalement en décembre. La durée des mandats, leur prolongation et la relève échelonnée suivent le [Manuel PSP, chapitre 9-4, paragraphe 18](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=284). Le régisseur est nommé par le commandant.
 
 <a id="article-10"></a>
 **10.** Un poste élu devenu vacant est comblé à la première assemblée générale suivant la vacance.
 
 <a id="article-11"></a>
-**11.** Une fonction au comité ne confère pas automatiquement de pouvoir financier. L’autorisation ou la signature d’un achat ou d’un paiement exige une délégation valide, exercée selon la [Délégation des pouvoirs du CEMD pour l’administration financière des BNP, section 2 et tableaux applicables](https://cfmws.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/8.4.5/Policies/DelegationofAuthorities_f.pdf). Sans cette délégation, les dépenses sont recommandées au responsable des biens non publics (BNP).
+**11.** Une fonction au comité ne confère pas automatiquement de pouvoir financier. L’autorisation ou la signature d’un achat ou d’un paiement exige une délégation valide, exercée selon la [Délégation des pouvoirs du CEMD pour l’administration financière des BNP, section 2 et tableaux applicables](https://cfmws.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/8.4.5/Policies/DelegationofAuthorities_f.pdf#page=23). Sans cette délégation, les dépenses sont recommandées au responsable des biens non publics (BNP).
 
 <a id="article-12"></a>**12.** Lorsqu’un membre ne participe plus aux travaux du comité ou n’assume plus ses fonctions, une solution est d’abord recherchée avec lui.
 Si la situation persiste, l’assemblée générale peut mettre fin à son mandat à la majorité des voix exprimées. Le membre concerné reçoit les motifs par écrit au moins un mois avant le vote et peut présenter ses observations.
@@ -84,17 +84,17 @@ Si la situation persiste, l’assemblée générale peut mettre fin à son manda
 
 <a id="article-14"></a>**14.** L’assemblée générale réunit les membres pour délibérer et prendre les décisions qui leur sont réservées. Elle peut être ordinaire ou extraordinaire. Une assemblée générale est tenue chaque trimestre.
 
-<a id="article-15"></a>**15.** La convocation d’une assemblée extraordinaire suit le [Manuel PSP, chapitre 9-4, paragraphe 40](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf), y compris lorsqu’elle est demandée par les membres.
+<a id="article-15"></a>**15.** La convocation d’une assemblée extraordinaire suit le [Manuel PSP, chapitre 9-4, paragraphe 40](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297), y compris lorsqu’elle est demandée par les membres.
 
 <a id="article-16"></a>**16.** Chaque membre reçoit un avis de convocation au moins 14 jours avant l’assemblée, même si sa date a déjà été annoncée. L’avis comprend l’ordre du jour.
 
 <a id="article-17"></a>**17.** Les membres ordinaires en règle ont droit de vote. Les membres associés et honoraires peuvent assister aux assemblées et participer aux discussions, sans voter.
 
-<a id="article-18"></a>**18.** Le quorum et la validation d’une séance particulière suivent le [Manuel PSP, chapitre 9-4, paragraphe 43](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf). La vérification et la consignation sont précisées au [R3.4](R3-proposition.md#r3-4).
+<a id="article-18"></a>**18.** Le quorum et la validation d’une séance particulière suivent le [Manuel PSP, chapitre 9-4, paragraphe 43](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297). La vérification et la consignation sont précisées au [R3.4](R3-proposition.md#r3-4).
 
 <a id="article-19"></a>**19.** Un rapport financier sommaire est présenté à chaque assemblée générale.
 
-<a id="article-20"></a>**20.** La présentation des motions et le vote suivent le [Manuel PSP, chapitre 9-4, tableau 9-4-4, paragraphes 7 à 15](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf). Les seuils particuliers prévus par la constitution restent applicables. Le texte des motions, les amendements et les résultats sont consignés au procès-verbal.
+<a id="article-20"></a>**20.** La présentation des motions et le vote suivent le [Manuel PSP, chapitre 9-4, tableau 9-4-4, paragraphes 7 à 15](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=299). Les seuils particuliers prévus par la constitution restent applicables. Le texte des motions, les amendements et les résultats sont consignés au procès-verbal.
 
 <a id="article-21"></a>**21.** Le commandant peut assister aux assemblées et participer aux discussions. Chaque motion adoptée est soumise à son approbation.
 
@@ -104,26 +104,26 @@ Seules les motions approuvées peuvent être mises en œuvre. Toute modification
 
 ## Réunions du comité
 
-<a id="article-22"></a>**22.** Les réunions du comité sont convoquées par le commandant ou le président pour préparer les dossiers, gérer les affaires courantes et suivre les décisions. Leur fréquence respecte le [Manuel PSP, chapitre 9-4, paragraphe 39](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf). Elles ne remplacent pas les assemblées générales et ne décident pas des questions réservées aux membres.
+<a id="article-22"></a>**22.** Les réunions du comité sont convoquées par le commandant ou le président pour préparer les dossiers, gérer les affaires courantes et suivre les décisions. Leur fréquence respecte le [Manuel PSP, chapitre 9-4, paragraphe 39](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=296). Elles ne remplacent pas les assemblées générales et ne décident pas des questions réservées aux membres.
 
 ## Finances et cotisations
 
-<a id="article-23"></a>**23.** Les conflits d’intérêts et les avantages liés à la gestion suivent le [Manuel PSP, chapitre 9-4, paragraphes 27 et 28](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf). Les fonctions au comité sont bénévoles.
+<a id="article-23"></a>**23.** Les conflits d’intérêts et les avantages liés à la gestion suivent le [Manuel PSP, chapitre 9-4, paragraphes 27 et 28](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=289). Les fonctions au comité sont bénévoles.
 
-<a id="article-24"></a>**24.** Les fonctions de serveur et de régisseur sont bénévoles, sauf lorsqu’elles sont exercées dans le cadre d’un emploi auprès des SBMFC, selon leurs directives et le budget approuvé. Cette règle locale ne vise pas l’achat d’autres services auprès d’un fournisseur, lequel suit la [Politique de passation de marchés des BNP, paragraphes 19, 20 et 42](https://sbmfc.ca/a-propos/politiques-et-publications/approvisionnement-et-passation-de-marches/politique-de-passation-de-marches-des-biens-non-publics) et l’[A-FN-105, chapitre 32, paragraphes 1 à 4](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/8.4.5/Policies/AF-N-105/Chap32_f.pdf). Les pouvoirs financiers restent ceux de l’[article 11](#article-11).
+<a id="article-24"></a>**24.** Les fonctions de serveur et de régisseur sont bénévoles, sauf lorsqu’elles sont exercées dans le cadre d’un emploi auprès des SBMFC, selon leurs directives et le budget approuvé. Cette règle locale ne vise pas l’achat d’autres services auprès d’un fournisseur, lequel suit la [Politique de passation de marchés des BNP, paragraphes 19, 20 et 42](https://sbmfc.ca/a-propos/politiques-et-publications/approvisionnement-et-passation-de-marches/politique-de-passation-de-marches-des-biens-non-publics) et l’[A-FN-105, chapitre 32, paragraphes 1 à 4](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/8.4.5/Policies/AF-N-105/Chap32_f.pdf#page=1). Les pouvoirs financiers restent ceux de l’[article 11](#article-11).
 
-<a id="article-25"></a>**25.** Les cotisations sont établies selon le [Manuel PSP, chapitre 9-4, paragraphe 47](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf). L’année financière locale va du 1er avril au 31 mars suivant.
+<a id="article-25"></a>**25.** Les cotisations sont établies selon le [Manuel PSP, chapitre 9-4, paragraphe 47](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=306). L’année financière locale va du 1er avril au 31 mars suivant.
 
 - **a.** Les taux sont votés à la dernière assemblée de l’année financière, normalement en mars, puis soumis à l’approbation prévue à l’[article 21](#article-21). Tout changement de taux exige un vote de l’assemblée. Les taux approuvés sont communiqués aux membres.
 - **b.** La perception suit les modalités autorisées par les SBMFC. Les réservistes peuvent utiliser la délégation de solde, selon les modalités applicables. Un reçu est remis pour tout paiement direct.
-- **c.** Les changements d’unité, services temporaires, affectations, déploiements et congés sans solde suivent le [Manuel PSP, chapitre 9-1, paragraphes 24 à 28 et tableau 9-1-2](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf). Ces dispositions déterminent la période payable et les suspensions, plutôt qu’un calcul local systématique au jour.
+- **c.** Les changements d’unité, services temporaires, affectations, déploiements et congés sans solde suivent le [Manuel PSP, chapitre 9-1, paragraphes 24 à 28 et tableau 9-1-2](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=271). Ces dispositions déterminent la période payable et les suspensions, plutôt qu’un calcul local systématique au jour.
 - **d.** Le trésorier transmet les justificatifs au service de comptabilité pour régulariser les cotisations et rembourser tout trop-perçu, par les moyens autorisés par les SBMFC.
 
 <a id="article-26"></a>**26.** Transactions.
 
 - **a.** Tout changement de prix des consommations exige, avant son entrée en vigueur, l’approbation de l’assemblée et/ou du commandant.
 - **b.** Les paiements sont demandés par virement électronique de fonds, par l’entremise des SBMFC. Une carte de crédit autorisée peut servir aux achats courants. Ces opérations respectent les directives des SBMFC.
-- **c.** Les consommations offertes suivent le [Manuel PSP, chapitre 9-2, paragraphes 15 à 18](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf) et le [chapitre 9-4, paragraphe 61](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf). Le budget local ne crée aucune autorisation supplémentaire. Pour les boissons sans alcool, le président ou le commandant peut offrir une consommation par membre présent, dans le plafond annuel approuvé.
+- **c.** Les consommations offertes suivent le [Manuel PSP, chapitre 9-2, paragraphes 15 à 18](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=276) et le [chapitre 9-4, paragraphe 61](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=309). Le budget local ne crée aucune autorisation supplémentaire. Pour les boissons sans alcool, le président ou le commandant peut offrir une consommation par membre présent, dans le plafond annuel approuvé.
 
 <a id="article-27"></a>**27.** Le programme d’activités et son budget sont soumis aux approbations de l’[article 40](#article-40). Leur exécution respecte les fonds disponibles et les pouvoirs financiers de l’[article 11](#article-11). Le comité coordonne le calendrier.
 
@@ -160,7 +160,7 @@ Seules les motions approuvées peuvent être mises en œuvre. Toute modification
 
 ## Activités
 
-<a id="article-40"></a>**40.** Les programmes d’activités, leur financement et les circonstances exceptionnelles suivent le [Manuel PSP, chapitre 9-4, paragraphes 51 à 54](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf). Une activité déjà comprise dans un programme et un budget approuvés peut être organisée dans ce cadre, selon l’[article 27](#article-27).
+<a id="article-40"></a>**40.** Les programmes d’activités, leur financement et les circonstances exceptionnelles suivent le [Manuel PSP, chapitre 9-4, paragraphes 51 à 54](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=307). Une activité déjà comprise dans un programme et un budget approuvés peut être organisée dans ce cadre, selon l’[article 27](#article-27).
 
 <a id="article-41"></a>**41.** Un budget des activités est soumis en décembre pour coordonner le calendrier avec les exercices du 9 EG et les autres occupants du manège.
 
@@ -190,7 +190,7 @@ Le membre ou sa famille signale l’événement à la salle des rapports ou au c
 
 ## Plaintes et suggestions
 
-<a id="article-50"></a>**50.** Le traitement des suggestions et des plaintes suit le [Manuel PSP, chapitre 9-4, paragraphe 57](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf). Les questions confidentielles ou concernant le personnel sont remises directement au président, hors du registre consultable.
+<a id="article-50"></a>**50.** Le traitement des suggestions et des plaintes suit le [Manuel PSP, chapitre 9-4, paragraphe 57](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=308). Les questions confidentielles ou concernant le personnel sont remises directement au président, hors du registre consultable.
 
 <a id="article-51"></a>**51.** Les membres peuvent aussi remettre leurs suggestions, propositions et observations au commandant adjoint. Leur suivi collectif est organisé selon le [R3.16](R3-proposition.md#r3-16).
 
