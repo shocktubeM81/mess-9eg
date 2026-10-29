@@ -95,7 +95,7 @@ Le passage au statut associé et les privilèges suivent le [paragraphe 21](http
 
 <a id="constitution-article-11"></a>
 <a id="article-11"></a>
-**11. Délégations financières.** Une fonction au comité ne confère pas automatiquement de pouvoir financier. L’autorisation ou la signature d’un achat ou d’un paiement exige une délégation valide, exercée selon la [Délégation des pouvoirs du CEMD pour l’administration financière des BNP, section 2](https://cfmws.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/8.4.5/Policies/DelegationofAuthorities_f.pdf#page=23) et ses [tableaux applicables](https://cfmws.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/8.4.5/Policies/DelegationofAuthorities_f.pdf#page=25). Sans cette délégation, les dépenses sont recommandées au responsable des biens non publics (BNP).
+**11. Délégations financières.** Une fonction au comité ne confère pas automatiquement de pouvoir financier. L’autorisation ou la signature d’un achat ou d’un paiement exige une délégation valide, conformément à la [DOAD 9003-1, paragraphe 8.1](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/directives-ordonnances-administratives-defense/serie-9000/9003/9003-1-biens-non-publics.html). Sans cette délégation, les dépenses sont recommandées au responsable des biens non publics (BNP).
 
 <a id="constitution-article-12"></a>
 <a id="article-12"></a>
