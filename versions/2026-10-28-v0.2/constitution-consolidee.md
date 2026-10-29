@@ -5,7 +5,7 @@ title: Constitution du Mess et Instituts du 9e Escadron du génie
 
 # Constitution du Mess et Instituts du 9e Escadron du génie
 
-**Version 0.6 du 29 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après adoption avec quorum et approbation du commandant.
+**Version 0.7 du 29 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après adoption avec quorum et approbation du commandant.
 
 Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québec.
 
@@ -90,7 +90,7 @@ Si la situation persiste, l’assemblée générale peut mettre fin à son manda
 
 <a id="article-17"></a>**17.** Les membres ordinaires en règle ont droit de vote. Les membres associés et honoraires peuvent assister aux assemblées et participer aux discussions, sans voter.
 
-<a id="article-18"></a>**18.** Le quorum et la validation d’une séance particulière suivent le [Manuel PSP, chapitre 9-4, paragraphe 43](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297). La vérification et la consignation sont précisées au [R3.4](R3-proposition.md#r3-4).
+<a id="article-18"></a>**18.** Le quorum et la validation d’une séance particulière suivent le [Manuel PSP, chapitre 9-4, paragraphe 43](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297). La vérification et la consignation sont précisées au [R3.4](R3-proposition.md#r3-article-4).
 
 <a id="article-19"></a>**19.** Un rapport financier sommaire est présenté à chaque assemblée générale.
 
@@ -192,7 +192,7 @@ Le membre ou sa famille signale l’événement à la salle des rapports ou au c
 
 <a id="article-50"></a>**50.** Le traitement des suggestions et des plaintes suit le [Manuel PSP, chapitre 9-4, paragraphe 57](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=308). Les questions confidentielles ou concernant le personnel sont remises directement au président, hors du registre consultable.
 
-<a id="article-51"></a>**51.** Les membres peuvent aussi remettre leurs suggestions, propositions et observations au commandant adjoint. Leur suivi collectif est organisé selon le [R3.16](R3-proposition.md#r3-16).
+<a id="article-51"></a>**51.** Les membres peuvent aussi remettre leurs suggestions, propositions et observations au commandant adjoint. Leur suivi collectif est organisé selon le [R3.9](R3-proposition.md#r3-article-9).
 
 ## Modification des textes
 

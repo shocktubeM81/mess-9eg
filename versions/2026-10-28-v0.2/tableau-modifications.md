@@ -5,7 +5,7 @@ title: Tableau des modifications Avant Après Pourquoi
 
 # Tableau des modifications Avant Après Pourquoi
 
-**Version 0.6 du 29 octobre 2026 — Proposition à discuter et à adopter.**
+**Version 0.7 du 29 octobre 2026 — Proposition à discuter et à adopter.**
 
 Seules les modifications sont présentées. La première section compare la proposition à la transcription originale. La seconde explique la simplification de la version 0.3. Les numéros de la dernière colonne sont ceux de la version actuelle.
 
@@ -90,3 +90,26 @@ Comparaison avec la version 0.5. Cette proposition reste à adopter et à approu
 | Constitution 52 | Modifications des règlements omises | Règlements inclus dans la procédure de modification | Rétablir la portée des articles 115 et 116 de la transcription originale; le délai de 15 jours existait déjà. |
 
 Les montants des cadeaux, l’année financière, les élections locales et les modalités de paiement indiquées par l’utilisateur sont conservés, sous les règles applicables. Aucun statut individuel n’est modifié par le dépôt de cette proposition.
+
+
+## Regroupements — version 0.7 du 29 octobre 2026
+
+Les repères de la colonne « Avant » sont ceux de la version 0.6 et des textes 0.5 encore inchangés. La nouvelle numérotation est continue dans chaque règlement.
+
+| Avant | Après | Contenu regroupé et précisions conservées |
+|---|---|---|
+| R1.12, R1.13 et R2.6 | R2.5; renvoi au R1 après R1.11 | Signalement au président, procédure applicable, contrat de réception, absence de dette ou de facturation automatique |
+| R2.5 à R2.7 | R2.5 | Disposition, pertes et assurances; références PSP et A-FN-105 distinctes; propriété, délégations et couverture du Mess de la Réserve |
+| R2.8 | R2.6 | Inventaire inchangé |
+| R3.5 à R3.9 | R3.5 | Déroulement et vote par renvoi; modalités à distance, vérification du décompte et contenu du procès-verbal conservés |
+| R3.10 | R3.6 | Réunions du comité inchangées |
+| R3.11 et R3.12 | R3.7 | Communication et diffusion du projet de procès-verbal; accès sans numérique et délai de 14 jours conservés |
+| R3.13 à R3.15 | R3.8 | Accès aux documents, protection des renseignements et publication; recours et consultation des décisions collectives conservés |
+| R3.16 | R3.9 | Suggestions et plaintes inchangées |
+| R3.17 et R3.18 | R3.10 | Classement, sauvegarde et relève; rôle du secrétaire et suppléance conservés |
+| R4.1 à R4.3 et R4.7 | R4.1 | Renvois généraux sur le service et la vente; contrôle de l’âge, soutien aux refus, précaution relative à la santé et communication des modalités conservés |
+| R4.4 à R4.6 et R4.8 | R4.2 à R4.5 | Aide au retour, incidents, ouverture et fermeture, paiements conservés |
+
+Les règles locales d’accès, d’enfants, de tenue civile, de réservation et de paiement ne sont pas remplacées par un renvoi général aux PSP. Les délais, plafonds et approbations ne changent pas. Les règlements comptent désormais 11, 6, 10 et 5 articles, soit 32 au total.
+
+Les anciennes ancres restent disponibles pour les liens déjà diffusés; les liens des textes courants utilisent les nouvelles cibles. La constitution et l’annexe A sont harmonisées pour les renvois au R3. Les tableaux antérieurs restent historiques.

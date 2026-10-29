@@ -7,7 +7,7 @@ document_group: constitution
 
 # Annexe A — Président du comité du Mess
 
-**Version 0.6 du 29 octobre 2026 — Proposition à discuter et à adopter.**
+**Version 0.7 du 29 octobre 2026 — Proposition à discuter et à adopter.**
 
 [Constitution du Mess et Instituts](../constitution-consolidee.md) · [Liste des annexes](../constitution-consolidee.md#annexes-des-responsabilites)
 
@@ -21,7 +21,7 @@ document_group: constitution
 
 - **d.** Distribuer la parole, reformuler les motions avant le débat et recentrer les interventions sur le texte discuté.
 
-- **e.** Faire compter les voix, vérifier un décompte contesté et faire reprendre un vote erroné, selon le [R3.8](../R3-proposition.md#r3-8).
+- **e.** Faire compter les voix, vérifier un décompte contesté et faire reprendre un vote erroné, selon le [R3.5](../R3-proposition.md#r3-article-5).
 
 - **f.** Signer les procès-verbaux et tenir à jour la constitution après les modifications approuvées.
 

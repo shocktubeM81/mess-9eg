@@ -205,3 +205,19 @@ Cette section actualise les points laissés ouverts en 0.5. Base GitHub de la pa
 6. Lors de l’examen par les membres, distinguer les exigences externes, les choix locaux conservés et les assouplissements proposés. Le plafond de 65 % des associés et l’affichage de 30 jours sont des règles locales conservées; ils ne sont pas présentés comme des exigences PSP.
 
 La copie locale comportait des marqueurs de conflit. Leur résolution reprend exactement la version déjà intégrée sur la branche de proposition avant les changements 0.6; aucun autre choix de fond n’est tiré de ces marqueurs. Le dépôt de cette passe ne fusionne pas la PR et ne met aucun texte en vigueur.
+
+
+## Révision 0.7 — regroupements demandés le 29 octobre 2026
+
+Les six regroupements présentés à l’utilisateur sont appliqués : déroulement des assemblées, service et vente d’alcool, disposition/pertes/assurances, dommages, communication/accès documentaire et conservation/relève. Les quatre règlements passent de 47 à 32 articles. Le tableau 0.7 et la concordance précisent tous les déplacements.
+
+Les références PSP déjà vérifiées sont réutilisées, avec les fragments de page rétablis. Pour R2.5, l’A-FN-105 demeure une référence distincte : une formule « conformément aux PSP » ne remplace pas les règles d’assurance ou de traitement des pertes. L’indisponibilité du chapitre 30 reste signalée dans les vérifications précédentes; le regroupement ne constitue pas une nouvelle validation de son contenu.
+
+Les prescriptions opérationnelles du R4 sont conservées : contrôle de l’âge en cas de doute, soutien du responsable aux refus de service, prise en compte des difficultés de santé ou de communication, aide au retour, suspension et appel aux secours en cas de danger, destinataire des incidents, relevé confidentiel, ouverture/fermeture et moyens de paiement.
+
+Les délais et garanties documentaires du R3 restent applicables : documents de séance normalement 7 jours avant, délai de 14 jours pour le relevé et le projet de procès-verbal, accès équivalent sans numérique, confidentialité, explication et recours en cas de restriction, archives, sauvegarde, suppléance et relève. La constitution conserve les droits des membres et les approbations. Les règles d’accès et d’enfants, la tenue civile et les modalités de réservation ne sont pas supprimées par ces regroupements.
+
+La numérotation des règlements est continue; les anciennes ancres sont conservées. Les renvois courants sont adaptés. Les notes, tableaux et concordances des versions antérieures demeurent historiques. La constitution n’est modifiée que pour ses renvois au R3 et sa mention de version. Aucun nouveau seuil, délai, plafond, pouvoir ou motif de restriction n’est créé par cette passe. La PR reste en brouillon, sans fusion.
+
+
+Contrôles de la passe 0.7 : 87 liens internes vérifiés, numérotation continue des 32 articles, conservation de toutes les anciennes ancres R1 à R4 et adaptation des renvois courants. Aucun marqueur de conflit ni identifiant en double; contrôle des espaces Git sans erreur. Aucun rendu Jekyll exécuté.

@@ -365,3 +365,17 @@ Les adresses des documents et les identifiants existants sont conservés. L’an
 Dispositions révisées : constitution 4, 9, 11, 15, 16 (rédaction), 18, 20, 22 à 25, 27, 30, 31, 40, 50 à 52; R3.8 et R3.16; annexes A e et i, D a. Les modifications de forme du début de la constitution ne changent pas les règles. La numérotation n’est pas refaite pendant cette passe.
 
 Le tableau 0.6 explique chaque modification par rapport à 0.5. Les concordances précédentes sont historiques. Le statut ordinaire des civils n’est plus automatique; cette correction peut influer sur le vote et doit être examinée avant adoption.
+
+
+## Mise à jour 0.7 — regroupements des règlements
+
+| Règlement | Correspondance des anciens repères vers les nouveaux |
+|---|---|
+| R1 | 1 à 11 inchangés; 12 et 13 transférés au R2.5, avec renvoi depuis le R1 |
+| R2 | 1 à 4 inchangés; 5, 6 et 7 deviennent 5; 8 devient 6 |
+| R3 | 1 à 4 inchangés; 5 à 9 deviennent 5; 10 devient 6; 11 et 12 deviennent 7; 13 à 15 deviennent 8; 16 devient 9; 17 et 18 deviennent 10 |
+| R4 | 1, 2, 3 et 7 deviennent 1; 4 devient 2; 5 devient 3; 6 devient 4; 8 devient 5 |
+
+Les nouveaux liens utilisent les identifiants `r1-article-1`, `r2-article-1`, etc. Les anciens identifiants `r1-1`, `r2-1`, etc. sont conservés comme alias de leur disposition d’arrivée. Pour R1.12 et R1.13, l’ancienne cible mène au renvoi vers R2.5. Cette distinction évite de réaffecter un ancien lien à un sujet différent pendant la renumérotation.
+
+La constitution 18 renvoie toujours au quorum R3.4; la constitution 51 renvoie maintenant au suivi R3.9; l’annexe A e renvoie au déroulement et vote R3.5. Le détail des regroupements figure au tableau 0.7.
