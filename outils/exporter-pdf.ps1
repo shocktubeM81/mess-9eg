@@ -7,13 +7,18 @@ try {
     $wordApplication.Visible = $false
     $wordApplication.DisplayAlerts = 0
     $wordApplication.AutomationSecurity = 3
-    $wordDocument = $wordApplication.Documents.Open($Document, $false, $true, $false)
+    $wordDocument = $wordApplication.Documents.Open($Document, $false, $false, $false)
     $wordDocument.Repaginate()
     $wordDocument.Fields.Update() | Out-Null
+    foreach ($contents in $wordDocument.TablesOfContents) { $contents.Update() }
+    $wordDocument.Repaginate()
+    foreach ($contents in $wordDocument.TablesOfContents) { $contents.UpdatePageNumbers() }
     foreach ($section in $wordDocument.Sections) {
         foreach ($footer in $section.Footers) { $footer.Range.Fields.Update() | Out-Null }
     }
-    $wordDocument.ExportAsFixedFormat($Pdf, 17)
+    $wordDocument.Save()
+    # Le onzième argument demande les signets PDF issus des titres Word.
+    $wordDocument.ExportAsFixedFormat($Pdf, 17, $false, 0, 0, 1, 1, 0, $true, $true, 1, $true, $true, $false)
 } finally {
     if ($null -ne $wordDocument) {
         $wordDocument.Close(0)

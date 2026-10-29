@@ -173,7 +173,8 @@ def add_runs(paragraph,text):
 def make_docx(blocks,profile,target):
     from docx import Document
     from docx.shared import Cm,Pt,RGBColor
-    from docx.enum.text import WD_ALIGN_PARAGRAPH
+    from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_TAB_ALIGNMENT, WD_TAB_LEADER
+    from docx.enum.style import WD_STYLE_TYPE
     from docx.enum.section import WD_SECTION_START
     from docx.oxml import OxmlElement
     from docx.oxml.ns import qn
@@ -218,6 +219,27 @@ def make_docx(blocks,profile,target):
     for field in ('PAGE','SECTIONPAGES'):
         if field!='PAGE':p.add_run('/')
         fld=OxmlElement('w:fldSimple');fld.set(qn('w:instr'),field);p._p.append(fld)
+    for n in (1,2):
+        name='TOC '+str(n)
+        st=doc.styles[name] if name in doc.styles else doc.styles.add_style(name,WD_STYLE_TYPE.PARAGRAPH)
+        st.font.name=profile['police'];st.font.size=Pt(12);st.font.color.rgb=RGBColor(0,0,0)
+        st.paragraph_format.space_after=Pt(2);st.paragraph_format.line_spacing=1
+        st.paragraph_format.keep_with_next=False
+        st.paragraph_format.left_indent=Cm(0 if n==1 else 0.6)
+        st.paragraph_format.tab_stops.add_tab_stop(Cm(21.59-profile['marge_gauche_cm']-profile['marge_droite_cm']),WD_TAB_ALIGNMENT.RIGHT,WD_TAB_LEADER.DOTS)
+    p=doc.add_paragraph('Table des matières')
+    p.paragraph_format.keep_with_next=True;p.paragraph_format.space_after=Pt(14)
+    p.runs[0].bold=True;p.runs[0].font.size=Pt(14)
+    p=doc.add_paragraph()
+    # Champ Word natif: deux niveaux, numéros de page et liens internes.
+    for kind,value in [('begin',None),('instr',' TOC \\o "1-2" \\h \\z \\u '),('separate',None),('text','Table des matières à actualiser dans Word.'),('end',None)]:
+        run=OxmlElement('w:r')
+        if kind in ('begin','separate','end'):
+            node=OxmlElement('w:fldChar');node.set(qn('w:fldCharType'),kind)
+        elif kind=='instr':
+            node=OxmlElement('w:instrText');node.set(qn('xml:space'),'preserve');node.text=value
+        else:node=OxmlElement('w:t');node.text=value
+        run.append(node);p._p.append(run)
     bookmark_id=1;first=True;after_part_two=False;signature=False
     for b in blocks:
         line=b['text']
@@ -226,7 +248,7 @@ def make_docx(blocks,profile,target):
         if h:
             level=min(4,len(h[1])-1);text=h[2]
             p=doc.add_paragraph(text,style='Heading '+str(level))
-            new_page=(len(h[1])==2 and not first) or (len(h[1])==3 and text.startswith(('Règlement ','Annexe ')) and not after_part_two)
+            new_page=(len(h[1])==2) or (len(h[1])==3 and text.startswith(('Règlement ','Annexe ')) and not after_part_two)
             p.paragraph_format.page_break_before=new_page
             after_part_two=text.startswith('Partie II')
             signature='Approbation du commandant' in text
@@ -254,6 +276,15 @@ def reportlab_pdf(blocks,profile,target):
     from reportlab.lib.pagesizes import letter
     from reportlab.lib.units import cm
     from reportlab.pdfgen.canvas import Canvas
+    from reportlab.platypus.tableofcontents import TableOfContents
+    class WithContents(SimpleDocTemplate):
+        def afterFlowable(self,flowable):
+            entry=getattr(flowable,'_toc_entry',None)
+            if entry:
+                level,text,key=entry
+                self.canv.bookmarkPage(key)
+                self.canv.addOutlineEntry(text,key,level=level,closed=False)
+                self.notify('TOCEntry',(level,html.escape(text),self.page-1,key))
     class Pages(Canvas):
         def __init__(self,*a,**kw):super().__init__(*a,**kw);self.states=[]
         def showPage(self):self.states.append(dict(self.__dict__));self._startPage()
@@ -285,7 +316,11 @@ def reportlab_pdf(blocks,profile,target):
         story.append(Image(str(logo),width=4.1*cm,height=4.1*cm*h/w))
     story.extend([Spacer(1,25),Paragraph(html.escape(profile['titre_couverture']).replace('\n','<br/>'),styles['cover'])])
     for text in [profile['unite'],profile['lieu'],profile['adresse'],next(b['text'] for b in blocks if b['text'].startswith('Version '))]:story.append(Paragraph(html.escape(text),styles['center']))
-    story.append(PageBreak());first=True;after_part_two=False
+    story.append(PageBreak())
+    story.append(Paragraph('Table des matières',styles['1']))
+    toc=TableOfContents()
+    toc.levelStyles=[ParagraphStyle('toc0',fontName='Times-Roman',fontSize=12,leading=15,spaceAfter=3),ParagraphStyle('toc1',fontName='Times-Roman',fontSize=12,leading=15,leftIndent=0.6*cm,spaceAfter=3)]
+    story.extend([toc,PageBreak()]);first=True;after_part_two=False
     for b in blocks:
         line=b['text'];h=re.match(r'^(#+) (.+)',line)
         if line.startswith('# ') or line.startswith('Version '):continue
@@ -295,9 +330,11 @@ def reportlab_pdf(blocks,profile,target):
             style=styles[str(min(4,len(h[1])-1))];line=title;first=False;after_part_two=title.startswith('Partie II')
         else:style=styles['body'];after_part_two=False
         anchor=''.join('<a name="'+bookmark_name(i)+'"/>' for i in b['ids'])
-        story.append(Paragraph(anchor+markup(line.removeprefix('- ')),style))
-    doc=SimpleDocTemplate(str(target),pagesize=letter,leftMargin=profile['marge_gauche_cm']*cm,rightMargin=profile['marge_droite_cm']*cm,topMargin=profile['marge_haut_cm']*cm,bottomMargin=profile['marge_bas_cm']*cm,title=clean_label(blocks[0]['text'].lstrip('# ')),author='Mess du 9 EG')
-    doc.build(story,canvasmaker=Pages)
+        flow=Paragraph(anchor+markup(line.removeprefix('- ')),style)
+        if h and len(h[1]) in (2,3):flow._toc_entry=(len(h[1])-2,h[2],bookmark_name('toc:'+b['text']))
+        story.append(flow)
+    doc=WithContents(str(target),pagesize=letter,leftMargin=profile['marge_gauche_cm']*cm,rightMargin=profile['marge_droite_cm']*cm,topMargin=profile['marge_haut_cm']*cm,bottomMargin=profile['marge_bas_cm']*cm,title=clean_label(blocks[0]['text'].lstrip('# ')),author='Mess du 9 EG')
+    doc.multiBuild(story,canvasmaker=Pages)
 
 def main():
     ap=argparse.ArgumentParser(description=__doc__)

@@ -22,6 +22,10 @@ Le modèle **9eg** reprend la présentation du document d’août 2024 du Mess d
 
 Avec Microsoft Word installé, le PDF est exporté directement depuis le DOCX pour conserver la même pagination. Si Word est indisponible, ReportLab produit un PDF de secours à partir du même maître; sa pagination peut différer. Le fichier **exports/generation.json** indique le moteur utilisé et l’empreinte du maître.
 
+Le Word et le PDF comprennent une table des matières cliquable, placée après la couverture. Elle présente les parties, les rubriques des statuts et de l’avant-propos, les six règlements et les sept annexes, avec les numéros de page. Les renvois internes et les liens vers les références restent cliquables; le PDF comporte aussi des signets de navigation.
+
+Avec Word, la génération actualise la table et enregistre le DOCX avant d’exporter le PDF. Si vous produisez seulement le Word sans exécuter l’export PDF, ouvrez-le dans Word, puis utilisez **Références → Mettre à jour la table → Mettre à jour toute la table**. Faites de même après des retouches manuelles dans Word.
+
 ## Première installation sur un autre ordinateur
 
 Python 3.10 ou plus récent est nécessaire. Dans un terminal ouvert dans ce dossier :
