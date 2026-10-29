@@ -96,7 +96,7 @@ Si la situation persiste, l’assemblée générale peut mettre fin à son manda
 
 <a id="article-17"></a>**17.** Les membres ordinaires en règle ont droit de vote. Les membres associés et honoraires peuvent assister aux assemblées et participer aux discussions, sans voter.
 
-<a id="article-18"></a>**18.** Le quorum est formé de plus de 50 % des membres ordinaires en règle. Toute décision de l’assemblée exige le quorum. Pour une séance particulière, la validation d’un quorum inférieur suit le [Manuel PSP, chapitre 9-4, paragraphe 43](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297); les circonstances sont consignées au procès-verbal.
+<a id="article-18"></a>**18.** Le quorum est formé de plus de 50 % des membres ordinaires en règle. Toute décision de l’assemblée exige le quorum. Pour une séance particulière, la validation d’un quorum inférieur suit le [Manuel PSP, chapitre 9-4, paragraphe 43](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf); les circonstances sont consignées au procès-verbal.
 
 <a id="article-19"></a>**19.** Un rapport financier sommaire est présenté à chaque assemblée générale.
 
@@ -134,7 +134,7 @@ Seules les motions approuvées peuvent être mises en œuvre. Toute modification
 
 - **a.** Tout changement de prix des consommations exige, avant son entrée en vigueur, l’approbation de l’assemblée et/ou du commandant.
 - **b.** Les paiements sont demandés par virement électronique de fonds, par l’entremise des SBMFC. Une carte de crédit autorisée peut servir aux achats courants. Ces opérations respectent les directives des SBMFC.
-- **c.** Les consommations offertes suivent le [Manuel PSP, chapitre 9-2, paragraphes 15 à 18](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=276) et le [chapitre 9-4, paragraphe 61](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=309). Le budget local ne crée aucune autorisation supplémentaire. Pour les boissons sans alcool, le président ou le commandant peut offrir une consommation par membre présent, dans le plafond annuel approuvé.
+- **c.** Les consommations offertes suivent le [Manuel PSP, chapitre 9-2, paragraphes 15 à 18](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf) et le [chapitre 9-4, paragraphe 61](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf). Le budget local ne crée aucune autorisation supplémentaire. Pour les boissons sans alcool, le président ou le commandant peut offrir une consommation par membre présent, dans le plafond annuel approuvé.
 
 <a id="article-27"></a>**27.** Le comité de divertissement peut engager les dépenses mensuelles prévues au budget annuel adopté par l’assemblée, si les fonds sont disponibles et si le comité du Mess a approuvé le calendrier des activités.
 
