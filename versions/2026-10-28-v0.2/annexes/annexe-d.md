@@ -15,7 +15,7 @@ document_group: constitution
 
 - **a.** Tenir la liste des membres en règle.
 
-- **b.** Recommander au responsable des fonds non publics les dépenses approuvées par le comité et les membres.
+- **b.** Transmettre au responsable des biens non publics les recommandations de dépenses du Mess. Exercer les pouvoirs financiers délégués, s’il y a lieu, dans leurs limites et selon les directives en vigueur.
 
 - **c.** Présenter le rapport financier à chaque assemblée, en distinguant les fonds. Conserver les pièces et les approbations.
 

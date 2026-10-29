@@ -60,7 +60,9 @@ Conformément à la [DOAD 5045-0](https://www.canada.ca/fr/ministere-defense-nat
 
 <a id="article-10"></a>**10.** Un poste vacant est comblé à la première réunion suivant la vacance.
 
-<a id="article-11"></a>**11.** Toute personne autorisant un achat ou un paiement doit agir avec diligence. La mauvaise gestion flagrante, la dilapidation ou le détournement de fonds entraînent la relève des fonctions et la réparation des torts causés au Mess.
+<a id="article-11"></a>**11.** Une fonction au comité ne confère pas automatiquement de pouvoir financier. L’autorisation ou la signature d’un achat ou d’un paiement exige une délégation valide, exercée dans ses limites et selon les directives en vigueur. Sans cette délégation, les dépenses sont recommandées au responsable des biens non publics (BNP).
+
+Toute personne participant à la gestion des fonds agit avec diligence. La mauvaise gestion flagrante, la dilapidation ou le détournement de fonds entraînent la relève des fonctions et la réparation des torts causés au Mess.
 
 <a id="article-12"></a>**12.** La destitution d’un membre du comité exige un motif suffisant, un préavis d’au moins un mois et un vote favorable d’au moins 75 % des personnes présentes à l’assemblée.
 
