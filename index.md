@@ -10,6 +10,8 @@ document_label: Statuts et règlements
 
 **Version 0.11 du 29 octobre 2026 — Projet à adopter et à approuver.**
 
+{% include avant-propos.md %}
+
 <a id="partie-1"></a>
 ## Partie I — Statuts
 
