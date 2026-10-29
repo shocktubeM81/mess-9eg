@@ -5,13 +5,13 @@ title: Présentation de la révision des documents du Mess
 
 # Présentation de la révision des documents du Mess
 
-28 octobre 2026 — Version 0.2.7 proposée
+28 octobre 2026 — Version 0.3 proposée
 
 Aux membres du Mess et Instituts du 9e Escadron du génie,
 
 Je vous soumets une révision visant à rendre nos documents plus simples à consulter et notre administration plus facile à suivre.
 
-La constitution actuelle mêle les droits des membres à de nombreux détails pratiques, ce qui rend les règles essentielles difficiles à repérer. La proposition conserve les droits, les pouvoirs et les garanties financières dans la constitution et regroupe les modalités dans quatre règlements. Ceux-ci restent soumis au vote des membres et aux approbations requises : cette organisation facilite la consultation et les mises à jour sans donner au comité le pouvoir de modifier seul les règles.
+La constitution actuelle mêle les droits des membres à de nombreux détails pratiques, ce qui rend les règles essentielles difficiles à repérer. La proposition conserve les règles générales, les droits, les pouvoirs et les garanties financières dans la constitution. Les quatre règlements en précisent les modalités et les permissions encadrées. Les responsabilités sont regroupées en annexes de la constitution, une par rôle. Ceux-ci restent soumis au vote des membres et aux approbations requises : cette organisation facilite la consultation et les mises à jour sans donner au comité le pouvoir de modifier seul les règles.
 
 La confusion entre comité et assemblée peut rendre incertain le lieu où une décision doit être prise. La proposition distingue la préparation et la gestion courante du comité des décisions réservées aux membres. La constitution conserve expressément la fréquence trimestrielle, le quorum, les droits de vote, les délais minimaux de convocation et les pouvoirs des membres; le R3 précise la procédure et le déroulement des assemblées.
 

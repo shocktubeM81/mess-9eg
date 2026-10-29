@@ -5,15 +5,17 @@ title: R3 Assemblées et réunions
 
 # R3 Assemblées et réunions
 
-**Version 0.2.7 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. La constitution conserve ses repères; les règlements suivent une numérotation propre à chacun.
+**Version 0.3 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les règles générales sont fixées dans la constitution; le présent règlement en précise l’application.
 
 Ce règlement explique comment préparer et tenir les assemblées et les réunions, puis en consigner et communiquer les résultats. Il précise aussi l’accès aux documents, leur archivage et leur sauvegarde; les pouvoirs, le quorum et les droits des membres demeurent fixés par la constitution.
+
+Les fonctions des responsables sont définies dans les [annexes de la constitution](constitution-consolidee.md#annexes-des-responsabilites).
 
 ## Préparation et convocation
 
 <a id="r3-1"></a>**R3.1.** Les dates, le lieu et, s’il y a lieu, le moyen de connexion sont indiqués dans la convocation. Aucune période de l’année n’est exclue pour tenir une assemblée ou une réunion.
 
-<a id="r3-2"></a>**R3.2.** L’avis précise la date, le lieu ou le moyen de connexion. L’ordre du jour et les documents utiles sont transmis au moins 7 jours avant la séance; l’avis et l’ordre du jour sont aussi affichés dans les locaux. Le secrétaire organise ces envois en respectant les délais minimaux fixés aux articles 25 et 115 de la constitution.
+<a id="r3-2"></a>**R3.2.** L’avis précise la date, le lieu ou le moyen de connexion. L’ordre du jour et les documents utiles sont transmis au moins 7 jours avant la séance; l’avis et l’ordre du jour sont aussi affichés dans les locaux. Le secrétaire organise ces envois en respectant les délais minimaux fixés aux articles [26](constitution-consolidee.md#article-26) et [58](constitution-consolidee.md#article-58) de la constitution.
 
 <a id="r3-3"></a>**R3.3.** Les propositions importantes ou complexes sont accompagnées des renseignements utiles à leur discussion et transmises avec les documents de séance, selon les délais applicables.
 
@@ -31,11 +33,11 @@ Ce règlement explique comment préparer et tenir les assemblées et les réunio
 
 <a id="r3-9"></a>**R3.9.** Le président ouvre le débat sur la proposition appuyée, donne la parole à une personne à la fois et recentre les interventions sur le texte discuté. Le secrétaire consigne les amendements et le libellé finalement soumis au vote. Le président applique les droits et pouvoirs fixés par la constitution.
 
-<a id="r3-10"></a>**R3.10.** Lors du scrutin, le président fait procéder au décompte des voix. En cas d’égalité, il ordonne un recomptage; si l’égalité subsiste, il exerce la voix prépondérante prévue à l’article 23 de la constitution. Un vote erroné fait l’objet d’un nouveau vote. Le procès-verbal consigne le texte de la proposition, le résultat, les abstentions et l’application éventuelle d’un seuil particulier.
+<a id="r3-10"></a>**R3.10.** Lors du scrutin, le président fait procéder au décompte des voix. En cas d’égalité, il ordonne un recomptage; si l’égalité subsiste, il exerce la voix prépondérante prévue à l’[article 24](constitution-consolidee.md#article-24) de la constitution. Un vote erroné fait l’objet d’un nouveau vote. Le procès-verbal consigne le texte de la proposition, le résultat, les abstentions et l’application éventuelle d’un seuil particulier.
 
 ## Vote par internet
 
-<a id="r3-11"></a>**R3.11.** Pour un vote par internet autorisé par la constitution, le comité étudie et communique la proposition avant le scrutin. L’avis indique le texte exact, les membres admissibles, les dates d’ouverture et de clôture et le moyen de voter. La participation reste facultative. Le secrétaire vérifie l’admissibilité et le quorum et conserve le texte, les dates, le décompte et la preuve du quorum; il communique le résultat en précisant les approbations encore attendues.
+<a id="r3-11"></a>**R3.11.** Une consultation par internet ne vaut pas décision de l’assemblée. Si la constitution autorise expressément un vote décisionnel par internet, le comité étudie et communique la proposition avant le scrutin. L’avis indique le texte exact, les membres admissibles, les dates d’ouverture et de clôture et le moyen de voter. La participation reste facultative. Le secrétaire vérifie l’admissibilité et le quorum et conserve le texte, les dates, le décompte et la preuve du quorum; il communique le résultat en précisant les approbations encore attendues.
 
 ## Réunions du comité
 
@@ -63,10 +65,8 @@ Ce règlement explique comment préparer et tenir les assemblées et les réunio
 
 <a id="r3-22"></a>**R3.22.** Les demandes urgentes sont acheminées directement au président selon les voies prévues par la constitution; les sujets collectifs sont inscrits au suivi de la prochaine séance.
 
-## Tâches et responsabilités
+## Classement et sauvegarde
 
-<a id="r3-23"></a>**R3.23.** Pendant la séance, la présidence distribue la parole, évite les répétitions et veille au respect de l’ordre du jour et des procédures. Les interventions lui sont adressées, une personne à la fois.
+<a id="r3-23"></a>**R3.23.** Les dossiers sont classés dans un répertoire commun : textes de gouvernance, convocations, ordres du jour, procès-verbaux, décisions, budgets, rapports financiers, inventaires et correspondance. Chaque document indique sa date, sa version, son statut et les preuves d’adoption et d’approbation requises, selon les exigences du [Manuel des politiques des PSP, chapitre 9-4](https://www.sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf). Le registre des décisions précise responsable, échéance et suivi. Les dossiers du comité et ceux des assemblées sont distincts et reliés par les recommandations et décisions correspondantes.
 
-<a id="r3-24"></a>**R3.24.** Les dossiers sont classés dans un répertoire commun : textes de gouvernance, convocations, ordres du jour, procès-verbaux, décisions, budgets, rapports financiers, inventaires et correspondance. Chaque document indique sa date, sa version, son statut et les preuves d’adoption et d’approbation requises. Le registre des décisions précise responsable, échéance et suivi. Les dossiers du comité et ceux des assemblées sont distincts et reliés par les recommandations et décisions correspondantes.
-
-<a id="r3-25"></a>**R3.25.** Le secrétaire et un suppléant désigné disposent d’un accès de continuité. Une sauvegarde indépendante du répertoire courant est effectuée au moins mensuellement et après toute adoption ou approbation. La restauration est vérifiée au moins annuellement et lors de la relève du secrétaire. La relève comprend inventaire des dossiers, transfert sécurisé des accès et décisions en cours. Les documents sont conservés selon les exigences applicables; aucune durée réglementaire non vérifiée n’est créée ici.
+<a id="r3-24"></a>**R3.24.** Les accès sont organisés pour assurer la continuité entre le secrétaire et un suppléant désigné. Une sauvegarde indépendante du répertoire courant est effectuée au moins mensuellement et après toute adoption ou approbation. La restauration est vérifiée au moins annuellement et lors de la relève du secrétaire. La relève comprend inventaire des dossiers, transfert sécurisé des accès et décisions en cours. Les documents sont conservés selon les exigences applicables; aucune durée réglementaire non vérifiée n’est créée ici.

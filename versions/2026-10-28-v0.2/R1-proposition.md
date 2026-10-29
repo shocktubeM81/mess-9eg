@@ -5,9 +5,11 @@ title: R1 Tenue et comportement
 
 # R1 Tenue et comportement
 
-**Version 0.2.7 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. La constitution conserve ses repères; les règlements suivent une numérotation propre à chacun.
+**Version 0.3 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les règles générales sont fixées dans la constitution; le présent règlement en précise l’application.
 
 Ce règlement précise la tenue, le comportement et les conditions pratiques de fréquentation du Mess. Il s’applique à toute personne admise dans les locaux afin de préserver des lieux accueillants, propres et respectueux.
+
+Les fonctions des responsables sont définies dans les [annexes de la constitution](constitution-consolidee.md#annexes-des-responsabilites).
 
 ## Accès aux locaux
 
@@ -45,15 +47,13 @@ Ce règlement précise la tenue, le comportement et les conditions pratiques de 
 
 ## Comportement et sécurité
 
-<a id="r1-16"></a>**R1.16.** Le président répond au commandant de la discipline dans les locaux. En son absence, le membre senior présent veille au maintien de l’ordre.
-
 <a id="r1-9"></a>**R1.9.** Les membres et leurs invités respectent les règles du Mess et contribuent au maintien de l’ordre et d’un climat amical. Les comportements perturbateurs donnent lieu à un rappel à l’ordre et sont signalés au sergent-major de l’escadron.
 
 <a id="r1-10"></a>**R1.10.** Il est interdit de dormir dans les locaux du Mess, y compris derrière le bar, pour des raisons d’hygiène et de sécurité.
 
 <a id="r1-11"></a>**R1.11.** Animaux. Il est interdit d’apporter des animaux dans le mess, sauf chien guide.
 
-<a id="r1-12"></a>**R1.12.** En conformité à l'OAFC 19-1, il n'y aura pas de loteries, sweepstakes, appareils à sous ou jeux de hasard dans le Mess, ou de permettre que ces mêmes jeux soient organisés au profit des militaires.
+<a id="r1-12"></a>**R1.12.** Les loteries, tirages de type sweepstakes, appareils à sous et autres jeux de hasard sont interdits dans le Mess; ils ne peuvent pas y être organisés au profit des militaires.
 
 ## Propreté et dommages
 
