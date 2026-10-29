@@ -40,7 +40,7 @@ Ce règlement précise les conditions d’accès, la tenue et le comportement da
 
 <a id="r1-article-6"></a>
 <a id="r1-6"></a>
-**R1.6.** Les vêtements sont propres et convenables, le torse couvert et les chaussures portées. Les vêtements dégradants ou répulsifs sont interdits. L’uniforme et la coiffure suivent les [Instructions sur la tenue, chapitre 2, notamment paragraphe 25 et section sur les coiffures](https://www.canada.ca/fr/services/defense/fac/systeme-identite-militaire/instructions-tenue/chapitre-2.html), avec les exceptions qui y sont prévues. Pour une activité particulière, la tenue est annoncée avec l’invitation.
+**R1.6.** Les vêtements sont propres et convenables, le torse couvert et les chaussures portées. Les vêtements dégradants ou répulsifs sont interdits. L’uniforme et la coiffure suivent les [Instructions sur la tenue, chapitre 2, paragraphe 25](https://www.canada.ca/fr/services/defense/fac/systeme-identite-militaire/instructions-tenue/chapitre-2.html) et la [section sur les coiffures](https://www.canada.ca/fr/services/defense/fac/systeme-identite-militaire/instructions-tenue/chapitre-2.html), avec les exceptions qui y sont prévues. Pour une activité particulière, la tenue est annoncée avec l’invitation.
 
 ## Comportement et propreté
 

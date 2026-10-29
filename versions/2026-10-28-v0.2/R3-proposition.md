@@ -19,7 +19,7 @@ Ce règlement précise la préparation des séances, leur déroulement et la ges
 
 <a id="r3-article-2"></a>
 <a id="r3-2"></a>
-**R3.2.** La convocation indique la date, l’heure, le lieu et, s’il y a lieu, le moyen de connexion. Les délais de convocation et de modification des textes sont ceux des [articles 15 et 55 de la constitution](constitution-consolidee.md#constitution-article-15). Les documents utiles sont transmis normalement 7 jours avant la séance. Le dépôt des propositions et l’affichage de l’ordre du jour suivent le [Manuel PSP, chapitre 9-4, paragraphes 41 et 42](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297).
+**R3.2.** La convocation indique la date, l’heure, le lieu et, s’il y a lieu, le moyen de connexion. Les délais de convocation et de modification des textes sont ceux des [articles 15](constitution-consolidee.md#constitution-article-15) et [55 de la constitution](constitution-consolidee.md#constitution-article-55). Les documents utiles sont transmis normalement 7 jours avant la séance. Le dépôt des propositions et l’affichage de l’ordre du jour suivent le [Manuel PSP, chapitre 9-4, paragraphe 41](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297) et le [paragraphe 42](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297).
 
 <a id="r3-article-3"></a>
 <a id="r3-3"></a>
@@ -64,7 +64,7 @@ Les versions consultables protègent les renseignements personnels, médicaux, d
 
 <a id="r3-article-9"></a>
 <a id="r3-16"></a>
-**R3.9.** Les suggestions, plaintes et commentaires sont reçus selon les [articles 53 et 54 de la constitution](constitution-consolidee.md#constitution-article-53). Seuls les éléments destinés au suivi collectif figurent au registre. Le suivi collectif est communiqué sans renseignements personnels. Les questions relevant des membres sont soumises à l’assemblée. Les demandes urgentes sont transmises directement au président; leur suivi collectif est inscrit à la prochaine séance.
+**R3.9.** Les suggestions, plaintes et commentaires sont reçus selon les [articles 53](constitution-consolidee.md#constitution-article-53) et [54 de la constitution](constitution-consolidee.md#constitution-article-54). Seuls les éléments destinés au suivi collectif figurent au registre. Le suivi collectif est communiqué sans renseignements personnels. Les questions relevant des membres sont soumises à l’assemblée. Les demandes urgentes sont transmises directement au président; leur suivi collectif est inscrit à la prochaine séance.
 
 ## Conservation et relève
 

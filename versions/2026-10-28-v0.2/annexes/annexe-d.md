@@ -13,7 +13,7 @@ document_group: constitution
 
 ## Responsabilités
 
-- **a.** Tenir la liste des membres par catégorie et suivre les cotisations. Distinguer la liste des personnes ayant droit de vote du dénombrement servant au quorum selon les [articles 16 et 17](../constitution-consolidee.md#constitution-article-16).
+- **a.** Tenir la liste des membres par catégorie et suivre les cotisations. Distinguer la liste des personnes ayant droit de vote du dénombrement servant au quorum selon les [articles 16](../constitution-consolidee.md#constitution-article-16) et [17](../constitution-consolidee.md#constitution-article-17).
 
 - **b.** Transmettre au responsable des biens non publics les recommandations de dépenses du Mess. Exercer les pouvoirs financiers délégués, s’il y a lieu, dans leurs limites et selon les directives en vigueur.
 
