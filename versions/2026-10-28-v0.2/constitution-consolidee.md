@@ -187,11 +187,11 @@ La constitution établit les droits, les organes et les garanties; les quatre r�
 
 <a id="article-45"></a>**45.** Cotisations.
 
-- **a.** Il s'agit ici d'une importante source de revenu pour le Mess. Les cotisations couvriront les frais d'exploitation du Mess, et ne peuvent servir que pour les besoins du Mess (PFC 262 art 313). Tout membre des Forces armées canadiennes est tenu obligatoirement de faire partie d'un mess.
+- **a.** Les cotisations couvriront les frais d'exploitation du Mess, et ne peuvent servir que pour les besoins du Mess (PFC 262 art 313).
 
 - **b.** Elles ne sont payables que par les membres ordinaires et associés.
 
-- **c.** Les cotisations couvrent du 1er avril au 30 juin et du 1er septembre au 31 mars d'une même année. La cotisation est calculée pour 10 mois, puisque le Mess et Institut est fermée durant les 2 mois d'été pour l'entraînement estival.
+- **c.** Les cotisations couvrent du 1er avril au 31 mars d'une même année.
 
 - **d.** Tout changement au montant des cotisations annuelles est sujet au vote lors d'une assemblée générale.
 
@@ -199,7 +199,7 @@ La constitution établit les droits, les organes et les garanties; les quatre r�
 
 - **f.** Le montant total des cotisations sera déposé dans le ou les comptes selon la proposition retenue suite à un vote pris par les membres durant une assemblée, i.e. au mois de mars de chaque année.
 
-- **g.** Pour les réservistes, la cotisation sera payée en un versement par délégation de solde.
+- **g.** Pour les réservistes, la cotisation sera payée en un ou deux versement par délégation de solde.
 
 - **h.** Pour les membres de la force régulière et les membres civils, ils devront payer leur cotisation directement au Mess en argent comptant, ou par chèque. Sur réception du paiement, un reçu sera émis.
 
@@ -207,26 +207,15 @@ La constitution établit les droits, les organes et les garanties; les quatre r�
 
 - **j.** Le personnel qui s’enrôle, est muté, attaché ou libéré pendant la période du 1er avril au 31 mars d'une même année, devra payer sa cotisation proportionnellement au nombre de jours où il a été membre ordinaire du mess. Si la cotisation a déjà été payée au début de l’année, les journées payées en trop lui seront remboursées.
 
-- **k.** Le mess paiera le remboursement de cotisation par chèque au nom du membre.
+- **k.** Le mess paiera le remboursement de cotisation par transferts de fonds conformément aux directives du SBMFC.
 
 <a id="article-46"></a>**46.** Transactions.
-
-- **a.** Le privilège des chèques personnels sera enlevé à toute personne dont l'un de ses chèques se révèle sans fonds. Les frais de la banque lui seront réclamés.
-
-
-
 
 - **b.** Le prix des consommations sera affiché à la vue du consommateur. Tout changement de prix devra être approuvé, avant son entrée en vigueur, lors de l'assemblée du mess et/ou par approbation du commandant.
 
 - **c.** Paiement des achats et dépenses. Tous les achats et dépenses faits pour les besoins du mess seront payés par chèque.
 
-- **d.** Carte du Commandant. La carte du Commandant est un privilège utilisé par le Commandant afin de promouvoir et encourager la collaboration entre divers invités d’honneurs lors de fonctions officielles. Le montant maximum de la carte est de 50$ et renouvelable mensuellement. Le montant n’est pas cumulatif. Cette carte peut être utilisée par le PCAM en l’absence du Commandant.
-
 - **e.** Traite. Le PCAM peut sonner un maximum de trois traites au cours de l’année financière. Ces traites sont permises seulement lors des assemblées générales ou lors d’un événement extraordinaire et officiel (par exemple au dîner de la troupe ou dans le cadre de Anniversaire du 9 EG). Ce privilège peut être utilisé qu’une seule fois au cours de l’événement. Une consommation par membre présent dans le Mess au moment de la traite est autorisée. Le Commandant se réserve également ce privilège lors du dîner de la troupe.
-
-- **f.** Pour être membres en règles, les membres doivent avoir payé leur cotisation annuelle complète.
-
-- **g.** Opérations bancaires. Deux signatures sont obligatoires pour valider un chèque.
 
 <a id="article-47"></a>**47.** Dépenses du comité de divertissement.
 
