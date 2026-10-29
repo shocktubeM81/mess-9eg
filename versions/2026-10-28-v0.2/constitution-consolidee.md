@@ -13,10 +13,10 @@ Manège militaire de Rouyn-Noranda, 97, rue Perreault Est, Rouyn-Noranda, Québe
 
 Conformément à la [DOAD 5045-0](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/directives-ordonnances-administratives-defense/serie-5000/5045/5045-0-programmes-de-soutien-du-personnel-des-forces-canadiennes.html) et la publication [A-PS-110-001/AG-002](https://sbmfc.ca/a-propos/politiques-et-publications/aa-ps-110-soutien-public-aux-programmes-de-bemm), dans leur version en vigueur, la constitution et ses annexes fixent les règles générales du Mess, les droits des membres et les pouvoirs des responsables. Quatre règlements en précisent l’application :
 
-- **a.** [R1 — Tenue et comportement](R1-proposition.md);
-- **b.** [R2 — Meubles et décorations](R2-proposition.md);
-- **c.** [R3 — Assemblées et réunions](R3-proposition.md);
-- **d.** [R4 — Service de bar](R4-proposition.md).
+- [R1 — Tenue et comportement](R1-proposition.md);
+- [R2 — Meubles et décorations](R2-proposition.md);
+- [R3 — Assemblées et réunions](R3-proposition.md);
+- [R4 — Service de bar](R4-proposition.md).
 
 ## Dispositions générales
 
