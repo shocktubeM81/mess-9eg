@@ -27,11 +27,11 @@
 | 19 | Constitution 17 |
 | 20 | Constitution 18 |
 | 21 | Constitution 19 |
-| 22 | Constitution 20 |
+| 22 | Constitution 22 |
 | 23 | Constitution 17 et 21 |
-| 24 | Constitution 21 |
+| 24 | Constitution 20 |
 | 25 | Constitution 9 |
-| 26 | Constitution 22 |
+| 26 | Constitution 21 |
 | 27 | Constitution 23 |
 | 28 | Constitution 24 |
 | 29 | Constitution 25 |
@@ -89,7 +89,7 @@ Les tâches retirées sont regroupées dans les annexes. Les modalités de quoru
 | R3.4 et R3.5 | R3.4; tâche annexe C |
 | R3.6 | R3.5 |
 | R3.7 et R3.8 | R3.6; tâche annexe A |
-| R3.9 et R3.10 | R3.7 et R3.8; pouvoirs constitution 21; tâches annexes A et C |
+| R3.9 et R3.10 | R3.7 et R3.8; pouvoirs constitution 20; tâches annexes A et C |
 | R3.11 | R3.9; procédure conditionnelle d’un vote décisionnel retirée, faute d’autorisation dans la constitution |
 | R3.12 | R3.10; tâches annexes A et C |
 | R3.13 à R3.16 | R3.1, R3.11 et R3.12 |

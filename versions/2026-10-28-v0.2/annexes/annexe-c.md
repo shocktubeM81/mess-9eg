@@ -17,7 +17,7 @@ document_group: constitution
 
 - **b.** Préparer les ordres du jour et transmettre les convocations et documents dans les délais. Organiser les validations et autorisations d’affichage avant diffusion.
 
-- **c.** Vérifier et consigner le quorum à l’ouverture et lorsqu’une perte est signalée. Organiser une nouvelle convocation après annulation.
+- **c.** Vérifier et consigner le quorum des assemblées générales à l’ouverture et lorsqu’une perte est signalée. Organiser une nouvelle convocation après annulation.
 
 - **d.** Consigner les motions, amendements, votes et comptes rendus. Pour le comité, distinguer décisions, recommandations, responsables et échéances.
 

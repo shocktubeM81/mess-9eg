@@ -58,7 +58,7 @@ Conformément à la [DOAD 5045-0](https://www.canada.ca/fr/ministere-defense-nat
 
 <a id="article-9"></a>**9.** Les membres du comité sont élus à la majorité simple par l’assemblée générale, normalement en décembre. Le mandat du président et du vice-président est d’au moins un an, selon leur disponibilité. Normalement, au plus la moitié du comité est remplacée à une même assemblée. Le régisseur est nommé par le commandant.
 
-<a id="article-10"></a>**10.** Un poste vacant est comblé à la première réunion suivant la vacance.
+<a id="article-10"></a>**10.** Un poste élu devenu vacant est comblé à la première assemblée générale suivant la vacance.
 
 <a id="article-11"></a>**11.** Une fonction au comité ne confère pas automatiquement de pouvoir financier. L’autorisation ou la signature d’un achat ou d’un paiement exige une délégation valide, exercée dans ses limites et selon les directives en vigueur. Sans cette délégation, les dépenses sont recommandées au responsable des biens non publics (BNP).
 
@@ -68,9 +68,9 @@ Toute personne participant à la gestion des fonds agit avec diligence. La mauva
 
 <a id="article-13"></a>**13.** Le comité gère les affaires courantes dans les limites du budget et des délégations approuvés. Les élections, destitutions, cotisations, budgets et modifications à la constitution relèvent des membres. Les approbations requises précèdent l’exécution des décisions.
 
-## Assemblées générales
+## Assemblées générales des membres
 
-<a id="article-14"></a>**14.** Une assemblée générale des membres est tenue chaque trimestre. Une réunion du comité ne peut la remplacer.
+<a id="article-14"></a>**14.** L’assemblée générale réunit les membres pour délibérer et prendre les décisions qui leur sont réservées. Elle peut être ordinaire ou extraordinaire. Une assemblée générale est tenue chaque trimestre.
 
 <a id="article-15"></a>**15.** Un rapport financier sommaire est présenté à chaque assemblée générale.
 
@@ -82,11 +82,13 @@ Toute personne participant à la gestion des fonds agit avec diligence. La mauva
 
 <a id="article-19"></a>**19.** Une assemblée extraordinaire peut être convoquée par le commandant, le président ou une demande écrite d’au moins 25 % des membres ordinaires en règle.
 
-<a id="article-20"></a>**20.** Le commandant ou le président peut convoquer une réunion du comité.
+<a id="article-20"></a>**20.** Les décisions de l’assemblée générale sont adoptées à plus de la moitié des voix exprimées, sans compter les abstentions, sauf seuil particulier prévu à la constitution. Les membres ordinaires en règle peuvent proposer et appuyer une motion, à l’exception du commandant et du président de séance. Le président de séance ne peut amender une motion et ne vote que pour trancher une égalité après recomptage. Les motions sont appuyées, débattues puis votées. Leur texte et le résultat sont consignés au procès-verbal.
 
-<a id="article-21"></a>**21.** Les décisions sont adoptées à plus de la moitié des voix exprimées, sans compter les abstentions, sauf seuil particulier prévu à la constitution. Les membres ordinaires en règle peuvent proposer et appuyer une motion, à l’exception du commandant et du président de séance. Le président de séance ne peut amender une motion et ne vote que pour trancher une égalité après recomptage. Les motions sont appuyées, débattues puis votées. Leur texte et le résultat sont consignés au procès-verbal.
+<a id="article-21"></a>**21.** Un avis de convocation est communiqué à chaque membre au moins 14 jours avant l’assemblée générale, même si la date a déjà été annoncée. Il indique les sujets à examiner.
 
-<a id="article-22"></a>**22.** Un avis de convocation est communiqué à chaque membre au moins 14 jours avant l’assemblée, même si la date a déjà été annoncée. Il indique les sujets à examiner.
+## Réunions du comité
+
+<a id="article-22"></a>**22.** Le comité se réunit pour préparer les dossiers, gérer les affaires courantes et suivre les décisions des assemblées. Ses réunions sont convoquées par le commandant ou le président. Elles ne remplacent pas une assemblée générale et ne peuvent trancher les questions réservées à celle-ci.
 
 ## Finances et cotisations
 
@@ -118,7 +120,7 @@ Toute personne participant à la gestion des fonds agit avec diligence. La mauva
 
 <a id="article-30"></a>**30.** Le président peut engager jusqu’à 100 $ par mois pour de petits achats. Ces dépenses sont soumises à la prochaine assemblée pour acceptation.
 
-<a id="article-31"></a>**31.** Le fonds du président sert à l’embellissement du Mess et au bien-être des membres. Ses dépenses sont autorisées par le président ou le trésorier, puis soumises à la prochaine réunion pour acceptation.
+<a id="article-31"></a>**31.** Le fonds du président sert à l’embellissement du Mess et au bien-être des membres. Ses dépenses sont autorisées par le président ou le trésorier, puis soumises à la prochaine assemblée générale pour acceptation.
 
 ## Règles générales d’utilisation du Mess
 
