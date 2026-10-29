@@ -5,7 +5,7 @@ title: Sources et validations de la révision
 
 # Sources et validations de la révision
 
-Version 0.2.3 du 28 octobre 2026
+Version 0.2.4 du 28 octobre 2026
 
 ## Sources consultées
 
@@ -38,7 +38,7 @@ La transcription actuelle, l’accueil, le thème et le domaine sont conservés.
 Ces sources éclairent la vérification à effectuer; elles ne constituent pas une validation particulière du financement proposé pour le 9 EG.
 ## Ajustement de la répartition des assemblées
 
-Version 0.2.3 du 28 octobre 2026. Par rapport à la version 0.2, les articles 12, 14, 23, 25 et 35 rejoignent la constitution. Le seuil de quorum reste à son article 8; le délai de 30 minutes et le contrôle pendant la séance passent au R3.8. Le calendrier pratique de l’article 13 rejoint le R3. La règle de majorité et les garanties du vote restent constitutionnelles; recomptage et consignation sont précisés au R3.7, et les modalités du vote par internet au R3.9. La clause C4 confirme cette limite entre les deux textes. Les articles 16 à 22 restent au R3 pour la préparation et le déroulement.
+Version 0.2.4 du 28 octobre 2026. Par rapport à la version 0.2, les articles 12, 14, 23, 25 et 35 rejoignent la constitution. Le seuil de quorum reste à son article 8; le délai de 30 minutes et le contrôle pendant la séance passent au R3.8. Le calendrier pratique de l’article 13 rejoint le R3. La règle de majorité et les garanties du vote restent constitutionnelles; recomptage et consignation sont précisés au R3.7, et les modalités du vote par internet au R3.9. La clause C4 confirme cette limite entre les deux textes. Les articles 16 à 22 restent au R3 pour la préparation et le déroulement.
 
 Cette répartition conserve quatre règlements et ne réduit aucun quorum, délai minimal, droit de vote, seuil particulier ou pouvoir réservé aux membres. Elle constitue une proposition à adopter et à approuver.
 ## Périmètre des règlements 3 et 4
@@ -53,3 +53,6 @@ La rédaction du refus de service a été vérifiée à partir des [indications 
 Les textes proposés ne fixent plus de période estivale exclue ni de dates limites au 30 mai ou au 30 août. Les dates sont indiquées dans les convocations; la fréquence trimestrielle et les délais minimaux constitutionnels restent applicables. L’article 13 du R3 est remplacé en ce sens. Le déroulement type et les indications de prise de parole sont raccourcis.
 
 Les tâches sont regroupées en fin de texte : responsabilités administratives dans la constitution, discipline au R1, inventaire au R2, présidence et tenue des dossiers au R3; les rôles du service de bar restent à la fin du R4. Ce déplacement facilite la consultation des règles avant la lecture des tâches attribuées.
+## Organisation et numérotation de la version 0.2.4
+
+Les règlements sont regroupés par sujet et suivent chacun une numérotation continue R1.1, R1.2, etc. Les tâches restent à la fin. Le fond des dispositions est conservé; seuls l’ordre, les titres, les repères et les renvois changent. La constitution conserve son ordre et ses numéros; seuls les renvois vers les règlements et la mention de version sont adaptés. La concordance conserve le suivi des dispositions sources et des clauses ajoutées.

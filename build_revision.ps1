@@ -64,7 +64,7 @@ $headings=@{1='Identité et membres';5='Assemblées générales';23='Votes et é
 if($headings.ContainsKey([int]$n)){$heading="## $($headings[[int]$n])`n`n"}
 }
 "$heading<a id=`"article-$n`"></a>**$n.** $b"};$out -join "`n`n"}
-$status='**Version 0.2.3 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les numéros historiques sont conservés pour faciliter la comparaison; les articles déplacés figurent dans les règlements.'
+$status='**Version 0.2.4 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les numéros historiques sont conservés pour faciliter la comparaison; les articles déplacés figurent dans les règlements.'
 $funds=@"
 ## Assemblées et portée des règlements
 
@@ -137,7 +137,7 @@ Save 'reglement-consolide.md' $full
 Save 'lettre-presentation.md' @"
 # Présentation de la révision des documents du Mess
 
-28 octobre 2026 — Version 0.2.3 proposée
+28 octobre 2026 — Version 0.2.4 proposée
 
 Aux membres du Mess et Instituts du 9e Escadron du génie,
 
@@ -166,7 +166,7 @@ $rows=@(
 )
 $tab="# Tableau des modifications Avant Après Pourquoi`n`n$status`n`nSeuls les changements de fond et la réorganisation figurent ici. Les simples déplacements sont détaillés dans la concordance. Les délais nouveaux sont proposés à lʼadoption, et ne sont pas attribués à une décision antérieure inaccessible.`n`n| Sujet | Avant | Après | Problème et pourquoi | Mise en œuvre |`n|---|---|---|---|---|`n"
 foreach($r in $rows){$tab+='| '+($r -join ' | ')+" |`n"};Save 'tableau-modifications.md' $tab
-$map="# Concordance des 116 articles`n`nVersion 0.2.3 du 28 octobre 2026. Source : constitution.md au commit 8362362. Les clauses C1 à C6, R2.1 à R2.2, R3.1 à R3.4 et R3.7 à R3.10, ainsi que R4.1 à R4.4 sont nouvelles. Les numéros historiques sont conservés.`n`n| Article source | Destination | Traitement |`n|---|---|---|`n"
+$map="# Concordance des 116 articles`n`nVersion 0.2.4 du 28 octobre 2026. Source : constitution.md au commit 8362362. Les clauses C1 à C6, R2.1 à R2.2, R3.1 à R3.4 et R3.7 à R3.10, ainsi que R4.1 à R4.4 sont nouvelles. Les numéros historiques sont conservés.`n`n| Article source | Destination | Traitement |`n|---|---|---|`n"
 foreach($n in 1..116){$dest=if($n -in $core){'Constitution'}elseif($n -in $r1){'R1'}elseif($n -in $r2){'R2'}elseif($n -in $r3){'R3'}else{'R4'};$action=if($edit.ContainsKey($n)){'Modifié — voir tableau'}else{'Texte conservé'};$map+="| $n | $dest | $action |`n"};Save 'concordance.md' $map
 Save 'index.md' @"
 ---
@@ -176,7 +176,7 @@ title: Révision des documents du Mess du 28 octobre 2026
 
 # Révision des documents du Mess
 
-**Version 0.2.3 du 28 octobre 2026 — Proposition à discuter et à adopter.**
+**Version 0.2.4 du 28 octobre 2026 — Proposition à discuter et à adopter.**
 
 Les droits des membres et les assemblées trimestrielles sont maintenus. La révision simplifie lʼorganisation des textes et renforce lʼaccès aux documents ainsi que leur communication proactive.
 
@@ -195,7 +195,7 @@ Les droits des membres et les assemblées trimestrielles sont maintenus. La rév
 Save 'notes-revision.md' @"
 # Sources et validations de la révision
 
-Version 0.2.3 du 28 octobre 2026
+Version 0.2.4 du 28 octobre 2026
 
 ## Sources consultées
 
@@ -248,7 +248,7 @@ $update=@"
 
 ## Ajustement de la répartition des assemblées
 
-Version 0.2.3 du 28 octobre 2026. Par rapport à la version 0.2, les articles 12, 14, 23, 25 et 35 rejoignent la constitution. Le seuil de quorum reste à son article 8; le délai de 30 minutes et le contrôle pendant la séance passent au R3.8. Le calendrier pratique de l’article 13 rejoint le R3. La règle de majorité et les garanties du vote restent constitutionnelles; recomptage et consignation sont précisés au R3.7, et les modalités du vote par internet au R3.9. La clause C4 confirme cette limite entre les deux textes. Les articles 16 à 22 restent au R3 pour la préparation et le déroulement.
+Version 0.2.4 du 28 octobre 2026. Par rapport à la version 0.2, les articles 12, 14, 23, 25 et 35 rejoignent la constitution. Le seuil de quorum reste à son article 8; le délai de 30 minutes et le contrôle pendant la séance passent au R3.8. Le calendrier pratique de l’article 13 rejoint le R3. La règle de majorité et les garanties du vote restent constitutionnelles; recomptage et consignation sont précisés au R3.7, et les modalités du vote par internet au R3.9. La clause C4 confirme cette limite entre les deux textes. Les articles 16 à 22 restent au R3 pour la préparation et le déroulement.
 
 Cette répartition conserve quatre règlements et ne réduit aucun quorum, délai minimal, droit de vote, seuil particulier ou pouvoir réservé aux membres. Elle constitue une proposition à adopter et à approuver.
 "@
@@ -285,3 +285,4 @@ $summaryRow=@"
 | Calendrier et lisibilité | Art. 13 source : exclusion du 30 mai au 30 août; consignes de séance et tâches dispersées | Suppression de l’exclusion estivale; déroulement raccourci; tâches regroupées à la fin des textes | Les contraintes saisonnières rigidifient inutilement la planification. Lire les règles avant les tâches permet de comprendre plus vite le fonctionnement, tout en conservant les assemblées trimestrielles et les délais de convocation. | R3 art. 13, 15, 16, 18 et 19; sections finales des tâches et responsabilités |
 "@
 [IO.File]::AppendAllText((Join-Path $dir 'tableau-modifications.md'),$summaryRow+"`n",$enc)
+& (Join-Path $PSScriptRoot 'reorganize_regulations.ps1')

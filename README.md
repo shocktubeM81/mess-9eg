@@ -44,3 +44,7 @@ Les principes des assemblées figurent dans la constitution; leur procédure et 
 ## Ajustement de la version 0.2.2
 
 R3 porte le titre « Assemblées et réunions » et précise comment les séances se préparent, se déroulent et sont documentées et communiquées. R4 est limité au « Service de bar », avec refus de service obligatoire en cas d’ébriété. Les règles financières et les réservations sont regroupées dans la constitution; les dispositions sur les locaux et les jeux sont réaffectées selon la concordance.
+
+## Organisation de la version 0.2.4
+
+Les quatre règlements ont chacun une numérotation continue et un ordre par sujet. Les tâches restent à la fin. La constitution garde son ordre et ses numéros. La concordance indique les nouveaux repères. `reorganize_regulations.ps1`, appelé par le générateur, prépare cette organisation sans modifier le fond des dispositions.

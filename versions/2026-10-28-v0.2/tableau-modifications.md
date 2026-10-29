@@ -5,7 +5,7 @@ title: Tableau des modifications Avant Après Pourquoi
 
 # Tableau des modifications Avant Après Pourquoi
 
-**Version 0.2.3 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. Les numéros historiques sont conservés pour faciliter la comparaison; les articles déplacés figurent dans les règlements.
+**Version 0.2.4 du 28 octobre 2026 — Proposition à discuter et à adopter.** Entrée en vigueur après ratification des membres avec quorum et approbation du commandant. La constitution conserve ses repères; les règlements suivent une numérotation propre à chacun.
 
 Seuls les changements de fond et la réorganisation figurent ici. Les simples déplacements sont détaillés dans la concordance. Les délais nouveaux sont proposés à l’adoption, et ne sont pas attribués à une décision antérieure inaccessible.
 
@@ -24,3 +24,5 @@ Seuls les changements de fond et la réorganisation figurent ici. Les simples d�
 | Périmètre du R3 | Assemblées, administration et finances mêlées dans le texte source | R3 Assemblées et réunions : modalités pratiques et suivi documentaire; principes, administration et finances dans la constitution | Un règlement de procédure doit expliquer comment les séances ont lieu sans redéfinir les pouvoirs constitutionnels. Les communications et sauvegardes restent rattachées au suivi des séances. | Constitution; R3 art. 13, 15 à 22, 73, 83 à 89 et clauses documentaires et de procédure |
 | Service de bar | Art. 59 : autorité de ne pas servir une personne en état d’ébriété; art. 68 : interdiction de consommation aux moins de 18 ans | Refus obligatoire et immédiat; arrêt du service; soutien au serveur; vérification de l’âge et prévention du contournement; R4 limité au bar | Une simple faculté peut laisser le personnel hésiter ou subir des pressions. Une conduite claire facilite un service responsable et uniforme. | R4 art. 59 et 68; R4.1 à R4.4 |
 | Calendrier et lisibilité | Art. 13 source : exclusion du 30 mai au 30 août; consignes de séance et tâches dispersées | Suppression de l’exclusion estivale; déroulement raccourci; tâches regroupées à la fin des textes | Les contraintes saisonnières rigidifient inutilement la planification. Lire les règles avant les tâches permet de comprendre plus vite le fonctionnement, tout en conservant les assemblées trimestrielles et les délais de convocation. | R3 art. 13, 15, 16, 18 et 19; sections finales des tâches et responsabilités |
+
+Les numéros cités dans les comparaisons ci-dessus sont les repères historiques de la source ou des propositions précédentes. La concordance donne leur emplacement actuel. La réorganisation et la renumérotation de la version 0.2.4 ne modifient pas le fond des règles.
