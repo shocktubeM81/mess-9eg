@@ -21,7 +21,7 @@ Ce règlement précise la tenue, le comportement et les conditions pratiques de 
 
 ### Invités personnels et officiels
 
-<a id="r1-3"></a>**R1.3.** Deux situations sont distinguées : l’invité officiel du Mess, dont les frais sont assumés par le Mess dans les limites approuvées, et l’invité personnel d’un membre, qui reste sous la responsabilité de ce membre. Lorsqu’un membre accompagne un invité à une activité financée par le président du comité, l’invité paie son repas et ne participe pas aux tirages des prix de présence.
+<a id="r1-3"></a>**R1.3.** Le Mess peut recevoir des invités officiels, dont il assume les frais dans les limites approuvées. Les membres peuvent également recevoir des invités personnels, qui restent sous leur responsabilité. Lorsqu’un membre accompagne un invité à une activité financée par le président du comité, l’invité paie son repas et ne participe pas aux tirages des prix de présence.
 
 <a id="r1-4"></a>**R1.4.** Un membre peut recevoir un invité personnel et doit l’accompagner pendant sa présence au Mess. Il répond de sa tenue et de son comportement. Lorsque le membre quitte les lieux, son invité quitte également. Les conjoints admis sans le membre suivent les conditions de la section sur l’accès aux locaux.
 
