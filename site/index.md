@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /
 title: Statuts et règlements du Mess du 9 EG
 document_label: Statuts et règlements
 ---

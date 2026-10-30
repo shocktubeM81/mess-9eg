@@ -3,13 +3,7 @@
 __pycache__/
 *.pyc
 ~$*.docx
-/site/_includes/texte-maitre.md
-/site/_data/structure.json
-/site/constitution.md
 /site/_site/
-/site/documents/
-/site/_data/documents.json
-/site/assets/images/logo-9eg.png
 /site/.jekyll-cache/
 /site/.jekyll-metadata
 
@@ -21,6 +15,7 @@ __pycache__/
 
 # Ruby / Bundler
 /.bundle/
+/site/.bundle/
 /vendor/
 *.gem
 

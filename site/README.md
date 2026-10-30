@@ -1,48 +1,58 @@
 # Site web
 
-Ce dossier contient uniquement la présentation du site et ses outils de construction.
+Le site lit directement les fichiers Markdown de `textes/` à chaque construction.
+Il ne conserve aucune copie des statuts, règlements, annexes ou de la constitution
+historique dans ce dossier. Les exports Word/PDF restent un recueil unique.
 
-- `index.md` présente les documents; les onglets ouvrent des pages distinctes.
-- `_layouts/` contient les mises en page.
-- `assets/` contient les styles et la navigation.
-- `_data/redirections.json`, `versions/` et `reglements.md` maintiennent les anciens liens.
-- `_config.yml`, `Gemfile` et `CNAME` configurent le site.
-- `preparer.py` assemble les sources de `textes/` en pages séparées et en recueil.
-- Le logo de l’en-tête est copié depuis le fichier `insigne` du profil
-  `generateur/modeles/9eg.json`; modifier ce profil pour changer le logo partagé.
-  La copie générée `assets/images/logo-9eg.png` est ignorée par Git.
+## Tester localement
 
-Depuis la racine du dépôt :
+Dans PowerShell :
 
 ```powershell
-py site/preparer.py
-cd site
+cd "C:\Users\david\OneDrive\Documents\ChatGPT\MESS\site"
 bundle install
-bundle exec jekyll serve
+bundle exec jekyll serve --livereload
 ```
 
-Python prépare seulement les entrées; Ruby/Bundler et les dépendances du Gemfile
-sont requis pour Jekyll. Aucun outil de génération Word ou PDF n’est requis.
+Ouvrir [le site local](http://localhost:4000). Modifier un fichier dans `textes/`
+reconstruit automatiquement ses pages. Aucune préparation Python n’est nécessaire.
+Arrêter le serveur avec Ctrl+C. Après une modification de `_config.yml`, relancer
+le serveur. Ruby+Devkit et Bundler sont requis sous Windows.
 
-Ne pas modifier les copies de `documents/`, `_data/documents.json` ou
-`constitution.md` : elles seront remplacées à la prochaine préparation. Les
-sources sont les fichiers Markdown distincts sous `textes/`.
-Le recueil complet reste disponible à `/recueil.html`; les anciens liens et
-fragments de l’accueil y sont redirigés. Les liens entre documents fonctionnent
-avec le préfixe Jekyll `baseurl`.
+## Fichiers à modifier
+
+- Les dispositions : les fichiers `.md` de `../textes/`.
+- L’ordre des documents, leurs titres et les ancres : `../textes/structure.json`.
+- L’accueil : `index.md`.
+- La présentation : `_layouts/` et `assets/`.
+- Le logo original : fichier `insigne` désigné par `../generateur/modeles/9eg.json`.
+- Les anciens liens : `_data/redirections.json` et `_layouts/redirection.html`.
+- La lecture directe et l’assemblage web : `_plugins/documents.rb`.
+
+Jekyll crée les pages en mémoire puis écrit uniquement le HTML dans `../_site/`,
+ignoré par Git. Les onglets, les pages individuelles, le recueil et les anciennes
+URL `/versions/...` restent disponibles. Le logo est lu depuis son original et
+écrit dans le site construit, sans copie dans `site/assets/`.
+
+La source surveillée est la racine du dépôt pour détecter les changements des
+textes; seules les pages sélectionnées et les ressources du site sont publiées.
+`verifier.py` contrôle les liens et compare les dispositions avec les exports.
+
+## Construire et vérifier
+
+```powershell
+bundle exec jekyll build
+cd ..
+py site/verifier.py
+```
 
 ## GitHub Pages
 
-Le workflow `Site web` construit le dossier `site/` sur les push et demandes de
-fusion, puis fournit un artefact pour vérification. Il ne publie pas par défaut.
-Pour publier après validation : configurer **Settings → Pages → Source → GitHub
-Actions**, puis lancer le workflow manuellement sur la branche par défaut avec
-**publier** activé. Les protections de l’environnement `github-pages` s’appliquent.
+Le workflow `Site web` utilise Ruby et `bundle exec jekyll build` depuis `site/`.
+Le module de lecture directe nécessite cette construction personnalisée; ne pas
+utiliser le mode Jekyll sécurisé ni la construction Pages historique depuis une
+branche. Configurer Pages avec la source **GitHub Actions** pour publier.
 
-Les URL publiques restent à la racine (`/`, `/constitution.html`, `/versions/...`),
-sans préfixe `/site/`. Le domaine personnalisé reste dans `CNAME`.
-Les réglages GitHub Pages ne sont pas changés par ce rangement local.
-Avant de fusionner le rangement dans la branche publiée, préparer le passage
-à GitHub Actions : la construction historique depuis la racine ne convient plus.
-
-[Documentation officielle Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
+La construction et la vérification fournissent un artefact sans publication
+automatique. La publication reste manuelle, avec le paramètre **publier** activé
+sur la branche par défaut. Le domaine personnalisé reste défini par `CNAME`.

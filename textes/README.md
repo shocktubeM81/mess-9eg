@@ -8,12 +8,12 @@ Chaque document courant possède son propre fichier Markdown :
 - [Références](references.md), [avant-propos](avant-propos.md) et [titre et version](presentation.md).
 
 Modifier ces fichiers pour corriger le site et les exports. Ne pas modifier les
-copies produites dans `site/documents/` ou `exports/`.
+sorties produites dans `_site/` ou `exports/`. Le site lit ces sources directement.
 
 `structure.json` déclare l’ordre d’assemblage, les titres, les fichiers et les
 identifiants stables des renvois. Conserver les titres reconnus et la numérotation.
 Les références internes utilisent les identifiants de cette table; les préparateurs
-les transforment en liens entre pages ou entre fichiers Word/PDF.
+les transforment en liens entre pages web ou en renvois internes au recueil Word/PDF.
 
 `archives/constitution.md` conserve la transcription historique à vérifier.
 `archives/texte-maitre-avant-separation.md` conserve le texte monolithique avant

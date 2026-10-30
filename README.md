@@ -16,7 +16,7 @@ Pour changer l’apparence du site, ouvrir `site/`.
 Pour produire les documents sous Windows, double-cliquer sur
 [generateur/Generer-les-documents.cmd](generateur/Generer-les-documents.cmd).
 
-Le site et le générateur utilisent les mêmes fichiers Markdown séparés.
+Le site lit directement les mêmes fichiers Markdown séparés que le générateur, sans copie intermédiaire.
 Le site affiche des onglets et une page par document, avec un recueil complet.
 Le générateur assemble ces sources en un seul recueil, exporté en Word, PDF et TXT.
 Le site et les documents ont chacun leur workflow GitHub Actions.

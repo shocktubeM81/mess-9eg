@@ -6,11 +6,24 @@ lang: fr-CA
 theme: jekyll-theme-cayman
 markdown: kramdown
 show_downloads: false
+source: ..
+destination: ../_site
+layouts_dir: site/_layouts
+includes_dir: site/_includes
+data_dir: site/_data
+plugins_dir: ./_plugins
+sass:
+  sourcemap: never
 exclude:
-  - README.md
-  - preparer.py
-  - Gemfile
-  - Gemfile.lock
+  - exports
+  - tmp
+  - documentation
+  - versions
+  - site/verifier.py
+  - site/Gemfile
+  - site/Gemfile.lock
+  - site/README.md
+  - site/.bundle
 plugins:
   - jekyll-relative-links
 relative_links:

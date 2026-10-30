@@ -3,9 +3,9 @@
 Depuis la séparation en documents, les sources courantes sont `textes/statuts.md`,
 `textes/r1.md` à `textes/r6.md`, les sept annexes, `references.md`, `avant-propos.md`
 et `presentation.md`. `textes/structure.json` déclare leur ordre et leurs ancres.
-`generateur/sources.py` charge ces mêmes fichiers pour les deux constructions.
+`generateur/sources.py` les assemble pour les exports; le module `site/_plugins/documents.rb` les lit directement pour Jekyll.
 
-Le site produit des pages distinctes et un recueil dans `site/documents/`.
+Le site produit des pages HTML distinctes et un recueil dans `_site/`, sans copies Markdown dans `site/`.
 Le générateur assemble les sources en un seul recueil en DOCX, PDF et TXT dans
 `exports/`. Ces sorties sont ignorées par Git. Le maître d’avant la séparation
 est conservé dans `textes/archives/texte-maitre-avant-separation.md`.

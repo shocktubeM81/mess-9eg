@@ -34,8 +34,8 @@ La génération fonctionne sans GitHub ni connexion Internet. Les références n
 sont pas téléchargées; aucune signature ou date d’adoption n’est ajoutée.
 
 ```powershell
-# Tout produire et préparer aussi les onglets du site
-.\generateur\Generer-les-documents.ps1 -Site
+# Produire le recueil Word, PDF et TXT
+.\generateur\Generer-les-documents.ps1
 
 # Produire tous les fichiers sans Microsoft Word
 .\generateur\Generer-les-documents.ps1 -PdfMoteur reportlab
@@ -56,14 +56,19 @@ py -m pip install -r generateur/requirements.txt
 
 ## Actualiser le site
 
-Depuis la racine, lancez **py site/preparer.py**, puis construisez Jekyll depuis
-**site/**. Le site comporte des onglets Statuts, R1 à R6 et Annexes, une page par
-document, une page d’accueil et un recueil complet. Les annexes disposent de
-leurs propres sous-onglets. Les anciens liens restent accessibles via le recueil.
+Le site lit directement les fichiers de **textes/**, avec les onglets Statuts,
+R1 à R6 et Annexes. Il conserve une page par document et un recueil complet.
+Depuis le dossier **site/** :
 
-Les pages de **site/documents/** et les données **site/_data/documents.json** sont
-générées et ignorées par Git. Les ancres et les liens entre documents sont préparés
-avant la construction; le sommaire latéral utilise JavaScript.
+```powershell
+bundle install
+bundle exec jekyll serve --livereload
+```
+
+Ouvrez **http://localhost:4000**. Les modifications dans **textes/** déclenchent
+une reconstruction automatique. La préparation Python n’est plus nécessaire.
+Le HTML construit va dans **_site/** à la racine; ne le modifiez pas.
+Les anciens liens et le logo sont également gérés à la construction.
 Voir [les instructions du site](site/README.md).
 
 ## Changer la présentation

@@ -13,7 +13,7 @@ Le contenu provient des fichiers Markdown séparés de `../textes/`; les résult
 - `modeles/` : présentation et insigne.
 
 Le logo du 9 EG est `modeles/Logo 34RGC Det Rouyn.png`, désigné par le champ
-`insigne` du profil `9eg.json`. Le site reprend le même fichier à sa préparation.
+`insigne` du profil `9eg.json`. Jekyll lit directement le même fichier lors de la construction du site.
 
 Depuis la racine :
 
@@ -27,7 +27,7 @@ Le double-clic assemble les sources en un seul recueil : `statuts-et-reglements.
 `statuts-et-reglements.pdf` et `statuts-et-reglements.txt`.
 
 ```powershell
-.\generateur\Generer-les-documents.ps1 -PdfMoteur reportlab -Site
+.\generateur\Generer-les-documents.ps1 -PdfMoteur reportlab
 ```
 
 Les renvois entre statuts, règlements et annexes restent internes au recueil.

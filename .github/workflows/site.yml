@@ -18,16 +18,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+          working-directory: site
+      - name: Construire le site Jekyll
+        working-directory: site
+        run: bundle exec jekyll build --trace
       - uses: actions/setup-python@v6
         with:
           python-version: '3.12'
-      - name: Préparer les pages séparées et le recueil
-        run: python site/preparer.py
-      - name: Construire le site Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./site
-          destination: ./_site
+      - name: Vérifier les pages et les renvois
+        run: python site/verifier.py
       - name: Conserver le site pour vérification
         uses: actions/upload-artifact@v6
         with:

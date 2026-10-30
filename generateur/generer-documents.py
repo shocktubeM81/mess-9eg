@@ -320,7 +320,6 @@ def reportlab_pdf(blocks,profile,target):
 def main():
     ap=argparse.ArgumentParser(description=__doc__)
     ap.add_argument('--modele',default='9eg',help='Nom du profil JSON dans generateur/modeles, ou chemin du fichier')
-    ap.add_argument('--site',action='store_true',help='Préparer aussi les pages et onglets du site')
     ap.add_argument('--texte-seul',action='store_true',help='Produire seulement la copie TXT')
     ap.add_argument('--docx-seul',action='store_true',help='Produire le Word et la copie TXT sans exporter le PDF')
     ap.add_argument('--pdf-moteur',choices=['auto','word','reportlab'],default='auto')
@@ -362,8 +361,6 @@ def main():
         print('Créé : '+name,flush=True)
     info={'sources':{path:hashlib.sha256(content.encode('utf-8')).hexdigest() for path,content in sources.items()},'sha256':hashlib.sha256(text.encode('utf-8')).hexdigest(),'paragraphes':count,'modele':pp.name,'documents':results}
     (out/'generation.json').write_text(json.dumps(info,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-    if args.site:
-        subprocess.run([sys.executable,str(ROOT/'site/preparer.py')],check=True)
     print(f'{count} paragraphes vérifiés. {len(jobs)} documents créés dans {out}.')
 
 if __name__=='__main__':
