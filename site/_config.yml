@@ -24,6 +24,7 @@ exclude:
   - site/Gemfile.lock
   - site/README.md
   - site/.bundle
+  - site/vendor
 plugins:
   - jekyll-relative-links
 relative_links:

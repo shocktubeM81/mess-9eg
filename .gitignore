@@ -17,6 +17,7 @@ __pycache__/
 /.bundle/
 /site/.bundle/
 /vendor/
+/site/vendor/
 *.gem
 
 # Dependances et caches eventuels
