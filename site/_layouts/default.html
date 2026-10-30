@@ -7,7 +7,7 @@
   <meta name="theme-color" content="#172c3d">
   <meta name="description" content="{{ page.description | default: site.description | escape }}">
   <title>{{ page.title | escape }}</title>
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v={{ site.github.build_revision | default: '20261029-9e' }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v={{ site.github.build_revision | default: '20261029-logo-9eg' }}">
   <script defer src="{{ '/assets/js/site.js' | relative_url }}"></script>
 </head>
 <body>
@@ -16,17 +16,31 @@
   <header class="site-header">
     <div class="site-header-inner">
       <a class="brand" href="{{ '/' | relative_url }}" aria-label="Mess du 9 EG, accueil">
-        <span class="brand-emblem" aria-hidden="true">9<sup>e</sup></span>
+        <img class="brand-emblem" src="{{ '/assets/images/logo-9eg.png' | relative_url }}" width="570" height="787" alt="" aria-hidden="true">
         <span class="brand-wordmark"><strong>Mess du 9 EG</strong><span>9e Escadron du génie</span></span>
       </a>
       <span class="header-caption">Statuts et règlements</span>
     </div>
     <nav class="top-nav" aria-label="Documents du Mess">
-      <a href="{{ '/' | relative_url }}" {% if page.path == 'index.md' %}aria-current="page"{% endif %}>Statuts et règlements</a>
-      <a href="{{ '/' | relative_url }}#partie-1" {% if page.name == 'constitution-consolidee.md' or page.document_group == 'constitution' %}aria-current="page"{% endif %}>Partie I — Statuts</a>
-      <a href="{{ '/' | relative_url }}#partie-2" {% if page.doc_code or page.document_group == 'administration' or page.document_group == 'reglements' %}aria-current="page"{% endif %}>Partie II — Règlements</a>
+      <a href="{{ '/' | relative_url }}" {% if page.path == 'index.md' %}aria-current="page"{% endif %}>Accueil</a>
+      <a href="{{ '/statuts.html' | relative_url }}" {% if page.name == 'statuts.md' %}aria-current="page"{% endif %}>Statuts</a>
+      {% for number in (1..6) %}
+      {% assign filename = 'r' | append: number | append: '.md' %}
+      {% assign taburl = '/r' | append: number | append: '.html' %}
+      <a href="{{ taburl | relative_url }}" {% if page.name == filename %}aria-current="page"{% endif %}>R{{ number }}</a>
+      {% endfor %}
+      <a href="{{ '/annexes.html' | relative_url }}" {% if page.name contains 'annexe' %}aria-current="page"{% endif %}>Annexes</a>
+      <a href="{{ '/recueil.html' | relative_url }}" {% if page.name == 'recueil.md' %}aria-current="page"{% endif %}>Recueil complet</a>
       <a href="{{ '/constitution.html' | relative_url }}" {% if page.path == 'constitution.md' %}aria-current="page"{% endif %}>Texte original</a>
     </nav>
+    {% if page.name contains 'annexe' %}
+    <nav class="top-nav" aria-label="Annexes des responsabilités">
+      {% for doc in site.data.documents %}{% if doc.id contains 'annexe-' %}
+      {% assign filename = doc.id | append: '.md' %}
+      <a href="{{ doc.url | relative_url }}" {% if page.name == filename %}aria-current="page"{% endif %}>{{ doc.titre }}</a>
+      {% endif %}{% endfor %}
+    </nav>
+    {% endif %}
   </header>
   <div class="page-layout">
     <aside class="sidebar" id="sidebar" aria-label="Sommaire de la page">

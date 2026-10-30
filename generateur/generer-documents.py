@@ -1,4 +1,4 @@
-"""Produire les exports à partir du maître Markdown partagé dans textes/."""
+"""Produire un recueil unique depuis les fichiers Markdown séparés de textes/."""
 from __future__ import annotations
 import argparse
 import hashlib
@@ -9,6 +9,7 @@ from pathlib import Path
 import re
 import subprocess
 import sys
+from sources import load_sources
 
 ROOT = Path(__file__).resolve().parents[1]
 LINK = re.compile(r'\[([^]]+)\]\(([^)]+)\)')
@@ -97,6 +98,26 @@ def document_blocks(text,segments):
             if m[2].startswith('#') and m[2][1:] not in known:
                 raise ValueError('Renvoi interne sans destination: '+m[2])
     return blocks
+
+def document_jobs(text, segments, blocks):
+    """Découper les blocs validés en conservant leurs ancres et leur ordre."""
+    version = next(line for line in text.splitlines() if line.startswith('Version '))
+    lines = text.splitlines()
+    jobs = []
+    for start, end, spec, _ in segments:
+        first = sum(bool(line.strip()) for line in lines[:start])
+        last = first + sum(bool(line.strip()) for line in lines[start:end])
+        selected = [{'text': b['text'], 'ids': list(b['ids'])} for b in blocks[first:last]]
+        levels = [len(m[1]) for b in selected[1:] if (m := re.match(r'^(#+) ', b['text']))]
+        shift = min(levels) - 3 if levels else 0
+        selected[0]['text'] = '## ' + spec['titre']
+        for block in selected[1:]:
+            block['text'] = local_heading(block['text'], shift)
+        selected.insert(0, {'text': version, 'ids': []})
+        selected.insert(0, {'text': '# ' + spec['titre'], 'ids': []})
+        jobs.append((spec['id'], spec['titre'], selected))
+    return jobs
+
 
 def add_runs(paragraph,text):
     from docx.oxml import OxmlElement
@@ -226,6 +247,8 @@ def reportlab_pdf(blocks,profile,target):
     from reportlab.platypus.tableofcontents import TableOfContents
     class WithContents(SimpleDocTemplate):
         def afterFlowable(self,flowable):
+            for ident in getattr(flowable,'_export_anchors',[]):
+                exported_anchors[ident]=self.page-1
             entry=getattr(flowable,'_toc_entry',None)
             if entry:
                 level,text,key=entry
@@ -255,6 +278,7 @@ def reportlab_pdf(blocks,profile,target):
             href=('#'+bookmark_name(m[2][1:])) if m[2].startswith('#') else m[2]
             out.append('<link href="'+html.escape(href,quote=True)+'"><u>'+html.escape(m[1])+'</u></link>');pos=m.end()
         out.append(html.escape(text[pos:]));return ''.join(out)
+    exported_anchors={}
     story=[Spacer(1,20)]
     logo=ROOT/profile['insigne'] if profile.get('insigne') else None
     if logo and logo.exists():
@@ -278,51 +302,69 @@ def reportlab_pdf(blocks,profile,target):
         else:style=styles['body'];after_part_two=False
         anchor=''.join('<a name="'+bookmark_name(i)+'"/>' for i in b['ids'])
         flow=Paragraph(anchor+markup(line.removeprefix('- ')),style)
+        flow._export_anchors=b['ids']
         if h and len(h[1]) in (2,3):flow._toc_entry=(len(h[1])-2,h[2],bookmark_name('toc:'+b['text']))
         story.append(flow)
     doc=WithContents(str(target),pagesize=letter,leftMargin=profile['marge_gauche_cm']*cm,rightMargin=profile['marge_droite_cm']*cm,topMargin=profile['marge_haut_cm']*cm,bottomMargin=profile['marge_bas_cm']*cm,title=clean_label(blocks[0]['text'].lstrip('# ')),author='Mess du 9 EG')
     doc.multiBuild(story,canvasmaker=Pages)
+    # Exposer les ancres comme destinations PDF nommées pour les renvois entre fichiers.
+    from pypdf import PdfWriter
+    writer=PdfWriter(clone_from=str(target))
+    for ident,page in exported_anchors.items():
+        writer.add_named_destination(bookmark_name(ident),page)
+    temporary=target.with_suffix('.pdf.tmp')
+    with temporary.open('wb') as stream:writer.write(stream)
+    writer.close()
+    temporary.replace(target)
 
 def main():
     ap=argparse.ArgumentParser(description=__doc__)
     ap.add_argument('--modele',default='9eg',help='Nom du profil JSON dans generateur/modeles, ou chemin du fichier')
-    ap.add_argument('--site',action='store_true',help='Compatibilité : le site lit directement le maître')
+    ap.add_argument('--site',action='store_true',help='Préparer aussi les pages et onglets du site')
     ap.add_argument('--texte-seul',action='store_true',help='Produire seulement la copie TXT')
     ap.add_argument('--docx-seul',action='store_true',help='Produire le Word et la copie TXT sans exporter le PDF')
     ap.add_argument('--pdf-moteur',choices=['auto','word','reportlab'],default='auto')
     ap.add_argument('--sortie',default='exports',help='Dossier de sortie, relatif au projet ou absolu')
     args=ap.parse_args()
-    master=ROOT/'textes/texte-maitre.md';text=read(master)
-    structure=json.loads(read(ROOT/'textes/structure.json'))
+    text,structure,sources=load_sources()
     segments,count=validate(text,structure);blocks=document_blocks(text,segments)
     out=Path(args.sortie)
     if not out.is_absolute():out=ROOT/out
     out.mkdir(parents=True,exist_ok=True)
-    plain=LINK.sub(lambda m:m[1]+' ('+m[2]+')' if not m[2].startswith('#') else m[1],text)
-    plain=re.sub(r'^#+\s*','',plain,flags=re.M)
-    (out/'statuts-et-reglements.txt').write_text(plain,encoding='utf-8-sig')
-    if args.texte_seul:
-        print('Copie TXT créée.');return
     pp=Path(args.modele)
     if not pp.is_file():pp=ROOT/'generateur/modeles'/(args.modele+'.json')
-    profile=json.loads(read(pp));docx=out/'statuts-et-reglements.docx';pdf=out/'statuts-et-reglements.pdf'
-    make_docx(blocks,profile,docx)
-    if args.docx_seul:
-        print(f'{count} paragraphes. Word et copie TXT créés dans {out}.');return
-    engine='reportlab';error=None
-    if args.pdf_moteur in ('auto','word') and os.name=='nt':
-        try:
-            subprocess.run(['powershell.exe','-NoProfile','-File',str(ROOT/'generateur/exporter-pdf.ps1'),'-Document',str(docx),'-Pdf',str(pdf)],check=True,timeout=90,capture_output=True,text=True)
-            engine='word'
-        except (subprocess.SubprocessError,OSError) as exc:
-            error=str(exc)
-            if isinstance(exc,subprocess.CalledProcessError):error+='\n'+(exc.stderr or '')
-            if args.pdf_moteur=='word':raise RuntimeError('Export PDF Word impossible: '+error) from exc
-    if engine=='reportlab':reportlab_pdf(blocks,profile,pdf)
-    info={'maitre':master.relative_to(ROOT).as_posix(),'sha256':hashlib.sha256(master.read_bytes()).hexdigest(),'paragraphes':count,'modele':pp.name,'pdf_moteur':engine,'word_pdf_erreur':error}
+    profile=json.loads(read(pp))
+    jobs=[('statuts-et-reglements',profile['titre_couverture'],blocks)]
+    results=[]
+    for name,title,items in jobs:
+        current=dict(profile)
+        plain='\n\n'.join(b['text'] for b in items)+'\n'
+        plain=LINK.sub(lambda m:m[1]+' ('+m[2]+')' if not m[2].startswith('#') else m[1],plain)
+        plain=re.sub(r'^#+\s*','',plain,flags=re.M)
+        (out/(name+'.txt')).write_text(plain,encoding='utf-8-sig')
+        engine=None;error=None
+        if not args.texte_seul:
+            docx=out/(name+'.docx');pdf=out/(name+'.pdf')
+            make_docx(items,current,docx)
+            if not args.docx_seul:
+                engine='reportlab'
+                if args.pdf_moteur in ('auto','word') and os.name=='nt':
+                    try:
+                        subprocess.run(['powershell.exe','-NoProfile','-File',str(ROOT/'generateur/exporter-pdf.ps1'),'-Document',str(docx),'-Pdf',str(pdf)],check=True,timeout=90,capture_output=True,text=True)
+                        engine='word'
+                    except (subprocess.SubprocessError,OSError) as exc:
+                        error=str(exc)
+                        if isinstance(exc,subprocess.CalledProcessError):error+='\n'+(exc.stderr or '')
+                        if args.pdf_moteur=='word':raise RuntimeError('Export PDF Word impossible: '+error) from exc
+                if engine=='reportlab':
+                    reportlab_pdf(items,current,pdf)
+        results.append({'document':name,'pdf_moteur':engine,'word_pdf_erreur':error})
+        print('Créé : '+name,flush=True)
+    info={'sources':{path:hashlib.sha256(content.encode('utf-8')).hexdigest() for path,content in sources.items()},'sha256':hashlib.sha256(text.encode('utf-8')).hexdigest(),'paragraphes':count,'modele':pp.name,'documents':results}
     (out/'generation.json').write_text(json.dumps(info,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-    print(f'{count} paragraphes. Word et PDF créés dans exports. Moteur PDF: {engine}.')
-    if error:print('Word indisponible; PDF produit avec ReportLab. La pagination peut différer de celle de Word.')
+    if args.site:
+        subprocess.run([sys.executable,str(ROOT/'site/preparer.py')],check=True)
+    print(f'{count} paragraphes vérifiés. {len(jobs)} documents créés dans {out}.')
 
 if __name__=='__main__':
     try:main()

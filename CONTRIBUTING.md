@@ -3,13 +3,13 @@
 Le maître courant est un **projet à adopter et à approuver**. Une fusion ou une génération ne constitue pas une adoption.
 
 1. Créer une branche `codex/description-courte` depuis la base convenue.
-2. Modifier `textes/texte-maitre.md` pour les dispositions; conserver titres et numéros reconnus. Adapter `textes/structure.json` si la structure change.
+2. Modifier le fichier concerné dans `textes/` (`statuts.md`, `r1.md` à `r6.md`, annexes, références ou avant-propos); conserver titres et numéros reconnus. Adapter `textes/structure.json` si la structure change.
 3. Décrire dans la demande de fusion les dispositions touchées, le motif, l’effet et les validations attendues. Compléter la concordance pour renumérotations et changements de fond.
-4. Exécuter `generateur/Generer-les-documents.ps1` pour vérifier les exports. Le site affiche le même maître après `py site/preparer.py`. Garder `exports/` hors de Git.
+4. Exécuter `generateur/Generer-les-documents.ps1` pour vérifier le recueil unique en Word, PDF et TXT. Préparer les pages du site avec `py site/preparer.py`. Garder `exports/` hors de Git.
 5. Relire le diff et les exports : références, renvois, numéros, montants et dates. Actions fournit les copies après une exécution réussie.
 6. Faire relire avant fusion. Séparer présentation du site et modifications de fond dans des commits ou demandes distincts.
 
-Les annotations Word sont des propositions : reporter les corrections retenues dans le maître. Les pages sous `site/versions/` ne sont pas des sources indépendantes.
+Les annotations Word sont des propositions : reporter les corrections retenues dans le fichier source concerné. Les pages sous `site/documents/` sont générées; celles de `site/versions/` maintiennent les anciens liens. Le maître monolithique est conservé dans `textes/archives/texte-maitre-avant-separation.md` comme historique seulement.
 
 ## Adoption
 

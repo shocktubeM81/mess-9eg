@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="fr"><meta charset="utf-8"><title>{{ page.title | escape }}</title>
-<p>Cette page est regroupée dans le <a id="destination" href="{{ '/' | relative_url }}#{{ page.destination }}">document complet du projet non approuvé</a>.</p>
+<p>Cette page est regroupée dans le <a id="destination" href="{{ '/recueil.html' | relative_url }}#{{ page.destination }}">recueil complet du projet non approuvé</a>.</p>
 <script>
 const aliases = {{ site.data.redirections[page.path] | jsonify }} || {};
 let id = {{ page.destination | default: '' | jsonify }};

@@ -2,12 +2,15 @@
 
 Ce dossier contient uniquement la présentation du site et ses outils de construction.
 
-- `index.md` affiche le maître Markdown avec Jekyll.
+- `index.md` présente les documents; les onglets ouvrent des pages distinctes.
 - `_layouts/` contient les mises en page.
 - `assets/` contient les styles et la navigation.
 - `_data/redirections.json`, `versions/` et `reglements.md` maintiennent les anciens liens.
 - `_config.yml`, `Gemfile` et `CNAME` configurent le site.
-- `preparer.py` copie les trois entrées partagées depuis `textes/`.
+- `preparer.py` assemble les sources de `textes/` en pages séparées et en recueil.
+- Le logo de l’en-tête est copié depuis le fichier `insigne` du profil
+  `generateur/modeles/9eg.json`; modifier ce profil pour changer le logo partagé.
+  La copie générée `assets/images/logo-9eg.png` est ignorée par Git.
 
 Depuis la racine du dépôt :
 
@@ -21,9 +24,12 @@ bundle exec jekyll serve
 Python prépare seulement les entrées; Ruby/Bundler et les dépendances du Gemfile
 sont requis pour Jekyll. Aucun outil de génération Word ou PDF n’est requis.
 
-Ne pas modifier `_includes/texte-maitre.md`, `_data/structure.json` ou
-`constitution.md` ici : ces copies ignorées par Git seront remplacées à la
-prochaine préparation. Modifier les originaux sous `textes/`.
+Ne pas modifier les copies de `documents/`, `_data/documents.json` ou
+`constitution.md` : elles seront remplacées à la prochaine préparation. Les
+sources sont les fichiers Markdown distincts sous `textes/`.
+Le recueil complet reste disponible à `/recueil.html`; les anciens liens et
+fragments de l’accueil y sont redirigés. Les liens entre documents fonctionnent
+avec le préfixe Jekyll `baseurl`.
 
 ## GitHub Pages
 

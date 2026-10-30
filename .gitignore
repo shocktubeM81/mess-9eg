@@ -7,8 +7,11 @@ __pycache__/
 /site/_data/structure.json
 /site/constitution.md
 /site/_site/
+/site/documents/
+/site/_data/documents.json
+/site/assets/images/logo-9eg.png
 /site/.jekyll-cache/
-/site/.jekyll-metadata/
+/site/.jekyll-metadata
 
 # Jekyll - fichiers generes localement
 /_site/

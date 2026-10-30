@@ -17,8 +17,8 @@ try {
         foreach ($footer in $section.Footers) { $footer.Range.Fields.Update() | Out-Null }
     }
     $wordDocument.Save()
-    # Le onzième argument demande les signets PDF issus des titres Word.
-    $wordDocument.ExportAsFixedFormat($Pdf, 17, $false, 0, 0, 1, 1, 0, $true, $true, 1, $true, $true, $false)
+    # Le onzième argument exporte tous les signets Word, y compris les renvois entre fichiers.
+    $wordDocument.ExportAsFixedFormat($Pdf, 17, $false, 0, 0, 1, 1, 0, $true, $true, 2, $true, $true, $false)
 } finally {
     if ($null -ne $wordDocument) {
         $wordDocument.Close(0)

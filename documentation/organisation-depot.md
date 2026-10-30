@@ -1,3 +1,22 @@
+# Organisation actuelle
+
+Depuis la séparation en documents, les sources courantes sont `textes/statuts.md`,
+`textes/r1.md` à `textes/r6.md`, les sept annexes, `references.md`, `avant-propos.md`
+et `presentation.md`. `textes/structure.json` déclare leur ordre et leurs ancres.
+`generateur/sources.py` charge ces mêmes fichiers pour les deux constructions.
+
+Le site produit des pages distinctes et un recueil dans `site/documents/`.
+Le générateur assemble les sources en un seul recueil en DOCX, PDF et TXT dans
+`exports/`. Ces sorties sont ignorées par Git. Le maître d’avant la séparation
+est conservé dans `textes/archives/texte-maitre-avant-separation.md`.
+
+Les propositions conservées à la racine et sous `versions/` lors de la fusion
+restent historiques; elles ne sont pas utilisées pour construire le projet courant.
+
+Voir [les sources](../textes/README.md) et [le mode d’emploi](../MODE-EMPLOI.md).
+
+## Organisation précédente conservée pour mémoire
+
 # Organisation du dépôt
 
 Le rangement distingue le contenu de ses deux usages : site web et fichiers.

@@ -21,7 +21,7 @@ jobs:
       - uses: actions/setup-python@v6
         with:
           python-version: '3.12'
-      - name: Préparer le maître et les identifiants partagés
+      - name: Préparer les pages séparées et le recueil
         run: python site/preparer.py
       - name: Construire le site Jekyll
         uses: actions/jekyll-build-pages@v1

@@ -19,8 +19,7 @@ a:focus-visible, button:focus-visible, [tabindex]:focus-visible { outline: 3px s
 .site-header { background: #172c3d; border-bottom: 3px solid var(--gold); color: #fff; }
 .site-header-inner { max-width: 1440px; margin: auto; padding: 1.4rem 2.25rem 1rem; display: flex; justify-content: space-between; align-items: center; gap: 1rem; }
 .brand { display: flex; align-items: center; gap: .9rem; color: #fff; text-decoration: none; }
-.brand-emblem { display: flex; align-items: center; justify-content: center; flex: 0 0 48px; width: 48px; height: 48px; border: 1px solid #d6c18f; border-radius: 8px; color: #ead4a3; font: 700 1.7rem Georgia, serif; }
-.brand-emblem sup { font-size: .7rem; align-self: flex-start; padding-top: .65rem; }
+.brand-emblem { display: block; flex: 0 0 auto; width: 52px; height: 72px; object-fit: contain; }
 .brand-wordmark { display: grid; line-height: 1.35; gap: .25rem; }
 .brand-wordmark strong { font: 600 1.35rem Georgia, serif; }
 .brand-wordmark > span { font-size: .72rem; letter-spacing: .12em; text-transform: uppercase; color: #c5d2da; }

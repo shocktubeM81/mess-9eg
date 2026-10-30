@@ -1,7 +1,7 @@
 {
   "segments": [
     {
-      "source": "references.md",
+      "source": "textes/references.md",
       "anchors": {
         "H:Références": [
           "references"
@@ -10,10 +10,13 @@
       "tail_anchors": [],
       "marker": "## Références",
       "include_marker": true,
-      "shift": 0
+      "shift": 0,
+      "id": "references",
+      "titre": "Références",
+      "url": "/references.html"
     },
     {
-      "source": "avant-propos.md",
+      "source": "textes/avant-propos.md",
       "anchors": {
         "H:Avant-propos": [
           "avant-propos"
@@ -55,7 +58,10 @@
       "tail_anchors": [],
       "marker": "## Avant-propos",
       "include_marker": true,
-      "shift": 0
+      "shift": 0,
+      "id": "avant-propos",
+      "titre": "Avant-propos",
+      "url": "/avant-propos.html"
     },
     {
       "source": "textes/statuts.md",
@@ -200,7 +206,10 @@
       ],
       "marker": "## Partie I — Statuts",
       "include_marker": false,
-      "shift": 1
+      "shift": 1,
+      "id": "statuts",
+      "titre": "Partie I — Statuts",
+      "url": "/statuts.html"
     },
     {
       "source": "textes/r1.md",
@@ -316,7 +325,10 @@
       ],
       "marker": "### Règlement 1 — Tenue et comportement",
       "include_marker": false,
-      "shift": 2
+      "shift": 2,
+      "id": "r1",
+      "titre": "Règlement 1 — Tenue et comportement",
+      "url": "/r1.html"
     },
     {
       "source": "textes/r2.md",
@@ -395,7 +407,10 @@
       ],
       "marker": "### Règlement 2 — Meubles et décorations",
       "include_marker": false,
-      "shift": 2
+      "shift": 2,
+      "id": "r2",
+      "titre": "Règlement 2 — Meubles et décorations",
+      "url": "/r2.html"
     },
     {
       "source": "textes/r3.md",
@@ -512,7 +527,10 @@
       ],
       "marker": "### Règlement 3 — Assemblées et réunions",
       "include_marker": false,
-      "shift": 2
+      "shift": 2,
+      "id": "r3",
+      "titre": "Règlement 3 — Assemblées et réunions",
+      "url": "/r3.html"
     },
     {
       "source": "textes/r4.md",
@@ -581,7 +599,10 @@
       ],
       "marker": "### Règlement 4 — Service de bar",
       "include_marker": false,
-      "shift": 2
+      "shift": 2,
+      "id": "r4",
+      "titre": "Règlement 4 — Service de bar",
+      "url": "/r4.html"
     },
     {
       "source": "textes/r5.md",
@@ -798,7 +819,10 @@
       "tail_anchors": [],
       "marker": "### Règlement 5 — Administration",
       "include_marker": false,
-      "shift": 2
+      "shift": 2,
+      "id": "r5",
+      "titre": "Règlement 5 — Administration",
+      "url": "/r5.html"
     },
     {
       "source": "textes/r6.md",
@@ -1030,7 +1054,10 @@
       "tail_anchors": [],
       "marker": "### Règlement 6 — Finances",
       "include_marker": false,
-      "shift": 2
+      "shift": 2,
+      "id": "r6",
+      "titre": "Règlement 6 — Finances",
+      "url": "/r6.html"
     },
     {
       "source": "textes/annexe-a.md",
@@ -1078,7 +1105,10 @@
       "tail_anchors": [],
       "marker": "### Annexe A — Président du comité du Mess",
       "include_marker": false,
-      "shift": 2
+      "shift": 2,
+      "id": "annexe-a",
+      "titre": "Annexe A — Président du comité du Mess",
+      "url": "/annexe-a.html"
     },
     {
       "source": "textes/annexe-b.md",
@@ -1105,7 +1135,10 @@
       "tail_anchors": [],
       "marker": "### Annexe B — Vice-président du comité du Mess",
       "include_marker": false,
-      "shift": 2
+      "shift": 2,
+      "id": "annexe-b",
+      "titre": "Annexe B — Vice-président du comité du Mess",
+      "url": "/annexe-b.html"
     },
     {
       "source": "textes/annexe-c.md",
@@ -1141,7 +1174,10 @@
       "tail_anchors": [],
       "marker": "### Annexe C — Secrétaire",
       "include_marker": false,
-      "shift": 2
+      "shift": 2,
+      "id": "annexe-c",
+      "titre": "Annexe C — Secrétaire",
+      "url": "/annexe-c.html"
     },
     {
       "source": "textes/annexe-d.md",
@@ -1171,7 +1207,10 @@
       "tail_anchors": [],
       "marker": "### Annexe D — Trésorier",
       "include_marker": false,
-      "shift": 2
+      "shift": 2,
+      "id": "annexe-d",
+      "titre": "Annexe D — Trésorier",
+      "url": "/annexe-d.html"
     },
     {
       "source": "textes/annexe-e.md",
@@ -1212,7 +1251,10 @@
       "tail_anchors": [],
       "marker": "### Annexe E — Responsable des activités",
       "include_marker": false,
-      "shift": 2
+      "shift": 2,
+      "id": "annexe-e",
+      "titre": "Annexe E — Responsable des activités",
+      "url": "/annexe-e.html"
     },
     {
       "source": "textes/annexe-f-regisseur.md",
@@ -1257,7 +1299,10 @@
       "tail_anchors": [],
       "marker": "### Annexe F — Régisseur",
       "include_marker": false,
-      "shift": 2
+      "shift": 2,
+      "id": "annexe-f-regisseur",
+      "titre": "Annexe F — Régisseur",
+      "url": "/annexe-f-regisseur.html"
     },
     {
       "source": "textes/annexe-g-serveur.md",
@@ -1310,7 +1355,66 @@
       "tail_anchors": [],
       "marker": "### Annexe G — Serveur",
       "include_marker": false,
-      "shift": 2
+      "shift": 2,
+      "id": "annexe-g-serveur",
+      "titre": "Annexe G — Serveur",
+      "url": "/annexe-g-serveur.html"
+    }
+  ],
+  "assemblage": [
+    {
+      "source": "textes/presentation.md"
+    },
+    {
+      "source": "textes/references.md"
+    },
+    {
+      "source": "textes/avant-propos.md"
+    },
+    {
+      "source": "textes/statuts.md"
+    },
+    {
+      "texte": "## Partie II — Règlements\n"
+    },
+    {
+      "source": "textes/r1.md"
+    },
+    {
+      "source": "textes/r2.md"
+    },
+    {
+      "source": "textes/r3.md"
+    },
+    {
+      "source": "textes/r4.md"
+    },
+    {
+      "source": "textes/r5.md"
+    },
+    {
+      "source": "textes/r6.md"
+    },
+    {
+      "source": "textes/annexe-a.md"
+    },
+    {
+      "source": "textes/annexe-b.md"
+    },
+    {
+      "source": "textes/annexe-c.md"
+    },
+    {
+      "source": "textes/annexe-d.md"
+    },
+    {
+      "source": "textes/annexe-e.md"
+    },
+    {
+      "source": "textes/annexe-f-regisseur.md"
+    },
+    {
+      "source": "textes/annexe-g-serveur.md"
     }
   ]
 }
