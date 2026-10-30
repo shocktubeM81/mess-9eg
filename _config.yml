@@ -6,3 +6,10 @@ lang: fr-CA
 theme: jekyll-theme-cayman
 markdown: kramdown
 show_downloads: false
+exclude:
+  - documentation
+  - README.md
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true

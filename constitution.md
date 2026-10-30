@@ -1,3 +1,8 @@
+---
+layout: default
+title: Constitution originale transcrite
+---
+
 # Statuts et règlements du Mess et Instituts du 9e Escadron du génie
 
 Manège militaire de Rouyn-Noranda  
