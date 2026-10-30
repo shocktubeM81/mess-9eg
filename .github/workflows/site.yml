@@ -1,0 +1,56 @@
+name: Site web
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+    inputs:
+      publier:
+        description: Publier sur GitHub Pages (branche par défaut seulement)
+        type: boolean
+        default: false
+permissions:
+  contents: read
+concurrency:
+  group: site-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  construction:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Préparer les pages séparées et le recueil
+        run: python site/preparer.py
+      - name: Construire le site Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./site
+          destination: ./_site
+      - name: Conserver le site pour vérification
+        uses: actions/upload-artifact@v6
+        with:
+          name: site-${{ github.sha }}
+          path: _site/
+          if-no-files-found: error
+          retention-days: 30
+      - name: Préparer la publication demandée
+        if: github.event_name == 'workflow_dispatch' && inputs.publier && github.ref_name == github.event.repository.default_branch
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site/
+  publication:
+    if: github.event_name == 'workflow_dispatch' && inputs.publier && github.ref_name == github.event.repository.default_branch
+    needs: construction
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deploiement.outputs.page_url }}
+    steps:
+      - name: Publier
+        id: deploiement
+        uses: actions/deploy-pages@v4

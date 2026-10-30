@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="fr"><meta charset="utf-8"><title>{{ page.title | escape }}</title>
+<p>Cette page est regroupée dans le <a id="destination" href="{{ '/recueil.html' | relative_url }}#{{ page.destination }}">recueil complet du projet non approuvé</a>.</p>
+<script>
+const aliases = {{ site.data.redirections[page.path] | jsonify }} || {};
+let id = {{ page.destination | default: '' | jsonify }};
+try { id = decodeURIComponent(location.hash.slice(1)) || id; } catch {}
+const target = new URL(document.getElementById('destination').href);
+target.hash = aliases[id] || id;
+location.replace(target.href);
+</script></html>

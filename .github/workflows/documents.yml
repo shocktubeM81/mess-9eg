@@ -1,0 +1,26 @@
+name: Documents de travail
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  documents:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -r generateur/requirements.txt
+      - run: python generateur/test_sources.py
+      - run: python generateur/generer-documents.py --pdf-moteur reportlab
+      - name: Consigner le commit construit
+        run: git rev-parse HEAD > exports/commit.txt
+      - uses: actions/upload-artifact@v6
+        with:
+          name: documents-travail-${{ github.sha }}
+          path: exports/
+          if-no-files-found: error
+          retention-days: 30

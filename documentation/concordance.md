@@ -341,21 +341,21 @@ Les anciennes indications d’annexe dans les tableaux précédents sont histori
 
 | Annexe avant séparation | Annexe actuelle | Rôle |
 |---|---|---|
-| B | [A](../versions/2026-10-28-v0.2/annexes/annexe-a.md) | Président du comité du Mess |
-| C | [B](../versions/2026-10-28-v0.2/annexes/annexe-b.md) | Vice-président du comité du Mess |
-| D | [C](../versions/2026-10-28-v0.2/annexes/annexe-c.md) | Secrétaire |
-| E | [D](../versions/2026-10-28-v0.2/annexes/annexe-d.md) | Trésorier |
-| F | [E](../versions/2026-10-28-v0.2/annexes/annexe-e.md) | Responsable des activités du Club Chimo |
-| G | [F](../versions/2026-10-28-v0.2/annexes/annexe-f.md) | Responsable des activités du Mess Combiné |
-| H | [G](../versions/2026-10-28-v0.2/annexes/annexe-g.md) | Régisseur |
-| I | [H](../versions/2026-10-28-v0.2/annexes/annexe-h.md) | Serveur |
+| B | [A](../site/versions/2026-10-28-v0.2/annexes/annexe-a.md) | Président du comité du Mess |
+| C | [B](../site/versions/2026-10-28-v0.2/annexes/annexe-b.md) | Vice-président du comité du Mess |
+| D | [C](../site/versions/2026-10-28-v0.2/annexes/annexe-c.md) | Secrétaire |
+| E | [D](../site/versions/2026-10-28-v0.2/annexes/annexe-d.md) | Trésorier |
+| F | [E](../site/versions/2026-10-28-v0.2/annexes/annexe-e.md) | Responsable des activités du Club Chimo |
+| G | [F](../site/versions/2026-10-28-v0.2/annexes/annexe-f.md) | Responsable des activités du Mess Combiné |
+| H | [G](../site/versions/2026-10-28-v0.2/annexes/annexe-g.md) | Régisseur |
+| I | [H](../site/versions/2026-10-28-v0.2/annexes/annexe-h.md) | Serveur |
 | A | Retirée | Commandant — fonction de l’unité |
 | J | Retirée | Responsable des drogues et de l’alcool — fonction de l’unité |
 
 
 ## Mise à jour 0.5 — 29 octobre 2026
 
-Les numéros de la version 0.4 sont conservés. Les dispositions modifiées sont : constitution 16 et 26 c; R1.1, R1.6, R1.10, R1.13; R2.5 à R2.7; R3.2, R3.4, R3.6, R3.9, R3.18; R4.1 à R4.3, R4.5 et R4.7. Le tableau des modifications détaille la comparaison avec la version 0.4. Les entrées historiques ci-dessus ne décrivent donc pas toutes la rédaction actuelle.
+Les numéros de la version 0.4 sont conservés. Les dispositions modifiées sont : constitution 16 et 26 c; R1.1, R1.6, R1.10, R1.13; R2.5 à R2.7; R3.2, R3.4, R3.6, R3.9, R3.18; R4.1 à R4.3, R4.5 et R4.7. Les entrées historiques ci-dessus ne décrivent donc pas toutes la rédaction actuelle.
 
 
 ## Mise à jour 0.6 — 29 octobre 2026
@@ -456,61 +456,70 @@ La première colonne utilise les numéros de la constitution 0.8. Le contenu op�
 
 | Constitution 0.8 | Destination 0.9 |
 |---|---|
-| 1 — Objet | [article 3](../versions/2026-10-28-v0.2/constitution-consolidee.md#statuts-article-3) |
-| 2 — Nom et locaux | [article 1](../versions/2026-10-28-v0.2/constitution-consolidee.md#statuts-article-1) |
-| 3 — Commandant du Mess | [article 2](../versions/2026-10-28-v0.2/constitution-consolidee.md#statuts-article-2) |
-| 4 — Catégories et admission | [R5.1](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-1) |
-| 5 — Rôle et pouvoirs du comité | [article 5](../versions/2026-10-28-v0.2/constitution-consolidee.md#statuts-article-5) |
-| 6 — Admissibilité au comité | [R5.2](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-2) |
-| 7 — Représentation des membres | [R5.3](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-3) |
-| 8 — Composition minimale | [article 6](../versions/2026-10-28-v0.2/constitution-consolidee.md#statuts-article-6) |
-| 9 — Élection et mandat | [R5.4](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-4) |
-| 10 — Poste vacant | [R5.5](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-5) |
-| 11 — Délégations financières | [R5.6](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-6) |
-| 12 — Fin de mandat | [R5.7](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-7) |
-| 13 — Objet et fréquence des assemblées | [article 8](../versions/2026-10-28-v0.2/constitution-consolidee.md#statuts-article-8) |
-| 14 — Assemblée extraordinaire | [R5.8](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-8) |
-| 15 — Convocation | [R5.9](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-9) |
-| 16 — Participation et droit de vote | [article 9](../versions/2026-10-28-v0.2/constitution-consolidee.md#statuts-article-9) |
-| 17 — Quorum | [article 9](../versions/2026-10-28-v0.2/constitution-consolidee.md#statuts-article-9) |
-| 18 — Rapport financier | [R5.10](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-10) |
-| 19 — Motions et vote | [article 9](../versions/2026-10-28-v0.2/constitution-consolidee.md#statuts-article-9) |
-| 20 — Approbation des décisions | [article 9](../versions/2026-10-28-v0.2/constitution-consolidee.md#statuts-article-9) |
-| 21 — Réunions du comité | [article 10](../versions/2026-10-28-v0.2/constitution-consolidee.md#statuts-article-10) |
-| 22 — Conflits d’intérêts et bénévolat | [R5.11](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-11) |
-| 23 — Personnel du bar et fournisseurs | [R5.12](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-12) |
-| 24 — Cotisations | [R5.13](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-13) |
-| 25 — Prix, paiements et consommations offertes | [R5.14](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-14) |
-| 26 — Exécution du budget des activités | [R5.15](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-15) |
-| 27 — Radiation des pertes et dommages | [R5.16](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-16) |
-| 28 — Répartition des revenus et dépenses | [R5.17](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-17) |
-| 29 — Petits achats | [R5.18](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-18) |
-| 30 — Fonds du président | [R5.19](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-19) |
-| 31 — Fonds d’unité | [R5.20](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-20) |
-| 32 — Suivi et financement du fonds cadeau | [R5.21](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-21) |
-| 33 — Approbation des prestations et opérations | [R5.22](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-22) |
-| 34 — Rapports et tenue des livres | [R5.23](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-23) |
-| 35 — Accès, tenue et comportement | [R5.24](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-24) |
-| 36 — Biens et décorations | [R5.25](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-25) |
-| 37 — Service du bar | [R5.26](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-26) |
-| 38 — Information et documents des membres | [R5.27](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-27) |
-| 39 — Organisation d’une réception privée | [R5.28](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-28) |
-| 40 — Réservation et priorité des membres | [R5.29](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-29) |
-| 41 — Location du Mess Combiné | [R5.30](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-30) |
-| 42 — Frais d’utilisation | [R5.31](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-31) |
-| 43 — Programme et approbation des activités | [R5.32](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-32) |
-| 44 — Calendrier et budget des activités | [R5.33](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-33) |
-| 45 — Noël des enfants | [R5.34](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-34) |
-| 46 — Décès | [R5.35](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-35) |
-| 47 — Naissance | [R5.36](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-36) |
-| 48 — Hospitalisation | [R5.37](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-37) |
-| 49 — Cadeaux d’appartenance | [R5.38](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-38) |
-| 50 — Cadeau de départ | [R5.39](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-39) |
-| 51 — Cadeau de mission | [R5.40](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-40) |
-| 52 — Changement de commandant | [R5.41](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-41) |
-| 53 — Traitement des plaintes | [R5.42](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-42) |
-| 54 — Suggestions et suivi | [R5.43](../versions/2026-10-28-v0.2/R5-proposition.md#r5-article-43) |
-| 55 — Proposition et adoption d’une modification | [article 11](../versions/2026-10-28-v0.2/constitution-consolidee.md#statuts-article-11) |
-| 56 — Entrée en vigueur et diffusion | [article 11](../versions/2026-10-28-v0.2/constitution-consolidee.md#statuts-article-11) |
+| 1 — Objet | [article 3](../site/versions/2026-10-28-v0.2/constitution-consolidee.md#statuts-article-3) |
+| 2 — Nom et locaux | [article 1](../site/versions/2026-10-28-v0.2/constitution-consolidee.md#statuts-article-1) |
+| 3 — Commandant du Mess | [article 2](../site/versions/2026-10-28-v0.2/constitution-consolidee.md#statuts-article-2) |
+| 4 — Catégories et admission | [R5.1](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-1) |
+| 5 — Rôle et pouvoirs du comité | [article 5](../site/versions/2026-10-28-v0.2/constitution-consolidee.md#statuts-article-5) |
+| 6 — Admissibilité au comité | [R5.2](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-2) |
+| 7 — Représentation des membres | [R5.3](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-3) |
+| 8 — Composition minimale | [article 6](../site/versions/2026-10-28-v0.2/constitution-consolidee.md#statuts-article-6) |
+| 9 — Élection et mandat | [R5.4](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-4) |
+| 10 — Poste vacant | [R5.5](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-5) |
+| 11 — Délégations financières | [R5.6](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-6) |
+| 12 — Fin de mandat | [R5.7](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-7) |
+| 13 — Objet et fréquence des assemblées | [article 8](../site/versions/2026-10-28-v0.2/constitution-consolidee.md#statuts-article-8) |
+| 14 — Assemblée extraordinaire | [R5.8](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-8) |
+| 15 — Convocation | [R5.9](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-9) |
+| 16 — Participation et droit de vote | [article 9](../site/versions/2026-10-28-v0.2/constitution-consolidee.md#statuts-article-9) |
+| 17 — Quorum | [article 9](../site/versions/2026-10-28-v0.2/constitution-consolidee.md#statuts-article-9) |
+| 18 — Rapport financier | [R5.10](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-10) |
+| 19 — Motions et vote | [article 9](../site/versions/2026-10-28-v0.2/constitution-consolidee.md#statuts-article-9) |
+| 20 — Approbation des décisions | [article 9](../site/versions/2026-10-28-v0.2/constitution-consolidee.md#statuts-article-9) |
+| 21 — Réunions du comité | [article 10](../site/versions/2026-10-28-v0.2/constitution-consolidee.md#statuts-article-10) |
+| 22 — Conflits d’intérêts et bénévolat | [R5.11](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-11) |
+| 23 — Personnel du bar et fournisseurs | [R5.12](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-12) |
+| 24 — Cotisations | [R5.13](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-13) |
+| 25 — Prix, paiements et consommations offertes | [R5.14](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-14) |
+| 26 — Exécution du budget des activités | [R5.15](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-15) |
+| 27 — Radiation des pertes et dommages | [R5.16](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-16) |
+| 28 — Répartition des revenus et dépenses | [R5.17](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-17) |
+| 29 — Petits achats | [R5.18](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-18) |
+| 30 — Fonds du président | [R5.19](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-19) |
+| 31 — Fonds d’unité | [R5.20](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-20) |
+| 32 — Suivi et financement du fonds cadeau | [R5.21](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-21) |
+| 33 — Approbation des prestations et opérations | [R5.22](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-22) |
+| 34 — Rapports et tenue des livres | [R5.23](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-23) |
+| 35 — Accès, tenue et comportement | [R5.24](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-24) |
+| 36 — Biens et décorations | [R5.25](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-25) |
+| 37 — Service du bar | [R5.26](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-26) |
+| 38 — Information et documents des membres | [R5.27](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-27) |
+| 39 — Organisation d’une réception privée | [R5.28](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-28) |
+| 40 — Réservation et priorité des membres | [R5.29](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-29) |
+| 41 — Location du Mess Combiné | [R5.30](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-30) |
+| 42 — Frais d’utilisation | [R5.31](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-31) |
+| 43 — Programme et approbation des activités | [R5.32](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-32) |
+| 44 — Calendrier et budget des activités | [R5.33](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-33) |
+| 45 — Noël des enfants | [R5.34](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-34) |
+| 46 — Décès | [R5.35](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-35) |
+| 47 — Naissance | [R5.36](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-36) |
+| 48 — Hospitalisation | [R5.37](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-37) |
+| 49 — Cadeaux d’appartenance | [R5.38](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-38) |
+| 50 — Cadeau de départ | [R5.39](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-39) |
+| 51 — Cadeau de mission | [R5.40](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-40) |
+| 52 — Changement de commandant | [R5.41](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-41) |
+| 53 — Traitement des plaintes | [R5.42](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-42) |
+| 54 — Suggestions et suivi | [R5.43](../site/versions/2026-10-28-v0.2/R5-proposition.md#r5-article-43) |
+| 55 — Proposition et adoption d’une modification | [article 11](../site/versions/2026-10-28-v0.2/constitution-consolidee.md#statuts-article-11) |
+| 56 — Entrée en vigueur et diffusion | [article 11](../site/versions/2026-10-28-v0.2/constitution-consolidee.md#statuts-article-11) |
 
 Les annexes A à H appartiennent maintenant au R5; leurs chemins de fichiers ne changent pas. L’ancienne cible constitutionnelle des annexes renvoie vers leur liste au R5. Les renvois des règlements et de l’annexe D sont adaptés. Les tableaux de correspondance des versions précédentes demeurent historiques.
+
+
+## Version 0.10 — Statuts et règlements
+
+La lecture comporte deux niveaux : statuts, puis règlements R1 à R5. Les statuts suivent les 11 rubriques du tableau 9-4-3 du Manuel PSP. Chaque paragraphe normatif est numéroté N.M; les renvois actifs visent ces paragraphes. Les anciennes cibles sont conservées.
+
+Le déroulement des assemblées (motions, débats, scrutins et procès-verbaux) renvoie au tableau 9-4-4 et aux paragraphes 29 et 44 du chapitre 9-4, au lieu de reprendre leurs procédures. L’ancien point R3.3 est regroupé avec la convocation; les anciens points R3.4 à R3.10 deviennent les rubriques 3 à 9. Les délais locaux, le traitement d’un quorum perdu, la vérification d’un vote contesté et les garanties de diffusion restent présents. Les renvois R5 vers R1 à R4 remplacent les reprises internes.
+
+Les montants, les critères des prestations et les approbations locales ne sont pas modifiés par cette passe. Les validations de conformité déjà signalées restent nécessaires.

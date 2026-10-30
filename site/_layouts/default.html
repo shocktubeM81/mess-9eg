@@ -6,8 +6,8 @@
   <meta name="color-scheme" content="light dark">
   <meta name="theme-color" content="#172c3d">
   <meta name="description" content="{{ page.description | default: site.description | escape }}">
-  <title>{{ page.title | escape }} · {{ site.title | escape }}</title>
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v={{ site.github.build_revision | default: '20261029-9e' }}">
+  <title>{{ page.title | escape }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v={{ site.github.build_revision | default: '20261029-logo-9eg' }}">
   <script defer src="{{ '/assets/js/site.js' | relative_url }}"></script>
 </head>
 <body>
@@ -15,23 +15,32 @@
   <div class="reading-progress" id="reading-progress" aria-hidden="true"></div>
   <header class="site-header">
     <div class="site-header-inner">
-      <a class="brand" href="{{ '/' | relative_url }}" aria-label="Mess et Instituts, accueil">
-        <span class="brand-emblem" aria-hidden="true">9<sup>e</sup></span>
-        <span class="brand-wordmark"><strong>Mess et Instituts</strong><span>9e Escadron du génie</span></span>
+      <a class="brand" href="{{ '/' | relative_url }}" aria-label="Mess du 9 EG, accueil">
+        <img class="brand-emblem" src="{{ '/assets/images/logo-9eg.png' | relative_url }}" width="570" height="787" alt="" aria-hidden="true">
+        <span class="brand-wordmark"><strong>Mess du 9 EG</strong><span>9e Escadron du génie</span></span>
       </a>
-      <span class="header-caption">Constitution et règlements</span>
+      <span class="header-caption">Statuts et règlements</span>
     </div>
     <nav class="top-nav" aria-label="Documents du Mess">
-      <a href="{{ '/' | relative_url }}" {% if page.path == 'index.md' %}aria-current="page"{% endif %}>Présentation</a>
-      <a href="{{ '/versions/2026-10-28-v0.2/constitution-consolidee.html' | relative_url }}" {% if page.name == 'constitution-consolidee.md' or page.document_group == 'constitution' %}aria-current="page"{% endif %}>Constitution</a>
-      <a href="{{ '/versions/2026-10-28-v0.2/R1-proposition.html' | relative_url }}" {% if page.name == 'R1-proposition.md' %}aria-current="page"{% endif %}>R1 Tenue</a>
-      <a href="{{ '/versions/2026-10-28-v0.2/R2-proposition.html' | relative_url }}" {% if page.name == 'R2-proposition.md' %}aria-current="page"{% endif %}>R2 Meubles et décorations</a>
-      <a href="{{ '/versions/2026-10-28-v0.2/R3-proposition.html' | relative_url }}" {% if page.name == 'R3-proposition.md' %}aria-current="page"{% endif %}>R3 Assemblées et réunions</a>
-      <a href="{{ '/versions/2026-10-28-v0.2/R4-proposition.html' | relative_url }}" {% if page.name == 'R4-proposition.md' %}aria-current="page"{% endif %}>R4 Service de bar</a>
-      <a href="{{ '/versions/2026-10-28-v0.2/R5-proposition.html' | relative_url }}" {% if page.name == 'R5-proposition.md' or page.document_group == 'administration' %}aria-current="page"{% endif %}>R5 Administration et finances</a>
-      <a href="{{ '/versions/2026-10-28-v0.2/tableau-modifications.html' | relative_url }}" {% if page.name == 'tableau-modifications.md' %}aria-current="page"{% endif %}>Changements</a>
+      <a href="{{ '/' | relative_url }}" {% if page.path == 'index.md' %}aria-current="page"{% endif %}>Accueil</a>
+      <a href="{{ '/statuts.html' | relative_url }}" {% if page.name == 'statuts.md' %}aria-current="page"{% endif %}>Statuts</a>
+      {% for number in (1..6) %}
+      {% assign filename = 'r' | append: number | append: '.md' %}
+      {% assign taburl = '/r' | append: number | append: '.html' %}
+      <a href="{{ taburl | relative_url }}" {% if page.name == filename %}aria-current="page"{% endif %}>R{{ number }}</a>
+      {% endfor %}
+      <a href="{{ '/annexes.html' | relative_url }}" {% if page.name contains 'annexe' %}aria-current="page"{% endif %}>Annexes</a>
+      <a href="{{ '/recueil.html' | relative_url }}" {% if page.name == 'recueil.md' %}aria-current="page"{% endif %}>Recueil complet</a>
       <a href="{{ '/constitution.html' | relative_url }}" {% if page.path == 'constitution.md' %}aria-current="page"{% endif %}>Texte original</a>
     </nav>
+    {% if page.name contains 'annexe' %}
+    <nav class="top-nav" aria-label="Annexes des responsabilités">
+      {% for doc in site.data.documents %}{% if doc.id contains 'annexe-' %}
+      {% assign filename = doc.id | append: '.md' %}
+      <a href="{{ doc.url | relative_url }}" {% if page.name == filename %}aria-current="page"{% endif %}>{{ doc.titre }}</a>
+      {% endif %}{% endfor %}
+    </nav>
+    {% endif %}
   </header>
   <div class="page-layout">
     <aside class="sidebar" id="sidebar" aria-label="Sommaire de la page">
@@ -50,7 +59,7 @@
         </div>
       </div>
       <article class="document-content" id="document">{{ content }}</article>
-      <footer class="document-footer"><span>Mess et Instituts · 9e Escadron du génie</span><a href="https://github.com/shocktubeM81/mess-9eg/tree/revision-documents-2026-10-28">Consulter le dépôt GitHub</a></footer>
+      <footer class="document-footer"><span>Mess du 9 EG</span><a href="https://github.com/shocktubeM81/mess-9eg">Consulter le dépôt GitHub</a></footer>
     </main>
   </div>
   <button id="toc-toggle" class="toc-toggle" type="button" aria-controls="sidebar" aria-expanded="false" hidden>☰ Sommaire</button>

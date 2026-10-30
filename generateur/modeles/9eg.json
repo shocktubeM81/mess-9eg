@@ -1,0 +1,16 @@
+{
+  "nom": "Présentation du 9e Escadron du génie",
+  "reference_visuelle": "Constitution d’août 2024 du Mess du 9e Escadron du génie, couverture et pages de texte",
+  "police": "Times New Roman",
+  "taille": 12,
+  "marge_gauche_cm": 2.5,
+  "marge_droite_cm": 2.5,
+  "marge_haut_cm": 2.2,
+  "marge_bas_cm": 2.2,
+  "insigne": "generateur/modeles/Logo 34RGC Det Rouyn.png",
+  "titre_couverture": "STATUTS ET RÈGLEMENTS\nDU MESS DU 9 EG",
+  "unite": "9e Escadron du génie",
+  "lieu": "Manège militaire de Rouyn-Noranda",
+  "adresse": "97, rue Perreault Est, Rouyn-Noranda, Québec",
+  "entete": "STATUTS ET RÈGLEMENTS DU MESS DU 9 EG"
+}
