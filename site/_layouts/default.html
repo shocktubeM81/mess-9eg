@@ -23,6 +23,7 @@
     </div>
     <nav class="top-nav" aria-label="Documents du Mess">
       <a href="{{ '/' | relative_url }}" {% if page.path == 'index.md' %}aria-current="page"{% endif %}>Accueil</a>
+      <a href="https://fonds.9eg.ca">Fonds de l’unité</a>
       <a href="{{ '/statuts.html' | relative_url }}" {% if page.name == 'statuts.md' %}aria-current="page"{% endif %}>Statuts</a>
       {% for number in (1..6) %}
       {% assign filename = 'r' | append: number | append: '.md' %}
