@@ -23,7 +23,6 @@
     </div>
     <nav class="top-nav" aria-label="Documents du Mess">
       <a href="{{ '/' | relative_url }}" {% if page.path == 'index.md' %}aria-current="page"{% endif %}>Accueil</a>
-      <a href="https://fonds.9eg.ca">Fonds de l’unité</a>
       <a href="{{ '/statuts.html' | relative_url }}" {% if page.name == 'statuts.md' %}aria-current="page"{% endif %}>Statuts</a>
       {% for number in (1..6) %}
       {% assign filename = 'r' | append: number | append: '.md' %}
@@ -60,7 +59,7 @@
         </div>
       </div>
       <article class="document-content" id="document">{{ content }}</article>
-      <footer class="document-footer"><span>Mess du 9 EG</span><a href="https://github.com/shocktubeM81/mess-9eg">Consulter le dépôt GitHub</a></footer>
+      <footer class="document-footer"><span>Mess du 9 EG</span><a href="https://fonds.9eg.ca">Fonds de l’unité</a><a href="https://github.com/shocktubeM81/mess-9eg">Consulter le dépôt GitHub</a></footer>
     </main>
   </div>
   <button id="toc-toggle" class="toc-toggle" type="button" aria-controls="sidebar" aria-expanded="false" hidden>☰ Sommaire</button>
