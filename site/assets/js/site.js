@@ -22,9 +22,6 @@
     printButton.addEventListener("click", () => window.print());
   }
   if (content && toc) {
-    for (const paragraph of content.querySelectorAll(":scope > p")) {
-      if (/^Version\s+\d/.test(paragraph.textContent.trim())) paragraph.classList.add("document-version");
-    }
     const headings = Array.from(content.querySelectorAll("h2, h3"));
     const usedIds = new Set(Array.from(document.querySelectorAll("[id]"), node => node.id));
     const links = new Map();

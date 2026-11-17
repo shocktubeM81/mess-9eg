@@ -5,8 +5,6 @@ title: Projet de modification à la constitution du Mess du 9 EG
 document_label: Projet de modification à la constitution
 ---
 
-# Projet de modification à la constitution du Mess du 9 EG
-
 **Statuts et règlements proposés**
 
 Ce projet présente les modifications proposées à la constitution du Mess, soit ses statuts et règlements. Il est soumis à l’adoption de l’assemblée générale et à l’approbation du commandant.

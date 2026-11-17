@@ -24,6 +24,8 @@ class Page(HTMLParser):
         self.document_text = []
         self.original_text = []
         self.annotation_paragraphs = []
+        self.h1_count = 0
+        self.class_counts = {}
         self.feed(path.read_text(encoding='utf-8'))
 
     def handle_starttag(self, tag, attributes):
@@ -38,7 +40,11 @@ class Page(HTMLParser):
             self.paragraph = []
         parent = self.elements[-1][1:] if self.elements else (False, False, False)
         classes = attrs.get('class', '').split()
-        flags = (parent[0] or (tag == 'article' and attrs.get('id') == 'document'),
+        for name in classes:
+            self.class_counts[name] = self.class_counts.get(name, 0) + 1
+        if tag == 'h1':
+            self.h1_count += 1
+        flags = (parent[0] or 'document-body' in classes,
                  parent[1] or 'comparatif-original' in classes,
                  parent[2] or 'comparatif-annotation' in classes)
         if tag not in {'area', 'base', 'br', 'col', 'embed', 'hr', 'img', 'input', 'link', 'meta', 'param', 'source', 'track', 'wbr'}:
@@ -73,6 +79,10 @@ def main():
     output = args.site.resolve()
     pages = {path.relative_to(output).as_posix(): Page(path) for path in output.rglob('*.html')}
     for name, page in pages.items():
+        if page.class_counts.get('document-body'):
+            assert page.h1_count == 1, (name, 'Un seul titre principal est requis')
+            assert page.class_counts.get('document-header') == 1, (name, 'En-tête commun absent')
+            assert page.class_counts.get('document-edition') == 1, (name, 'Version ou édition absente')
         for href in page.links:
             url = urlsplit(href)
             if url.scheme or url.netloc:
@@ -96,6 +106,7 @@ def main():
     blocks = gen['document_blocks'](text, segments)
     normalize = lambda value: ' '.join(value.split())
     comparison = pages['comparatif.html']
+    assert comparison.class_counts.get('comparatif-row') == 117, 'Les 116 articles et les préliminaires doivent former des paires'
     assert {'article-' + str(n) for n in range(1, 117)} <= comparison.ids, 'Articles absents du comparatif'
     assert normalize(' '.join(comparison.original_text)) == normalize(' '.join(pages['constitution.html'].document_text)), 'Le texte initial du comparatif a été altéré'
     annotations = json.loads((ROOT / 'documentation/comparatif-0.12/annotations.json').read_text(encoding='utf-8'))
