@@ -2,23 +2,31 @@
 
 ### 1. Nom
 
-1.1. Le Mess du 9e Escadron du génie, ci-après appelé « le Mess », comprend deux locaux : le « Club Chimo », destiné aux soldats, caporaux et caporaux-chefs, et le « Mess Combiné », destiné aux sergents, adjudants et officiers.
+1.1. Le Mess est désigné « Mess du 9e Escadron du génie », ci-après appelé « le Mess ». Il comprend deux locaux : le « Club Chimo », destiné aux soldats, caporaux et caporaux-chefs, et le « Mess Combiné », destiné aux sergents, adjudants et officiers.
 
 ### 2. Établissement et administration
 
-2.1. L’établissement et l’administration du Mess relèvent de la [réf. B, art. 27.01](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/ordonnances-reglements-royaux/vol-1-administration/chapitre-27-mess-cantines-instituts.html). Le commandant du 9 EG exerce les fonctions de commandant du Mess.
+2.1. L’établissement et l’administration du Mess relèvent de la [réf. B, art. 27.01](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/ordonnances-reglements-royaux/vol-1-administration/chapitre-27-mess-cantines-instituts.html). 
 
-2.2. Le Mess est administré conformément à la [réf. A, chap. 9-4](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=281) et à la [réf. C](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/directives-ordonnances-administratives-defense/serie-9000/9003/9003-1-biens-non-publics.html). Les règlements complètent les statuts et en précisent l’application; ils ne peuvent en modifier les pouvoirs ou les droits.
+2.2 Le terme « commandant » désigne le commandant du mess. Le commandant du mess est le commandant d'unité, soit le 34 RGC, ou le commandant dont les pouvoirs ont été délégués.
+
+2.3. Le Mess est administré conformément à la [réf. A, chap. 9-4](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=281) et à la [réf. C](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/directives-ordonnances-administratives-defense/serie-9000/9003/9003-1-biens-non-publics.html). Les règlements complètent les statuts et en précisent l’application; ils ne peuvent en modifier les pouvoirs ou les droits.
 
 ### 3. But
 
 3.1. Le Mess favorise l’esprit de corps, le bien-être des membres et les liens entre eux. Ses deux locaux offrent à chaque groupe un espace de rencontre adapté, dans le respect des rapports de leadership au sein de l’unité.
 
-3.2. Le Mess rend compte des fonds et des biens qui lui sont confiés.
-
 ### 4. Membres
 
-4.1. Membres ordinaires. Personnes admissibles selon la [réf. A, chap. 9-1, para. 13](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=268).
+4.1. Membres ordinaires. Personnes admissibles selon la [réf. A, chap. 9-1, para. 13](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=268), incluant :
+
+  a. les membres de la Force régulière et de la Première réserve attachés au 9EG
+
+  b. les militaires des forces armées de pays étrangers qui participent au
+programme d’échange ou qui sont détachés auprès du 9EG
+
+  c. Les officières et officiers du Cadre des instructeurs de cadets (CIC) qui font
+partie des unités de cadets directement parrainées où l’on fait usage des installations du 9EG, s’ils en font la demande.
 
 4.2. Membres associés. Personnes admissibles selon la [réf. A, chap. 9-1, para. 14](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=269).
 
