@@ -2,7 +2,7 @@
 
 #### 1. Responsabilités
 
-1.1. Tenir la liste des membres par catégorie et suivre les cotisations. Distinguer la liste des personnes ayant droit de vote du dénombrement servant au quorum selon le [paragraphe 9.2 des statuts](#statuts-p-9-2) et le [paragraphe 9.3 des statuts](#statuts-p-9-3).
+1.1. Tenir la liste des membres par catégorie et suivre les cotisations. Distinguer la liste des personnes ayant droit de vote du dénombrement servant au quorum selon le [paragraphe 9.5 des statuts](#statuts-paragraphe-9-5) et le [paragraphe 9.6 des statuts](#statuts-paragraphe-9-6).
 
 1.2. Transmettre au responsable des biens non publics les recommandations de dépenses du Mess. Exercer les pouvoirs financiers délégués, s’il y a lieu, dans leurs limites et selon les directives en vigueur.
 

@@ -3,7 +3,7 @@
 Chaque document courant possède son propre fichier Markdown :
 
 - [Statuts](statuts.md).
-- Règlements [R1](r1.md), [R2](r2.md), [R3](r3.md), [R4](r4.md), [R5](r5.md) et [R6](r6.md).
+- Règlements [R1](r1.md), [R2](r2.md), [R3](r3.md) et [R4](r4.md).
 - Annexes [A](annexe-a.md), [B](annexe-b.md), [C](annexe-c.md), [D](annexe-d.md), [E](annexe-e.md), [F — Régisseur](annexe-f-regisseur.md) et [G — Serveur](annexe-g-serveur.md).
 - [Références](references.md), [avant-propos](avant-propos.md) et [titre et version](presentation.md).
 

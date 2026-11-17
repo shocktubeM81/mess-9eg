@@ -13,5 +13,3 @@
 1.5. Contrôler les recettes et leur remise rapide.
 
 1.6. Faire connaître les activités aux membres.
-
-1.7. Accomplir les tâches confiées par le président.

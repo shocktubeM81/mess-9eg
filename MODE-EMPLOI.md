@@ -3,7 +3,7 @@
 ## Modifier un document
 
 Ouvrez le fichier correspondant dans **textes/** : **statuts.md**, **r1.md** à
-**r6.md**, une **annexe**, **references.md** ou **avant-propos.md**.
+**r4.md**, une **annexe**, **references.md** ou **avant-propos.md**.
 Le titre général et la version se trouvent dans **textes/presentation.md**.
 Les fichiers sont en UTF-8, sans balises du site ni mise en page Word.
 Conservez les titres reconnus, les numéros et les renvois. L’ordre du recueil
@@ -57,7 +57,7 @@ py -m pip install -r generateur/requirements.txt
 ## Actualiser le site
 
 Le site lit directement les fichiers de **textes/**, avec les onglets Statuts,
-R1 à R6 et Annexes. Il conserve une page par document et un recueil complet.
+Règlements et Annexes. Il conserve une page par document et un recueil complet.
 Depuis le dossier **site/** :
 
 ```powershell

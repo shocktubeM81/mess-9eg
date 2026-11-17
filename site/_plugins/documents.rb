@@ -79,6 +79,10 @@ module Mess
     def legacy_destination(path)
       name = File.basename(path, '.md')
       return 'partie-1' if name == 'constitution-consolidee'
+      return 'reglement-5' if name == 'r5'
+      return 'reglement-4' if name == 'r6'
+      return 'reglement-3' if name == 'R4-proposition'
+      return 'reglement-4' if name == 'R6-proposition'
       return "reglement-#{Regexp.last_match(1)}" if name =~ /\AR([1-6])-proposition\z/
       { 'annexe-f' => 'annexe-e', 'annexe-g' => 'annexe-f-regisseur',
         'annexe-h' => 'annexe-g-serveur' }.fetch(name, name)
@@ -127,7 +131,8 @@ module Mess
         end
         body.unshift({ 'text' => version, 'ids' => [] })
         body.unshift({ 'text' => '# ' + spec['titre'], 'ids' => items.first['ids'] })
-        page(site, spec['id'], spec['titre'], render(body, spec['id'], owners, site.baseurl, separate: true))
+        page(site, spec['id'], spec['titre'], render(body, spec['id'], owners, site.baseurl, separate: true),
+             'document_group' => (spec['id'].match?(/\Ar\d+\z/) ? 'reglements' : nil))
       end
       by_source = documents.to_h { |spec, items| [spec['source'], items] }
       collection = structure['assemblage'].flat_map do |item|
@@ -144,7 +149,10 @@ module Mess
         page(site, path.delete_suffix('.md'), 'Ancien lien du projet', '',
              'layout' => 'redirection', 'destination' => legacy_destination(path))
       end
-      page(site, 'reglements', 'Règlements', '', 'layout' => 'redirection', 'destination' => 'reglement-1')
+      reglements = specs.select { |spec| spec['id'].match?(/\Ar\d+\z/) }.map do |spec|
+        "- [#{spec['titre']}](#{site.baseurl}#{spec['url']})"
+      end.join("\n")
+      page(site, 'reglements', 'Règlements', "# Règlements\n\n#{reglements}\n", 'document_group' => 'reglements')
       profile = JSON.parse(File.read(File.join(root, 'generateur/modeles/9eg.json'), encoding: 'utf-8'))
       logo = File.expand_path(profile.fetch('insigne'), root)
       raise "Logo absent : #{logo}" unless File.file?(logo)

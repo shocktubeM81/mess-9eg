@@ -20,7 +20,7 @@ class DocumentsTest(unittest.TestCase):
         exported = [b['text'] for _, _, items in self.jobs for b in items if re.match(r'^\d+\.\d+\. ', b['text'])]
         self.assertEqual(original, exported)
         self.assertEqual(self.count, len(exported))
-        self.assertEqual(len(self.jobs), 16)
+        self.assertEqual(len(self.jobs), len(self.structure["segments"]))
 
     def test_every_document_has_its_own_source_and_destination(self):
         names = [name for name, _, _ in self.jobs]
@@ -48,6 +48,25 @@ class DocumentsTest(unittest.TestCase):
             metadata = json.loads((output / 'generation.json').read_text(encoding='utf-8'))
             self.assertEqual([doc['document'] for doc in metadata['documents']], ['statuts-et-reglements'])
             self.assertEqual(metadata['paragraphes'], self.count)
+
+    def test_sections_and_regulations_are_contiguous(self):
+        import re
+        regulations = [spec['id'] for spec in self.structure['segments']
+                       if re.fullmatch(r'r\d+', spec['id'])]
+        self.assertEqual(regulations, ['r1', 'r2', 'r3', 'r4'])
+        for spec in self.structure['segments']:
+            content = self.sources[spec['source']]
+            sections = [int(n) for n in re.findall(r'^#+ (\d+)\. ', content, re.M)]
+            self.assertEqual(sections, list(range(1, len(sections) + 1)), spec['source'])
+            self.assertFalse(re.search(r'^\d+\.\d+(?:\.\d+)* [^ ]', content, re.M),
+                             spec['source'])
+
+    def test_subject_references_use_current_numbers(self):
+        treasurer = self.sources['textes/annexe-d.md']
+        self.assertIn('[paragraphe 9.5 des statuts](#statuts-paragraphe-9-5)', treasurer)
+        self.assertIn('[paragraphe 9.6 des statuts](#statuts-paragraphe-9-6)', treasurer)
+        self.assertIn('[paragraphe 9.9 des statuts](#statuts-paragraphe-9-9)',
+                      self.sources['textes/r4.md'])
 
     def test_invalid_numbering_and_missing_links_are_rejected(self):
         broken = self.text.replace('1.1. Le Mess', '1.8. Le Mess', 1)
