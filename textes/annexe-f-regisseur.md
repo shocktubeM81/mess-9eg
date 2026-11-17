@@ -15,5 +15,3 @@
 1.6. Transmettre les pièces justificatives des commandes au trésorier.
 
 1.7. Contrôler les équipements de jeu ou en confier la garde à une personne désignée.
-
-1.8. Accomplir les tâches confiées par le président.
