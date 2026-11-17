@@ -262,3 +262,11 @@ La lecture comporte deux niveaux : statuts, puis règlements R1 à R5. Les statu
 Le déroulement des assemblées (motions, débats, scrutins et procès-verbaux) renvoie au tableau 9-4-4 et aux paragraphes 29 et 44 du chapitre 9-4, au lieu de reprendre leurs procédures. L’ancien point R3.3 est regroupé avec la convocation; les anciens points R3.4 à R3.10 deviennent les rubriques 3 à 9. Les délais locaux, le traitement d’un quorum perdu, la vérification d’un vote contesté et les garanties de diffusion restent présents. Les renvois R5 vers R1 à R4 remplacent les reprises internes.
 
 Les montants, les critères des prestations et les approbations locales ne sont pas modifiés par cette passe. Les validations de conformité déjà signalées restent nécessaires.
+
+## Version 0.12 — 17 novembre 2026
+
+Révision des statuts et des règles de gouvernance et d’admission. Le règlement 5 (Administration) est supprimé; ses dispositions utiles sont intégrées aux statuts, au règlement sur la tenue et le comportement et au règlement sur les finances, en évitant les répétitions.
+
+Les quatre règlements sont désormais : R1 — Tenue et comportement; R2 — Meubles et décorations; R3 — Service de bar; R4 — Finances. Les articles et paragraphes sont renumérotés et les renvois internes actualisés. Le site regroupe les règlements sous un onglet commun, comme les annexes, et conserve la ponctuation des sources.
+
+Les contrôles GitHub « Site web » et « Documents de travail » ont réussi avant la fusion de la PR #7 dans main. Cette version demeure un projet à adopter et à approuver.
