@@ -118,7 +118,9 @@
   "versions/2026-10-28-v0.2/R1-proposition.md": {},
   "versions/2026-10-28-v0.2/R2-proposition.md": {},
   "versions/2026-10-28-v0.2/R3-proposition.md": {},
-  "versions/2026-10-28-v0.2/R4-proposition.md": {},
+  "versions/2026-10-28-v0.2/R4-proposition.md": {
+    "reglement-4": "reglement-3"
+  },
   "versions/2026-10-28-v0.2/R5-proposition.md": {
     "r5-article-6": "r6-article-1",
     "r5-p-6-1": "r6-p-1-1",
@@ -187,7 +189,9 @@
     "r5-p-41-1": "r6-p-25-1",
     "r5-p-41-2": "r6-p-25-2"
   },
-  "versions/2026-10-28-v0.2/R6-proposition.md": {},
+  "versions/2026-10-28-v0.2/R6-proposition.md": {
+    "reglement-6": "reglement-4"
+  },
   "versions/2026-10-28-v0.2/annexes/annexe-a.md": {},
   "versions/2026-10-28-v0.2/annexes/annexe-b.md": {},
   "versions/2026-10-28-v0.2/annexes/annexe-c.md": {},
@@ -197,5 +201,9 @@
   "versions/2026-10-28-v0.2/annexes/annexe-f.md": {},
   "versions/2026-10-28-v0.2/annexes/annexe-g-serveur.md": {},
   "versions/2026-10-28-v0.2/annexes/annexe-g.md": {},
-  "versions/2026-10-28-v0.2/annexes/annexe-h.md": {}
+  "versions/2026-10-28-v0.2/annexes/annexe-h.md": {},
+  "r5.md": {
+    "reglement-5": "statuts-p-5-1"
+  },
+  "r6.md": {}
 }

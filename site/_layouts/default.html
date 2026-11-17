@@ -22,17 +22,21 @@
       <span class="header-caption">Statuts et règlements</span>
     </div>
     <nav class="top-nav" aria-label="Documents du Mess">
-      <a href="{{ '/' | relative_url }}" {% if page.path == 'index.md' %}aria-current="page"{% endif %}>Accueil</a>
+      <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}aria-current="page"{% endif %}>Accueil</a>
       <a href="{{ '/statuts.html' | relative_url }}" {% if page.name == 'statuts.md' %}aria-current="page"{% endif %}>Statuts</a>
-      {% for number in (1..6) %}
-      {% assign filename = 'r' | append: number | append: '.md' %}
-      {% assign taburl = '/r' | append: number | append: '.html' %}
-      <a href="{{ taburl | relative_url }}" {% if page.name == filename %}aria-current="page"{% endif %}>R{{ number }}</a>
-      {% endfor %}
+      <a href="{{ '/reglements.html' | relative_url }}" {% if page.document_group == 'reglements' %}aria-current="page"{% endif %}>Règlements</a>
       <a href="{{ '/annexes.html' | relative_url }}" {% if page.name contains 'annexe' %}aria-current="page"{% endif %}>Annexes</a>
       <a href="{{ '/recueil.html' | relative_url }}" {% if page.name == 'recueil.md' %}aria-current="page"{% endif %}>Recueil complet</a>
       <a href="{{ '/constitution.html' | relative_url }}" {% if page.path == 'constitution.md' %}aria-current="page"{% endif %}>Texte original</a>
     </nav>
+    {% if page.document_group == 'reglements' %}
+    <nav class="top-nav" aria-label="Règlements du Mess">
+      {% for doc in site.data.documents %}{% assign prefix = doc.id | slice: 0, 1 %}{% if prefix == 'r' and doc.id != 'references' %}
+      {% assign filename = doc.id | append: '.md' %}
+      <a href="{{ doc.url | relative_url }}" {% if page.name == filename %}aria-current="page"{% endif %}>{{ doc.titre }}</a>
+      {% endif %}{% endfor %}
+    </nav>
+    {% endif %}
     {% if page.name contains 'annexe' %}
     <nav class="top-nav" aria-label="Annexes des responsabilités">
       {% for doc in site.data.documents %}{% if doc.id contains 'annexe-' %}

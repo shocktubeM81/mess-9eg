@@ -10,7 +10,7 @@
 
 1.4. Conduire les assemblées conformément à la [réf. A, chap. 9-4, tableau 9-4-4](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=298).
 
-1.5. Veiller à la consignation des décisions et des votes selon le règlement sur les assemblées et les réunions.
+1.5. Veiller à la consignation des décisions et des votes selon les [articles 8 et 9 des statuts](#statuts-section-8).
 
 1.6. Signer les procès-verbaux et tenir à jour les statuts après les modifications approuvées.
 

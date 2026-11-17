@@ -1,7 +1,7 @@
 # Organisation actuelle
 
 Depuis la séparation en documents, les sources courantes sont `textes/statuts.md`,
-`textes/r1.md` à `textes/r6.md`, les sept annexes, `references.md`, `avant-propos.md`
+les règlements `textes/r1.md`, `textes/r2.md`, `textes/r3.md` et `textes/r4.md`, les sept annexes, `references.md`, `avant-propos.md`
 et `presentation.md`. `textes/structure.json` déclare leur ordre et leurs ancres.
 `generateur/sources.py` les assemble pour les exports; le module `site/_plugins/documents.rb` les lit directement pour Jekyll.
 

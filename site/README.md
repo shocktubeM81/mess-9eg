@@ -56,3 +56,9 @@ branche. Configurer Pages avec la source **GitHub Actions** pour publier.
 La construction et la vérification fournissent un artefact sans publication
 automatique. La publication reste manuelle, avec le paramètre **publier** activé
 sur la branche par défaut. Le domaine personnalisé reste défini par `CNAME`.
+
+## Navigation des règlements
+
+L’onglet **Règlements** ouvre la liste des quatre règlements. Une seconde rangée
+permet de passer de l’un à l’autre, comme pour les annexes. Le service de bar est
+maintenant R3 (`textes/r3.md`) et les finances R4 (`textes/r4.md`).
