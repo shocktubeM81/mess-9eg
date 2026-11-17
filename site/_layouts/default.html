@@ -27,6 +27,7 @@
       <a href="{{ '/reglements.html' | relative_url }}" {% if page.document_group == 'reglements' %}aria-current="page"{% endif %}>Règlements</a>
       <a href="{{ '/annexes.html' | relative_url }}" {% if page.name contains 'annexe' %}aria-current="page"{% endif %}>Annexes</a>
       <a href="{{ '/recueil.html' | relative_url }}" {% if page.name == 'recueil.md' %}aria-current="page"{% endif %}>Recueil complet</a>
+      <a href="{{ '/comparatif.html' | relative_url }}" {% if page.name == 'comparatif.html' %}aria-current="page"{% endif %}>Comparatif</a>
       <a href="{{ '/constitution.html' | relative_url }}" {% if page.path == 'constitution.md' %}aria-current="page"{% endif %}>Texte original</a>
     </nav>
     {% if page.document_group == 'reglements' %}

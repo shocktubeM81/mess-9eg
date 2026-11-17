@@ -113,4 +113,12 @@ a:focus-visible, button:focus-visible, [tabindex]:focus-visible { outline: 3px s
 }
 
 .document-content .document-version { padding: .75rem 1rem; border-radius: 5px; background: var(--soft); color: var(--muted); font-size: .82rem; line-height: 1.65; }
+.comparatif-annotation { color: var(--link); margin: 1.25rem 0 2rem 1rem; font-size: .94em; }
+.comparatif-note-title { font-style: normal; }
+.comparatif-annotation > p:not(.comparatif-note-title) { font-style: italic; }
+.comparatif-acces { margin: 1.5rem 0; }
+.comparatif-acces summary { cursor: pointer; font-weight: 600; }
+.comparatif-acces nav { display: flex; flex-wrap: wrap; gap: .4rem; padding-top: .75rem; }
+.comparatif-acces nav a { min-width: 2.4rem; padding: .2rem .4rem; text-align: center; }
+@media print { .comparatif-acces { display: none; } .comparatif-annotation { color: #24465e; } }
 @media print { .document-content .document-version { padding: 0; background: none; font-size: 9pt; color: #333; } }
