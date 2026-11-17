@@ -5,6 +5,9 @@ baseurl: ""
 lang: fr-CA
 theme: jekyll-theme-cayman
 markdown: kramdown
+# Conserver la ponctuation des sources pour les exports et la vérification exacte.
+kramdown:
+  smart_quotes: [apos, apos, quot, quot]
 show_downloads: false
 source: ..
 destination: ../_site
