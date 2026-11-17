@@ -76,7 +76,13 @@ def main():
     expected = [normalize(gen['LINK'].sub(lambda match: match[1], b['text']))
                 for b in blocks if re.match(r'^\d+\.\d+\. ', b['text'])]
     actual = [normalize(p) for p in pages['recueil.html'].paragraphs if re.match(r'^\d+\.\d+\. ', p)]
-    assert expected == actual, 'Le recueil web ne correspond pas aux dispositions sources'
+    if expected != actual:
+        from itertools import zip_longest
+        for index, (source, web) in enumerate(zip_longest(expected, actual), 1):
+            if source != web:
+                raise AssertionError(
+                    f'Disposition {index} différente ({len(expected)} sources, {len(actual)} web) :\n'
+                    f'Source : {source!r}\nWeb : {web!r}')
     for name, _, items in gen['document_jobs'](text, segments, blocks):
         expected_ids = {ident for block in items for ident in block['ids']}
         assert expected_ids <= pages[name + '.html'].ids, (name, 'Ancres absentes')
