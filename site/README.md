@@ -67,3 +67,14 @@ sur la branche par défaut. Le domaine personnalisé reste défini par `CNAME`.
 L’onglet **Règlements** ouvre la liste des quatre règlements. Une seconde rangée
 permet de passer de l’un à l’autre, comme pour les annexes. Le service de bar est
 maintenant R3 (`textes/r3.md`) et les finances R4 (`textes/r4.md`).
+
+## Comparatif
+
+L’onglet **Comparatif** présente le texte initial et les annotations de la
+version 0.12. `site/_plugins/comparatif.rb` lit directement la constitution
+archivée et `documentation/comparatif-0.12/annotations.json`. Les renvois
+pointent vers les paragraphes des pages courantes et respectent `baseurl`.
+La page propose aussi le PDF conservé dans `site/assets/documents/`.
+`verifier.py` vérifie les 116 articles, la fidélité du texte initial, les
+annotations, leurs liens et le PDF. Après un changement de module Ruby,
+redémarrer le serveur local.

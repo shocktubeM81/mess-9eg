@@ -33,6 +33,7 @@ Consultez les textes proposés avec les onglets ci-dessus ou dans le recueil com
 
 ## Autres consultations
 
+- [Comparatif avec la constitution initiale]({{ '/comparatif.html' | relative_url }}) — texte intégral annoté et PDF.
 - [Recueil complet]({{ '/recueil.html' | relative_url }})
 - [Texte original transcrit]({{ '/constitution.html' | relative_url }})
 

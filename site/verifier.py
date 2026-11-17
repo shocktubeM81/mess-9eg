@@ -20,6 +20,10 @@ class Page(HTMLParser):
         self.links = []
         self.paragraphs = []
         self.paragraph = None
+        self.elements = []
+        self.document_text = []
+        self.original_text = []
+        self.annotation_paragraphs = []
         self.feed(path.read_text(encoding='utf-8'))
 
     def handle_starttag(self, tag, attributes):
@@ -32,15 +36,33 @@ class Page(HTMLParser):
                 self.links.append(attrs[key])
         if tag == 'p':
             self.paragraph = []
+        parent = self.elements[-1][1:] if self.elements else (False, False, False)
+        classes = attrs.get('class', '').split()
+        flags = (parent[0] or (tag == 'article' and attrs.get('id') == 'document'),
+                 parent[1] or 'comparatif-original' in classes,
+                 parent[2] or 'comparatif-annotation' in classes)
+        if tag not in {'area', 'base', 'br', 'col', 'embed', 'hr', 'img', 'input', 'link', 'meta', 'param', 'source', 'track', 'wbr'}:
+            self.elements.append((tag, *flags))
 
     def handle_data(self, text):
+        if self.elements:
+            if self.elements[-1][1]:
+                self.document_text.append(text)
+            if self.elements[-1][2]:
+                self.original_text.append(text)
         if self.paragraph is not None:
             self.paragraph.append(text)
 
     def handle_endtag(self, tag):
         if tag == 'p' and self.paragraph is not None:
+            if self.elements and self.elements[-1][3]:
+                self.annotation_paragraphs.append(''.join(self.paragraph))
             self.paragraphs.append(''.join(self.paragraph))
             self.paragraph = None
+        for index in range(len(self.elements) - 1, -1, -1):
+            if self.elements[index][0] == tag:
+                del self.elements[index:]
+                break
 
 
 def main():
@@ -73,6 +95,21 @@ def main():
     segments, count = gen['validate'](text, structure)
     blocks = gen['document_blocks'](text, segments)
     normalize = lambda value: ' '.join(value.split())
+    comparison = pages['comparatif.html']
+    assert {'article-' + str(n) for n in range(1, 117)} <= comparison.ids, 'Articles absents du comparatif'
+    assert normalize(' '.join(comparison.original_text)) == normalize(' '.join(pages['constitution.html'].document_text)), 'Le texte initial du comparatif a été altéré'
+    annotations = json.loads((ROOT / 'documentation/comparatif-0.12/annotations.json').read_text(encoding='utf-8'))
+    labels = {'S': 'Statuts', 'AP': 'Avant-propos', **{f'R{i}': f'R{i}' for i in range(1, 5)},
+              **{c: f'Annexe {c}' for c in 'ABCDEFG'}}
+    groups = [('Annotation — Préliminaires', annotations['preliminaires'])]
+    groups += [(f'Annotation — Article {n}', annotations['articles'][str(n)]) for n in range(1, 117)]
+    groups += [('Ajouts dans le projet', annotations['ajouts'])]
+    annotation_text = [value for title, notes in groups for value in [title, *notes]]
+    annotation_text = [normalize(re.sub(r'\[\[([A-Z0-9]+):(\d+\.\d+)\]\]',
+                       lambda m: labels[m[1]] + ' ' + m[2], value)) for value in annotation_text]
+    assert annotation_text == [normalize(p) for p in comparison.annotation_paragraphs], 'Annotations web différentes du comparatif'
+    pdf = 'assets/documents/constitution-initiale-annotee-0.12.pdf'
+    assert (output / pdf).read_bytes() == (ROOT / 'site' / pdf).read_bytes(), 'PDF comparatif différent'
     expected = [normalize(gen['LINK'].sub(lambda match: match[1], b['text']))
                 for b in blocks if re.match(r'^\d+\.\d+\. ', b['text'])]
     actual = [normalize(p) for p in pages['recueil.html'].paragraphs if re.match(r'^\d+\.\d+\. ', p)]
