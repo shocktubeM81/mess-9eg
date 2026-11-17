@@ -59,6 +59,14 @@ module Mess
       "<div class=\"comparatif-original\">\n#{converter.convert(markdown)}\n</div>"
     end
 
+    def comparison_row(markdown, notes, label, index, converter, baseurl, sources, row_id)
+      %(<section class="comparatif-row" id="#{row_id}" aria-label="#{CGI.escapeHTML(label)}">) +
+        '<div class="comparatif-column comparatif-initial"><p class="comparatif-column-label">Texte initial</p>' +
+        original_html(markdown, converter, index) + '</div>' +
+        '<div class="comparatif-column comparatif-changes"><p class="comparatif-column-label">Changements proposés</p>' +
+        annotation(notes, label, baseurl, sources) + '</div></section>'
+    end
+
     def generate(site)
       root = site.source
       data = JSON.parse(File.read(File.join(root, 'documentation/comparatif-0.12/annotations.json'), encoding: 'bom|utf-8'))
@@ -73,32 +81,33 @@ module Mess
       end
       converter = site.find_converter_instance(Jekyll::Converters::Markdown)
       version = CGI.escapeHTML(data.fetch('version_comparee'))
-      body = ["<h1>Comparatif avec la constitution initiale</h1>",
-              "<p>Comparaison avec le projet version #{version}.</p>",
-              '<p>Le texte initial est conservé dans son ordre et sa numérotation. Les annotations en bleu indiquent les modifications, omissions et déplacements, avec des liens vers les paragraphes du projet. Elles ne donnent pas les motifs des changements.</p>',
+      body = ['<p>Pour chaque article, le texte initial est présenté à côté des changements proposés, dans une zone bleue distincte. Sur téléphone, les changements suivent le texte initial. Les annotations décrivent les modifications, omissions et déplacements, sans en donner les motifs.</p>',
               '<p>« Non repris » signifie non reproduit explicitement dans le projet. Les renvois aux politiques extérieures ne sont pas une vérification de leur contenu.</p>',
               %(<p><a href="#{CGI.escapeHTML(site.baseurl + '/' + PDF)}" download>Télécharger le comparatif en PDF</a> · <a href="#{CGI.escapeHTML(site.baseurl)}/constitution.html">Consulter le texte initial sans annotations</a></p>)]
-      articles = (1..116).map { |n| %(<a href="#article-#{n}">#{n}</a>) }.join(' ')
+      articles = (1..116).map { |n| %(<a href="#comparatif-article-#{n}">#{n}</a>) }.join(' ')
       body << %(<details class="comparatif-acces"><summary>Accéder à un article initial</summary><nav aria-label="Articles de la constitution initiale">#{articles}</nav></details>)
       prefix = original[0...markers.first.begin(0)]
       split = prefix.rindex("\n## ") || prefix.length
-      body << original_html(prefix[0...split], converter, 0)
-      body << annotation(data.fetch('preliminaires'), 'Annotation — Préliminaires', site.baseurl, sources)
+      body << comparison_row(prefix[0...split], data.fetch('preliminaires'), 'Annotation — Préliminaires', 0,
+                             converter, site.baseurl, sources, 'comparatif-preliminaires')
       body << original_html(prefix[split..], converter, 1)
       markers.each_with_index do |match, i|
         ending = i + 1 < markers.length ? markers[i + 1].begin(0) : original.length
         piece = original[match.begin(0)...ending]
         split = piece.index("\n## ") || piece.length
-        body << original_html(piece[0...split], converter, i * 2 + 2)
-        body << annotation(data.fetch('articles').fetch(match[1]), "Annotation — Article #{match[1]}", site.baseurl, sources)
+        body << comparison_row(piece[0...split], data.fetch('articles').fetch(match[1]), "Annotation — Article #{match[1]}",
+                               i * 2 + 2, converter, site.baseurl, sources, "comparatif-article-#{match[1]}")
         body << original_html(piece[split..], converter, i * 2 + 3) if split < piece.length
       end
       body << '<h2 id="comparatif-ajouts">Dispositions ajoutées ou développées</h2>'
+      body << '<div class="comparatif-column comparatif-changes">'
       body << annotation(data.fetch('ajouts'), 'Ajouts dans le projet', site.baseurl, sources)
+      body << '</div>'
       page = Jekyll::PageWithoutAFile.new(site, site.source, '', 'comparatif.html')
       page.content = body.join("\n")
       page.data.merge!('layout' => 'default', 'title' => 'Comparatif avec la constitution initiale',
-                       'document_label' => 'Comparatif — version 0.12', 'permalink' => '/comparatif.html')
+                       'document_label' => 'Comparatif — version 0.12', 'comparison_version' => "Version #{data.fetch('version_comparee')}",
+                       'permalink' => '/comparatif.html')
       site.pages << page
       raise 'PDF du comparatif absent' unless File.file?(File.join(root, 'site', PDF))
     end

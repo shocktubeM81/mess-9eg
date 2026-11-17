@@ -70,9 +70,23 @@ module Mess
 
     def page(site, id, title, content, extra = {})
       item = Jekyll::PageWithoutAFile.new(site, site.source, '', "#{id}.md")
-      item.content = content
+      # L'en-tête appartient au gabarit commun; conserver les anciennes ancres.
+      lines = content.lines
+      first_heading = lines.index { |line| line.start_with?('# ') }
+      if first_heading
+        if id == 'constitution'
+          lines[first_heading] = lines[first_heading].sub('# ', '## ')
+        else
+          anchors = lines[first_heading].scan(/\{#([^}]+)\}/).flatten
+          lines[first_heading] = anchors.map { |anchor| %(<a id="#{CGI.escapeHTML(anchor)}"></a>\n) }.join
+        end
+      end
+      item.content = lines.join.sub(/^Version [^\n]*\n/, '')
+      heading = { 'statuts' => 'Statuts', 'recueil' => 'Recueil complet',
+                  'constitution' => 'Constitution initiale' }.fetch(id, title)
       item.data.merge!({ 'layout' => 'default', 'title' => title,
-                         'document_label' => title, 'permalink' => "/#{id}.html" }.merge(extra))
+                         'heading' => heading, 'document_label' => title,
+                         'permalink' => "/#{id}.html" }.merge(extra))
       site.pages << item
     end
 
@@ -122,6 +136,7 @@ module Mess
       site.static_files.map! { |item| Asset.new(site, item.path, item.relative_path.delete_prefix('/').delete_prefix('site/')) }
       site.data['documents'] = specs.map { |spec| { 'id' => spec['id'], 'titre' => spec['titre'], 'url' => spec['url'] } }
       version = contents.fetch('textes/presentation.md').lines.find { |line| line.start_with?('Version ') }.to_s.strip
+      site.data['project_version'] = version.split(' — ').first
       documents.each do |spec, items|
         headings = items.drop(1).filter_map { |block| block['text'][/\A(#+) /, 1]&.length }
         shift = headings.min.to_i - 2
@@ -129,7 +144,6 @@ module Mess
           line = block['text'].sub(/\A(#+) /) { '#' * [1, Regexp.last_match(1).length - shift].max + ' ' }
           { 'text' => line, 'ids' => block['ids'] }
         end
-        body.unshift({ 'text' => version, 'ids' => [] })
         body.unshift({ 'text' => '# ' + spec['titre'], 'ids' => items.first['ids'] })
         page(site, spec['id'], spec['titre'], render(body, spec['id'], owners, site.baseurl, separate: true),
              'document_group' => (spec['id'].match?(/\Ar\d+\z/) ? 'reglements' : nil))
