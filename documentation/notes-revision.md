@@ -263,7 +263,6 @@ Le déroulement des assemblées (motions, débats, scrutins et procès-verbaux) 
 
 Les montants, les critères des prestations et les approbations locales ne sont pas modifiés par cette passe. Les validations de conformité déjà signalées restent nécessaires.
 
-
 ## Version 0.12 — 17 novembre 2026
 
 Révision des statuts et des règles de gouvernance et d’admission. Le règlement 5 (Administration) est supprimé; ses dispositions utiles sont intégrées aux statuts, au règlement sur la tenue et le comportement et au règlement sur les finances, en évitant les répétitions.
