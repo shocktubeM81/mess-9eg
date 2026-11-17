@@ -6,6 +6,11 @@ historique dans ce dossier. Les exports Word/PDF restent un recueil unique.
 
 ## Tester localement
 
+Sous Windows, double-cliquer sur `Apercu-local.cmd` à la racine du dépôt.
+Le lanceur vérifie les dépendances, ouvre le navigateur et démarre le serveur.
+Si la page s’ouvre avant la fin du démarrage, l’actualiser. Garder la fenêtre
+ouverte pendant la consultation; Ctrl+C arrête le serveur.
+
 Dans PowerShell :
 
 ```powershell

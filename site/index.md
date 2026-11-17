@@ -1,13 +1,19 @@
 ---
 layout: default
 permalink: /
-title: Statuts et règlements du Mess du 9 EG
-document_label: Statuts et règlements
+title: Projet de modification à la constitution du Mess du 9 EG
+document_label: Projet de modification à la constitution
 ---
 
-# Documents du Mess du 9 EG
+# Projet de modification à la constitution du Mess du 9 EG
 
-Projet à adopter et à approuver. Chaque document se consulte séparément avec les onglets ci-dessus.
+**Statuts et règlements proposés**
+
+Ce projet présente les modifications proposées à la constitution du Mess, soit ses statuts et règlements. Il est soumis à l’adoption de l’assemblée générale et à l’approbation du commandant.
+
+**Ce document de travail ne remplace pas les textes en vigueur.** Les modifications entreront en vigueur après leur adoption et leur approbation, selon les modalités prévues aux statuts.
+
+Consultez les textes proposés avec les onglets ci-dessus ou dans le recueil complet.
 
 ## Statuts et règlements
 
