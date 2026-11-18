@@ -91,6 +91,16 @@ class DocumentsTest(unittest.TestCase):
             self.assertRegex(self.sources[f'textes/{name}.md'], rf'(?m)^{re.escape(number)}\. ')
             self.assertIn(name + '-paragraphe-' + number.replace('.', '-'), anchors)
 
+    def test_every_paragraph_has_its_current_bookmark(self):
+        import re
+        for spec in self.structure['segments']:
+            anchors = spec.get('anchors', {})
+            for number in re.findall(r'^(\d+(?:\.\d+)+)\. ',
+                                     self.sources[spec['source']], re.M):
+                expected = spec['id'] + '-paragraphe-' + number.replace('.', '-')
+                self.assertIn(expected, anchors.get('P:' + number, []),
+                              f"{spec['source']} : {number}")
+
     def test_invalid_numbering_and_missing_links_are_rejected(self):
         broken = self.text.replace('1.1. Le Mess', '1.8. Le Mess', 1)
         with self.assertRaisesRegex(ValueError, 'Numérotation discontinue'):
