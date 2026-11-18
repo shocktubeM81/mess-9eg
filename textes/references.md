@@ -30,7 +30,7 @@ Réf. J. [Ordonnance du Groupe des cadets et rangers juniors canadiens 5020-3 �
 
 Réf. K. [Instructions sur la tenue des Forces canadiennes — A-DH-265-000/AG-001](https://www.canada.ca/fr/services/defense/fac/systeme-identite-militaire/instructions-tenue/chapitre-2.html)
 
-### Sources québécoises — alcool et formation
+### Références provinciales — alcool et formation
 
 Réf. L. [Loi sur les permis d’alcool](https://www.legisquebec.gouv.qc.ca/fr/document/lc/P-9.1)
 
