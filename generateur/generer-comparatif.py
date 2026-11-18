@@ -1,4 +1,4 @@
-"""Conserver la constitution initiale et insérer les annotations de la version 0.12."""
+"""Conserver la constitution initiale et insérer les annotations de la version 0.13."""
 from pathlib import Path
 import base64
 import hashlib
@@ -7,12 +7,13 @@ import json
 import re
 import sys
 import shutil
+from markdown_inline import pdf_markup
 
 ROOT = Path(__file__).resolve().parents[1]
 SOURCE = ROOT / 'textes/archives/constitution.md'
-DATA = ROOT / 'documentation/comparatif-0.12/annotations.json'
-OUT = ROOT / 'exports/comparatif-constitution-0.12'
-REF = re.compile(r'\[\[([A-Z0-9]+):(\d+\.\d+)\]\]')
+DATA = ROOT / 'textes/comparatif.json'
+OUT = ROOT / 'exports/comparatif-constitution-0.13'
+REF = re.compile(r'\[\[([A-Z0-9]+):(\d+(?:\.\d+)+)\]\]')
 FILES = {'S':'statuts', 'AP':'avant-propos', **{f'R{i}':f'r{i}' for i in range(1,5)},
          **{c:f'annexe-{c.lower()}' for c in 'ABCDE'},
          'F':'annexe-f-regisseur', 'G':'annexe-g-serveur'}
@@ -49,13 +50,8 @@ def markup(text):
     return text
 
 def rich_note(text):
-    result=[]; start=0
-    for m in REF.finditer(text):
-        result.append(html.escape(text[start:m.start()]))
-        result.append(f'<a href="{url(*m.groups())}" color="#24465e">{ref_label(m)}</a>')
-        start=m.end()
-    result.append(html.escape(text[start:]))
-    return ''.join(result)
+    linked = REF.sub(lambda m: '[' + ref_label(m) + '](' + url(*m.groups()) + ')', text)
+    return pdf_markup(linked)
 
 def main():
     raw=SOURCE.read_bytes(); original=raw.decode('utf-8'); original_hash=digest(raw)
@@ -104,9 +100,9 @@ def main():
     body=md.split('<!-- DEBUT TEXTE INITIAL ANNOTE -->\n',1)[1].split('\n<!-- FIN TEXTE INITIAL ANNOTE -->',1)[0]
     recovered=re.sub(r'\n<!-- DEBUT ANNOTATION -->.*?<!-- FIN ANNOTATION -->\n','',body,flags=re.S)
     assert recovered==original, 'Le texte initial doit pouvoir être reconstruit à l’identique'
-    mdpath=ROOT/'documentation/comparatif-0.12/constitution-initiale-annotee.md'
-    mdpath.write_text(md,encoding='utf-8')
     OUT.mkdir(parents=True,exist_ok=True)
+    mdpath=OUT/'constitution-initiale-annotee.md'
+    mdpath.write_text(md,encoding='utf-8')
     # One ordered content stream drives both Word and PDF.
     stream=[('title','Constitution initiale annotée'),('subtitle',f'Comparaison avec le projet version {data["version_comparee"]}')]
     for para in intro.split('\n\n')[2:]:
@@ -130,11 +126,11 @@ def main():
     stream.append(('break',''))
     stream.append(('original-heading','Dispositions ajoutées ou développées'))
     stream.extend(('note',n) for n in data['ajouts'])
-    write_docx(stream,OUT/'constitution-initiale-annotee-0.12.docx')
-    write_pdf(stream,OUT/'constitution-initiale-annotee-0.12.pdf')
-    web_pdf=ROOT/'site/assets/documents/constitution-initiale-annotee-0.12.pdf'
+    write_docx(stream,OUT/'constitution-initiale-annotee-0.13.docx')
+    write_pdf(stream,OUT/'constitution-initiale-annotee-0.13.pdf')
+    web_pdf=ROOT/'site/assets/documents/constitution-initiale-annotee-0.13.pdf'
     web_pdf.parent.mkdir(parents=True,exist_ok=True)
-    shutil.copyfile(OUT/'constitution-initiale-annotee-0.12.pdf',web_pdf)
+    shutil.copyfile(OUT/'constitution-initiale-annotee-0.13.pdf',web_pdf)
     assert digest(SOURCE.read_bytes())==original_hash
     manifest={'source':str(SOURCE.relative_to(ROOT)),'sha256_source':original_hash,
               'version_comparee':data['version_comparee'],'articles_initiaux':116,
@@ -168,7 +164,7 @@ def write_docx(stream,path):
             p.paragraph_format.left_indent=Inches(.2)
             for token in re.split(r'(\*\*.*?\*\*|\*[^*]+\*)',resolve(text),flags=re.S):
                 run=p.add_run(plain(token)); run.font.size=Pt(10); run.font.color.rgb=RGBColor.from_string('24465E')
-                run.bold=kind=='note-title'; run.italic=kind=='note'
+                run.bold=kind=='note-title' or token.startswith('**'); run.italic=kind=='note'
         else:
             if kind=='original-sub': p.paragraph_format.left_indent=Inches(.22)
             for token in re.split(r'(\*\*.*?\*\*|\*[^*]+\*)',text,flags=re.S):
@@ -178,9 +174,9 @@ def write_docx(stream,path):
         if kind in ('original','original-sub') and idx+1<len(stream) and stream[idx+1][0]=='note-title':
             p.paragraph_format.keep_with_next=True
     footer=sec.footer.paragraphs[0]; footer.alignment=2
-    footer.add_run('Comparatif 0.12  |  ')
+    footer.add_run('Comparatif 0.13  |  ')
     fld=OxmlElement('w:fldSimple'); fld.set(qn('w:instr'),'PAGE'); footer._p.append(fld)
-    doc.core_properties.title='Constitution initiale annotée — comparaison avec la version 0.12'
+    doc.core_properties.title='Constitution initiale annotée — comparaison avec la version 0.13'
     doc.core_properties.author='Mess du 9 EG'
     doc.save(path)
     # Check every source paragraph in the Word body remains in the original sequence.
@@ -198,10 +194,23 @@ def write_pdf(stream,path):
     from reportlab.pdfbase import pdfmetrics
     from reportlab.pdfbase.ttfonts import TTFont
     from reportlab.lib.pagesizes import letter
-    fontroot=Path('C:/Windows/Fonts')
-    for name,file in [('Source','times.ttf'),('Source-Bold','timesbd.ttf'),('Source-Italic','timesi.ttf'),('Source-BoldItalic','timesbi.ttf')]:
-        pdfmetrics.registerFont(TTFont(name,str(fontroot/file)))
-    pdfmetrics.registerFontFamily('Source',normal='Source',bold='Source-Bold',italic='Source-Italic',boldItalic='Source-BoldItalic')
+    # Times sous Windows; familles serif equivalentes sur les machines Linux.
+    families = [
+        (Path('C:/Windows/Fonts'), ('times.ttf','timesbd.ttf','timesi.ttf','timesbi.ttf')),
+        (Path('/usr/share/fonts/truetype/liberation2'), ('LiberationSerif-Regular.ttf','LiberationSerif-Bold.ttf','LiberationSerif-Italic.ttf','LiberationSerif-BoldItalic.ttf')),
+        (Path('/usr/share/fonts/truetype/dejavu'), ('DejaVuSerif.ttf','DejaVuSerif-Bold.ttf','DejaVuSerif-Italic.ttf','DejaVuSerif-BoldItalic.ttf')),
+    ]
+    selected = next(((folder, files) for folder, files in families if all((folder/file).is_file() for file in files)), None)
+    if selected:
+        folder, files = selected
+        for font, file in zip(('Source','Source-Bold','Source-Italic','Source-BoldItalic'), files):
+            pdfmetrics.registerFont(TTFont(font,str(folder/file)))
+        pdfmetrics.registerFontFamily('Source',normal='Source',bold='Source-Bold',italic='Source-Italic',boldItalic='Source-BoldItalic')
+    else:
+        from reportlab.pdfbase.pdfmetrics import Font
+        for alias, face in [('Source','Times-Roman'),('Source-Bold','Times-Bold'),('Source-Italic','Times-Italic'),('Source-BoldItalic','Times-BoldItalic')]:
+            pdfmetrics.registerFont(Font(alias, face, 'WinAnsiEncoding'))
+        pdfmetrics.registerFontFamily('Source',normal='Source',bold='Source-Bold',italic='Source-Italic',boldItalic='Source-BoldItalic')
     body=ParagraphStyle('body',fontName='Source',fontSize=11,leading=13.3,spaceAfter=6,allowWidows=0,allowOrphans=0)
     styles={
       'title':ParagraphStyle('title',parent=body,fontName='Source-Bold',fontSize=22,leading=27,spaceBefore=44,spaceAfter=17),
@@ -223,9 +232,9 @@ def write_pdf(stream,path):
         story.append(p)
     def page_footer(canvas,doc):
         canvas.setFont('Source',9); canvas.setFillColor(HexColor('#333333'))
-        canvas.drawRightString(letter[0]-61,28,f'Comparatif 0.12  |  {doc.page}')
+        canvas.drawRightString(letter[0]-61,28,f'Comparatif 0.13  |  {doc.page}')
     doc=SimpleDocTemplate(str(path),pagesize=letter,leftMargin=61,rightMargin=61,topMargin=46,bottomMargin=46,
-        title='Constitution initiale annotée — comparaison avec la version 0.12',author='Mess du 9 EG')
+        title='Constitution initiale annotée — comparaison avec la version 0.13',author='Mess du 9 EG')
     doc.build(story,onFirstPage=page_footer,onLaterPages=page_footer)
 
 if __name__=='__main__': main()

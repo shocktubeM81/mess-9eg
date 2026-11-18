@@ -109,21 +109,21 @@ def main():
     assert comparison.class_counts.get('comparatif-row') == 117, 'Les 116 articles et les préliminaires doivent former des paires'
     assert {'article-' + str(n) for n in range(1, 117)} <= comparison.ids, 'Articles absents du comparatif'
     assert normalize(' '.join(comparison.original_text)) == normalize(' '.join(pages['constitution.html'].document_text)), 'Le texte initial du comparatif a été altéré'
-    annotations = json.loads((ROOT / 'documentation/comparatif-0.12/annotations.json').read_text(encoding='utf-8'))
+    annotations = json.loads((ROOT / 'textes/comparatif.json').read_text(encoding='utf-8'))
     labels = {'S': 'Statuts', 'AP': 'Avant-propos', **{f'R{i}': f'R{i}' for i in range(1, 5)},
               **{c: f'Annexe {c}' for c in 'ABCDEFG'}}
     groups = [('Annotation — Préliminaires', annotations['preliminaires'])]
     groups += [(f'Annotation — Article {n}', annotations['articles'][str(n)]) for n in range(1, 117)]
     groups += [('Ajouts dans le projet', annotations['ajouts'])]
     annotation_text = [value for title, notes in groups for value in [title, *notes]]
-    annotation_text = [normalize(re.sub(r'\[\[([A-Z0-9]+):(\d+\.\d+)\]\]',
+    annotation_text = [normalize(re.sub(r'\[\[([A-Z0-9]+):(\d+(?:\.\d+)+)\]\]',
                        lambda m: labels[m[1]] + ' ' + m[2], value)) for value in annotation_text]
     assert annotation_text == [normalize(p) for p in comparison.annotation_paragraphs], 'Annotations web différentes du comparatif'
-    pdf = 'assets/documents/constitution-initiale-annotee-0.12.pdf'
+    pdf = 'assets/documents/constitution-initiale-annotee-0.13.pdf'
     assert (output / pdf).read_bytes() == (ROOT / 'site' / pdf).read_bytes(), 'PDF comparatif différent'
-    expected = [normalize(gen['LINK'].sub(lambda match: match[1], b['text']))
-                for b in blocks if re.match(r'^\d+\.\d+\. ', b['text'])]
-    actual = [normalize(p) for p in pages['recueil.html'].paragraphs if re.match(r'^\d+\.\d+\. ', p)]
+    expected = [normalize(gen['clean_label'](b['text']))
+                for b in blocks if re.match(r'^\d+(?:\.\d+)+\. ', b['text'])]
+    actual = [normalize(p) for p in pages['recueil.html'].paragraphs if re.match(r'^\d+(?:\.\d+)+\. ', p)]
     if expected != actual:
         from itertools import zip_longest
         for index, (source, web) in enumerate(zip_longest(expected, actual), 1):
@@ -134,9 +134,9 @@ def main():
     for name, _, items in gen['document_jobs'](text, segments, blocks):
         expected_ids = {ident for block in items for ident in block['ids']}
         assert expected_ids <= pages[name + '.html'].ids, (name, 'Ancres absentes')
-        expected_paragraphs = [normalize(gen['LINK'].sub(lambda match: match[1], b['text']))
-                               for b in items if re.match(r'^\d+\.\d+\. ', b['text'])]
-        actual_paragraphs = [normalize(p) for p in pages[name + '.html'].paragraphs if re.match(r'^\d+\.\d+\. ', p)]
+        expected_paragraphs = [normalize(gen['clean_label'](b['text']))
+                               for b in items if re.match(r'^\d+(?:\.\d+)+\. ', b['text'])]
+        actual_paragraphs = [normalize(p) for p in pages[name + '.html'].paragraphs if re.match(r'^\d+(?:\.\d+)+\. ', p)]
         assert expected_paragraphs == actual_paragraphs, (name, 'Dispositions différentes')
     profile = json.loads((ROOT / 'generateur/modeles/9eg.json').read_text(encoding='utf-8'))
     assert (output / 'assets/images/logo-9eg.png').read_bytes() == (ROOT / profile['insigne']).read_bytes()

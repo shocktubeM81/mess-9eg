@@ -10,6 +10,7 @@ import re
 import subprocess
 import sys
 from sources import load_sources
+from markdown_inline import add_docx_runs, pdf_markup, plain_text
 
 ROOT = Path(__file__).resolve().parents[1]
 LINK = re.compile(r'\[([^]]+)\]\(([^)]+)\)')
@@ -18,14 +19,14 @@ def read(path):
     return Path(path).read_text(encoding='utf-8-sig')
 
 def clean_label(text):
-    return LINK.sub(lambda m: m[1], text).replace('**', '')
+    return plain_text(text)
 
 def block_key(line):
     heading = re.match(r'^(#+)\s+(.+)', line)
     if heading:
         num = re.match(r'(\d+)\.', heading[2])
         return 'H:' + (num[1] if num else heading[2])
-    para = re.match(r'^(\d+\.\d+)\.\s', line)
+    para = re.match(r'^(\d+(?:\.\d+)+)\.\s', line)
     return 'P:' + para[1] if para else 'T:' + line
 
 def split_segments(text, structure):
@@ -50,13 +51,19 @@ def validate(text, structure):
     total=0
     for _,_,spec,body in segments:
         seq={}
+        seen=set()
         for line in body:
-            m=re.match(r'^(\d+)\.(\d+)\.\s',line)
+            m=re.match(r'^(\d+(?:\.\d+)+)\.\s',line)
             if m:
-                a,b=map(int,m.groups())
-                if b!=seq.get(a,0)+1:
-                    raise ValueError(f"Numérotation discontinue dans {spec['marker']}: {a}.{b}")
-                seq[a]=b;total+=1
+                parent, value=m[1].rsplit('.',1)
+                value=int(value)
+                if value!=seq.get(parent,0)+1 or ('.' in parent and parent not in seen):
+                    raise ValueError(f"Numérotation discontinue dans {spec['marker']}: {m[1]}")
+                seq[parent]=value;seen.add(m[1]);total+=1
+        keys = {block_key(local_heading(line, spec['shift'])) for line in body}
+        missing = set(spec['anchors']) - keys
+        if missing:
+            raise ValueError(f"Destination de signet absente dans {spec['source']}: " + ', '.join(sorted(missing)))
     return segments,total
 
 def local_heading(line, shift):
@@ -120,23 +127,7 @@ def document_jobs(text, segments, blocks):
 
 
 def add_runs(paragraph,text):
-    from docx.oxml import OxmlElement
-    from docx.oxml.ns import qn
-    from docx.opc.constants import RELATIONSHIP_TYPE as RT
-    pos=0
-    for m in LINK.finditer(text):
-        paragraph.add_run(text[pos:m.start()])
-        link=OxmlElement('w:hyperlink')
-        if m[2].startswith('#'):
-            link.set(qn('w:anchor'),bookmark_name(m[2][1:]))
-        else:
-            link.set(qn('r:id'),paragraph.part.relate_to(m[2],RT.HYPERLINK,is_external=True))
-        r=OxmlElement('w:r');props=OxmlElement('w:rPr')
-        color=OxmlElement('w:color');color.set(qn('w:val'),'000000');props.append(color)
-        under=OxmlElement('w:u');under.set(qn('w:val'),'single');props.append(under)
-        r.append(props);t=OxmlElement('w:t');t.text=m[1];r.append(t);link.append(r);paragraph._p.append(link)
-        pos=m.end()
-    paragraph.add_run(text[pos:])
+    add_docx_runs(paragraph, text, bookmark_name)
 
 def make_docx(blocks,profile,target):
     from docx import Document
@@ -215,14 +206,14 @@ def make_docx(blocks,profile,target):
         h=re.match(r'^(#+) (.+)',line)
         if h:
             level=min(4,len(h[1])-1);text=h[2]
-            p=doc.add_paragraph(text,style='Heading '+str(level))
+            p=doc.add_paragraph(style='Heading '+str(level));add_runs(p,text)
             new_page=(len(h[1])==2) or (len(h[1])==3 and text.startswith(('Règlement ','Annexe ')) and not after_part_two)
             p.paragraph_format.page_break_before=new_page
             after_part_two=text.startswith('Partie II')
             signature='Approbation du commandant' in text
             first=False
         else:
-            p=doc.add_paragraph();m=re.match(r'^(\d+\.\d+\.) (.*)',line)
+            p=doc.add_paragraph();m=re.match(r'^(\d+(?:\.\d+)+\.) (.*)',line)
             if m:
                 p.paragraph_format.left_indent=Cm(1.1);p.paragraph_format.first_line_indent=Cm(-1.1)
                 p.paragraph_format.tab_stops.add_tab_stop(Cm(1.1))
@@ -271,13 +262,6 @@ def reportlab_pdf(blocks,profile,target):
     for level in range(1,5):styles[str(level)]=ParagraphStyle('h'+str(level),fontName='Times-Bold',fontSize=14 if level==1 else 12,leading=16,spaceBefore=12,spaceAfter=8,keepWithNext=True)
     styles['cover']=ParagraphStyle('cover',fontName='Times-Bold',fontSize=17,leading=24,alignment=TA_CENTER,spaceAfter=18)
     styles['center']=ParagraphStyle('center',fontName='Times-Roman',fontSize=12,leading=16,alignment=TA_CENTER,spaceAfter=10)
-    def markup(text):
-        out=[];pos=0
-        for m in LINK.finditer(text):
-            out.append(html.escape(text[pos:m.start()]))
-            href=('#'+bookmark_name(m[2][1:])) if m[2].startswith('#') else m[2]
-            out.append('<link href="'+html.escape(href,quote=True)+'"><u>'+html.escape(m[1])+'</u></link>');pos=m.end()
-        out.append(html.escape(text[pos:]));return ''.join(out)
     exported_anchors={}
     story=[Spacer(1,20)]
     logo=ROOT/profile['insigne'] if profile.get('insigne') else None
@@ -301,9 +285,9 @@ def reportlab_pdf(blocks,profile,target):
             style=styles[str(min(4,len(h[1])-1))];line=title;first=False;after_part_two=title.startswith('Partie II')
         else:style=styles['body'];after_part_two=False
         anchor=''.join('<a name="'+bookmark_name(i)+'"/>' for i in b['ids'])
-        flow=Paragraph(anchor+markup(line.removeprefix('- ')),style)
+        flow=Paragraph(anchor+pdf_markup(line.removeprefix('- '), bookmark_name),style)
         flow._export_anchors=b['ids']
-        if h and len(h[1]) in (2,3):flow._toc_entry=(len(h[1])-2,h[2],bookmark_name('toc:'+b['text']))
+        if h and len(h[1]) in (2,3):flow._toc_entry=(len(h[1])-2,clean_label(h[2]),bookmark_name('toc:'+b['text']))
         story.append(flow)
     doc=WithContents(str(target),pagesize=letter,leftMargin=profile['marge_gauche_cm']*cm,rightMargin=profile['marge_droite_cm']*cm,topMargin=profile['marge_haut_cm']*cm,bottomMargin=profile['marge_bas_cm']*cm,title=clean_label(blocks[0]['text'].lstrip('# ')),author='Mess du 9 EG')
     doc.multiBuild(story,canvasmaker=Pages)
@@ -337,8 +321,7 @@ def main():
     results=[]
     for name,title,items in jobs:
         current=dict(profile)
-        plain='\n\n'.join(b['text'] for b in items)+'\n'
-        plain=LINK.sub(lambda m:m[1]+' ('+m[2]+')' if not m[2].startswith('#') else m[1],plain)
+        plain='\n\n'.join(plain_text(b['text'], external_urls=True) for b in items)+'\n'
         plain=re.sub(r'^#+\s*','',plain,flags=re.M)
         (out/(name+'.txt')).write_text(plain,encoding='utf-8-sig')
         engine=None;error=None

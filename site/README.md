@@ -1,80 +1,34 @@
 # Site web
 
-Le site lit directement les fichiers Markdown de `textes/` à chaque construction.
-Il ne conserve aucune copie des statuts, règlements, annexes ou de la constitution
-historique dans ce dossier. Les exports Word/PDF restent un recueil unique.
+Le site lit les sources Markdown de `textes/`. Les annotations sont dans `textes/comparatif.json`; la constitution originale est conservée dans `textes/archives/constitution.md`.
 
-## Tester localement
+## Construire et prévisualiser
 
-Sous Windows, double-cliquer sur `Apercu-local.cmd` à la racine du dépôt.
-Le lanceur vérifie les dépendances, ouvre le navigateur et démarre le serveur.
-Si la page s’ouvre avant la fin du démarrage, l’actualiser. Garder la fenêtre
-ouverte pendant la consultation; Ctrl+C arrête le serveur.
-
-Dans PowerShell :
+Depuis la racine du dépôt :
 
 ```powershell
-cd "C:\Users\david\OneDrive\Documents\ChatGPT\MESS\site"
+py -m pip install -r generateur/requirements.txt
+py generateur/generer-comparatif.py
+cd site
 bundle install
-bundle exec jekyll serve --livereload
+bundle exec jekyll serve
 ```
 
-Ouvrir [le site local](http://localhost:4000). Modifier un fichier dans `textes/`
-reconstruit automatiquement ses pages. Aucune préparation Python n’est nécessaire.
-Arrêter le serveur avec Ctrl+C. Après une modification de `_config.yml`, relancer
-le serveur. Ruby+Devkit et Bundler sont requis sous Windows.
+Ouvrir http://localhost:4000. Les modifications des sources Markdown reconstruisent les pages. Après modification des annotations, régénérer le comparatif pour actualiser le PDF téléchargeable. Après modification d’un module Ruby, redémarrer le serveur.
+
+Pour construire sans serveur, remplacer la dernière commande par `bundle exec jekyll build`, puis lancer `py site/verifier.py` depuis la racine.
 
 ## Fichiers à modifier
 
-- Les dispositions : les fichiers `.md` de `../textes/`.
-- L’ordre des documents, leurs titres et les ancres : `../textes/structure.json`.
-- L’accueil : `index.md`.
-- La présentation : `_layouts/` et `assets/`.
-- Le logo original : fichier `insigne` désigné par `../generateur/modeles/9eg.json`.
-- Les anciens liens : `_data/redirections.json` et `_layouts/redirection.html`.
-- La lecture directe et l’assemblage web : `_plugins/documents.rb`.
+| Contenu | Source |
+| --- | --- |
+| Dispositions | `textes/*.md` |
+| Comparatif | `textes/comparatif.json` |
+| Ordre et signets | `textes/structure.json` |
+| Accueil | `site/index.md` |
+| Présentation | `site/_layouts/` et `site/assets/` |
+| Anciennes URL | `site/_data/redirections.json` |
 
-Jekyll crée les pages en mémoire puis écrit uniquement le HTML dans `../_site/`,
-ignoré par Git. Les onglets, les pages individuelles, le recueil et les anciennes
-URL `/versions/...` restent disponibles. Le logo est lu depuis son original et
-écrit dans le site construit, sans copie dans `site/assets/`.
+Les anciennes URL redirigent vers les documents courants. Les Word, PDF et pages HTML sont générés; ils ne sont pas des sources à modifier. `_site/`, `exports/` et la copie du PDF préparée dans `site/assets/documents/` sont ignorés par Git.
 
-La source surveillée est la racine du dépôt pour détecter les changements des
-textes; seules les pages sélectionnées et les ressources du site sont publiées.
-`verifier.py` contrôle les liens et compare les dispositions avec les exports.
-
-## Construire et vérifier
-
-```powershell
-bundle exec jekyll build
-cd ..
-py site/verifier.py
-```
-
-## GitHub Pages
-
-Le workflow `Site web` utilise Ruby et `bundle exec jekyll build` depuis `site/`.
-Le module de lecture directe nécessite cette construction personnalisée; ne pas
-utiliser le mode Jekyll sécurisé ni la construction Pages historique depuis une
-branche. Configurer Pages avec la source **GitHub Actions** pour publier.
-
-La construction et la vérification fournissent un artefact sans publication
-automatique. La publication reste manuelle, avec le paramètre **publier** activé
-sur la branche par défaut. Le domaine personnalisé reste défini par `CNAME`.
-
-## Navigation des règlements
-
-L’onglet **Règlements** ouvre la liste des quatre règlements. Une seconde rangée
-permet de passer de l’un à l’autre, comme pour les annexes. Le service de bar est
-maintenant R3 (`textes/r3.md`) et les finances R4 (`textes/r4.md`).
-
-## Comparatif
-
-L’onglet **Comparatif** présente le texte initial et les annotations de la
-version 0.12. `site/_plugins/comparatif.rb` lit directement la constitution
-archivée et `documentation/comparatif-0.12/annotations.json`. Les renvois
-pointent vers les paragraphes des pages courantes et respectent `baseurl`.
-La page propose aussi le PDF conservé dans `site/assets/documents/`.
-`verifier.py` vérifie les 116 articles, la fidélité du texte initial, les
-annotations, leurs liens et le PDF. Après un changement de module Ruby,
-redémarrer le serveur local.
+Le workflow **Site web** génère d’abord le comparatif depuis ses sources, construit Jekyll puis vérifie les liens, les 116 articles initiaux et la fidélité du texte. Il fournit un artefact à consulter. La publication reste manuelle depuis la branche par défaut avec l’option `publier`; l’audience du site n’est pas changée par une simple génération.

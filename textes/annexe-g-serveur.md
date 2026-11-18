@@ -2,7 +2,7 @@
 
 #### 1. Responsabilités
 
-1.1. Travailler sous la supervision du régisseur.
+1.1. Travailler sous la supervision du responsable du bar.
 
 1.2. Contrôler l’âge en cas de doute, surveiller les signes d’ébriété et appliquer les refus de service. Informer le responsable de service.
 
@@ -14,7 +14,7 @@
 
 1.6. Remplir les réfrigérateurs et présenter les articles en vente.
 
-1.7. Vérifier la propreté des salles et signaler les bris, disparitions et écarts au régisseur.
+1.7. Vérifier la propreté des salles et signaler les bris, disparitions et écarts au responsable du bar.
 
 1.8. À la fermeture, cesser les ventes, sécuriser les boissons et la caisse, nettoyer le matériel, fermer les fenêtres, éteindre les lumières et verrouiller les accès.
 

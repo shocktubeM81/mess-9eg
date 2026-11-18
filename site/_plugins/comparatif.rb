@@ -23,12 +23,12 @@ module Mess
       'A' => 'Annexe A', 'B' => 'Annexe B', 'C' => 'Annexe C',
       'D' => 'Annexe D', 'E' => 'Annexe E', 'F' => 'Annexe F', 'G' => 'Annexe G'
     }.freeze
-    PDF = 'assets/documents/constitution-initiale-annotee-0.12.pdf'
+    PDF = 'assets/documents/constitution-initiale-annotee-0.13.pdf'
 
     def annotation(notes, label, baseurl, sources)
       paragraphs = notes.map do |text|
         # Échapper le texte avant de transformer seulement les renvois déclarés.
-        escaped = CGI.escapeHTML(text).gsub(/\[\[([A-Z0-9]+):(\d+\.\d+)\]\]/) do
+        escaped = CGI.escapeHTML(text).gsub(/\[\[([A-Z0-9]+):(\d+(?:\.\d+)+)\]\]/) do
           group, number = Regexp.last_match.captures
           filename = FILES.fetch(group)
           unless sources.fetch(group).match?(/^#{Regexp.escape(number)}\. /)
@@ -69,7 +69,7 @@ module Mess
 
     def generate(site)
       root = site.source
-      data = JSON.parse(File.read(File.join(root, 'documentation/comparatif-0.12/annotations.json'), encoding: 'bom|utf-8'))
+      data = JSON.parse(File.read(File.join(root, 'textes/comparatif.json'), encoding: 'bom|utf-8'))
       original = File.read(File.join(root, 'textes/archives/constitution.md'), encoding: 'bom|utf-8')
                      .sub(/\A---\r?\n.*?\r?\n---\r?\n/m, '')
       sources = FILES.transform_values do |filename|
@@ -106,7 +106,7 @@ module Mess
       page = Jekyll::PageWithoutAFile.new(site, site.source, '', 'comparatif.html')
       page.content = body.join("\n")
       page.data.merge!('layout' => 'default', 'title' => 'Comparatif avec la constitution initiale',
-                       'document_label' => 'Comparatif — version 0.12', 'comparison_version' => "Version #{data.fetch('version_comparee')}",
+                       'document_label' => 'Comparatif — version 0.13', 'comparison_version' => "Version #{data.fetch('version_comparee')}",
                        'permalink' => '/comparatif.html')
       site.pages << page
       raise 'PDF du comparatif absent' unless File.file?(File.join(root, 'site', PDF))

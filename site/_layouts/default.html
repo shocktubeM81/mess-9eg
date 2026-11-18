@@ -17,15 +17,15 @@
     <div class="site-header-inner">
       <a class="brand" href="{{ '/' | relative_url }}" aria-label="Mess du 9 EG, accueil">
         <img class="brand-emblem" src="{{ '/assets/images/logo-9eg.png' | relative_url }}" width="570" height="787" alt="" aria-hidden="true">
-        <span class="brand-wordmark"><strong>Mess du 9 EG</strong><span>9e Escadron du génie</span></span>
+        <span class="brand-wordmark"><strong>Mess du 9 EG</strong><span>9e Escadron de génie · Rouyn-Noranda</span></span>
       </a>
       <span class="header-caption">Projet de modification<br>à la constitution du Mess</span>
     </div>
     <nav class="top-nav" aria-label="Documents du Mess">
       <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}aria-current="page"{% endif %}>Accueil</a>
       <a href="{{ '/statuts.html' | relative_url }}" {% if page.name == 'statuts.md' %}aria-current="page"{% endif %}>Statuts</a>
-      <a href="{{ '/reglements.html' | relative_url }}" {% if page.document_group == 'reglements' %}aria-current="page"{% endif %}>Règlements</a>
-      <a href="{{ '/annexes.html' | relative_url }}" {% if page.name contains 'annexe' %}aria-current="page"{% endif %}>Annexes</a>
+      <a href="{{ '/reglements.html' | relative_url }}" {% if page.document_group == 'reglements' %}aria-current="page"{% endif %} title="Règlements" aria-label="Règlements">Règlements</a>
+      <a href="{{ '/annexes.html' | relative_url }}" {% if page.name contains 'annexe' %}aria-current="page"{% endif %} title="Annexes" aria-label="Annexes">Annexes</a>
       <a href="{{ '/recueil.html' | relative_url }}" {% if page.name == 'recueil.md' %}aria-current="page"{% endif %}>Recueil complet</a>
       <a href="{{ '/comparatif.html' | relative_url }}" {% if page.name == 'comparatif.html' %}aria-current="page"{% endif %}>Comparatif</a>
       <a href="{{ '/constitution.html' | relative_url }}" {% if page.url == '/constitution.html' %}aria-current="page"{% endif %}>Texte original</a>
@@ -34,7 +34,7 @@
     <nav class="top-nav" aria-label="Règlements du Mess">
       {% for doc in site.data.documents %}{% assign prefix = doc.id | slice: 0, 1 %}{% if prefix == 'r' and doc.id != 'references' %}
       {% assign filename = doc.id | append: '.md' %}
-      <a href="{{ doc.url | relative_url }}" {% if page.name == filename %}aria-current="page"{% endif %}>{{ doc.titre }}</a>
+      <a href="{{ doc.url | relative_url }}" {% if page.name == filename %}aria-current="page"{% endif %} title="{{ doc.titre | escape }}" aria-label="{{ doc.titre | escape }}">{{ doc.titre | replace_first: 'Règlement ', 'R. ' }}</a>
       {% endif %}{% endfor %}
     </nav>
     {% endif %}
@@ -42,7 +42,7 @@
     <nav class="top-nav" aria-label="Annexes des responsabilités">
       {% for doc in site.data.documents %}{% if doc.id contains 'annexe-' %}
       {% assign filename = doc.id | append: '.md' %}
-      <a href="{{ doc.url | relative_url }}" {% if page.name == filename %}aria-current="page"{% endif %}>{{ doc.titre }}</a>
+      <a href="{{ doc.url | relative_url }}" {% if page.name == filename %}aria-current="page"{% endif %} title="{{ doc.titre | escape }}" aria-label="{{ doc.titre | escape }}">{{ doc.titre | replace_first: 'Annexe ', 'Ann. ' }}</a>
       {% endif %}{% endfor %}
     </nav>
     {% endif %}
