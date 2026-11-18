@@ -121,7 +121,7 @@ def main():
     assert annotation_text == [normalize(p) for p in comparison.annotation_paragraphs], 'Annotations web différentes du comparatif'
     pdf = 'assets/documents/constitution-initiale-annotee-0.12.pdf'
     assert (output / pdf).read_bytes() == (ROOT / 'site' / pdf).read_bytes(), 'PDF comparatif différent'
-    expected = [normalize(gen['LINK'].sub(lambda match: match[1], b['text']))
+    expected = [normalize(gen['clean_label'](b['text']))
                 for b in blocks if re.match(r'^\d+(?:\.\d+)+\. ', b['text'])]
     actual = [normalize(p) for p in pages['recueil.html'].paragraphs if re.match(r'^\d+(?:\.\d+)+\. ', p)]
     if expected != actual:
@@ -134,7 +134,7 @@ def main():
     for name, _, items in gen['document_jobs'](text, segments, blocks):
         expected_ids = {ident for block in items for ident in block['ids']}
         assert expected_ids <= pages[name + '.html'].ids, (name, 'Ancres absentes')
-        expected_paragraphs = [normalize(gen['LINK'].sub(lambda match: match[1], b['text']))
+        expected_paragraphs = [normalize(gen['clean_label'](b['text']))
                                for b in items if re.match(r'^\d+(?:\.\d+)+\. ', b['text'])]
         actual_paragraphs = [normalize(p) for p in pages[name + '.html'].paragraphs if re.match(r'^\d+(?:\.\d+)+\. ', p)]
         assert expected_paragraphs == actual_paragraphs, (name, 'Dispositions différentes')
