@@ -1,4 +1,4 @@
-t### Annexe B — VPCM
+### Annexe B — VPCM
 
 #### 1. Responsabilités
 

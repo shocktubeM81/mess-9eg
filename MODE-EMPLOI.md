@@ -10,7 +10,7 @@ Les statuts sont dans `textes/statuts.md`, les quatre règlements dans `r1.md` �
 
 Le gras s’écrit `**texte important**`. Un lien peut aussi être en gras : `[**référence**](https://exemple.ca)`. Les exports Word et PDF conservent ce gras et les liens; le TXT contient le texte lisible sans les marqueurs `**`.
 
-Les numéros et les titres restent ceux reconnus par `textes/structure.json`. En cas de renumérotation, actualiser les renvois et `textes/comparatif.json`. Les annotations du comparatif décrivent les changements par rapport à `textes/archives/constitution.md`, qui est la seule version ancienne conservée.
+Les numéros et les titres restent ceux reconnus par `textes/structure.json`. Si le titre d’un document change, y actualiser `marker` et `titre`; si un titre sans numéro change, actualiser aussi sa clé `H:` en conservant les identifiants de signets. En cas de renumérotation, actualiser les renvois et `textes/comparatif.json`. Les annotations du comparatif décrivent les changements par rapport à `textes/archives/constitution.md`, qui est la seule version ancienne conservée.
 
 ## Générer les documents
 
@@ -43,11 +43,7 @@ bundle install
 bundle exec jekyll serve
 ```
 
-Ouvrez <http://localhost:4000>. Les modifications dans **textes/** déclenchent
-une reconstruction automatique. La préparation Python n’est plus nécessaire.
-Le HTML construit va dans **_site/** à la racine; ne le modifiez pas.
-Les anciens liens et le logo sont également gérés à la construction.
-Voir [les instructions du site](site/README.md).
+Ouvrir <http://localhost:4000>. Les modifications des sources Markdown dans **textes/** déclenchent une reconstruction automatique. Après modification de `textes/comparatif.json`, relancer `py generateur/generer-comparatif.py` depuis la racine pour actualiser le PDF téléchargeable. Les anciens liens et le logo sont également gérés à la construction. Voir [les instructions du site](site/README.md).
 
 Le site est écrit dans `_site/`. Ne pas y modifier les textes. La construction et les vérifications GitHub ne publient pas automatiquement le site; la publication reste manuelle depuis la branche par défaut.
 

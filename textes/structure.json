@@ -61,7 +61,7 @@
         "H:Avant-propos": [
           "avant-propos"
         ],
-        "H:Approbation du commandant": [
+        "H:Approbation du cmdt": [
           "avant-propos-signature"
         ]
       },
@@ -1058,11 +1058,11 @@
         ]
       },
       "tail_anchors": [],
-      "marker": "### Annexe A — Président du comité du Mess",
+      "marker": "### Annexe A — PCM",
       "include_marker": false,
       "shift": 2,
       "id": "annexe-a",
-      "titre": "Annexe A — Président du comité du Mess",
+      "titre": "Annexe A — PCM",
       "url": "/annexe-a.html"
     },
     {
@@ -1094,11 +1094,11 @@
         ]
       },
       "tail_anchors": [],
-      "marker": "### Annexe B — Vice-président du comité du Mess",
+      "marker": "### Annexe B — VPCM",
       "include_marker": false,
       "shift": 2,
       "id": "annexe-b",
-      "titre": "Annexe B — Vice-président du comité du Mess",
+      "titre": "Annexe B — VPCM",
       "url": "/annexe-b.html"
     },
     {

@@ -98,6 +98,12 @@ class DocumentsTest(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, 'Renvoi interne sans destination'):
             GEN['document_blocks'](self.text + '\n[renvoi](#inexistant)\n', self.segments)
 
+    def test_renamed_heading_cannot_silently_drop_a_bookmark(self):
+        broken = self.text.replace('### Approbation du cmdt', '### Signature', 1)
+        self.assertNotEqual(broken, self.text)
+        with self.assertRaisesRegex(ValueError, 'Destination de signet absente'):
+            GEN['validate'](broken, self.structure)
+
 
 if __name__ == '__main__':
     unittest.main()

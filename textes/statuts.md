@@ -2,7 +2,7 @@
 
 ### 1. Nom
 
-1.1. Le Mess est désigné « Mess du 9e Escadron du génie », ci-après appelé « le Mess ». Il comprend deux locaux : le « Club Chimo », destiné aux soldats, caporaux et caporaux-chefs, et le « Mess Combiné », destiné aux sergents, adjudants et officiers.
+1.1. Le Mess est désigné « Mess du 9e Escadron de génie », ci-après appelé « le Mess ». Il comprend deux locaux : le « Club Chimo », destiné aux soldats, caporaux et caporaux-chefs, et le « Mess Combiné », destiné aux sergents, adjudants et officiers.
 
 ### 2. Établissement et administration
 

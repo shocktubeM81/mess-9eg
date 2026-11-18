@@ -30,6 +30,6 @@ Signature : ____________________
 
 Grade et nom : ____________________
 
-Commandant du 9e Escadron du génie
+Commandant du 9e Escadron de génie
 
 Signé à : ____________________ Le : ____________________

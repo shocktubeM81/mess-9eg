@@ -60,6 +60,10 @@ def validate(text, structure):
                 if value!=seq.get(parent,0)+1 or ('.' in parent and parent not in seen):
                     raise ValueError(f"Numérotation discontinue dans {spec['marker']}: {m[1]}")
                 seq[parent]=value;seen.add(m[1]);total+=1
+        keys = {block_key(local_heading(line, spec['shift'])) for line in body}
+        missing = set(spec['anchors']) - keys
+        if missing:
+            raise ValueError(f"Destination de signet absente dans {spec['source']}: " + ', '.join(sorted(missing)))
     return segments,total
 
 def local_heading(line, shift):
