@@ -109,7 +109,7 @@ def main():
     assert comparison.class_counts.get('comparatif-row') == 117, 'Les 116 articles et les préliminaires doivent former des paires'
     assert {'article-' + str(n) for n in range(1, 117)} <= comparison.ids, 'Articles absents du comparatif'
     assert normalize(' '.join(comparison.original_text)) == normalize(' '.join(pages['constitution.html'].document_text)), 'Le texte initial du comparatif a été altéré'
-    annotations = json.loads((ROOT / 'documentation/comparatif-0.12/annotations.json').read_text(encoding='utf-8'))
+    annotations = json.loads((ROOT / 'textes/comparatif.json').read_text(encoding='utf-8'))
     labels = {'S': 'Statuts', 'AP': 'Avant-propos', **{f'R{i}': f'R{i}' for i in range(1, 5)},
               **{c: f'Annexe {c}' for c in 'ABCDEFG'}}
     groups = [('Annotation — Préliminaires', annotations['preliminaires'])]

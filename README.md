@@ -2,30 +2,25 @@
 
 **Projet à adopter et à approuver.**
 
-| Dossier | Ce qu’on y trouve |
+Les documents source sont réunis dans [textes/](textes/README.md). Pour les modifier directement sur GitHub, ouvrir le fichier concerné puis choisir **Edit**. Le site et les exports utilisent ces mêmes sources.
+
+| Contenu à modifier | Source |
 | --- | --- |
-| [textes/](textes/) | Statuts, R1 à R4 et annexes dans des fichiers Markdown distincts |
-| [site/](site/) | Le site web : pages, navigation, styles et construction Jekyll |
-| [generateur/](generateur/) | Les outils et modèles pour produire Word, PDF et TXT |
-| [documentation/](documentation/) | Les notes de révision, concordances et explications |
-| `exports/` | Les documents produits, ignorés par Git |
+| Statuts | [textes/statuts.md](textes/statuts.md) |
+| Règlements | [R1](textes/r1.md), [R2](textes/r2.md), [R3](textes/r3.md), [R4](textes/r4.md) |
+| Fonctions et responsabilités | Annexes A à G dans [textes/](textes/) |
+| Annotations du comparatif | [textes/comparatif.json](textes/comparatif.json) |
+| Titre et version | [textes/presentation.md](textes/presentation.md) |
+| Constitution originale conservée | [textes/archives/constitution.md](textes/archives/constitution.md) |
 
-Pour changer les dispositions, modifier le document correspondant dans
-[textes/](textes/README.md) : `statuts.md`, `r1.md` à `r4.md`, ou une annexe.
-Pour changer l’apparence du site, ouvrir `site/`.
-Pour produire les documents sous Windows, double-cliquer sur
-[generateur/Generer-les-documents.cmd](generateur/Generer-les-documents.cmd).
+Le gras s’écrit `**texte en gras**`. Il est rendu sur le site ainsi que dans les exports Word et PDF; le TXT conserve le texte sans les marqueurs de mise en forme.
 
-Le site lit directement les mêmes fichiers Markdown séparés que le générateur, sans copie intermédiaire.
-Le site affiche des onglets et une page par document, avec un recueil complet.
-Le générateur assemble ces sources en un seul recueil, exporté en Word, PDF et TXT.
-Le site et les documents ont chacun leur workflow GitHub Actions.
+Les fichiers produits vont dans `exports/` et `_site/`, hors du suivi Git. GitHub Actions fournit les documents téléchargeables dans les artefacts **Documents de travail**. Les anciennes copies de travail ont été retirées; l’historique Git reste disponible.
 
 - [Mode d’emploi](MODE-EMPLOI.md)
-- [Contribuer et enregistrer une adoption](CONTRIBUTING.md)
-- [Organisation détaillée](documentation/organisation-depot.md)
-- [Transcription historique à vérifier](textes/archives/constitution.md)
-- [Notes de révision](documentation/notes-revision.md)
-- [Concordance historique](documentation/concordance.md)
+- [Contribuer](CONTRIBUTING.md)
+- [Organisation du dépôt](documentation/organisation-depot.md)
+- [Générateur](generateur/README.md)
+- [Site web](site/README.md)
 
-La fusion d’un changement ou la génération d’un fichier ne constitue pas une adoption.
+Une fusion ou une génération ne constitue pas une adoption des textes.

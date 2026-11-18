@@ -1,85 +1,54 @@
 # Mode d’emploi
 
-## Modifier un document
+## Modifier sur GitHub
 
-Ouvrez le fichier correspondant dans **textes/** : **statuts.md**, **r1.md** à
-**r4.md**, une **annexe**, **references.md** ou **avant-propos.md**.
-Le titre général et la version se trouvent dans **textes/presentation.md**.
-Les fichiers sont en UTF-8, sans balises du site ni mise en page Word.
-Conservez les titres reconnus, les numéros et les renvois. L’ordre du recueil
-et les identifiants sont définis dans **textes/structure.json**.
+1. Ouvrir la branche de travail et le fichier dans [textes/](textes/README.md).
+2. Choisir **Edit** et modifier le texte Markdown.
+3. Enregistrer le changement dans la branche, puis consulter les contrôles GitHub Actions.
 
-Les annotations dans Word sont des propositions : reportez les corrections
-retenues dans le Markdown concerné pour les conserver à la prochaine génération.
-Le projet reste à adopter et à approuver.
+Les statuts sont dans `textes/statuts.md`, les quatre règlements dans `r1.md` à `r4.md` et les fonctions dans les annexes A à G. Le titre et la version se trouvent dans `textes/presentation.md`.
 
-## Générer les Word et PDF
+Le gras s’écrit `**texte important**`. Un lien peut aussi être en gras : `[**référence**](https://exemple.ca)`. Les exports Word et PDF conservent ce gras et les liens; le TXT contient le texte lisible sans les marqueurs `**`.
 
-Sous Windows, double-cliquez sur **generateur/Generer-les-documents.cmd**.
-Le dossier **exports/** reçoit un seul recueil complet en trois formats :
-**statuts-et-reglements.docx**, **statuts-et-reglements.pdf** et
-**statuts-et-reglements.txt**.
+Les numéros et les titres restent ceux reconnus par `textes/structure.json`. En cas de renumérotation, actualiser les renvois et `textes/comparatif.json`. Les annotations du comparatif décrivent les changements par rapport à `textes/archives/constitution.md`, qui est la seule version ancienne conservée.
 
-Le recueil rassemble les statuts, les six règlements et les sept annexes, avec
-une couverture, une table des matières, les références cliquables et la pagination.
-Les renvois entre les sections restent internes au document.
+## Générer les documents
 
-Avec Microsoft Word installé, le PDF est exporté depuis le DOCX et la table des
-matières est actualisée. Sinon, ReportLab produit le PDF; sa pagination peut
-différer de Word. Après une génération DOCX seule, actualisez la table dans Word.
-**exports/generation.json** consigne les sources, leurs empreintes et le moteur
-PDF utilisé pour le recueil.
-
-La génération fonctionne sans GitHub ni connexion Internet. Les références ne
-sont pas téléchargées; aucune signature ou date d’adoption n’est ajoutée.
-
-```powershell
-# Produire le recueil Word, PDF et TXT
-.\generateur\Generer-les-documents.ps1
-
-# Produire tous les fichiers sans Microsoft Word
-.\generateur\Generer-les-documents.ps1 -PdfMoteur reportlab
-
-# Word et TXT seulement, ou TXT seulement
-py generateur/generer-documents.py --docx-seul
-py generateur/generer-documents.py --texte-seul
-```
-
-## Première installation
-
-Python 3.10 ou plus récent est nécessaire. Sur cet ordinateur, le lanceur utilise
-en priorité le Python fourni avec Codex. Sur un autre ordinateur :
+Sous Windows, double-cliquer sur `generateur/Generer-les-documents.cmd` pour produire le recueil Word, PDF et TXT dans `exports/`.
 
 ```powershell
 py -m pip install -r generateur/requirements.txt
+.\generateur\Generer-les-documents.ps1
+
+# Utiliser le moteur PDF autonome
+.\generateur\Generer-les-documents.ps1 -PdfMoteur reportlab
+
+# Générer aussi le comparatif Word, PDF et Markdown
+py generateur/generer-comparatif.py
 ```
 
-## Actualiser le site
+Le recueil rassemble les statuts, les quatre règlements et les sept annexes. Avec Microsoft Word installé, le PDF peut être exporté depuis le DOCX et la table des matières actualisée. Sinon, ReportLab produit le PDF. Les résultats et leurs empreintes sont consignés dans `exports/`.
 
-Le site lit directement les fichiers de **textes/**, avec les onglets Statuts,
-Règlements et Annexes. Il conserve une page par document et un recueil complet.
-Depuis le dossier **site/** :
+Sur GitHub, ouvrir **Actions → Documents de travail**, choisir une exécution réussie et télécharger son artefact. Les fichiers générés ne sont pas conservés parmi les sources du dépôt.
+
+## Prévisualiser le site
+
+Depuis la racine du dépôt, avec Python, Ruby et Bundler installés :
 
 ```powershell
+py -m pip install -r generateur/requirements.txt
+py generateur/generer-comparatif.py
+cd site
 bundle install
 bundle exec jekyll serve
 ```
 
-Ouvrez **http://localhost:4000**. Les modifications dans **textes/** déclenchent
-une reconstruction automatique. La préparation Python n’est plus nécessaire.
-Le HTML construit va dans **_site/** à la racine; ne le modifiez pas.
-Les anciens liens et le logo sont également gérés à la construction.
-Voir [les instructions du site](site/README.md).
+Ouvrir **http://localhost:4000**. Les changements aux sources Markdown reconstruisent leurs pages. Après une modification des annotations, relancer la génération du comparatif pour actualiser le PDF proposé au téléchargement. Après une modification d’un module Ruby, redémarrer le serveur.
 
-## Changer la présentation
+Le site est écrit dans `_site/`. Ne pas y modifier les textes. La construction et les vérifications GitHub ne publient pas automatiquement le site; la publication reste manuelle depuis la branche par défaut.
 
-Les marges, la police et l’insigne sont définis dans **generateur/modeles/9eg.json**.
-La présentation conserve le format lettre, Times New Roman, la couverture avec
-l’insigne et la pagination. Pour choisir un autre profil fourni localement :
+## Présentation et historique
 
-```powershell
-.\generateur\Generer-les-documents.ps1 -Modele nom-du-profil
-```
+La présentation des exports est définie dans `generateur/modeles/9eg.json`; celle du site se trouve dans `site/`. Les annotations faites dans un Word doivent être reportées dans le fichier source correspondant.
 
-Le générateur refuse une numérotation discontinue ou un renvoi interne sans
-destination. Il ne corrige pas les numéros automatiquement.
+Les anciennes copies de travail ont été retirées du dépôt courant et restent consultables dans l’historique Git. Une génération ou une fusion ne constitue pas une adoption ni une approbation des textes.

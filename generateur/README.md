@@ -1,34 +1,25 @@
-# Générateur de fichiers
+# Générateur de documents
 
-Tout ce qui produit les fichiers Word, PDF et TXT est regroupé ici.
-Le contenu provient des fichiers Markdown séparés de `../textes/`; les résultats vont dans
-`../exports/`, quel que soit le dossier depuis lequel on lance la commande.
+Les sources modifiables se trouvent dans [textes/](../textes/README.md). Le recueil et le comparatif sont générés dans `exports/`, sans modifier leurs sources.
 
-- `Generer-les-documents.cmd` : double-clic sous Windows.
-- `Generer-les-documents.ps1` : lanceur PowerShell.
-- `generer-documents.py` : validation du maître et génération.
-- `exporter-pdf.ps1` : export PDF avec Microsoft Word si disponible.
-- `requirements.txt` : dépendances Python.
-- `sources.py` : lecture des fichiers et assemblage dans l’ordre de `textes/structure.json`.
-- `modeles/` : présentation et insigne.
-
-Le logo du 9 EG est `modeles/Logo 34RGC Det Rouyn.png`, désigné par le champ
-`insigne` du profil `9eg.json`. Jekyll lit directement le même fichier lors de la construction du site.
-
-Depuis la racine :
+| Outil | Rôle |
+| --- | --- |
+| `Generer-les-documents.cmd` / `.ps1` | Générer le recueil sous Windows |
+| `generer-documents.py` | Recueil unique Word, PDF et TXT |
+| `generer-comparatif.py` | Comparatif Word, PDF et Markdown |
+| `markdown_inline.py` | Gras Markdown et liens dans les exports |
+| `sources.py` | Assemblage déclaré dans `textes/structure.json` |
+| `modeles/9eg.json` | Présentation et insigne |
 
 ```powershell
 py -m pip install -r generateur/requirements.txt
-.\generateur\Generer-les-documents.ps1
-```
-
-Le site web n’est pas nécessaire pour produire les fichiers.
-Le double-clic assemble les sources en un seul recueil : `statuts-et-reglements.docx`,
-`statuts-et-reglements.pdf` et `statuts-et-reglements.txt`.
-
-```powershell
 .\generateur\Generer-les-documents.ps1 -PdfMoteur reportlab
+py generateur/generer-comparatif.py
+py -m unittest discover -s generateur -p 'test_*.py'
 ```
 
-Les renvois entre statuts, règlements et annexes restent internes au recueil.
-Voir le [mode d’emploi complet](../MODE-EMPLOI.md).
+`**texte**` devient du gras dans Word et PDF. Le gras peut entourer un lien ou ne porter que sur son libellé. Les astérisques échappés et les marqueurs sans fermeture restent du texte littéral. Le TXT retire la mise en forme et conserve les destinations externes des liens.
+
+Le comparatif lit `textes/comparatif.json` et `textes/archives/constitution.md`; sa génération vérifie la conservation intégrale des 116 articles initiaux. Le PDF destiné au site est recréé automatiquement par GitHub Actions.
+
+Voir le [mode d’emploi](../MODE-EMPLOI.md).

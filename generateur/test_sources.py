@@ -80,7 +80,7 @@ class DocumentsTest(unittest.TestCase):
     def test_comparison_targets_have_exported_bookmarks(self):
         import json
         import re
-        comparison = json.loads((ROOT / 'documentation/comparatif-0.12/annotations.json').read_text(encoding='utf-8'))
+        comparison = json.loads((ROOT / 'textes/comparatif.json').read_text(encoding='utf-8'))
         labels = {'S': 'statuts', 'AP': 'avant-propos', **{f'R{i}': f'r{i}' for i in range(1,5)},
                   **{letter.upper(): f'annexe-{letter}' for letter in 'abcde'},
                   'F': 'annexe-f-regisseur', 'G': 'annexe-g-serveur'}

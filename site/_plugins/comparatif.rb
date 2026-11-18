@@ -69,7 +69,7 @@ module Mess
 
     def generate(site)
       root = site.source
-      data = JSON.parse(File.read(File.join(root, 'documentation/comparatif-0.12/annotations.json'), encoding: 'bom|utf-8'))
+      data = JSON.parse(File.read(File.join(root, 'textes/comparatif.json'), encoding: 'bom|utf-8'))
       original = File.read(File.join(root, 'textes/archives/constitution.md'), encoding: 'bom|utf-8')
                      .sub(/\A---\r?\n.*?\r?\n---\r?\n/m, '')
       sources = FILES.transform_values do |filename|

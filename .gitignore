@@ -58,3 +58,6 @@ Desktop.ini
 
 # Attention : .gitignore ne retire pas les fichiers deja suivis
 # et ne securise pas les documents d'un depot public.
+
+# Copies du comparatif regenerees depuis textes/comparatif.json
+/site/assets/documents/constitution-initiale-annotee-*.pdf

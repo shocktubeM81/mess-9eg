@@ -7,10 +7,11 @@ import json
 import re
 import sys
 import shutil
+from markdown_inline import pdf_markup
 
 ROOT = Path(__file__).resolve().parents[1]
 SOURCE = ROOT / 'textes/archives/constitution.md'
-DATA = ROOT / 'documentation/comparatif-0.12/annotations.json'
+DATA = ROOT / 'textes/comparatif.json'
 OUT = ROOT / 'exports/comparatif-constitution-0.12'
 REF = re.compile(r'\[\[([A-Z0-9]+):(\d+(?:\.\d+)+)\]\]')
 FILES = {'S':'statuts', 'AP':'avant-propos', **{f'R{i}':f'r{i}' for i in range(1,5)},
@@ -49,13 +50,8 @@ def markup(text):
     return text
 
 def rich_note(text):
-    result=[]; start=0
-    for m in REF.finditer(text):
-        result.append(html.escape(text[start:m.start()]))
-        result.append(f'<a href="{url(*m.groups())}" color="#24465e">{ref_label(m)}</a>')
-        start=m.end()
-    result.append(html.escape(text[start:]))
-    return ''.join(result)
+    linked = REF.sub(lambda m: '[' + ref_label(m) + '](' + url(*m.groups()) + ')', text)
+    return pdf_markup(linked)
 
 def main():
     raw=SOURCE.read_bytes(); original=raw.decode('utf-8'); original_hash=digest(raw)
@@ -104,9 +100,9 @@ def main():
     body=md.split('<!-- DEBUT TEXTE INITIAL ANNOTE -->\n',1)[1].split('\n<!-- FIN TEXTE INITIAL ANNOTE -->',1)[0]
     recovered=re.sub(r'\n<!-- DEBUT ANNOTATION -->.*?<!-- FIN ANNOTATION -->\n','',body,flags=re.S)
     assert recovered==original, 'Le texte initial doit pouvoir être reconstruit à l’identique'
-    mdpath=ROOT/'documentation/comparatif-0.12/constitution-initiale-annotee.md'
-    mdpath.write_text(md,encoding='utf-8')
     OUT.mkdir(parents=True,exist_ok=True)
+    mdpath=OUT/'constitution-initiale-annotee.md'
+    mdpath.write_text(md,encoding='utf-8')
     # One ordered content stream drives both Word and PDF.
     stream=[('title','Constitution initiale annotée'),('subtitle',f'Comparaison avec le projet version {data["version_comparee"]}')]
     for para in intro.split('\n\n')[2:]:
@@ -168,7 +164,7 @@ def write_docx(stream,path):
             p.paragraph_format.left_indent=Inches(.2)
             for token in re.split(r'(\*\*.*?\*\*|\*[^*]+\*)',resolve(text),flags=re.S):
                 run=p.add_run(plain(token)); run.font.size=Pt(10); run.font.color.rgb=RGBColor.from_string('24465E')
-                run.bold=kind=='note-title'; run.italic=kind=='note'
+                run.bold=kind=='note-title' or token.startswith('**'); run.italic=kind=='note'
         else:
             if kind=='original-sub': p.paragraph_format.left_indent=Inches(.22)
             for token in re.split(r'(\*\*.*?\*\*|\*[^*]+\*)',text,flags=re.S):
@@ -198,10 +194,23 @@ def write_pdf(stream,path):
     from reportlab.pdfbase import pdfmetrics
     from reportlab.pdfbase.ttfonts import TTFont
     from reportlab.lib.pagesizes import letter
-    fontroot=Path('C:/Windows/Fonts')
-    for name,file in [('Source','times.ttf'),('Source-Bold','timesbd.ttf'),('Source-Italic','timesi.ttf'),('Source-BoldItalic','timesbi.ttf')]:
-        pdfmetrics.registerFont(TTFont(name,str(fontroot/file)))
-    pdfmetrics.registerFontFamily('Source',normal='Source',bold='Source-Bold',italic='Source-Italic',boldItalic='Source-BoldItalic')
+    # Times sous Windows; familles serif equivalentes sur les machines Linux.
+    families = [
+        (Path('C:/Windows/Fonts'), ('times.ttf','timesbd.ttf','timesi.ttf','timesbi.ttf')),
+        (Path('/usr/share/fonts/truetype/liberation2'), ('LiberationSerif-Regular.ttf','LiberationSerif-Bold.ttf','LiberationSerif-Italic.ttf','LiberationSerif-BoldItalic.ttf')),
+        (Path('/usr/share/fonts/truetype/dejavu'), ('DejaVuSerif.ttf','DejaVuSerif-Bold.ttf','DejaVuSerif-Italic.ttf','DejaVuSerif-BoldItalic.ttf')),
+    ]
+    selected = next(((folder, files) for folder, files in families if all((folder/file).is_file() for file in files)), None)
+    if selected:
+        folder, files = selected
+        for font, file in zip(('Source','Source-Bold','Source-Italic','Source-BoldItalic'), files):
+            pdfmetrics.registerFont(TTFont(font,str(folder/file)))
+        pdfmetrics.registerFontFamily('Source',normal='Source',bold='Source-Bold',italic='Source-Italic',boldItalic='Source-BoldItalic')
+    else:
+        from reportlab.pdfbase.pdfmetrics import Font
+        for alias, face in [('Source','Times-Roman'),('Source-Bold','Times-Bold'),('Source-Italic','Times-Italic'),('Source-BoldItalic','Times-BoldItalic')]:
+            pdfmetrics.registerFont(Font(alias, face, 'WinAnsiEncoding'))
+        pdfmetrics.registerFontFamily('Source',normal='Source',bold='Source-Bold',italic='Source-Italic',boldItalic='Source-BoldItalic')
     body=ParagraphStyle('body',fontName='Source',fontSize=11,leading=13.3,spaceAfter=6,allowWidows=0,allowOrphans=0)
     styles={
       'title':ParagraphStyle('title',parent=body,fontName='Source-Bold',fontSize=22,leading=27,spaceBefore=44,spaceAfter=17),
