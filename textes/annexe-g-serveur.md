@@ -1,6 +1,6 @@
 ### Annexe G — Serveur
 
-#### 1. Responsabilités du serveur
+#### 1. Responsabilités
 
 1.1. Travailler sous la supervision du responsable du bar.
 
