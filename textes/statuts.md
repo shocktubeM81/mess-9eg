@@ -64,9 +64,9 @@
 
 ### 5. Comité du Mess
 
-5.1. **Administration et pouvoirs.** Le Mess est administré par un comité, ci-après appelé « le comité », qui assure l’administration courante et la mise en œuvre des décisions de l’assemblée générale, dans les limites du budget et des délégations approuvés. Sous réserve des pouvoirs du cmdt, les élections, les destitutions des membres élus, les cotisations, les budgets et les modifications aux statuts relèvent de l’assemblée générale et ne peuvent être décidés en réunion du comité.
+5.1. Administration et pouvoirs. Le Mess est administré par un comité, ci-après appelé « le comité », qui assure l’administration courante et la mise en œuvre des décisions de l’assemblée générale, dans les limites du budget et des délégations approuvés. Sous réserve des pouvoirs du cmdt, les élections, les destitutions des membres élus, les cotisations, les budgets et les modifications aux statuts relèvent de l’assemblée générale et ne peuvent être décidés en réunion du comité.
 
-5.2. **Composition et représentation.** Le comité comprend au moins trois membres ordinaires :
+5.2. Composition et représentation. Le comité comprend au moins trois membres ordinaires :
 
 - a. le président du comité du mess (PCM);
 - b. le vice-président du comité du mess (VPCM);
@@ -80,18 +80,18 @@ Lorsque le responsable du bar est militaire, membre ordinaire du Mess et qu’il
 
 Lorsqu’il exerce cette fonction dans le cadre d’un emploi au sein du Personnel des FNP, ou qu’il n’est pas élu ou nommé au comité, il participe aux réunions à titre consultatif, sans droit de vote et sans être compté dans le quorum du comité. Cette participation consultative reprend, pour le responsable du bar, le rôle de conseil prévu pour le gérant à la [réf. A, chap. 9-4, para. 185](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=340).
 
-5.3. **Élections et nominations.** Les membres du comité sont élus en assemblée générale par les membres ayant droit de vote ou nommés par le cmdt, conformément à la [réf. A, chap. 9-4, para. 16](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=284). Les élections se tiennent normalement en décembre, à la majorité simple des voix exprimées.
+5.3. Élections et nominations. Les membres du comité sont élus en assemblée générale par les membres ayant droit de vote ou nommés par le cmdt, conformément à la [réf. A, chap. 9-4, para. 16](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=284). Les élections se tiennent normalement en décembre, à la majorité simple des voix exprimées.
 
-5.4. **Mandats et relève.** La durée des mandats, leur prolongation et la relève échelonnée respectent la [réf. A, chap. 9-4, para. 18](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=284).
+5.4. Mandats et relève. La durée des mandats, leur prolongation et la relève échelonnée respectent la [réf. A, chap. 9-4, para. 18](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=284).
 
-5.5. **Fin de mandat.** Lorsqu’un membre ne participe plus aux travaux du comité ou n’assume plus ses fonctions, une solution est d’abord recherchée avec lui. Si la situation persiste :
+5.5. Fin de mandat. Lorsqu’un membre ne participe plus aux travaux du comité ou n’assume plus ses fonctions, une solution est d’abord recherchée avec lui. Si la situation persiste :
 
 - a. pour un membre élu, l’assemblée générale peut mettre fin à son mandat à la majorité des voix exprimées. Le membre concerné reçoit les motifs par écrit au moins un mois avant le vote et peut présenter ses observations;
 - b. pour un membre nommé, la situation est soumise au cmdt pour décision.
 
-5.6. **Bénévolat et conflits d’intérêts.** Les fonctions au comité sont bénévoles. Les conflits d’intérêts et les avantages liés à la gestion du Mess sont régis par la [réf. A, chap. 9-4, para. 27](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=289) et la [réf. A, chap. 9-4, para. 28](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=290).
+5.6. Bénévolat et conflits d’intérêts. Les fonctions au comité sont bénévoles. Les conflits d’intérêts et les avantages liés à la gestion du Mess sont régis par la [réf. A, chap. 9-4, para. 27](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=289) et la [réf. A, chap. 9-4, para. 28](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=290).
 
-5.7. **Fonctions et responsabilités.** Les fonctions et responsabilités des membres du comité ainsi que celles du responsable du bar et des serveurs sont détaillées dans les annexes suivantes :
+5.7. Fonctions et responsabilités. Les fonctions et responsabilités des membres du comité ainsi que celles du responsable du bar et des serveurs sont détaillées dans les annexes suivantes :
 
 - a. [Annexe A — PCM](#annexe-a-section-1);
 - b. [Annexe B — VPCM](#annexe-b-section-1);
