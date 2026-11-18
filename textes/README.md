@@ -22,3 +22,7 @@ Pour mettre des mots en gras, écrire `**ces mots**`. Les liens peuvent aussi av
 Conserver les titres, les numéros et les renvois. Après une renumérotation, actualiser `structure.json` et les annotations du comparatif. La constitution originale sert de référence historique; les modifications au projet vont dans les autres sources.
 
 Ne pas modifier les Word, PDF ou autres copies générées pour changer les dispositions : ces sorties sont recréées à la génération suivante.
+
+## Renvois aux sources
+
+Les noms complets et les lettres des sources sont définis dans `references.md`. Dans les textes, écrire un lien sous la forme `[réf. X, para. 12](URL)` ou `[réf. X, art. 66](URL)`, en ajoutant le chapitre au besoin. Chaque renvoi répète la lettre et vise le signet, la section ou la page PDF pertinente. Pour une source sans paragraphes numérotés, indiquer sa rubrique. Une réorganisation des lettres exige la mise à jour de tous les renvois. Les tests vérifient leur présentation et la concordance entre la lettre et le document lié.

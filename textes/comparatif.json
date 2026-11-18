@@ -9,7 +9,7 @@
   ],
   "articles": {
     "1": [
-      "Références remplacées — Les mentions de la DOAD 5045-0 et du A-PS-110-001/AG-002 ne sont pas reprises dans cet énoncé. Les textes de référence sont regroupés dans la section Références; [[S:2.1]] et [[S:2.3]] renvoient aux ORFC 27.01, au Manuel PSP et à la DOAD 9003-1.",
+      "Références remplacées — Les mentions de la DOAD 5045-0 et du A-PS-110-001/AG-002 ne sont pas reprises dans cet énoncé. Les textes de référence sont regroupés dans la section Références; les renvois applicables à l’établissement et à l’administration du Mess sont précisés dans [[S:2.1]] et [[S:2.3]].",
       "Note 1 — La convention de rédaction au masculin n’est pas reprise comme disposition distincte.",
       "Note 2 — Déplacée et modifiée dans [[S:2.2]] : le terme commandant désigne le commandant du Mess, soit le commandant d’unité du 34 RGC ou le commandant dont les pouvoirs ont été délégués."
     ],
@@ -154,7 +154,7 @@
     ],
     "40": [
       "a — Déplacé dans [[G:1.1]]. b à d et f — Regroupés dans [[G:1.5]], qui vise le nettoyage du bar, des verres, de l’équipement, des chopes et de l’argenterie. Le ramassage des verres à mesure n’est plus détaillé. e et g — Regroupés dans [[G:1.6]]. h et i — Regroupés dans [[G:1.7]]. j — L’obligation de rester alerte pour un service immédiat n’est plus énoncée. k — Intégré aux opérations de fermeture dans [[G:1.8]], sans liste expresse des lumières et fenêtres.",
-      "l(1) à l(3) — Les interdictions locales de vente de spiritueux à la bouteille et de bière à la caisse, ainsi que l’exception du vin régimentaire à la bouteille ou à la caisse et pour consommation à l’extérieur, ne sont plus reproduites. [[R3:1.2]] renvoie aux règles applicables au service et aux ventes d’alcool; [[G:1.10]] précise les moyens de paiement."
+      "l(1) à l(3) — Les interdictions locales de vente de spiritueux à la bouteille et de bière à la caisse, ainsi que l’exception du vin régimentaire à la bouteille ou à la caisse et pour consommation à l’extérieur, ne sont plus reproduites. [[R3:3.1]] renvoie aux règles applicables au service et aux ventes d’alcool; [[G:1.10]] précise les moyens de paiement."
     ],
     "41": [
       "a — Le compte rendu au président est repris dans [[E:1.1]], qui confie la fonction à une seule personne pour les deux locaux. b et c — Regroupés dans [[E:1.2]]. d et la note — Repris dans [[E:1.4]], qui permet de confier l’organisation tout en suivant le programme et le budget. e — Déplacé dans [[E:1.5]]. f — Déplacé dans [[E:1.6]]. g — L’obligation générale d’exécuter toute autre tâche assignée n’est plus énoncée. [[E:1.3]] ajoute le traitement des propositions d’activités."
@@ -180,8 +180,8 @@
       "k — Le remboursement par chèque nominatif est remplacé dans [[R4:4.5]] par une régularisation et un remboursement du trop-perçu par les moyens autorisés par les SBMFC."
     ],
     "46": [
-      "a — Le retrait du privilège de chèque personnel et la récupération des frais de chèque sans fonds ne sont plus énoncés. [[R3:5.1]] prévoit les espèces et cartes de débit ou crédit au bar.",
-      "b — L’affichage des prix est repris dans [[R3:4.1]]. L’approbation préalable des changements de prix est déplacée dans [[R4:5.1]]. c — Le paiement de tous les achats par chèque est remplacé dans [[R4:5.2]] par des virements via les SBMFC et la possibilité d’une carte autorisée.",
+      "a — Le retrait du privilège de chèque personnel et la récupération des frais de chèque sans fonds ne sont plus énoncés. [[R3:4.1]] prévoit les espèces et cartes de débit ou crédit au bar.",
+      "b — L’affichage des prix est repris dans [[R3:3.3]]. L’approbation préalable des changements de prix est déplacée dans [[R4:5.1]]. c — Le paiement de tous les achats par chèque est remplacé dans [[R4:5.2]] par des virements via les SBMFC et la possibilité d’une carte autorisée.",
       "d — La carte du commandant de 50 $ par mois, non cumulative, et son utilisation par le PCAM en l’absence du commandant ne sont plus reprises.",
       "e — Remplacé par [[R4:5.3]] : consommations offertes selon les références citées et, pour les boissons sans alcool, une consommation par membre présent dans le plafond annuel approuvé. Le maximum local de trois traites annuelles, les événements nommés, l’usage unique par événement et le privilège particulier au dîner de la troupe ne sont plus reproduits.",
       "f — Le paiement intégral de la cotisation annuelle comme définition expresse de membre en règle n’est plus repris. Le projet emploie toujours « en règle », notamment dans [[S:7.5]], sans reprendre cette définition. g — L’obligation locale de deux signatures sur les chèques est retirée; [[R4:5.2]] décrit les moyens de paiement autorisés."
@@ -190,7 +190,7 @@
       "a, (1) à (3) — L’exécution d’un programme et d’un budget approuvés est reprise plus généralement dans [[R4:14.1]], [[S:5.1]] et [[E:1.4]]. L’autorisation mensuelle et les trois conditions formulées comme liste ne sont plus reproduites; les délégations financières sont visées dans [[R4:1.1]]. b — La certification de toute dépense de divertissement par le PCAM n’est plus énoncée comme pouvoir attaché au seul poste."
     ],
     "48": [
-      "Déplacé dans [[R4:6.1]]. Le pouvoir du commandant et les circonstances et limites des radiations renvoient à l’A-FN-105, sans montant local ajouté."
+      "Déplacé dans [[R4:6.1]]. Le pouvoir du commandant et les circonstances et limites des radiations renvoient aux dispositions citées dans ce paragraphe, sans montant local ajouté."
     ],
     "49": [
       "Non repris — La répartition selon le pourcentage des ventes et la priorité explicite des frais d’exploitation sur les activités sociales ne sont plus énoncées. [[R4:11.1]] décrit le suivi financier mais ne rétablit pas cette clé de répartition."
@@ -214,22 +214,22 @@
       "Non repris — La division égale des revenus et dépenses des activités conjointes entre utilisateurs ne figure plus dans le projet. Aucun pourcentage de remplacement n’est fixé dans [[R4:11.1]]."
     ],
     "56": [
-      "Réparti dans [[R3:1.1]], [[R3:1.2]] et [[R3:4.1]]. Les règles de vente, service, formation et protection des mineurs sont données par renvoi; l’affichage des prix est conservé à l’ouverture. La référence au PFC 262, article 309, n’est plus reprise."
+      "Réparti dans [[R3:1.2]], [[R3:3.1]], [[R3:3.3]] et [[R3:3.5]]. Les règles de vente, service, formation et protection des mineurs sont données par renvoi; l’affichage des prix est prévu au paragraphe sur les prix. La référence au PFC 262, article 309, n’est plus reprise."
     ],
     "57": [
       "Déplacé et précisé dans [[A:1.9]]. Le président demeure responsable de la discipline; le membre le plus haut gradé présent intervient désormais en l’absence à la fois du président et du vice-président. Le renvoi au PFC 262, article 310, est retiré."
     ],
     "58": [
-      "L’obligation de sobriété pendant le service est déplacée dans [[R3:1.3]]. Le suivi du déroulement de l’activité est repris dans [[E:1.4]]. L’interdiction expresse de toute consommation pour le responsable d’activité et les serveurs devient une obligation de sobriété du personnel pendant le service; les deux formulations ne sont pas identiques."
+      "L’obligation de sobriété pendant le service est déplacée dans [[R3:1.4]]. Le suivi du déroulement de l’activité est repris dans [[E:1.4]]. Le personnel demeure soumis à une obligation de sobriété et à une interdiction de consommer pendant son service."
     ],
     "59": [
-      "Reformulé dans [[R3:2.1]], [[G:1.2]] et [[F:1.2]]. Le refus de service aux personnes en état d’ébriété est conservé et complété par l’explication calme, les boissons sans alcool et l’aide au retour. La délégation explicite « au nom du commandant » n’est plus reproduite."
+      "Reformulé dans [[R3:3.8]], [[G:1.2]] et [[F:1.2]]. Le refus de service aux personnes en état d’ébriété est conservé et complété par l’explication calme, l’aide au retour; les boissons sans alcool sont prévues dans [[R3:3.9]]. La délégation explicite « au nom du commandant » n’est plus reproduite."
     ],
     "60": [
       "Non repris — L’autorité particulière du responsable des drogues et alcools de l’unité dans les deux locaux n’est plus énoncée."
     ],
     "61": [
-      "Déplacé et modifié dans [[R3:3.1]] et [[G:1.4]]. Le déclencheur devient menace, malaise ou danger immédiat, avec suspension du service et fermeture du bar si nécessaire. Les secours appropriés sont conservés. Le règlement prévoit le signalement au président et un relevé factuel, tandis que l’annexe G conserve le signalement au capitaine-adjudant; les deux destinataires coexistent dans la version comparée."
+      "Déplacé et modifié dans [[R3:5.1]] et [[R3:5.2]] et [[G:1.4]]. Le déclencheur devient menace, malaise ou danger immédiat, avec suspension du service et fermeture du bar si nécessaire. Les secours appropriés sont conservés. Le règlement prévoit le signalement au président et un relevé factuel, tandis que l’annexe G conserve le signalement au capitaine-adjudant; les deux destinataires coexistent dans la version comparée."
     ],
     "62": [
       "Le rappel à l’ordre et le signalement au sergent-major sont repris dans [[R1:6.1]]. L’application générale aux membres et invités est décrite dans [[AP:2.1]]. La référence à la conservation d’un climat amical n’est plus reproduite."
@@ -247,14 +247,14 @@
       "Déplacé dans [[R1:10.1]]. Propreté et remise des meubles à leur place sont conservées; la propreté des équipements de jeu y est aussi regroupée."
     ],
     "67": [
-      "L’accès des membres mineurs et des conjoints autorisés est repris dans [[R1:3.1]], qui inclut aussi les enfants. L’accord du commandant pour les conjoints mineurs n’est plus nommé expressément. L’interdiction d’alcool aux mineurs est traitée par les renvois de [[R3:1.2]]."
+      "L’accès des membres mineurs et des conjoints autorisés est repris dans [[R1:3.1]], qui inclut aussi les enfants. L’accord du commandant pour les conjoints mineurs n’est plus nommé expressément. L’interdiction d’alcool aux mineurs est traitée par les renvois de [[R3:3.5]]."
     ],
     "68": [
-      "Regroupé avec les autres dispositions sur les mineurs dans [[R3:1.2]], qui renvoie aux articles 103.1 à 103.3 de la référence G. Le seuil de 18 ans n’est plus reproduit en toutes lettres dans la clause locale."
+      "Regroupé avec les autres dispositions sur les mineurs dans [[R3:3.5]], qui renvoie aux dispositions provinciales sur la protection des mineurs. Le seuil de 18 ans est maintenant indiqué expressément dans la clause locale."
     ],
     "69": [
       "a — L’accompagnement et le départ conjoint sont repris dans [[R1:4.1]]. La responsabilité explicite de la tenue et du comportement de l’invité n’est plus réénoncée dans cette clause.",
-      "b et c — Les enfants avant 19 h lors des activités officielles, l’exception familiale et la salle de télévision sous surveillance parentale sont regroupés dans [[R1:3.1]]. La protection des mineurs quant à l’alcool est déplacée vers [[R3:1.2]]."
+      "b et c — Les enfants avant 19 h lors des activités officielles, l’exception familiale et la salle de télévision sous surveillance parentale sont regroupés dans [[R1:3.1]]. La protection des mineurs quant à l’alcool est déplacée vers [[R3:3.5]]."
     ],
     "70": [
       "a(1) à a(3) — Repris dans [[R1:5.2]] : torse couvert, chaussures et vêtements convenables, sans vêtements dégradants ou répulsifs. La propreté est précisée.",
@@ -412,10 +412,10 @@
     "Diffusion et procès-verbaux — [[S:7.10]] ajoute un canal commun, un accès sans moyen numérique et l’accès au relevé des décisions et au projet de procès-verbal dans les 14 jours, avec statut et approbations attendues.",
     "Cadets et tenue — [[R1:3.2]] interdit l’accès des cadets en uniforme et en service; [[R1:5.1]] prévoit une exception religieuse pour les couvre-chefs. Les autres changements de tenue figurent à l’annotation de l’article 70.",
     "Biens — [[R2:3.1]] décrit les conditions d’acceptation des dons, les coûts d’entretien et les limites des promesses de reçus ou de transfert de propriété. [[R2:5.1]] distingue les propriétaires, la provenance et les conditions d’utilisation ou de restitution; les coordonnées personnelles sont masquées dans la version accessible aux membres.",
-    "Bar — [[R3:1.1]] et [[R3:1.2]] précisent la formation et les références applicables; [[R3:2.1]] ajoute eau ou boisson sans alcool et aide au retour. [[R3:3.1]] ajoute un relevé factuel des incidents et [[R3:4.1]] détaille les conditions d’ouverture et de fermeture.",
+    "Bar — [[R3:1.2]] précise la formation et [[R3:3.1]] les références applicables. [[R3:3.8]] prévoit l’aide au retour; [[R3:3.9]] prévoit les boissons sans alcool. [[R3:5.1]] et [[R3:5.2]] traitent les incidents et leur relevé factuel. [[R3:2.1]], [[R3:2.2]] et [[R3:2.3]] précisent l’horaire, la fermeture et la sécurisation.",
     "Finances — [[R4:1.1]] et [[R4:3.1]] explicitent les délégations et les règles d’achats. [[R4:8.1]] distingue le fonds d’unité. [[R4:9.1]] à [[R4:9.6]] décrivent le suivi du fonds cadeau et la confirmation écrite avant financement ou transfert; [[R4:10.1]] traite l’approbation des prestations et opérations; [[R4:11.1]] détaille les rapports et pièces justificatives.",
     "Fonctions — Les annexes ajoutent notamment le suivi financier et des approbations dans [[A:1.10]], les vérifications sur les biens dans [[B:1.5]], la protection des renseignements et la relève documentaire dans [[C:1.7]] et [[C:1.8]], ainsi que les pièces et moyens de paiement dans [[D:1.6]] et [[F:1.6]]. Les autres ajouts liés à une disposition initiale sont indiqués après celle-ci.",
-    "Responsable du bar — [[S:5.2]] distingue la voix délibérative du militaire membre ordinaire, bénévole et élu ou nommé au comité, et la voix consultative du responsable employé des FNP. [[S:6.5]] prévoit les convocations, les points à l’ordre du jour et le retrait des délibérations touchant ses intérêts personnels. [[F:1.9]] reprend sa participation aux réunions.",
-    "Service et emploi au bar — [[R3:1.4]] et [[F:1.8]] permettent au responsable d’assurer aussi le service, dans les limites des autorisations et contrôles applicables. [[R4:2.1]] permet l’exercice bénévole ou dans un emploi du Personnel des FNP; [[R4:2.2]] maintient l’absence de rémunération pour les fonctions au comité et les règles sur les conflits d’intérêts."
+    "Responsable du bar — [[S:5.7]] et [[S:5.7.1]] distinguent la participation délibérative du militaire membre ordinaire bénévole et la participation consultative du responsable employé des FNP. [[S:6.3]] prévoit l’invitation de personnes à titre consultatif. [[F:1.9]] précise les convocations, les points à l’ordre du jour et le retrait des délibérations touchant les intérêts personnels du responsable du bar.",
+    "Service et emploi au bar — [[R3:1.3]] et [[F:1.8]] permettent au responsable d’assurer aussi le service, dans les limites des autorisations et contrôles applicables. [[R4:2.1]] permet l’exercice bénévole ou dans un emploi du Personnel des FNP; [[R4:2.2]] maintient l’absence de rémunération pour les fonctions au comité et les règles sur les conflits d’intérêts."
   ]
 }

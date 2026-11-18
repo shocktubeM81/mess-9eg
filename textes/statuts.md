@@ -6,11 +6,11 @@
 
 ### 2. Établissement et administration
 
-2.1. L’établissement et l’administration du Mess relèvent de la [réf. B, art. 27.01](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/ordonnances-reglements-royaux/vol-1-administration/chapitre-27-mess-cantines-instituts.html).
+2.1. L’établissement et l’administration du Mess relèvent de la [réf. H, chap. 27, art. 27.01](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/ordonnances-reglements-royaux/vol-1-administration/chapitre-27-mess-cantines-instituts.html#cha-027-01).
 
 2.2. Le terme « commandant » désigne le commandant du mess. Le cmdt du mess est le cmdt d'unité, soit le 34 RGC, ou le cmdt dont les pouvoirs ont été délégués.
 
-2.3. Le Mess est administré conformément à la [réf. A, chap. 9-4](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=281) et à la [réf. C](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/directives-ordonnances-administratives-defense/serie-9000/9003/9003-1-biens-non-publics.html). Les règlements complètent les statuts et en précisent l’application; ils ne peuvent en modifier les pouvoirs ou les droits.
+2.3. Le Mess est administré conformément à la [réf. A, chap. 9-4, para. 36 à 38](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=294) et à la [réf. D, para. 3.1](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/directives-ordonnances-administratives-defense/serie-9000/9003/9003-1-biens-non-publics.html#ape:~:text=3.1%20Aux%20termes%20des%20articles). Les règlements complètent les statuts et en précisent l’application; ils ne peuvent en modifier les pouvoirs ou les droits.
 
 ### 3. But
 
@@ -36,7 +36,7 @@
 
 4.4.1. Plafond et priorité d’admission. Le nombre de membres associés ne peut dépasser 65 % du nombre de membres ordinaires. Une liste d’attente est tenue au besoin. La priorité d’admission respecte l’ordre des catégories établi à la [réf. A, chap. 9-1, para. 15](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=270).
 
-4.4.2. Renouvellement. Le statut des membres associés admis en vertu de la [réf. A, chap. 9-1, al. 14 a (8)](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=269), fait l’objet d’une révision annuelle, conformément à la [note du para. 17](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=270). Les demandes de renouvellement sont examinées à la première assemblée générale de l’année civile, pour l’année financière suivante.
+4.4.2. Renouvellement. Le statut des membres associés admis en vertu de la [réf. A, chap. 9-1, para. 14 a) (8)](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=269), fait l’objet d’une révision annuelle, conformément à la [réf. A, chap. 9-1, para. 17, note](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=270). Les demandes de renouvellement sont examinées à la première assemblée générale de l’année civile, pour l’année financière suivante.
 
 4.4.3. Affiliation à plusieurs mess. Le statut de membre associé est propre à chaque mess. Une personne peut être membre associé de plusieurs mess, à condition de verser la cotisation exigée par chacun, conformément à la [réf. A, chap. 9-1, para. 16](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=270).
 
@@ -127,7 +127,7 @@ Ces descriptions de fonctions n’élargissent pas les pouvoirs des titulaires e
 
 7.3. Convocation et ordre du jour. La convocation est communiquée à tous les membres et l’ordre du jour approuvé est affiché au moins une semaine avant l’assemblée, tel que prévu à la [réf. A, chap. 9-4, para. 42](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297).
 
-7.4. Déroulement. Les assemblées suivent la procédure parlementaire décrite à la [réf. A, chap. 9-4, tableau 9-4-4](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=298). 
+7.4. Déroulement. Les assemblées suivent la procédure parlementaire décrite à la [réf. A, chap. 9-4, tableau 9-4-4](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=298).
 
 7.5. Droit de vote. Les membres ordinaires en règle ont droit de vote. Les membres associés et honoraires peuvent participer aux discussions, sans voter.
 
@@ -137,7 +137,7 @@ Ces descriptions de fonctions n’élargissent pas les pouvoirs des titulaires e
 
 7.8. Participation du cmdt. Le cmdt peut assister aux assemblées et participer aux discussions. S’il est membre ordinaire du Mess, il peut également voter et présenter des motions.
 
-7.9. Décisions et approbation. Les motions sont adoptées à la majorité des voix exprimées et demeurent soumises à l’approbation du cmdt. Sa signature au procès-verbal confirme l’approbation des motions adoptées, sauf celles qu’il indique expressément comme non approuvées. Les procès-verbaux sont tenus et soumis à l’approbation conformément à la [réf. A, chap. 9-4, para. 29](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=290) et au [para. 44](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297).
+7.9. Décisions et approbation. Les motions sont adoptées à la majorité des voix exprimées et demeurent soumises à l’approbation du cmdt. Sa signature au procès-verbal confirme l’approbation des motions adoptées, sauf celles qu’il indique expressément comme non approuvées. Les procès-verbaux sont tenus et soumis à l’approbation conformément à la [réf. A, chap. 9-4, para. 29](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=290) et au [réf. A, chap. 9-4, para. 44](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297).
 
 7.10. Diffusion et accès. Les avis, propositions, décisions et mises à jour sont diffusés sur un canal commun accessible aux membres et par affichage. Un accès équivalent est offert aux personnes sans moyen numérique. Les validations et autorisations requises sont obtenues avant la diffusion, dans le respect des délais de consultation. Le relevé des décisions et le projet de procès-verbal sont accessibles dans les 14 jours suivant l’assemblée, avec leur statut et les approbations attendues. Le procès-verbal adopté remplace ensuite le projet.
 
