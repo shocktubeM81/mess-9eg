@@ -74,12 +74,6 @@
 
 Les membres des deux locaux doivent être équitablement représentés au sein du comité. D’autres postes ou fonctions peuvent être ajoutés selon les besoins et pourvus par élection ou nomination.
 
-Le comité est appuyé par un responsable du bar et des serveurs. Le responsable du bar, désigné avec l’approbation du cmdt ou de son délégué, relève du président pour le fonctionnement du bar et supervise les serveurs. Ces fonctions peuvent notamment être confiées à un militaire autorisé ou à un employé du Personnel des fonds non publics, Forces canadiennes, selon les modalités d’emploi applicables. Elles ne confèrent pas, à elles seules, le statut de membre du comité. Les liens hiérarchiques et les conditions d’emploi du personnel des FNP demeurent applicables.
-
-Lorsque le responsable du bar est militaire, membre ordinaire du Mess et qu’il exerce cette fonction bénévolement, il peut être élu ou nommé au comité et y disposer d’une voix délibérative, sous réserve des règles sur les conflits d’intérêts.
-
-Lorsqu’il exerce cette fonction dans le cadre d’un emploi au sein du Personnel des FNP, ou qu’il n’est pas élu ou nommé au comité, il participe aux réunions à titre consultatif, sans droit de vote et sans être compté dans le quorum du comité. Cette participation consultative reprend, pour le responsable du bar, le rôle de conseil prévu pour le gérant à la [réf. A, chap. 9-4, para. 185](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=340).
-
 5.3. Élections et nominations. Les membres du comité sont élus en assemblée générale par les membres ayant droit de vote ou nommés par le cmdt, conformément à la [réf. A, chap. 9-4, para. 16](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=284). Les élections se tiennent normalement en décembre, à la majorité simple des voix exprimées.
 
 5.4. Mandats et relève. La durée des mandats, leur prolongation et la relève échelonnée respectent la [réf. A, chap. 9-4, para. 18](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=284).
@@ -91,7 +85,19 @@ Lorsqu’il exerce cette fonction dans le cadre d’un emploi au sein du Personn
 
 5.6. Bénévolat et conflits d’intérêts. Les fonctions au comité sont bénévoles. Les conflits d’intérêts et les avantages liés à la gestion du Mess sont régis par la [réf. A, chap. 9-4, para. 27](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=289) et la [réf. A, chap. 9-4, para. 28](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=290).
 
-5.7. Fonctions et responsabilités. Les fonctions et responsabilités des membres du comité ainsi que celles du responsable du bar et des serveurs sont détaillées dans les annexes suivantes :
+5.7. Personnel du bar. Le comité est appuyé par un responsable du bar et des serveurs. Ces fonctions peuvent être confiées à des militaires autorisés ou à des employés du Personnel des FNP, conformément à la [réf. A, chap. 9-4, para. 178](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=338).
+
+
+5.7.1. Responsable du bar. Le responsable du bar est désigné avec l’approbation du cmdt ou de son délégué. Il relève du PCM pour le fonctionnement du bar et supervise les serveurs. Sa désignation ne lui confère pas automatiquement le statut de membre du comité :
+
+- a. lorsqu’il est militaire, membre ordinaire du Mess et qu’il exerce cette fonction bénévolement, il peut être élu ou nommé au comité selon les modalités prévues au [paragraphe 5.3](#statuts-paragraphe-5-3). Il dispose alors d’une voix délibérative et est compté dans le quorum;
+- b. lorsqu’il exerce cette fonction dans le cadre d’un emploi au sein du Personnel des FNP, y compris lorsqu’il est également militaire, il participe aux réunions du comité à titre consultatif, sans en être membre, sans droit de vote et sans être compté dans le quorum;
+
+La participation consultative du responsable du bar reprend le rôle de conseil prévu pour le gérant à la [réf. A, chap. 9-4, para. 185](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=340).
+
+5.7.2. Serveurs. Les serveurs relèvent du responsable du bar. Leurs fonctions de service ne leur confèrent pas le statut de membre du comité. Un membre du comité peut également exercer les fonctions de serveur, à condition de satisfaire aux exigences applicables, à l’exception du PCM et du trésorier, qui ne peuvent cumuler ces fonctions.
+
+5.8. Fonctions et responsabilités. Les annexes suivantes décrivent les fonctions des membres du comité et du personnel :
 
 - a. [Annexe A — PCM](#annexe-a-section-1);
 - b. [Annexe B — VPCM](#annexe-b-section-1);
@@ -101,43 +107,41 @@ Lorsqu’il exerce cette fonction dans le cadre d’un emploi au sein du Personn
 - f. [Annexe F — Responsable du bar](#annexe-f-regisseur-section-1);
 - g. [Annexe G — Serveur](#annexe-g-serveur-section-1).
 
-Ces descriptions de fonctions n’élargissent pas les pouvoirs des titulaires. Les achats et paiements respectent les délégations applicables.
+Ces descriptions de fonctions n’élargissent pas les pouvoirs des titulaires et ne confèrent pas, à elles seules, le statut de membre du comité. Les achats et paiements respectent les délégations applicables.
 
 ### 6. Réunions du comité
 
-6.1. Les réunions du comité ont pour but de discuter des affaires courantes, préparer les dossiers, examiner la situation financière et suivre les décisions, sous réserve des décision qui relèvent des assemblées générales.
+6.1. Objet. Les réunions du comité permettent de traiter les affaires courantes, de préparer les dossiers, d’examiner la situation financière et d’assurer le suivi des décisions. Le comité agit dans les limites du budget et des délégations approuvés. Il ne tranche pas les questions réservées à l’assemblée générale.
 
-6.2. Les réunions du comité ont lieu au moins une fois par mois, conformément à la [réf. A, chap. 9-4, para. 39](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=296).
+6.2. Fréquence. Les réunions du comité ont lieu au moins une fois par mois, conformément à la [réf. A, chap. 9-4, para. 39](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=296).
 
-6.3. Le cmdt ou le PCM ont pour rôle de convoquer les réunions du comité,  agit dans les limites du budget et des délégations approuvés; il ne tranche pas les questions réservées à l’assemblée générale.
+6.3. Convocation et participation. Les réunions sont convoquées par le cmdt ou le PCM et sont destinées aux membres du comité. Le cmdt ou le PCM peut également inviter d’autres personnes à y assister à titre consultatif, pour l’ensemble de la réunion ou pour certains points à l’ordre du jour. Ces personnes peuvent présenter des renseignements, formuler des recommandations et répondre aux questions, mais elles n’ont pas droit de vote et ne sont pas comptées dans le quorum.
 
-6.4. Les comptes rendus distinguent les décisions du comité, ses recommandations et les suivis.
-
-6.5. Le responsable du bar reçoit les convocations et les ordres du jour des réunions du comité et y participe pour présenter la situation du bar, ses besoins et ses recommandations. Il peut proposer des points à l’ordre du jour. Son statut et son droit de vote sont déterminés au [paragraphe 5.2](#statuts-paragraphe-5-2). Après avoir fourni les renseignements nécessaires, il se retire des délibérations et des décisions qui concernent son emploi, sa rémunération ou ses intérêts personnels, conformément aux règles sur les conflits d’intérêts du [paragraphe 5.6](#statuts-paragraphe-5-6).
+6.4. Comptes rendus. Les comptes rendus distinguent les décisions du comité, ses recommandations et les suivis. Ils précisent les personnes présentes et leur statut de membre du comité ou de participant à titre consultatif.
 
 ### 7. Assemblées générales
 
-7.1. Les assemblées générales se tient devant tous les membres ordinaires du mess et tout les autres membres qui désirent y assister. Les assemblées on pour but d'examiner les finances, les projets d’activités et toute question concernant le Mess. Elles élisent les administrateurs et prennent les décisions réservées aux membres.
+7.1. Objet et participation. Les assemblées générales sont ouvertes à tous les membres du Mess. Elles examinent les finances, les projets d’activités et les questions concernant le Mess, élisent les membres du comité et prennent les décisions réservées à l’assemblée générale.
 
-7.2. Une assemblée générale des membres est tenue chaque trimestre. Le calendrier tient compte des entraînements.
+7.2. Fréquence. Une assemblée générale est tenue chaque trimestre, selon un calendrier tenant compte des entraînements.
 
-7.3. La convocation des assemblées doit être communiquée à tous les membres et l'ordre du jour doit être affichée une semaine à l'avance conformément à la [réf. A, chap. 9-4, para. 41](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297) et la [réf. A, chap. 9-4, para. 42](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297).
+7.3. Convocation et ordre du jour. La convocation est communiquée à tous les membres et l’ordre du jour approuvé est affiché au moins une semaine avant l’assemblée, tel que prévu à la [réf. A, chap. 9-4, para. 42](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297).
 
-7.4. Le déroulement des assemblées suit la procédure palrementaire conformément à la [réf. A, chap. 9-4, tableau 9-4-4](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=298).
+7.4. Déroulement. Les assemblées suivent la procédure parlementaire décrite à la [réf. A, chap. 9-4, tableau 9-4-4](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=298). 
 
-7.5. Les membres ordinaires en règle ont droit de vote. Les membres associés et honoraires peuvent assister aux assemblées et participer aux discussions, sans voter.
+7.5. Droit de vote. Les membres ordinaires en règle ont droit de vote. Les membres associés et honoraires peuvent participer aux discussions, sans voter.
 
-7.6. Le quorum est atteint lorsque 50% des membres sont présents, conformément à la [réf. A, chap. 9-4, para. 43](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297).
+7.6. Quorum. Le quorum est atteint lorsque 50 % des membres ordinaires sont présents, conformément à la [réf. A, chap. 9-4, para. 43](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297). Aucune affaire ne peut être traitée sans quorum, sauf dérogation autorisée selon cette référence.
 
-7.7. Tout membre ordinaire peut présenter une motion, excepté le PCM. Une motion est recevable seulement si elle est appuyée par un autre membre ordinaire. Les motions doivent être présentées à l'avance selon la
+7.7. Motions. Tout membre ordinaire, sauf la personne qui préside l’assemblée, peut présenter une motion, laquelle doit être appuyée par un autre membre ordinaire. Les propositions destinées à l’ordre du jour sont consignées et appuyées au moins quatre jours ouvrables avant l’assemblée, conformément à la [réf. A, chap. 9-4, para. 41](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297).
 
-7.8. Le cmdt peut assister aux assemblées et participer aux discussions. S'il est membre ordinaire du mess, il peut exercer son droit de vote et peut présenter une motion.
+7.8. Participation du cmdt. Le cmdt peut assister aux assemblées et participer aux discussions. S’il est membre ordinaire du Mess, il peut également voter et présenter des motions.
 
-7.9. Chaque motion doit être approuvée par le cmdt. La signature du cmdt au procès-verbal approuve les motions adoptées, sauf celles qu’il indique comme non approuvées. La tenue et l’approbation des procès-verbaux suivent la [réf. A, chap. 9-4, para. 29](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=290) et la [réf. A, chap. 9-4, para. 44](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297).
+7.9. Décisions et approbation. Les motions sont adoptées à la majorité des voix exprimées et demeurent soumises à l’approbation du cmdt. Sa signature au procès-verbal confirme l’approbation des motions adoptées, sauf celles qu’il indique expressément comme non approuvées. Les procès-verbaux sont tenus et soumis à l’approbation conformément à la [réf. A, chap. 9-4, para. 29](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=290) et au [para. 44](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297).
 
-7.10. Les avis, propositions, décisions et mises à jour sont annoncés sur un canal commun accessible à tous les membres et par affichage. Un accès équivalent est offert sans moyen numérique. Les validations et autorisations d’affichage précèdent la diffusion, dans le respect des délais de consultation. Le relevé des décisions et le projet de procès-verbal sont accessibles dans les 14 jours suivant l’assemblée; leur statut et les approbations attendues sont indiqués. Le procès-verbal adopté remplace le projet.
+7.10. Diffusion et accès. Les avis, propositions, décisions et mises à jour sont diffusés sur un canal commun accessible aux membres et par affichage. Un accès équivalent est offert aux personnes sans moyen numérique. Les validations et autorisations requises sont obtenues avant la diffusion, dans le respect des délais de consultation. Le relevé des décisions et le projet de procès-verbal sont accessibles dans les 14 jours suivant l’assemblée, avec leur statut et les approbations attendues. Le procès-verbal adopté remplace ensuite le projet.
 
-7.11. La convocation d’une assemblée extraordinaire suit la [réf. A, chap. 9-4, para. 40](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297), y compris lorsqu’elle est demandée par les membres.
+7.11. Assemblées extraordinaires. Une assemblée extraordinaire peut être convoquée par le cmdt, le PCM ou l’officier superviseur, ou demandée par écrit par 25 % des membres ordinaires, conformément à la [réf. A, chap. 9-4, para. 40](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297).
 
 ### 8. Modification des textes
 
