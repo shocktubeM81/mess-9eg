@@ -210,41 +210,11 @@
         ],
         "P:5.2": [
           "statuts-paragraphe-5-2",
-          "statuts-p-5-2",
-          "r5-article-4",
-          "r5-section-4",
-          "r5-section-heading-4",
-          "r5-p-4-1",
-          "r5-paragraphe-4-1"
-        ],
-        "P:5.3": [
-          "statuts-paragraphe-5-3",
-          "statuts-p-5-3",
-          "r5-article-7",
-          "r5-section-6",
-          "r5-section-heading-6",
-          "r5-p-7-1",
-          "r5-paragraphe-6-1"
-        ],
-        "P:5.4": [
-          "statuts-paragraphe-5-4",
-          "statuts-p-5-4",
-          "r5-article-11",
-          "r5-section-9",
-          "r5-section-heading-9",
-          "r5-p-11-1",
-          "r5-paragraphe-9-1"
-        ],
-        "H:6": [
           "statuts-section-6",
           "statuts-article-6",
-          "statuts-section-heading-6"
-        ],
-        "P:6.1": [
+          "statuts-section-heading-6",
           "statuts-paragraphe-6-1",
-          "statuts-p-6-1"
-        ],
-        "P:6.2": [
+          "statuts-p-6-1",
           "statuts-paragraphe-6-2",
           "statuts-p-6-2",
           "r5-article-3",
@@ -253,14 +223,17 @@
           "r5-p-3-1",
           "r5-paragraphe-3-1"
         ],
-        "H:7": [
-          "statuts-section-7",
-          "statuts-article-7",
-          "statuts-section-heading-7"
+        "P:5.3": [
+          "statuts-paragraphe-5-3",
+          "statuts-p-5-2",
+          "r5-article-4",
+          "r5-section-4",
+          "r5-section-heading-4",
+          "r5-p-4-1",
+          "r5-paragraphe-4-1"
         ],
-        "P:7.1": [
-          "statuts-paragraphe-7-1",
-          "statuts-p-7-1"
+        "P:5.4": [
+          "statuts-paragraphe-5-4"
         ],
         "H:8": [
           "statuts-section-8",
@@ -374,6 +347,36 @@
           "r5-section-heading-18",
           "r5-p-43-1",
           "r5-paragraphe-18-1"
+        ],
+        "P:5.5": [
+          "statuts-paragraphe-5-5",
+          "statuts-p-5-3",
+          "r5-article-7",
+          "r5-section-6",
+          "r5-section-heading-6",
+          "r5-p-7-1",
+          "r5-paragraphe-6-1"
+        ],
+        "P:5.6": [
+          "statuts-paragraphe-5-6",
+          "statuts-p-5-4",
+          "r5-article-11",
+          "r5-section-9",
+          "r5-section-heading-9",
+          "r5-p-11-1",
+          "r5-paragraphe-9-1"
+        ],
+        "P:5.7": [
+          "statuts-paragraphe-5-7",
+          "statuts-section-7",
+          "statuts-article-7",
+          "statuts-section-heading-7",
+          "statuts-paragraphe-7-1",
+          "statuts-p-7-1"
+        ],
+        "P:8.5": [
+          "statuts-paragraphe-8-5",
+          "statuts-p-8-5"
         ]
       },
       "tail_anchors": [],
@@ -676,6 +679,10 @@
         "P:5.1": [
           "r3-paragraphe-5-1",
           "r4-p-5-1"
+        ],
+        "P:1.4": [
+          "r3-paragraphe-1-4",
+          "r3-p-1-4"
         ]
       },
       "tail_anchors": [],
@@ -956,6 +963,10 @@
         "P:22.2": [
           "r4-paragraphe-22-2",
           "r6-p-25-2"
+        ],
+        "P:2.2": [
+          "r4-paragraphe-2-2",
+          "r4-p-2-2"
         ]
       },
       "tail_anchors": [],
@@ -1249,14 +1260,22 @@
           "annexe-f-regisseur-paragraphe-1-7",
           "annexe-g-fonction-p-1-7",
           "annexe-f-regisseur-fonction-p-1-7"
+        ],
+        "P:1.8": [
+          "annexe-f-regisseur-paragraphe-1-8",
+          "annexe-f-regisseur-fonction-p-1-8"
+        ],
+        "P:1.9": [
+          "annexe-f-regisseur-paragraphe-1-9",
+          "annexe-f-regisseur-fonction-p-1-9"
         ]
       },
       "tail_anchors": [],
-      "marker": "### Annexe F — Régisseur",
+      "marker": "### Annexe F — Responsable du bar",
       "include_marker": false,
       "shift": 2,
       "id": "annexe-f-regisseur",
-      "titre": "Annexe F — Régisseur",
+      "titre": "Annexe F — Responsable du bar",
       "url": "/annexe-f-regisseur.html"
     },
     {

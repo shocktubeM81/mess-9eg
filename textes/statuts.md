@@ -74,7 +74,13 @@
 
 Les membres des deux locaux doivent être équitablement représentés au sein du comité. D’autres postes ou fonctions peuvent être ajoutés selon les besoins et pourvus par élection ou nomination.
 
-5.3. **Élections et nominations.** Les membres du comité sont élus en assemblée générale par les membres ayant droit de vote ou nommés par le commandant, conformément à la [réf. A, chap. 9-4, para. 16](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=284). Les élections se tiennent normalement en décembre, à la majorité simple des voix exprimées. Le régisseur est nommé par le commandant.
+Le comité est appuyé par un responsable du bar et des serveurs. Le responsable du bar, désigné avec l’approbation du commandant ou de son délégué, relève du président pour le fonctionnement du bar et supervise les serveurs. Ces fonctions peuvent notamment être confiées à un militaire autorisé ou à un employé du Personnel des fonds non publics, Forces canadiennes, selon les modalités d’emploi applicables. Elles ne confèrent pas, à elles seules, le statut de membre du comité. Les liens hiérarchiques et les conditions d’emploi du personnel des FNP demeurent applicables.
+
+Lorsque le responsable du bar est militaire, membre ordinaire du Mess et qu’il exerce cette fonction bénévolement, il peut être élu ou nommé au comité et y disposer d’une voix délibérative, sous réserve des règles sur les conflits d’intérêts.
+
+Lorsqu’il exerce cette fonction dans le cadre d’un emploi au sein du Personnel des FNP, ou qu’il n’est pas élu ou nommé au comité, il participe aux réunions à titre consultatif, sans droit de vote et sans être compté dans le quorum du comité. Cette participation consultative reprend, pour le responsable du bar, le rôle de conseil prévu pour le gérant à la [réf. A, chap. 9-4, para. 185](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=340).
+
+5.3. **Élections et nominations.** Les membres du comité sont élus en assemblée générale par les membres ayant droit de vote ou nommés par le commandant, conformément à la [réf. A, chap. 9-4, para. 16](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=284). Les élections se tiennent normalement en décembre, à la majorité simple des voix exprimées.
 
 5.4. **Mandats et relève.** La durée des mandats, leur prolongation et la relève échelonnée respectent la [réf. A, chap. 9-4, para. 18](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=284).
 
@@ -85,14 +91,14 @@ Les membres des deux locaux doivent être équitablement représentés au sein d
 
 5.6. **Bénévolat et conflits d’intérêts.** Les fonctions au comité sont bénévoles. Les conflits d’intérêts et les avantages liés à la gestion du Mess sont régis par la [réf. A, chap. 9-4, para. 27](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=289) et la [réf. A, chap. 9-4, para. 28](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=290).
 
-5.7. **Fonctions et responsabilités.** Les fonctions et responsabilités des membres du comité ainsi que celles du régisseur et des serveurs sont détaillées dans les annexes suivantes :
+5.7. **Fonctions et responsabilités.** Les fonctions et responsabilités des membres du comité ainsi que celles du responsable du bar et des serveurs sont détaillées dans les annexes suivantes :
 
 - a. [Annexe A — Président du comité du Mess](#annexe-a-section-1);
 - b. [Annexe B — Vice-président du comité du Mess](#annexe-b-section-1);
 - c. [Annexe C — Secrétaire](#annexe-c-section-1);
 - d. [Annexe D — Trésorier](#annexe-d-section-1);
 - e. [Annexe E — Responsable des activités](#annexe-e-section-1);
-- f. [Annexe F — Régisseur](#annexe-f-regisseur-section-1);
+- f. [Annexe F — Responsable du bar](#annexe-f-regisseur-section-1);
 - g. [Annexe G — Serveur](#annexe-g-serveur-section-1).
 
 Ces descriptions de fonctions n’élargissent pas les pouvoirs des titulaires. Les achats et paiements respectent les délégations applicables.
@@ -106,6 +112,8 @@ Ces descriptions de fonctions n’élargissent pas les pouvoirs des titulaires. 
 8.3. Le commandant ou le président ont pour rôle de convoquer les réunions du comité,  agit dans les limites du budget et des délégations approuvés; il ne tranche pas les questions réservées à l’assemblée générale.
 
 8.4. Les comptes rendus distinguent les décisions du comité, ses recommandations et les suivis.
+
+8.5. Le responsable du bar reçoit les convocations et les ordres du jour des réunions du comité et y participe pour présenter la situation du bar, ses besoins et ses recommandations. Il peut proposer des points à l’ordre du jour. Son statut et son droit de vote sont déterminés au [paragraphe 5.2](#statuts-paragraphe-5-2). Après avoir fourni les renseignements nécessaires, il se retire des délibérations et des décisions qui concernent son emploi, sa rémunération ou ses intérêts personnels, conformément aux règles sur les conflits d’intérêts du [paragraphe 5.6](#statuts-paragraphe-5-6).
 
 ### 9. Assemblées générales
 

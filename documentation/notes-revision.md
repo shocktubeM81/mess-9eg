@@ -270,3 +270,13 @@ Révision des statuts et des règles de gouvernance et d’admission. Le règlem
 Les quatre règlements sont désormais : R1 — Tenue et comportement; R2 — Meubles et décorations; R3 — Service de bar; R4 — Finances. Les articles et paragraphes sont renumérotés et les renvois internes actualisés. Le site regroupe les règlements sous un onglet commun, comme les annexes, et conserve la ponctuation des sources.
 
 Les contrôles GitHub « Site web » et « Documents de travail » ont réussi avant la fusion de la PR #7 dans main. Cette version demeure un projet à adopter et à approuver.
+
+## Responsable du bar — 18 novembre 2026
+
+Le titre local « régisseur » devient « responsable du bar » dans les sources courantes. Le nom technique du fichier de l’annexe F et ses anciennes ancres sont conservés pour maintenir les liens existants; son titre affiché est actualisé.
+
+Les statuts et les annexes précisent que la fonction peut être confiée à un militaire autorisé ou à un employé du Personnel des FNP. Les liens hiérarchiques, les conditions d’emploi, les autorisations et les délégations applicables sont préservés. Le responsable peut aussi assurer le service au bar aux mêmes conditions de formation, de sobriété et de contrôle que les serveurs. La rémunération d’un emploi au bar ne rémunère pas les fonctions bénévoles au comité.
+
+Le responsable reçoit les convocations et les ordres du jour du comité, présente le suivi du bar et peut proposer des points. Un militaire membre ordinaire exerçant bénévolement cette fonction peut être élu ou nommé au comité et voter. Le responsable employé des FNP participe à titre consultatif, sans vote et sans entrer dans le quorum. Ce dernier choix local adapte au responsable du bar le rôle consultatif expressément prévu pour le gérant au paragraphe 185 du chapitre 9-4 de la référence A. Les questions touchant son emploi ou ses intérêts personnels sont traitées après son retrait des délibérations et des décisions.
+
+Concordance : les anciens articles 6 (composition) et 7 (fonctions), déjà réunis par la révision précédente dans l’article 5, conservent leurs renvois vers les paragraphes 5.2 et 5.7. Les nouveaux paragraphes R3.1.4, R4.2.2, Statuts 8.5 et Annexe F 1.8–1.9 reçoivent leurs ancres. Les autres articles ne sont pas renumérotés dans cette modification; le saut préexistant de l’article 5 à l’article 8 reste à corriger dans la révision d’ensemble.

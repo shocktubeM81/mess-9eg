@@ -16,7 +16,7 @@
 
 1.7. Répondre aux questions administratives et veiller au respect des textes du Mess.
 
-1.8. Superviser les membres du comité et le régisseur. Examiner régulièrement les états financiers.
+1.8. Superviser les membres du comité et assurer le suivi du fonctionnement du bar avec le responsable du bar, dans le respect des liens hiérarchiques et des conditions d’emploi du personnel des FNP. Examiner régulièrement les états financiers.
 
 1.9. Veiller à la discipline dans les locaux. En l’absence du président et du vice-président, le membre le plus haut gradé présent veille au maintien de l’ordre.
 
