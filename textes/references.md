@@ -18,4 +18,6 @@ H. [DOAD 5045-0 — Programmes de soutien du personnel des Forces canadiennes](h
 
 I. [A-PS-110-001/AG-002 — Soutien public aux programmes de bien-être et de maintien du moral](https://sbmfc.ca/a-propos/politiques-et-publications/aa-ps-110-soutien-public-aux-programmes-de-bemm)
 
+J. [Loi sur les permis d’alcool](https://www.legisquebec.gouv.qc.ca/fr/document/lc/P-9.1).
+
 Les liens sont à jour du 29 octobre 2026.
