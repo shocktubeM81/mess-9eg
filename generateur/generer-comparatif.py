@@ -1,4 +1,4 @@
-"""Conserver la constitution initiale et insérer les annotations de la version 0.12."""
+"""Conserver la constitution initiale et insérer les annotations de la version 0.13."""
 from pathlib import Path
 import base64
 import hashlib
@@ -12,7 +12,7 @@ from markdown_inline import pdf_markup
 ROOT = Path(__file__).resolve().parents[1]
 SOURCE = ROOT / 'textes/archives/constitution.md'
 DATA = ROOT / 'textes/comparatif.json'
-OUT = ROOT / 'exports/comparatif-constitution-0.12'
+OUT = ROOT / 'exports/comparatif-constitution-0.13'
 REF = re.compile(r'\[\[([A-Z0-9]+):(\d+(?:\.\d+)+)\]\]')
 FILES = {'S':'statuts', 'AP':'avant-propos', **{f'R{i}':f'r{i}' for i in range(1,5)},
          **{c:f'annexe-{c.lower()}' for c in 'ABCDE'},
@@ -126,11 +126,11 @@ def main():
     stream.append(('break',''))
     stream.append(('original-heading','Dispositions ajoutées ou développées'))
     stream.extend(('note',n) for n in data['ajouts'])
-    write_docx(stream,OUT/'constitution-initiale-annotee-0.12.docx')
-    write_pdf(stream,OUT/'constitution-initiale-annotee-0.12.pdf')
-    web_pdf=ROOT/'site/assets/documents/constitution-initiale-annotee-0.12.pdf'
+    write_docx(stream,OUT/'constitution-initiale-annotee-0.13.docx')
+    write_pdf(stream,OUT/'constitution-initiale-annotee-0.13.pdf')
+    web_pdf=ROOT/'site/assets/documents/constitution-initiale-annotee-0.13.pdf'
     web_pdf.parent.mkdir(parents=True,exist_ok=True)
-    shutil.copyfile(OUT/'constitution-initiale-annotee-0.12.pdf',web_pdf)
+    shutil.copyfile(OUT/'constitution-initiale-annotee-0.13.pdf',web_pdf)
     assert digest(SOURCE.read_bytes())==original_hash
     manifest={'source':str(SOURCE.relative_to(ROOT)),'sha256_source':original_hash,
               'version_comparee':data['version_comparee'],'articles_initiaux':116,
@@ -174,9 +174,9 @@ def write_docx(stream,path):
         if kind in ('original','original-sub') and idx+1<len(stream) and stream[idx+1][0]=='note-title':
             p.paragraph_format.keep_with_next=True
     footer=sec.footer.paragraphs[0]; footer.alignment=2
-    footer.add_run('Comparatif 0.12  |  ')
+    footer.add_run('Comparatif 0.13  |  ')
     fld=OxmlElement('w:fldSimple'); fld.set(qn('w:instr'),'PAGE'); footer._p.append(fld)
-    doc.core_properties.title='Constitution initiale annotée — comparaison avec la version 0.12'
+    doc.core_properties.title='Constitution initiale annotée — comparaison avec la version 0.13'
     doc.core_properties.author='Mess du 9 EG'
     doc.save(path)
     # Check every source paragraph in the Word body remains in the original sequence.
@@ -232,9 +232,9 @@ def write_pdf(stream,path):
         story.append(p)
     def page_footer(canvas,doc):
         canvas.setFont('Source',9); canvas.setFillColor(HexColor('#333333'))
-        canvas.drawRightString(letter[0]-61,28,f'Comparatif 0.12  |  {doc.page}')
+        canvas.drawRightString(letter[0]-61,28,f'Comparatif 0.13  |  {doc.page}')
     doc=SimpleDocTemplate(str(path),pagesize=letter,leftMargin=61,rightMargin=61,topMargin=46,bottomMargin=46,
-        title='Constitution initiale annotée — comparaison avec la version 0.12',author='Mess du 9 EG')
+        title='Constitution initiale annotée — comparaison avec la version 0.13',author='Mess du 9 EG')
     doc.build(story,onFirstPage=page_footer,onLaterPages=page_footer)
 
 if __name__=='__main__': main()

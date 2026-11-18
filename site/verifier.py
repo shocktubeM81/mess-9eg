@@ -119,7 +119,7 @@ def main():
     annotation_text = [normalize(re.sub(r'\[\[([A-Z0-9]+):(\d+(?:\.\d+)+)\]\]',
                        lambda m: labels[m[1]] + ' ' + m[2], value)) for value in annotation_text]
     assert annotation_text == [normalize(p) for p in comparison.annotation_paragraphs], 'Annotations web différentes du comparatif'
-    pdf = 'assets/documents/constitution-initiale-annotee-0.12.pdf'
+    pdf = 'assets/documents/constitution-initiale-annotee-0.13.pdf'
     assert (output / pdf).read_bytes() == (ROOT / 'site' / pdf).read_bytes(), 'PDF comparatif différent'
     expected = [normalize(gen['clean_label'](b['text']))
                 for b in blocks if re.match(r'^\d+(?:\.\d+)+\. ', b['text'])]
