@@ -43,7 +43,11 @@ bundle install
 bundle exec jekyll serve
 ```
 
-Ouvrir **http://localhost:4000**. Les changements aux sources Markdown reconstruisent leurs pages. Après une modification des annotations, relancer la génération du comparatif pour actualiser le PDF proposé au téléchargement. Après une modification d’un module Ruby, redémarrer le serveur.
+Ouvrez <http://localhost:4000>. Les modifications dans **textes/** déclenchent
+une reconstruction automatique. La préparation Python n’est plus nécessaire.
+Le HTML construit va dans **_site/** à la racine; ne le modifiez pas.
+Les anciens liens et le logo sont également gérés à la construction.
+Voir [les instructions du site](site/README.md).
 
 Le site est écrit dans `_site/`. Ne pas y modifier les textes. La construction et les vérifications GitHub ne publient pas automatiquement le site; la publication reste manuelle depuis la branche par défaut.
 
