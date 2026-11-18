@@ -87,7 +87,7 @@ module Mess
         end
       end
       item.content = lines.join.sub(/^Version [^\n]*\n/, '')
-      heading = { 'statuts' => 'Statuts', 'recueil' => 'Recueil complet',
+      heading = { 'statuts' => 'Partie I — Statuts', 'recueil' => 'Recueil complet',
                   'constitution' => 'Constitution initiale' }.fetch(id, title)
       item.data.merge!({ 'layout' => 'default', 'title' => title,
                          'heading' => heading, 'document_label' => title,
@@ -171,7 +171,7 @@ module Mess
       reglements = specs.select { |spec| spec['id'].match?(/\Ar\d+\z/) }.map do |spec|
         "- [#{spec['titre']}](#{site.baseurl}#{spec['url']})"
       end.join("\n")
-      page(site, 'reglements', 'Règlements', "# Règlements\n\n#{reglements}\n", 'document_group' => 'reglements')
+      page(site, 'reglements', 'Partie II — Règlements', "# Partie II — Règlements\n\n#{reglements}\n", 'document_group' => 'reglements')
       profile = JSON.parse(File.read(File.join(root, 'generateur/modeles/9eg.json'), encoding: 'utf-8'))
       logo = File.expand_path(profile.fetch('insigne'), root)
       raise "Logo absent : #{logo}" unless File.file?(logo)

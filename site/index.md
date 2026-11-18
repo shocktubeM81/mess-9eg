@@ -13,12 +13,27 @@ Ce projet présente les modifications proposées à la constitution du Mess, soi
 
 Consultez les textes proposés avec les onglets ci-dessus ou dans le recueil complet.
 
-## Statuts et règlements
+## Textes préliminaires
 
 {% for doc in site.data.documents %}
-{% unless doc.id contains 'annexe-' %}
+{% if doc.id == 'references' or doc.id == 'avant-propos' %}
 - [{{ doc.titre }}]({{ doc.url | relative_url }})
-{% endunless %}
+{% endif %}
+{% endfor %}
+
+## Partie I — Statuts
+
+- [Consulter les statuts]({{ '/statuts.html' | relative_url }})
+
+## Partie II — Règlements
+
+- [Vue d’ensemble des règlements]({{ '/reglements.html' | relative_url }})
+
+{% for doc in site.data.documents %}
+{% assign prefix = doc.id | slice: 0, 1 %}
+{% if prefix == 'r' and doc.id != 'references' %}
+- [{{ doc.titre }}]({{ doc.url | relative_url }})
+{% endif %}
 {% endfor %}
 
 ## Annexes des responsabilités
