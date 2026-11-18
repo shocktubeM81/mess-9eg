@@ -1,6 +1,6 @@
 ### Annexe D — Trésorier
 
-#### 1. Responsabilités du trésorier
+#### 1. Responsabilités
 
 1.1. Tenir la liste des membres par catégorie et suivre les cotisations. Distinguer la liste des personnes ayant droit de vote du dénombrement servant au quorum selon le [paragraphe 7.5 des statuts](#statuts-paragraphe-7-5) et le [paragraphe 7.6 des statuts](#statuts-paragraphe-7-6).
 

@@ -1,5 +1,7 @@
 ### Annexe F — Responsable du bar
 
+L’appellation « responsable du bar » remplace celle de « régisseur » utilisée dans les versions antérieures.
+
 #### 1. Responsabilités
 
 1.1. Rendre compte au PCM du fonctionnement du bar, dans le respect des liens hiérarchiques et des conditions d’emploi applicables au personnel des FNP.
