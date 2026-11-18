@@ -19,7 +19,7 @@ module Mess
       if (heading = line.match(/\A(#+)\s+(.+)/))
         number = heading[2].match(/\A(\d+)\./)
         'H:' + (number ? number[1] : heading[2])
-      elsif (paragraph = line.match(/\A(\d+\.\d+)\.\s/))
+      elsif (paragraph = line.match(/\A(\d+(?:\.\d+)+)\.\s/))
         'P:' + paragraph[1]
       else
         'T:' + line
@@ -36,13 +36,18 @@ module Mess
 
     def blocks(content, spec = nil)
       sequence = {}
+      seen = {}
       content.lines.filter_map do |raw|
         line = raw.strip
         next if line.empty?
-        if spec && (number = line.match(/\A(\d+)\.(\d+)\.\s/))
-          article, paragraph = number.captures.map(&:to_i)
-          raise "Numérotation discontinue dans #{spec['source']} : #{number[0]}" unless paragraph == sequence.fetch(article, 0) + 1
-          sequence[article] = paragraph
+        if spec && (number = line.match(/\A(\d+(?:\.\d+)+)\.\s/))
+          parts = number[1].split('.')
+          paragraph = parts.pop.to_i
+          parent = parts.join('.')
+          valid_parent = parts.length == 1 || seen.key?(parent)
+          raise "Numérotation discontinue dans #{spec['source']} : #{number[0]}" unless valid_parent && paragraph == sequence.fetch(parent, 0) + 1
+          sequence[parent] = paragraph
+          seen[number[1]] = true
         end
         ids = spec ? Array(spec['anchors'][key(line)]).dup : []
         ids << root_anchor(spec) if spec && line == spec['marker']

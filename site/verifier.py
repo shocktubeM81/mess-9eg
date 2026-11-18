@@ -116,14 +116,14 @@ def main():
     groups += [(f'Annotation — Article {n}', annotations['articles'][str(n)]) for n in range(1, 117)]
     groups += [('Ajouts dans le projet', annotations['ajouts'])]
     annotation_text = [value for title, notes in groups for value in [title, *notes]]
-    annotation_text = [normalize(re.sub(r'\[\[([A-Z0-9]+):(\d+\.\d+)\]\]',
+    annotation_text = [normalize(re.sub(r'\[\[([A-Z0-9]+):(\d+(?:\.\d+)+)\]\]',
                        lambda m: labels[m[1]] + ' ' + m[2], value)) for value in annotation_text]
     assert annotation_text == [normalize(p) for p in comparison.annotation_paragraphs], 'Annotations web différentes du comparatif'
     pdf = 'assets/documents/constitution-initiale-annotee-0.12.pdf'
     assert (output / pdf).read_bytes() == (ROOT / 'site' / pdf).read_bytes(), 'PDF comparatif différent'
     expected = [normalize(gen['LINK'].sub(lambda match: match[1], b['text']))
-                for b in blocks if re.match(r'^\d+\.\d+\. ', b['text'])]
-    actual = [normalize(p) for p in pages['recueil.html'].paragraphs if re.match(r'^\d+\.\d+\. ', p)]
+                for b in blocks if re.match(r'^\d+(?:\.\d+)+\. ', b['text'])]
+    actual = [normalize(p) for p in pages['recueil.html'].paragraphs if re.match(r'^\d+(?:\.\d+)+\. ', p)]
     if expected != actual:
         from itertools import zip_longest
         for index, (source, web) in enumerate(zip_longest(expected, actual), 1):
@@ -135,8 +135,8 @@ def main():
         expected_ids = {ident for block in items for ident in block['ids']}
         assert expected_ids <= pages[name + '.html'].ids, (name, 'Ancres absentes')
         expected_paragraphs = [normalize(gen['LINK'].sub(lambda match: match[1], b['text']))
-                               for b in items if re.match(r'^\d+\.\d+\. ', b['text'])]
-        actual_paragraphs = [normalize(p) for p in pages[name + '.html'].paragraphs if re.match(r'^\d+\.\d+\. ', p)]
+                               for b in items if re.match(r'^\d+(?:\.\d+)+\. ', b['text'])]
+        actual_paragraphs = [normalize(p) for p in pages[name + '.html'].paragraphs if re.match(r'^\d+(?:\.\d+)+\. ', p)]
         assert expected_paragraphs == actual_paragraphs, (name, 'Dispositions différentes')
     profile = json.loads((ROOT / 'generateur/modeles/9eg.json').read_text(encoding='utf-8'))
     assert (output / 'assets/images/logo-9eg.png').read_bytes() == (ROOT / profile['insigne']).read_bytes()

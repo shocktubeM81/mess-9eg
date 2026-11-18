@@ -103,48 +103,48 @@ Lorsqu’il exerce cette fonction dans le cadre d’un emploi au sein du Personn
 
 Ces descriptions de fonctions n’élargissent pas les pouvoirs des titulaires. Les achats et paiements respectent les délégations applicables.
 
-### 8. Réunions du comité
+### 6. Réunions du comité
 
-8.1. Les réunions du comité ont pour but de discuter des affaires courantes, préparer les dossiers, examiner la situation financière et suivre les décisions, sous réserve des décision qui relèvent des assemblées générales.
+6.1. Les réunions du comité ont pour but de discuter des affaires courantes, préparer les dossiers, examiner la situation financière et suivre les décisions, sous réserve des décision qui relèvent des assemblées générales.
 
-8.2. Les réunions du comité ont lieu au moins une fois par mois, conformément à la [réf. A, chap. 9-4, para. 39](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=296).
+6.2. Les réunions du comité ont lieu au moins une fois par mois, conformément à la [réf. A, chap. 9-4, para. 39](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=296).
 
-8.3. Le commandant ou le président ont pour rôle de convoquer les réunions du comité,  agit dans les limites du budget et des délégations approuvés; il ne tranche pas les questions réservées à l’assemblée générale.
+6.3. Le commandant ou le président ont pour rôle de convoquer les réunions du comité,  agit dans les limites du budget et des délégations approuvés; il ne tranche pas les questions réservées à l’assemblée générale.
 
-8.4. Les comptes rendus distinguent les décisions du comité, ses recommandations et les suivis.
+6.4. Les comptes rendus distinguent les décisions du comité, ses recommandations et les suivis.
 
-8.5. Le responsable du bar reçoit les convocations et les ordres du jour des réunions du comité et y participe pour présenter la situation du bar, ses besoins et ses recommandations. Il peut proposer des points à l’ordre du jour. Son statut et son droit de vote sont déterminés au [paragraphe 5.2](#statuts-paragraphe-5-2). Après avoir fourni les renseignements nécessaires, il se retire des délibérations et des décisions qui concernent son emploi, sa rémunération ou ses intérêts personnels, conformément aux règles sur les conflits d’intérêts du [paragraphe 5.6](#statuts-paragraphe-5-6).
+6.5. Le responsable du bar reçoit les convocations et les ordres du jour des réunions du comité et y participe pour présenter la situation du bar, ses besoins et ses recommandations. Il peut proposer des points à l’ordre du jour. Son statut et son droit de vote sont déterminés au [paragraphe 5.2](#statuts-paragraphe-5-2). Après avoir fourni les renseignements nécessaires, il se retire des délibérations et des décisions qui concernent son emploi, sa rémunération ou ses intérêts personnels, conformément aux règles sur les conflits d’intérêts du [paragraphe 5.6](#statuts-paragraphe-5-6).
 
-### 9. Assemblées générales
+### 7. Assemblées générales
 
-9.1. Les assemblées générales se tient devant tous les membres ordinaires du mess et tout les autres membres qui désirent y assister. Les assemblées on pour but d'examiner les finances, les projets d’activités et toute question concernant le Mess. Elles élisent les administrateurs et prennent les décisions réservées aux membres.
+7.1. Les assemblées générales se tient devant tous les membres ordinaires du mess et tout les autres membres qui désirent y assister. Les assemblées on pour but d'examiner les finances, les projets d’activités et toute question concernant le Mess. Elles élisent les administrateurs et prennent les décisions réservées aux membres.
 
-9.2. Une assemblée générale des membres est tenue chaque trimestre. Le calendrier tient compte des entraînements.
+7.2. Une assemblée générale des membres est tenue chaque trimestre. Le calendrier tient compte des entraînements.
 
-9.3. La convocation des assemblées doit être communiquée à tous les membres et l'ordre du jour doit être affichée une semaine à l'avance conformément à la [réf. A, chap. 9-4, para. 41](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297) et la [réf. A, chap. 9-4, para. 42](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297).
+7.3. La convocation des assemblées doit être communiquée à tous les membres et l'ordre du jour doit être affichée une semaine à l'avance conformément à la [réf. A, chap. 9-4, para. 41](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297) et la [réf. A, chap. 9-4, para. 42](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297).
 
-9.4. Le déroulement des assemblées suit la procédure palrementaire conformément à la [réf. A, chap. 9-4, tableau 9-4-4](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=298).
+7.4. Le déroulement des assemblées suit la procédure palrementaire conformément à la [réf. A, chap. 9-4, tableau 9-4-4](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=298).
 
-9.5. Les membres ordinaires en règle ont droit de vote. Les membres associés et honoraires peuvent assister aux assemblées et participer aux discussions, sans voter.
+7.5. Les membres ordinaires en règle ont droit de vote. Les membres associés et honoraires peuvent assister aux assemblées et participer aux discussions, sans voter.
 
-9.6. Le quorum est atteint lorsque 50% des membres sont présents, conformément à la [réf. A, chap. 9-4, para. 43](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297).
+7.6. Le quorum est atteint lorsque 50% des membres sont présents, conformément à la [réf. A, chap. 9-4, para. 43](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297).
 
-9.7. Tout membre ordinaire peut présenter une motion, excepté le président. Une motion est recevable seulement si elle est appuyée par un autre membre ordinaire. Les motions doivent être présentées à l'avance selon la
+7.7. Tout membre ordinaire peut présenter une motion, excepté le président. Une motion est recevable seulement si elle est appuyée par un autre membre ordinaire. Les motions doivent être présentées à l'avance selon la
 
-9.8. Le cmdt peut assister aux assemblées et participer aux discussions. S'il est membre ordinaire du mess, il peut exercer son droit de vote et peut présenter une motion.
+7.8. Le cmdt peut assister aux assemblées et participer aux discussions. S'il est membre ordinaire du mess, il peut exercer son droit de vote et peut présenter une motion.
 
-9.9. Chaque motion doit être approuvée par le cmdt. La signature du cmdt au procès-verbal approuve les motions adoptées, sauf celles qu’il indique comme non approuvées. La tenue et l’approbation des procès-verbaux suivent la [réf. A, chap. 9-4, para. 29](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=290) et la [réf. A, chap. 9-4, para. 44](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297).
+7.9. Chaque motion doit être approuvée par le cmdt. La signature du cmdt au procès-verbal approuve les motions adoptées, sauf celles qu’il indique comme non approuvées. La tenue et l’approbation des procès-verbaux suivent la [réf. A, chap. 9-4, para. 29](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=290) et la [réf. A, chap. 9-4, para. 44](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297).
 
-9.10. Les avis, propositions, décisions et mises à jour sont annoncés sur un canal commun accessible à tous les membres et par affichage. Un accès équivalent est offert sans moyen numérique. Les validations et autorisations d’affichage précèdent la diffusion, dans le respect des délais de consultation. Le relevé des décisions et le projet de procès-verbal sont accessibles dans les 14 jours suivant l’assemblée; leur statut et les approbations attendues sont indiqués. Le procès-verbal adopté remplace le projet.
+7.10. Les avis, propositions, décisions et mises à jour sont annoncés sur un canal commun accessible à tous les membres et par affichage. Un accès équivalent est offert sans moyen numérique. Les validations et autorisations d’affichage précèdent la diffusion, dans le respect des délais de consultation. Le relevé des décisions et le projet de procès-verbal sont accessibles dans les 14 jours suivant l’assemblée; leur statut et les approbations attendues sont indiqués. Le procès-verbal adopté remplace le projet.
 
-9.11. La convocation d’une assemblée extraordinaire suit la [réf. A, chap. 9-4, para. 40](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297), y compris lorsqu’elle est demandée par les membres.
+7.11. La convocation d’une assemblée extraordinaire suit la [réf. A, chap. 9-4, para. 40](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297), y compris lorsqu’elle est demandée par les membres.
 
-### 10. Modification des textes
+### 8. Modification des textes
 
-10.1. Toute proposition de modification aux statuts ou à leurs règlements, y compris leurs annexes, est transmise par écrit au président et communiquée aux membres au moins 15 jours avant son examen. Son adoption exige la majorité des voix exprimées par les membres ayant droit de vote, lors d’une assemblée générale.
+8.1. Toute proposition de modification aux statuts ou à leurs règlements, y compris leurs annexes, est transmise par écrit au président et communiquée aux membres au moins 15 jours avant son examen. Son adoption exige la majorité des voix exprimées par les membres ayant droit de vote, lors d’une assemblée générale.
 
-10.2. Une modification adoptée entre en vigueur après l’approbation du commandant. Le texte à jour et sa date d’entrée en vigueur sont communiqués aux membres.
+8.2. Une modification adoptée entre en vigueur après l’approbation du commandant. Le texte à jour et sa date d’entrée en vigueur sont communiqués aux membres.
 
-### 11. Suggestions et plaintes
+### 9. Suggestions et plaintes
 
-11.1. Le traitement des suggestions et des plaintes suit la [réf. A, chap. 9-4, para. 57](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=308). Les questions confidentielles ou concernant le personnel sont remises directement au président, hors du registre consultable.
+9.1. Le traitement des suggestions et des plaintes suit la [réf. A, chap. 9-4, para. 57](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=308). Les questions confidentielles ou concernant le personnel sont remises directement au président, hors du registre consultable.

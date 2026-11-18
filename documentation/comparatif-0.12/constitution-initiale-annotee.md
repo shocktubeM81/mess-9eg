@@ -47,7 +47,7 @@ Capitaine R. Poirier
 >
 > Avant-propos 1 — Réécrit et réparti entre Avant-propos 1.1, Avant-propos 1.2 et Avant-propos 2.1. La désignation de l’autorité est précisée dans Statuts 2.2 : commandant d’unité du 34 RGC ou commandant dont les pouvoirs ont été délégués, plutôt que la seule désignation du commandant du 9 EG.
 >
-> Avant-propos 2 — Le vote des membres et l’approbation du commandant sont repris dans Statuts 10.1 et Statuts 10.2. La phrase indiquant que le document sert de base aux réunions n’est pas reprise telle quelle; le rôle des assemblées est décrit dans Statuts 9.1.
+> Avant-propos 2 — Le vote des membres et l’approbation du commandant sont repris dans Statuts 8.1 et Statuts 8.2. La phrase indiquant que le document sert de base aux réunions n’est pas reprise telle quelle; le rôle des assemblées est décrit dans Statuts 7.1.
 >
 > Avant-propos 3 et bloc de signature — La date du dernier amendement du 10 septembre 2022 et le nom du capitaine R. Poirier ne sont pas repris dans l’avant-propos proposé. Ils sont remplacés par des champs à remplir pour l’adoption, l’entrée en vigueur, la signature, le grade et le nom du commandant, le lieu et la date.
 
@@ -175,33 +175,33 @@ apporter quelque chose de bénéfique ou de prestige à l'unité.
 
 > **Annotation — Article 4**
 >
-> Énoncé principal — Les catégories sont réparties dans Statuts 4.1, Statuts 4.2, Statuts 4.5 et Statuts 4.7. L’accès au comité limité aux membres ordinaires est repris dans Statuts 5.1.
+> Énoncé principal — Les catégories sont réparties dans Statuts 4.3, Statuts 4.4, Statuts 4.5 et Statuts 4.5.3. L’accès au comité limité aux membres ordinaires est repris dans Statuts 5.2.
 >
-> a(1) et a(2) — Remplacés par Statuts 4.1. L’inclusion générale du personnel civil comme membre ordinaire n’est plus reprise. Le projet nomme les membres de la Force régulière et de la Première réserve attachés au 9 EG, les militaires étrangers en échange ou détachés et, sur demande, les officiers CIC des unités de cadets directement parrainées utilisant les installations. L’exemple du centre de recrutement disparaît.
+> a(1) et a(2) — Remplacés par Statuts 4.3. L’inclusion générale du personnel civil comme membre ordinaire n’est plus reprise. Le projet nomme les membres de la Force régulière et de la Première réserve attachés au 9 EG, les militaires étrangers en échange ou détachés et, sur demande, les officiers CIC des unités de cadets directement parrainées utilisant les installations. L’exemple du centre de recrutement disparaît.
 >
-> b(1) — La demande écrite appuyée par un membre ordinaire, l’affichage de 30 jours, les observations ou objections écrites, l’examen par le comité et la présentation à l’assemblée ne sont plus décrits dans le texte local. Statuts 4.2 renvoie à l’admissibilité des membres associés du Manuel PSP sans reproduire ces étapes.
+> b(1) — La demande écrite appuyée par un membre ordinaire, l’affichage de 30 jours, les observations ou objections écrites, l’examen par le comité et la présentation à l’assemblée ne sont plus décrits dans le texte local. Statuts 4.4 renvoie à l’admissibilité des membres associés du Manuel PSP sans reproduire ces étapes.
 >
-> b(2) — Le plafond de 65 % et la liste d’attente sont repris dans Statuts 4.11. La tenue de la liste d’attente par le secrétaire se retrouve dans Annexe C 1.7.
+> b(2) — Le plafond de 65 % et la liste d’attente sont repris dans Statuts 4.4.1. La tenue de la liste d’attente par le secrétaire se retrouve dans Annexe C 1.7.
 >
-> b(3) — Le renouvellement à la première assemblée de l’année civile pour l’année financière suivante est repris dans Statuts 4.11. Les dates de l’année financière se retrouvent dans R4 4.1. La présentation de la question par le comité et la distinction ordinaire ou extraordinaire ne sont plus explicites dans cette clause.
+> b(3) — Le renouvellement à la première assemblée de l’année civile pour l’année financière suivante est repris dans Statuts 4.4.2. Les dates de l’année financière se retrouvent dans R4 4.1. La présentation de la question par le comité et la distinction ordinaire ou extraordinaire ne sont plus explicites dans cette clause.
 >
-> b(4) et b(5) — Réunis dans Statuts 4.13. Les motifs de révocation et la nouvelle demande après non-paiement sont conservés. Le renvoi aux anciens alinéas (1) ou (2) disparaît; PCAM devient président. La nouvelle clause n’est pas expressément limitée aux seuls membres associés.
+> b(4) et b(5) — Réunis dans Statuts 4.6. Les motifs de révocation et la nouvelle demande après non-paiement sont conservés. Le renvoi aux anciens alinéas (1) ou (2) disparaît; PCAM devient président. La nouvelle clause n’est pas expressément limitée aux seuls membres associés.
 >
-> b(6) — Les privilèges et l’absence de responsabilité au comité sont repris dans Statuts 4.4. La restriction aux seules activités sociales n’est pas reprise : Statuts 9.5 autorise aussi la présence et les discussions aux assemblées, sans vote.
+> b(6) — Les privilèges et l’absence de responsabilité au comité sont repris dans Statuts 4.4.4. La restriction aux seules activités sociales n’est pas reprise : Statuts 7.5 autorise aussi la présence et les discussions aux assemblées, sans vote.
 >
-> b(7) — L’invitation du président pour les événements officiels à caractère militaire est reprise dans Statuts 4.12. Les exemples de dîners régimentaires, levée du Jour de l’an et visites inter-mess sont retirés.
+> b(7) — L’invitation du président pour les événements officiels à caractère militaire est reprise dans Statuts 4.4.5. Les exemples de dîners régimentaires, levée du Jour de l’an et visites inter-mess sont retirés.
 >
-> b(8), classe I et classe II — Les deux classes et leurs listes ne sont plus reproduites. Statuts 4.2 donne comme exemples les vétérans, les employés actuels et retraités du MDN et des FNP et le Lcol(H) actif. La catégorie des militaires d’une autre unité et celle des civils pouvant être bénéfiques à l’unité ne sont plus énoncées ainsi.
+> b(8), classe I et classe II — Les deux classes et leurs listes ne sont plus reproduites. Statuts 4.4 donne comme exemples les vétérans, les employés actuels et retraités du MDN et des FNP et le Lcol(H) actif. La catégorie des militaires d’une autre unité et celle des civils pouvant être bénéfiques à l’unité ne sont plus énoncées ainsi.
 >
-> c(1) — Reformulé dans Statuts 4.6 : tout membre de la Force régulière ou de la Première réserve canadienne est membre honoraire des mess correspondant à son grade, sauf les membres ordinaires du Mess du 9 EG.
+> c(1) — Reformulé dans Statuts 4.5.1 : les membres de la Force régulière et de la Première réserve canadienne sont membres honoraires du Mess, sauf ceux qui en sont déjà membres ordinaires ou associés.
 >
-> c(2) — Repris dans Statuts 4.8, avec ajout explicite d’un vote majoritaire en assemblée générale avant l’approbation du commandant. La période d’un an et les renouvellements annuels sont conservés.
+> c(2) — Repris dans Statuts 4.5.2, avec ajout explicite d’un vote majoritaire en assemblée générale avant l’approbation du commandant. La période d’un an et les renouvellements annuels sont conservés.
 >
-> c(3)(a) à (c) — Regroupés dans le texte suivant Statuts 4.5. Les anciens combattants et les personnes ayant contribué au bien ou au prestige de l’unité peuvent être proposés dans la catégorie à laquelle ils sont admissibles; ils ne sont plus présentés comme une liste d’admissibilité automatiquement honoraire.
+> c(3)(a) à (c) — Reformulés dans Statuts 4.2. Les anciens combattants et les personnes ayant contribué au bien ou au prestige de l’unité peuvent être proposés dans la catégorie à laquelle ils sont admissibles; ils ne sont plus présentés comme une liste d’admissibilité automatiquement honoraire.
 >
-> d et d(1) à d(4) — Repris avec modification dans Statuts 4.7. Les quatre groupes et le seuil de plus de 12 ans sont maintenus, mais sous réserve de l’admissibilité du Manuel PSP et parmi les militaires admissibles, à leur retraite; l’expression « de facto » est retirée. La contribution majeure est conservée comme autre reconnaissance possible. La demande pour devenir associé se retrouve, plus généralement pour les membres honoraires fréquentant régulièrement le Mess, dans Statuts 4.10; le cheminement auprès du commandant par le comité n’y est plus décrit.
+> d et d(1) à d(4) — Repris avec modification dans Statuts 4.5.3. Les quatre groupes et le seuil de plus de 12 ans sont maintenus, mais sous réserve de l’admissibilité du Manuel PSP et parmi les militaires admissibles, à leur retraite; l’expression « de facto » est retirée. La contribution majeure est conservée comme autre reconnaissance possible. La demande pour devenir associé se retrouve, plus généralement pour les membres honoraires fréquentant régulièrement le Mess, dans Statuts 4.5.5; le cheminement auprès du commandant par le comité n’y est plus décrit.
 >
-> Note sur la révocation à vie — Déplacée dans Statuts 4.14. Le vote de l’assemblée est conservé et un renvoi aux pouvoirs de l’autorité compétente est ajouté.
+> Note sur la révocation à vie — Déplacée dans Statuts 4.6.2. Le vote de l’assemblée est conservé et un renvoi aux pouvoirs de l’autorité compétente est ajouté.
 
 <!-- FIN ANNOTATION -->
 
@@ -214,7 +214,7 @@ apporter quelque chose de bénéfique ou de prestige à l'unité.
 
 > **Annotation — Article 5**
 >
-> Déplacé dans Statuts 9.2. Les assemblées trimestrielles passent de « devraient » à « est tenue ». L’option d’une fréquence différente décidée par le commandant ou le président n’est plus énoncée. Le calendrier tient compte des entraînements.
+> Déplacé dans Statuts 7.2. Les assemblées trimestrielles passent de « devraient » à « est tenue ». L’option d’une fréquence différente décidée par le commandant ou le président n’est plus énoncée. Le calendrier tient compte des entraînements.
 
 <!-- FIN ANNOTATION -->
 <a id="article-6"></a>**6.** Lors d'une réunion spéciale, généralement au mois de décembre, les membres du comité du mess seront élus. Lors de toute élection, normalement pas plus de 50% des membres du comité ne sera substitué à une même assemblée.
@@ -224,7 +224,7 @@ apporter quelque chose de bénéfique ou de prestige à l'unité.
 
 > **Annotation — Article 6**
 >
-> Réuni avec l’ancien article 30 dans Statuts 5.2. Les élections sont normalement en décembre. La règle locale limitant à 50 % les remplacements à une même assemblée n’est plus chiffrée dans le projet; durée, prolongation et relève échelonnée renvoient au Manuel PSP, chapitre 9-4, paragraphe 18.
+> Réuni avec l’ancien article 30 dans Statuts 5.3. Les élections sont normalement en décembre. La règle locale limitant à 50 % les remplacements à une même assemblée n’est plus chiffrée dans le projet; durée, prolongation et relève échelonnée renvoient au Manuel PSP, chapitre 9-4, paragraphe 18.
 
 <!-- FIN ANNOTATION -->
 <a id="article-7"></a>**7.** Un rapport financier sommaire sera présenté à chaque réunion du mess.
@@ -244,7 +244,7 @@ apporter quelque chose de bénéfique ou de prestige à l'unité.
 
 > **Annotation — Article 8**
 >
-> Modifié dans Statuts 9.6. « Plus de 50 % des membres ordinaires en règle et disponibles en région » devient « 50 % des membres ». L’exclusion des membres absents de la région et la condition de membre ordinaire en règle ne sont plus formulées pour le calcul du quorum. L’annulation après 30 minutes n’est plus énoncée. Annexe C 1.3 prévoit la vérification du quorum et une nouvelle convocation après annulation, sans reprendre le délai de 30 minutes.
+> Modifié dans Statuts 7.6. « Plus de 50 % des membres ordinaires en règle et disponibles en région » devient « 50 % des membres ». L’exclusion des membres absents de la région et la condition de membre ordinaire en règle ne sont plus formulées pour le calcul du quorum. L’annulation après 30 minutes n’est plus énoncée. Annexe C 1.3 prévoit la vérification du quorum et une nouvelle convocation après annulation, sans reprendre le délai de 30 minutes.
 
 <!-- FIN ANNOTATION -->
 <a id="article-9"></a>**9.** Les membres honoraires et associés peuvent assister aux réunions et participer aux discussions, mais n'ont aucun droit de vote.
@@ -254,7 +254,7 @@ apporter quelque chose de bénéfique ou de prestige à l'unité.
 
 > **Annotation — Article 9**
 >
-> Repris dans Statuts 9.5. Les membres associés et honoraires peuvent assister aux assemblées et participer aux discussions, sans voter. Le droit de vote des membres ordinaires en règle est ajouté expressément.
+> Repris dans Statuts 7.5. Les membres associés et honoraires peuvent assister aux assemblées et participer aux discussions, sans voter. Le droit de vote des membres ordinaires en règle est ajouté expressément.
 
 <!-- FIN ANNOTATION -->
 <a id="article-10"></a>**10.** Le commandant pourra être présent aux réunions s'il le désire, mais il ne participera pas au vote. Par contre, il pourra exprimer son opinion. Lors de la révision du procès verbale, le commandant pourra annuler un vote avec son droit de véto. Il ne peut pas seulement modifier la proposition.
@@ -264,7 +264,7 @@ apporter quelque chose de bénéfique ou de prestige à l'unité.
 
 > **Annotation — Article 10**
 >
-> Remplacé par Statuts 9.8 et Statuts 9.9. Le commandant peut désormais voter et présenter une motion s’il est membre ordinaire du Mess. Le droit de veto est reformulé en approbation des motions par la signature du procès-verbal, sauf celles indiquées comme non approuvées. L’interdiction de modifier seulement la proposition n’est pas reprise expressément.
+> Remplacé par Statuts 7.8 et Statuts 7.9. Le commandant peut désormais voter et présenter une motion s’il est membre ordinaire du Mess. Le droit de veto est reformulé en approbation des motions par la signature du procès-verbal, sauf celles indiquées comme non approuvées. L’interdiction de modifier seulement la proposition n’est pas reprise expressément.
 
 <!-- FIN ANNOTATION -->
 <a id="article-11"></a>**11.** Il faut noter que les réunions extraordinaires peuvent être convoquées par le commandant, le président du comité du mess ou par une demande écrite d'au moins 25% des membres ordinaires en règle.
@@ -277,7 +277,7 @@ apporter quelque chose de bénéfique ou de prestige à l'unité.
 
 > **Annotation — Article 11**
 >
-> Déplacé dans Statuts 9.11, qui renvoie au Manuel PSP, chapitre 9-4, paragraphe 40. La possibilité d’une demande des membres est conservée, mais le seuil local de 25 %, l’exigence écrite et l’énumération des personnes pouvant convoquer ne sont plus reproduits dans la clause.
+> Déplacé dans Statuts 7.11, qui renvoie au Manuel PSP, chapitre 9-4, paragraphe 40. La possibilité d’une demande des membres est conservée, mais le seuil local de 25 %, l’exigence écrite et l’énumération des personnes pouvant convoquer ne sont plus reproduits dans la clause.
 
 <!-- FIN ANNOTATION -->
 <a id="article-12"></a>**12.** Au niveau des réunions du comité du mess, c'est le commandant ou le président de ce comité qui les convoque.
@@ -287,7 +287,7 @@ apporter quelque chose de bénéfique ou de prestige à l'unité.
 
 > **Annotation — Article 12**
 >
-> Déplacé dans Statuts 8.3 et Annexe A 1.3. La convocation par le commandant ou le président est conservée. Statuts 8.1 à Statuts 8.4 précisent les objets, la fréquence et les comptes rendus des réunions du comité.
+> Déplacé dans Statuts 6.3 et Annexe A 1.3. La convocation par le commandant ou le président est conservée. Statuts 6.1 à Statuts 6.4 précisent les objets, la fréquence et les comptes rendus des réunions du comité.
 
 <!-- FIN ANNOTATION -->
 <a id="article-13"></a>**13.** Il ne pourra y avoir d'assemblée entre le 30 mai et le 30 août de chaque année, puisque la majorité des membres ne sera pas disponible en région.
@@ -296,7 +296,7 @@ apporter quelque chose de bénéfique ou de prestige à l'unité.
 
 > **Annotation — Article 13**
 >
-> Non repris — L’interdiction d’assemblées entre le 30 mai et le 30 août est retirée. Statuts 9.2 prévoit seulement que le calendrier des assemblées trimestrielles tient compte des entraînements.
+> Non repris — L’interdiction d’assemblées entre le 30 mai et le 30 août est retirée. Statuts 7.2 prévoit seulement que le calendrier des assemblées trimestrielles tient compte des entraînements.
 
 <!-- FIN ANNOTATION -->
 
@@ -309,7 +309,7 @@ apporter quelque chose de bénéfique ou de prestige à l'unité.
 
 > **Annotation — Article 14**
 >
-> Reformulé dans Statuts 9.1 et complété par Statuts 5.1. Les assemblées examinent finances, activités et questions concernant le Mess, élisent les administrateurs et prennent les décisions réservées aux membres.
+> Reformulé dans Statuts 7.1 et complété par Statuts 5.1. Les assemblées examinent finances, activités et questions concernant le Mess, élisent les administrateurs et prennent les décisions réservées aux membres.
 
 <!-- FIN ANNOTATION -->
 <a id="article-15"></a>**15.** Quorum. Les délibérations d'une assemblée générale ordinaire ou extraordinaire ne sont valides que s'il y a quorum. Le nombre de membres présents constitue le quorum.
@@ -319,7 +319,7 @@ apporter quelque chose de bénéfique ou de prestige à l'unité.
 
 > **Annotation — Article 15**
 >
-> Regroupé avec l’ancien article 8 dans Statuts 9.6. La validité des délibérations n’est plus énoncée dans une clause séparée. Annexe C 1.3 prévoit le contrôle du quorum à l’ouverture et lorsqu’une perte est signalée.
+> Regroupé avec l’ancien article 8 dans Statuts 7.6. La validité des délibérations n’est plus énoncée dans une clause séparée. Annexe C 1.3 prévoit le contrôle du quorum à l’ouverture et lorsqu’une perte est signalée.
 
 <!-- FIN ANNOTATION -->
 <a id="article-16"></a>**16.** Responsabilité du président. Les assemblées du mess sont présidées par le président, en son absence, par le vice-président. Le président de l’assemblée général, à titre, doit veiller à ce que:
@@ -339,7 +339,7 @@ apporter quelque chose de bénéfique ou de prestige à l'unité.
 >
 > Énoncé principal — La présidence et le remplacement par le vice-président sont déplacés dans Annexe A 1.3.
 >
-> a — Le respect de la procédure parlementaire est repris par renvoi dans Statuts 9.4 et Annexe A 1.4.
+> a — Le respect de la procédure parlementaire est repris par renvoi dans Statuts 7.4 et Annexe A 1.4.
 >
 > b à d — La possibilité de s’exprimer sans redites, les propos adressés au président et une seule personne parlant à la fois ne sont plus énumérés dans le texte local; la conduite des assemblées renvoie au tableau 9-4-4 du Manuel PSP.
 
@@ -351,7 +351,7 @@ apporter quelque chose de bénéfique ou de prestige à l'unité.
 
 > **Annotation — Article 17**
 >
-> Reformulé dans Statuts 9.3. L’avis est communiqué à tous les membres et l’ordre du jour est affiché une semaine à l’avance. Le libellé de l’invitation comme contenant l’ordre du jour approuvé et l’emplacement précis dans l’entrée du Mess ne sont plus repris. La préparation et la diffusion sont confiées au secrétaire dans Annexe C 1.2.
+> Reformulé dans Statuts 7.3. L’avis est communiqué à tous les membres et l’ordre du jour est affiché une semaine à l’avance. Le libellé de l’invitation comme contenant l’ordre du jour approuvé et l’emplacement précis dans l’entrée du Mess ne sont plus repris. La préparation et la diffusion sont confiées au secrétaire dans Annexe C 1.2.
 
 <!-- FIN ANNOTATION -->
 <a id="article-18"></a>**18.** Ordre des délibérations. L'ordre des délibérations d'une assemblée générale est habituellement le suivant:
@@ -379,7 +379,7 @@ apporter quelque chose de bénéfique ou de prestige à l'unité.
 
 > **Annotation — Article 18**
 >
-> a à i — L’ordre détaillé des délibérations n’est plus reproduit. Statuts 9.4 renvoie au tableau 9-4-4 du Manuel PSP pour la procédure parlementaire, sans énumérer ces neuf étapes.
+> a à i — L’ordre détaillé des délibérations n’est plus reproduit. Statuts 7.4 renvoie au tableau 9-4-4 du Manuel PSP pour la procédure parlementaire, sans énumérer ces neuf étapes.
 
 <!-- FIN ANNOTATION -->
 <a id="article-19"></a>**19.** Il est bon qu'une question d'importance, comme une proposition de modification aux statuts ou
@@ -396,7 +396,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 > **Annotation — Article 19**
 >
-> Pour les modifications aux textes, le préavis devient une obligation de 15 jours dans Statuts 10.1. La communication préalable des propositions est aussi prévue dans Statuts 9.10. Le conseil de préparation personnelle et la mention particulière des autres propositions complexes ne sont plus reproduits.
+> Pour les modifications aux textes, le préavis devient une obligation de 15 jours dans Statuts 8.1. La communication préalable des propositions est aussi prévue dans Statuts 7.10. Le conseil de préparation personnelle et la mention particulière des autres propositions complexes ne sont plus reproduits.
 
 <!-- FIN ANNOTATION -->
 <a id="article-20"></a>**20.** Proposition. Une proposition a pour objet d'amener le Comité à prendre position sur une question donnée. Tous les membres, à l'exception du commandant et du président, peuvent présenter une proposition. Pour ce faire, un membre doit d'abord obtenir du président le droit de parole et à cette fin, il doit se lever et attendre que le président lui accorde la parole. Il est essentiel que la proposition soit comprise de tous. Pour éviter toute confusion, le président doit répéter la proposition et demander aux membres s'il s'est bien fait comprendre.
@@ -406,7 +406,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 > **Annotation — Article 20**
 >
-> Le dépôt d’une motion est repris dans Statuts 9.7. Les auteurs admissibles deviennent les membres ordinaires, sauf le président; Statuts 9.8 autorise le commandant membre ordinaire à présenter une motion. Les consignes de se lever, d’attendre la parole et de faire répéter la proposition ne sont plus décrites localement; Statuts 9.4 renvoie à la procédure parlementaire. La dernière phrase de Statuts 9.7 demeure inachevée dans la version comparée (« selon la »).
+> Le dépôt d’une motion est repris dans Statuts 7.7. Les auteurs admissibles deviennent les membres ordinaires, sauf le président; Statuts 7.8 autorise le commandant membre ordinaire à présenter une motion. Les consignes de se lever, d’attendre la parole et de faire répéter la proposition ne sont plus décrites localement; Statuts 7.4 renvoie à la procédure parlementaire. La dernière phrase de Statuts 7.7 demeure inachevée dans la version comparée (« selon la »).
 
 <!-- FIN ANNOTATION -->
 <a id="article-21"></a>**21.** Appui à la proposition. Une proposition n'est valide que si elle est appuyée par un autre membre. À défaut d'un tel appui, le président déclare que "la proposition est irrecevable", puis passe au point suivant.
@@ -416,7 +416,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 > **Annotation — Article 21**
 >
-> Repris dans Statuts 9.7. L’appui d’un autre membre ordinaire est désormais précisé. La déclaration verbale de proposition irrecevable et le passage au point suivant ne sont plus reproduits.
+> Repris dans Statuts 7.7. L’appui d’un autre membre ordinaire est désormais précisé. La déclaration verbale de proposition irrecevable et le passage au point suivant ne sont plus reproduits.
 
 <!-- FIN ANNOTATION -->
 <a id="article-22"></a>**22.** Débats. A moins d'être déclarée irrecevable par le président, une proposition dûment appuyée, puis répétée par le président du Comité, doit être débattue par l'assemblée et ne peut être ignorée, sauf à la demande expresse d'une motion.
@@ -426,7 +426,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 > **Annotation — Article 22**
 >
-> La règle détaillée imposant le débat d’une proposition recevable et appuyée n’est plus reproduite. La procédure des assemblées est donnée par renvoi au tableau 9-4-4 dans Statuts 9.4.
+> La règle détaillée imposant le débat d’une proposition recevable et appuyée n’est plus reproduite. La procédure des assemblées est donnée par renvoi au tableau 9-4-4 dans Statuts 7.4.
 
 <!-- FIN ANNOTATION -->
 <a id="article-23"></a>**23.** Vote. Toute proposition doit être adoptée par la majorité des membres présents, c'est-à-dire par 50 pour cent des voix exprimées plus un (sans compter les abstentions). Les membres ne sont pas tenus de voter, mais incités à le faire. S'il y a égalité des voix, il y aura automatiquement un recomptage. S’il y a une deuxième égalité, le PCAM utilisera son droit de vote pour trancher. Il s’agit de l’unique occasion que le PCAM peut utiliser son droit de vote. Le PCAM ne peut amender ou appuyer une motion. Dans le cas d'un vote erroné, le PCAM ordonne un nouveau vote.
@@ -454,9 +454,9 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 > **Annotation — Article 23**
 >
-> Énoncé principal — La majorité des voix exprimées est conservée explicitement pour les élections dans Statuts 5.2, les fins de mandat dans Statuts 5.3 et les modifications dans Statuts 10.1. La règle générale de vote, l’incitation à voter, le recomptage en cas d’égalité, le vote prépondérant limité du PCAM, l’interdiction d’amender ou d’appuyer et le nouveau vote erroné ne sont plus décrits ensemble. Statuts 9.4 renvoie à la procédure parlementaire; Statuts 9.7 exclut le président des auteurs de motions.
+> Énoncé principal — La majorité des voix exprimées est conservée explicitement pour les élections dans Statuts 5.3, les fins de mandat dans Statuts 5.5 et les modifications dans Statuts 8.1. La règle générale de vote, l’incitation à voter, le recomptage en cas d’égalité, le vote prépondérant limité du PCAM, l’interdiction d’amender ou d’appuyer et le nouveau vote erroné ne sont plus décrits ensemble. Statuts 7.4 renvoie à la procédure parlementaire; Statuts 7.7 exclut le président des auteurs de motions.
 >
-> a et points 1 à 8 — Le dispositif local de vote par internet n’est pas repris : priorité aux assemblées, publication par le comité, plafond de 200 $, caractère facultatif, statut actif pour l’année financière, quorum, délai de 15 jours et veto ne figurent plus comme conditions d’un scrutin en ligne. Le délai de 15 jours de Statuts 10.1 porte sur l’examen des modifications aux textes et ne rétablit pas ce dispositif.
+> a et points 1 à 8 — Le dispositif local de vote par internet n’est pas repris : priorité aux assemblées, publication par le comité, plafond de 200 $, caractère facultatif, statut actif pour l’année financière, quorum, délai de 15 jours et veto ne figurent plus comme conditions d’un scrutin en ligne. Le délai de 15 jours de Statuts 8.1 porte sur l’examen des modifications aux textes et ne rétablit pas ce dispositif.
 
 <!-- FIN ANNOTATION -->
 <a id="article-24"></a>**24.** Mise en candidature.
@@ -472,9 +472,9 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 > **Annotation — Article 24**
 >
-> a et b — L’élection du président et du vice-président est regroupée dans Statuts 5.1 et Statuts 5.2; ces postes figurent dans Statuts 6.1.
+> a et b — L’élection du président et du vice-président est regroupée dans Statuts 5.1 et Statuts 5.3; ces postes figurent dans Statuts 5.2.
 >
-> c — La durée minimale locale d’un an selon la disponibilité n’est plus énoncée. Statuts 5.2 renvoie au Manuel PSP pour la durée des mandats, leur prolongation et la relève échelonnée.
+> c — La durée minimale locale d’un an selon la disponibilité n’est plus énoncée. Statuts 5.4 renvoie au Manuel PSP pour la durée des mandats, leur prolongation et la relève échelonnée.
 
 <!-- FIN ANNOTATION -->
 <a id="article-25"></a>**25.** Avis de convocation à une assemblée. Un avis de convocation à une assemblée générale doit être fait à tous les membres au moins 2 semaines avant la date de l’assemblée ou le mentionner à la fin des assemblées ordinaires.
@@ -486,7 +486,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 > **Annotation — Article 25**
 >
-> Modifié et regroupé avec l’ancien article 17 dans Statuts 9.3. Le préavis local de deux semaines, et l’option d’annoncer la réunion à la fin d’une assemblée ordinaire, ne sont plus repris. La clause prévoit la communication à tous et l’affichage de l’ordre du jour une semaine à l’avance.
+> Modifié et regroupé avec l’ancien article 17 dans Statuts 7.3. Le préavis local de deux semaines, et l’option d’annoncer la réunion à la fin d’une assemblée ordinaire, ne sont plus repris. La clause prévoit la communication à tous et l’affichage de l’ordre du jour une semaine à l’avance.
 
 <!-- FIN ANNOTATION -->
 
@@ -499,7 +499,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 > **Annotation — Article 26**
 >
-> L’admissibilité des seuls membres ordinaires au comité est conservée dans Statuts 5.1. L’exigence supplémentaire d’un président membre actif du 9 EG, avec l’approbation du commandant, n’est plus énoncée comme condition distincte du poste.
+> L’admissibilité des seuls membres ordinaires au comité est conservée dans Statuts 5.2. L’exigence supplémentaire d’un président membre actif du 9 EG, avec l’approbation du commandant, n’est plus énoncée comme condition distincte du poste.
 
 <!-- FIN ANNOTATION -->
 <a id="article-27"></a>**27.** Étant donné que le Mess regroupe le Club Chimo et le Mess Combiné, les membres du comité devront être représentatifs de ces 2 groupes. Par exemple, si le président est un membre du Club Chimo, le vice-président devra être un membre du Mess Combiné. La répartition des postes devra être occupée à 50% par les membres du Mess Combiné et 50% par les membres du Club Chimo. Les postes de président et vice-président seront alternés d'une année à l'autre entre le Club Chimo et le Mess Combiné. Débutant en décembre, les années paires, le poste de président sera attribué au Club Chimo et pour les années impaires le poste reviendra au Mess Combiné.
@@ -509,7 +509,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 > **Annotation — Article 27**
 >
-> Remplacé par la représentation équitable des deux locaux dans Statuts 6.2. Les proportions obligatoires de 50/50, les origines opposées du président et du vice-président, l’alternance annuelle et la répartition selon les années paires ou impaires sont retirées du texte local.
+> Remplacé par la représentation équitable des deux locaux dans Statuts 5.2. Les proportions obligatoires de 50/50, les origines opposées du président et du vice-président, l’alternance annuelle et la répartition selon les années paires ou impaires sont retirées du texte local.
 
 <!-- FIN ANNOTATION -->
 <a id="article-28"></a>**28.** Le comité devrait se composer comme suit :
@@ -529,9 +529,9 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 > **Annotation — Article 28**
 >
-> a à c — Le minimum de composition devient président, vice-président et secrétaire ou trésorier dans Statuts 6.1. Le poste initial de secrétaire-trésorier n’est plus imposé dans cette liste.
+> a à c — Le minimum de composition devient président, vice-président et secrétaire ou trésorier dans Statuts 5.2. Le poste initial de secrétaire-trésorier n’est plus imposé dans cette liste.
 >
-> d et e — Les deux postes de responsables des activités ne sont plus requis. Annexe E 1.1 prévoit un seul responsable pour les deux locaux. Statuts 6.2 permet de confier d’autres fonctions selon les besoins.
+> d et e — Les deux postes de responsables des activités ne sont plus requis. Annexe E 1.1 prévoit un seul responsable pour les deux locaux. Statuts 5.2 permet de confier d’autres fonctions selon les besoins.
 
 <!-- FIN ANNOTATION -->
 <a id="article-29"></a>**29.** Les postes de secrétaire et trésorier peuvent être remplis par deux personnes différentes.
@@ -541,7 +541,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 > **Annotation — Article 29**
 >
-> La possibilité de séparer secrétaire et trésorier n’est plus formulée comme telle. Le projet distingue leurs fonctions dans les annexes C et D; Statuts 6.1 exige au minimum un secrétaire ou un trésorier, et Statuts 6.2 permet d’autres fonctions.
+> La possibilité de séparer secrétaire et trésorier n’est plus formulée comme telle. Le projet distingue leurs fonctions dans les annexes C et D; Statuts 5.2 exige au minimum un secrétaire ou un trésorier, et Statuts 5.2 permet d’autres fonctions.
 
 <!-- FIN ANNOTATION -->
 <a id="article-30"></a>**30.** Les membres de ce comité sont élus à majorité simple, généralement à la réunion du mois de décembre à l’exception du régisseur qui est nominé par le commandant.
@@ -551,7 +551,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 > **Annotation — Article 30**
 >
-> Déplacé dans Statuts 5.2 : majorité simple, élections normalement en décembre et nomination du régisseur par le commandant conservées. La durée des mandats et la relève échelonnée sont désormais visées par renvoi.
+> Déplacé dans Statuts 5.3 : majorité simple, élections normalement en décembre conservées; la désignation du responsable du bar avec l’approbation du commandant ou de son délégué est précisée dans Statuts 5.2. La durée des mandats et la relève échelonnée sont désormais visées par renvoi.
 
 <!-- FIN ANNOTATION -->
 <a id="article-31"></a>**31.** Dans le cas de tout mess, il convient que tous les grades soient équitablement représentés au sein du comité, dans la mesure du possible.
@@ -561,7 +561,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 > **Annotation — Article 31**
 >
-> Reformulé dans Statuts 6.2, qui demande une représentation équitable des deux locaux. La représentation de tous les grades, dans la mesure du possible, n’est plus énoncée explicitement.
+> Reformulé dans Statuts 5.2, qui demande une représentation équitable des deux locaux. La représentation de tous les grades, dans la mesure du possible, n’est plus énoncée explicitement.
 
 <!-- FIN ANNOTATION -->
 <a id="article-32"></a>**32.** Si un poste devient vacant, il doit être comblé à la première réunion suivant la date de vacance.
@@ -581,7 +581,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 > **Annotation — Article 33**
 >
-> La gestion et les limites des autorisations sont réparties dans Statuts 5.1, Statuts 7.1, R4 1.1 et R4 3.1. La destitution automatique pour mauvaise gestion flagrante et l’obligation de réparer les torts ne sont plus énoncées dans cette clause. Statuts 5.3 prévoit une procédure de fin de mandat; elle ne reproduit pas cette sanction financière.
+> La gestion et les limites des autorisations sont réparties dans Statuts 5.1, Statuts 5.7, R4 1.1 et R4 3.1. La destitution automatique pour mauvaise gestion flagrante et l’obligation de réparer les torts ne sont plus énoncées dans cette clause. Statuts 5.5 prévoit une procédure de fin de mandat; elle ne reproduit pas cette sanction financière.
 
 <!-- FIN ANNOTATION -->
 <a id="article-34"></a>**34.** Destitution d'un membre du comité. Pour qu'une destitution soit autorisée, il faut une raison suffisante et la proposition de destitution doit être appuyée d'un vote au cours d'une assemblée. Un minimum de 75% des votes des personnes présentes à la réunion est obligatoire pour que la destitution soit en règle. L’avis de destitution doit être présenté au minimum un mois avant le vote.
@@ -590,7 +590,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 > **Annotation — Article 34**
 >
-> Remplacé par Statuts 5.3. Le seuil de 75 % devient la majorité des voix exprimées. Le préavis d’au moins un mois est conservé, désormais avec motifs écrits et possibilité de présenter ses observations. La clause vise d’abord la recherche d’une solution lorsque le titulaire ne participe plus ou n’assume plus ses fonctions.
+> Remplacé par Statuts 5.5. Le seuil de 75 % devient la majorité des voix exprimées. Le préavis d’au moins un mois est conservé, désormais avec motifs écrits et possibilité de présenter ses observations. La clause vise d’abord la recherche d’une solution lorsque le titulaire ne participe plus ou n’assume plus ses fonctions.
 
 <!-- FIN ANNOTATION -->
 
@@ -646,9 +646,9 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 > **Annotation — Article 36**
 >
-> a — Déplacé dans Annexe A 1.1. b et i — Réunis dans Annexe A 1.3; la convocation du comité est également prévue dans Statuts 8.3.
+> a — Déplacé dans Annexe A 1.1. b et i — Réunis dans Annexe A 1.3; la convocation du comité est également prévue dans Statuts 6.3.
 >
-> c — Les règles détaillées sur amendements, appuis, vote erroné et égalité ne sont plus reprises dans les fonctions du président; Annexe A 1.4 et Statuts 9.4 renvoient à la procédure parlementaire. Statuts 9.7 interdit au président de présenter une motion.
+> c — Les règles détaillées sur amendements, appuis, vote erroné et égalité ne sont plus reprises dans les fonctions du président; Annexe A 1.4 et Statuts 7.4 renvoient à la procédure parlementaire. Statuts 7.7 interdit au président de présenter une motion.
 >
 > d et h — Réunis dans Annexe A 1.6 pour la signature des procès-verbaux et la mise à jour des statuts après modifications approuvées. e et f — Regroupés dans Annexe A 1.7. g et j — Regroupés dans Annexe A 1.8, qui vise aussi le régisseur.
 >
@@ -704,7 +704,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 > **Annotation — Article 38**
 >
-> a — Déplacé dans Annexe C 1.1. b — Repris et développé dans Annexe C 1.2. c — Réparti entre Annexe C 1.4 et Annexe C 1.8; la référence locale au PFC 262, article 319, est remplacée par les références du projet sur les procès-verbaux et leur approbation, notamment Statuts 9.9.
+> a — Déplacé dans Annexe C 1.1. b — Repris et développé dans Annexe C 1.2. c — Réparti entre Annexe C 1.4 et Annexe C 1.8; la référence locale au PFC 262, article 319, est remplacée par les références du projet sur les procès-verbaux et leur approbation, notamment Statuts 7.9.
 >
 > d — Repris dans Annexe C 1.5. e et f — Regroupés dans Annexe C 1.7. g — Repris avec modification dans Annexe C 1.6 et Avant-propos 3.1 : copies dans les locaux et accès pour chaque nouveau membre, plutôt qu’obligation d’afficher la constitution elle-même.
 >
@@ -829,7 +829,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 
 > **Annotation — Article 43**
 >
-> Déplacé et remplacé par le renvoi sur les conflits d’intérêts et avantages dans Statuts 5.4 au Manuel PSP, chapitre 9-4, paragraphes 27 et 28. Le bénévolat est explicité. L’interdiction et la déclaration au commandant ne sont plus reproduites avec leur libellé initial; le renvoi au PFC 262 est retiré.
+> Déplacé et remplacé par le renvoi sur les conflits d’intérêts et avantages dans Statuts 5.6 au Manuel PSP, chapitre 9-4, paragraphes 27 et 28. Le bénévolat est explicité. L’interdiction et la déclaration au commandant ne sont plus reproduites avec leur libellé initial; le renvoi au PFC 262 est retiré.
 
 <!-- FIN ANNOTATION -->
 <a id="article-44"></a>**44.** Salaire. Les serveurs formés et le régisseur peuvent recevoir un salaire comme employé du SBMFC, à condition d’avoir une partie du budget annuel prévu pour le salaire de la tâche en particulier.
@@ -884,7 +884,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 >
 > a — Les cotisations renvoient au Manuel PSP dans R4 4.1. Les phrases sur leur rôle de revenu, leur utilisation limitée aux besoins du Mess et l’affiliation obligatoire de tout militaire ne sont plus reprises dans cette rubrique. R4 8.1 précise la distinction avec le fonds d’unité et la destination des biens.
 >
-> b — L’exemption des membres honoraires est désormais explicite dans Statuts 4.9. La phrase limitant le paiement aux seuls membres ordinaires et associés n’est plus reproduite à cet endroit.
+> b — L’exemption des membres honoraires est désormais explicite dans Statuts 4.5.4. La phrase limitant le paiement aux seuls membres ordinaires et associés n’est plus reproduite à cet endroit.
 >
 > c — Le calcul sur dix mois et l’exclusion des deux mois d’été ne sont plus énoncés. R4 4.1 définit l’année financière du 1er avril au 31 mars, sans préciser le nombre de mois facturés.
 >
@@ -931,7 +931,7 @@ permettre de rassembler les renseignements nécessaires, de se faire une opinion
 >
 > e — Remplacé par R4 5.3 : consommations offertes selon les références citées et, pour les boissons sans alcool, une consommation par membre présent dans le plafond annuel approuvé. Le maximum local de trois traites annuelles, les événements nommés, l’usage unique par événement et le privilège particulier au dîner de la troupe ne sont plus reproduits.
 >
-> f — Le paiement intégral de la cotisation annuelle comme définition expresse de membre en règle n’est plus repris. Le projet emploie toujours « en règle », notamment dans Statuts 9.5, sans reprendre cette définition. g — L’obligation locale de deux signatures sur les chèques est retirée; R4 5.2 décrit les moyens de paiement autorisés.
+> f — Le paiement intégral de la cotisation annuelle comme définition expresse de membre en règle n’est plus repris. Le projet emploie toujours « en règle », notamment dans Statuts 7.5, sans reprendre cette définition. g — L’obligation locale de deux signatures sur les chèques est retirée; R4 5.2 décrit les moyens de paiement autorisés.
 
 <!-- FIN ANNOTATION -->
 <a id="article-47"></a>**47.** Dépenses du comité de divertissement.
@@ -1268,7 +1268,7 @@ imposer un standard minimum qu'il jugera approprié.
 
 > **Annotation — Article 73**
 >
-> L’approbation du commandant pour tout avis n’est plus énoncée individuellement. Statuts 9.10 prévoit des validations et autorisations avant diffusion; Annexe C 1.2 confie au secrétaire l’organisation de ces validations sans en désigner systématiquement l’autorité.
+> L’approbation du commandant pour tout avis n’est plus énoncée individuellement. Statuts 7.10 prévoit des validations et autorisations avant diffusion; Annexe C 1.2 confie au secrétaire l’organisation de ces validations sans en désigner systématiquement l’autorité.
 
 <!-- FIN ANNOTATION -->
 <a id="article-74"></a>**74.** Conjoint. Les époux / épouses ou conjoint(e) de fait civil(e) des membres sont les bienvenus aux activités du mess en l’absence du militaire. Si un membre ne connaît pas l’identité d’un conjoint, il doit demander à un membre du comité du mess d’identifier la personne inconnue. Tous les conjoints non accompagnés doivent être prêts à s’identifier en toutes circonstances. Les époux / épouses ou conjoint(e) de fait civil(e) d’un membre se verra accorder le même traitement que celui réservé aux membres lorsque le membre est à l’extérieur de la région.
@@ -1387,7 +1387,7 @@ imposer un standard minimum qu'il jugera approprié.
 
 > **Annotation — Article 83**
 >
-> Reformulé dans Statuts 11.1 et Annexe A 1.11, par renvoi au Manuel PSP pour le traitement et par un suivi confié au président. Le livre conservé sur place et l’examen systématique par le conseil avec présentation au besoin à l’assemblée ne sont plus décrits comme tels. Un registre consultable est évoqué par exclusion des dossiers confidentiels.
+> Reformulé dans Statuts 9.1 et Annexe A 1.11, par renvoi au Manuel PSP pour le traitement et par un suivi confié au président. Le livre conservé sur place et l’examen systématique par le conseil avec présentation au besoin à l’assemblée ne sont plus décrits comme tels. Un registre consultable est évoqué par exclusion des dossiers confidentiels.
 
 <!-- FIN ANNOTATION -->
 <a id="article-84"></a>**84.** Toutes plaintes ou suggestions à caractère urgent peuvent être adressées directement au président.
@@ -1397,7 +1397,7 @@ imposer un standard minimum qu'il jugera approprié.
 
 > **Annotation — Article 84**
 >
-> Reformulé dans Statuts 11.1. L’acheminement direct au président est maintenant explicite pour les questions confidentielles ou de personnel. Le critère général d’urgence pour toute plainte ou suggestion n’est plus énoncé dans cette clause.
+> Reformulé dans Statuts 9.1. L’acheminement direct au président est maintenant explicite pour les questions confidentielles ou de personnel. Le critère général d’urgence pour toute plainte ou suggestion n’est plus énoncé dans cette clause.
 
 <!-- FIN ANNOTATION -->
 <a id="article-85"></a>**85.** Tout message concernant les membres ou la gestion du Mess sera affiché sur le tableau situé dans les locaux du Mess.
@@ -1407,7 +1407,7 @@ imposer un standard minimum qu'il jugera approprié.
 
 > **Annotation — Article 85**
 >
-> Déplacé dans Statuts 9.10. L’affichage est conservé et complété par un canal commun accessible à tous et un accès équivalent sans moyen numérique. Annexe C 1.6 confie la communication au secrétaire.
+> Déplacé dans Statuts 7.10. L’affichage est conservé et complété par un canal commun accessible à tous et un accès équivalent sans moyen numérique. Annexe C 1.6 confie la communication au secrétaire.
 
 <!-- FIN ANNOTATION -->
 <a id="article-86"></a>**86.** Tout message devra être approuvé par un membre du conseil avant d’être affiché.
@@ -1417,7 +1417,7 @@ imposer un standard minimum qu'il jugera approprié.
 
 > **Annotation — Article 86**
 >
-> L’approbation de tout message par un membre du conseil n’est plus formulée avec cette autorité précise. Statuts 9.10 exige des validations et autorisations avant diffusion; Annexe C 1.2 en confie l’organisation au secrétaire.
+> L’approbation de tout message par un membre du conseil n’est plus formulée avec cette autorité précise. Statuts 7.10 exige des validations et autorisations avant diffusion; Annexe C 1.2 en confie l’organisation au secrétaire.
 
 <!-- FIN ANNOTATION -->
 <a id="article-87"></a>**87.** Une copie des statuts et règlements du Mess devra être affichée en permanence sur le tableau d’affichage.
@@ -1448,7 +1448,7 @@ règlements du Mess.
 
 > **Annotation — Article 89**
 >
-> Regroupé avec l’ancien article 102 dans Statuts 9.10, Annexe C 1.6 et Annexe E 1.6. La communication des activités et l’affichage sont conservés dans des dispositions générales; le calendrier et les avis spéciaux ne sont plus énumérés ensemble dans une clause distincte.
+> Regroupé avec l’ancien article 102 dans Statuts 7.10, Annexe C 1.6 et Annexe E 1.6. La communication des activités et l’affichage sont conservés dans des dispositions générales; le calendrier et les avis spéciaux ne sont plus énumérés ensemble dans une clause distincte.
 
 <!-- FIN ANNOTATION -->
 
@@ -1607,7 +1607,7 @@ personnel désigné par lui.
 
 > **Annotation — Article 102**
 >
-> Regroupé avec l’ancien article 89 dans Statuts 9.10, Annexe C 1.6 et Annexe E 1.6. L’affichage et l’accessibilité sont maintenus par les règles générales de diffusion, sans phrase autonome imposant l’affichage du calendrier.
+> Regroupé avec l’ancien article 89 dans Statuts 7.10, Annexe C 1.6 et Annexe E 1.6. L’affichage et l’accessibilité sont maintenus par les règles générales de diffusion, sans phrase autonome imposant l’affichage du calendrier.
 
 <!-- FIN ANNOTATION -->
 <a id="article-103"></a>**103.** Un budget devra être soumis en décembre de chaque année afin de pouvoir planifier les activités avec les exercices du 9e Escadron du Génie ainsi que les autres occupants du manège.
@@ -1724,7 +1724,7 @@ personnel désigné par lui.
 
 > **Annotation — Article 112**
 >
-> L’inscription et la remise de toute plainte au commandant adjoint ne sont plus énoncées. Statuts 11.1 renvoie au Manuel PSP pour le traitement; les questions confidentielles ou de personnel vont directement au président. Annexe A 1.11 lui confie l’organisation du suivi.
+> L’inscription et la remise de toute plainte au commandant adjoint ne sont plus énoncées. Statuts 9.1 renvoie au Manuel PSP pour le traitement; les questions confidentielles ou de personnel vont directement au président. Annexe A 1.11 lui confie l’organisation du suivi.
 
 <!-- FIN ANNOTATION -->
 <a id="article-113"></a>**113.** Toute suggestion, proposition ou observation pourra aussi être remis au commandant adjoint.
@@ -1733,7 +1733,7 @@ personnel désigné par lui.
 
 > **Annotation — Article 113**
 >
-> La remise au commandant adjoint des suggestions, propositions et observations n’est plus énoncée. Statuts 11.1 et Annexe A 1.11 traitent les suggestions; les modifications aux textes sont transmises au président selon Statuts 10.1.
+> La remise au commandant adjoint des suggestions, propositions et observations n’est plus énoncée. Statuts 9.1 et Annexe A 1.11 traitent les suggestions; les modifications aux textes sont transmises au président selon Statuts 8.1.
 
 <!-- FIN ANNOTATION -->
 
@@ -1745,7 +1745,7 @@ personnel désigné par lui.
 
 > **Annotation — Article 114**
 >
-> Réuni avec les articles 115 et 116 dans Statuts 10.1 et Statuts 10.2. Le destinataire de la proposition écrite devient le président, plutôt que le secrétaire. La majorité porte sur les voix exprimées des membres ayant droit de vote, plutôt que sur les membres présents en général; le préavis de 15 jours et l’approbation du commandant sont explicités.
+> Réuni avec les articles 115 et 116 dans Statuts 8.1 et Statuts 8.2. Le destinataire de la proposition écrite devient le président, plutôt que le secrétaire. La majorité porte sur les voix exprimées des membres ayant droit de vote, plutôt que sur les membres présents en général; le préavis de 15 jours et l’approbation du commandant sont explicités.
 
 <!-- FIN ANNOTATION -->
 
@@ -1758,7 +1758,7 @@ personnel désigné par lui.
 
 > **Annotation — Article 115**
 >
-> Reformulé dans Statuts 10.1, Statuts 2.3 et Avant-propos 4.1. La proposition écrite au président et le délai de 15 jours sont conservés, sous forme de communication aux membres avant examen. La transmission obligatoire au comité, son filtrage des propositions, la communication des motifs de rejet et l’exclusion du registre des motions ne sont plus repris. L’assemblée demeure le lieu du vote. Le respect des références est énoncé dans les dispositions d’administration.
+> Reformulé dans Statuts 8.1, Statuts 2.3 et Avant-propos 4.1. La proposition écrite au président et le délai de 15 jours sont conservés, sous forme de communication aux membres avant examen. La transmission obligatoire au comité, son filtrage des propositions, la communication des motifs de rejet et l’exclusion du registre des motions ne sont plus repris. L’assemblée demeure le lieu du vote. Le respect des références est énoncé dans les dispositions d’administration.
 
 <!-- FIN ANNOTATION -->
 <a id="article-116"></a>**116.** À tous les égards, une modification ainsi proposée devient valide et partie des présents statuts ou règlements une fois qu’elle est ratifiée à l’occasion d’une assemblée générale ordinaire ou extraordinaire où il y a quorum et qu’elle est subséquemment approuvée par le commandant des mess.
@@ -1766,7 +1766,7 @@ personnel désigné par lui.
 
 > **Annotation — Article 116**
 >
-> Repris dans Statuts 10.1 et Statuts 10.2. L’adoption en assemblée puis l’approbation du commandant sont conservées; le quorum est traité séparément dans Statuts 9.6. La communication du texte à jour et de sa date d’entrée en vigueur est ajoutée.
+> Repris dans Statuts 8.1 et Statuts 8.2. L’adoption en assemblée puis l’approbation du commandant sont conservées; le quorum est traité séparément dans Statuts 7.6. La communication du texte à jour et de sa date d’entrée en vigueur est ajoutée.
 
 <!-- FIN ANNOTATION -->
 
@@ -1776,11 +1776,11 @@ personnel désigné par lui.
 
 Organisation des textes — Les dispositions sont séparées en statuts, quatre règlements et sept annexes de fonctions. Statuts 2.3 précise que les règlements ne peuvent modifier les pouvoirs ou les droits des statuts. Le projet ne comporte plus de règlement distinct consacré aux assemblées ou à l’administration.
 
-Gouvernance — Statuts 5.1 réserve expressément élections, destitutions, cotisations, budgets et modifications aux membres en assemblée; Statuts 8.1 à Statuts 8.4 distinguent les réunions du comité et prévoient notamment une fréquence mensuelle et des comptes rendus distinguant décisions, recommandations et suivis.
+Gouvernance — Statuts 5.1 réserve expressément élections, destitutions, cotisations, budgets et modifications aux membres en assemblée; Statuts 6.1 à Statuts 6.4 distinguent les réunions du comité et prévoient notamment une fréquence mensuelle et des comptes rendus distinguant décisions, recommandations et suivis.
 
-Affiliation — Statuts 4.3 précise les affiliations associées à plusieurs mess et les cotisations correspondantes. Statuts 4.9 précise l’absence de cotisation et de poste pour les membres honoraires, avec possibilité de partager les frais d’activités. Statuts 4.10 prévoit la demande d’affiliation associée en cas de fréquentation régulière.
+Affiliation — Statuts 4.4.3 précise les affiliations associées à plusieurs mess et les cotisations correspondantes. Statuts 4.5.4 précise l’absence de cotisation et de poste pour les membres honoraires, avec possibilité de partager les frais d’activités. Statuts 4.5.5 prévoit la demande d’affiliation associée en cas de fréquentation régulière.
 
-Diffusion et procès-verbaux — Statuts 9.10 ajoute un canal commun, un accès sans moyen numérique et l’accès au relevé des décisions et au projet de procès-verbal dans les 14 jours, avec statut et approbations attendues.
+Diffusion et procès-verbaux — Statuts 7.10 ajoute un canal commun, un accès sans moyen numérique et l’accès au relevé des décisions et au projet de procès-verbal dans les 14 jours, avec statut et approbations attendues.
 
 Cadets et tenue — R1 3.2 interdit l’accès des cadets en uniforme et en service; R1 5.1 prévoit une exception religieuse pour les couvre-chefs. Les autres changements de tenue figurent à l’annotation de l’article 70.
 
@@ -1791,3 +1791,7 @@ Bar — R3 1.1 et R3 1.2 précisent la formation et les références applicables
 Finances — R4 1.1 et R4 3.1 explicitent les délégations et les règles d’achats. R4 8.1 distingue le fonds d’unité. R4 9.1 à R4 9.6 décrivent le suivi du fonds cadeau et la confirmation écrite avant financement ou transfert; R4 10.1 traite l’approbation des prestations et opérations; R4 11.1 détaille les rapports et pièces justificatives.
 
 Fonctions — Les annexes ajoutent notamment le suivi financier et des approbations dans Annexe A 1.10, les vérifications sur les biens dans Annexe B 1.5, la protection des renseignements et la relève documentaire dans Annexe C 1.7 et Annexe C 1.8, ainsi que les pièces et moyens de paiement dans Annexe D 1.6 et Annexe F 1.6. Les autres ajouts liés à une disposition initiale sont indiqués après celle-ci.
+
+Responsable du bar — Statuts 5.2 distingue la voix délibérative du militaire membre ordinaire, bénévole et élu ou nommé au comité, et la voix consultative du responsable employé des FNP. Statuts 6.5 prévoit les convocations, les points à l’ordre du jour et le retrait des délibérations touchant ses intérêts personnels. Annexe F 1.9 reprend sa participation aux réunions.
+
+Service et emploi au bar — R3 1.4 et Annexe F 1.8 permettent au responsable d’assurer aussi le service, dans les limites des autorisations et contrôles applicables. R4 2.1 permet l’exercice bénévole ou dans un emploi du Personnel des FNP; R4 2.2 maintient l’absence de rémunération pour les fonctions au comité et les règles sur les conflits d’intérêts.

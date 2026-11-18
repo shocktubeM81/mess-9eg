@@ -279,4 +279,15 @@ Les statuts et les annexes précisent que la fonction peut être confiée à un 
 
 Le responsable reçoit les convocations et les ordres du jour du comité, présente le suivi du bar et peut proposer des points. Un militaire membre ordinaire exerçant bénévolement cette fonction peut être élu ou nommé au comité et voter. Le responsable employé des FNP participe à titre consultatif, sans vote et sans entrer dans le quorum. Ce dernier choix local adapte au responsable du bar le rôle consultatif expressément prévu pour le gérant au paragraphe 185 du chapitre 9-4 de la référence A. Les questions touchant son emploi ou ses intérêts personnels sont traitées après son retrait des délibérations et des décisions.
 
-Concordance : les anciens articles 6 (composition) et 7 (fonctions), déjà réunis par la révision précédente dans l’article 5, conservent leurs renvois vers les paragraphes 5.2 et 5.7. Les nouveaux paragraphes R3.1.4, R4.2.2, Statuts 8.5 et Annexe F 1.8–1.9 reçoivent leurs ancres. Les autres articles ne sont pas renumérotés dans cette modification; le saut préexistant de l’article 5 à l’article 8 reste à corriger dans la révision d’ensemble.
+Concordance : les anciens articles 6 (composition) et 7 (fonctions), déjà réunis par la révision précédente dans l’article 5, conservent leurs renvois vers les paragraphes 5.2 et 5.7. Les nouveaux paragraphes R3.1.4, R4.2.2, Statuts 6.5 et Annexe F 1.8–1.9 reçoivent leurs ancres. La correction de numérotation ci-dessous complète le regroupement des articles.
+
+### Concordance après regroupement des articles 6 et 7 dans l’article 5
+
+| Ancien article | Article courant |
+| --- | --- |
+| 8 — Réunions du comité | 6 — Réunions du comité |
+| 9 — Assemblées générales | 7 — Assemblées générales |
+| 10 — Modification des textes | 8 — Modification des textes |
+| 11 — Suggestions et plaintes | 9 — Suggestions et plaintes |
+
+Les paragraphes, les renvois des annexes et de R4 et les annotations du comparatif suivent cette concordance. Les renvois de la catégorie des membres et du comité sont également raccordés à leur emplacement courant, y compris les sous-paragraphes 4.4.1 à 4.6.2. Les générateurs du site, du recueil et du comparatif reconnaissent ces numéros hiérarchiques; leurs contrôles vérifient les sous-paragraphes et leurs signets. Le texte initial transcrit n’est pas modifié.

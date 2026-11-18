@@ -28,7 +28,7 @@ module Mess
     def annotation(notes, label, baseurl, sources)
       paragraphs = notes.map do |text|
         # Échapper le texte avant de transformer seulement les renvois déclarés.
-        escaped = CGI.escapeHTML(text).gsub(/\[\[([A-Z0-9]+):(\d+\.\d+)\]\]/) do
+        escaped = CGI.escapeHTML(text).gsub(/\[\[([A-Z0-9]+):(\d+(?:\.\d+)+)\]\]/) do
           group, number = Regexp.last_match.captures
           filename = FILES.fetch(group)
           unless sources.fetch(group).match?(/^#{Regexp.escape(number)}\. /)

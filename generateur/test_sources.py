@@ -16,8 +16,8 @@ class DocumentsTest(unittest.TestCase):
 
     def test_all_numbered_paragraphs_are_exported(self):
         import re
-        original = re.findall(r'^\d+\.\d+\. .+$', self.text, flags=re.M)
-        exported = [b['text'] for _, _, items in self.jobs for b in items if re.match(r'^\d+\.\d+\. ', b['text'])]
+        original = re.findall(r'^\d+(?:\.\d+)+\. .+$', self.text, flags=re.M)
+        exported = [b['text'] for _, _, items in self.jobs for b in items if re.match(r'^\d+(?:\.\d+)+\. ', b['text'])]
         self.assertEqual(original, exported)
         self.assertEqual(self.count, len(exported))
         self.assertEqual(len(self.jobs), len(self.structure["segments"]))
@@ -63,10 +63,33 @@ class DocumentsTest(unittest.TestCase):
 
     def test_subject_references_use_current_numbers(self):
         treasurer = self.sources['textes/annexe-d.md']
-        self.assertIn('[paragraphe 9.5 des statuts](#statuts-paragraphe-9-5)', treasurer)
-        self.assertIn('[paragraphe 9.6 des statuts](#statuts-paragraphe-9-6)', treasurer)
-        self.assertIn('[paragraphe 9.9 des statuts](#statuts-paragraphe-9-9)',
+        self.assertIn('[paragraphe 7.5 des statuts](#statuts-paragraphe-7-5)', treasurer)
+        self.assertIn('[paragraphe 7.6 des statuts](#statuts-paragraphe-7-6)', treasurer)
+        self.assertIn('[paragraphe 7.9 des statuts](#statuts-paragraphe-7-9)',
                       self.sources['textes/r4.md'])
+
+    def test_nested_paragraphs_have_bookmarks_and_valid_numbers(self):
+        self.assertEqual(GEN['block_key']('4.4.1. Plafond'), 'P:4.4.1')
+        anchors = {anchor for block in self.blocks for anchor in block['ids']}
+        self.assertIn('statuts-paragraphe-4-4-1', anchors)
+        self.assertIn('statuts-paragraphe-4-5-3', anchors)
+        broken = self.text.replace('4.4.1. Plafond', '4.4.8. Plafond', 1)
+        with self.assertRaisesRegex(ValueError, 'Numérotation discontinue'):
+            GEN['validate'](broken, self.structure)
+
+    def test_comparison_targets_have_exported_bookmarks(self):
+        import json
+        import re
+        comparison = json.loads((ROOT / 'documentation/comparatif-0.12/annotations.json').read_text(encoding='utf-8'))
+        labels = {'S': 'statuts', 'AP': 'avant-propos', **{f'R{i}': f'r{i}' for i in range(1,5)},
+                  **{letter.upper(): f'annexe-{letter}' for letter in 'abcde'},
+                  'F': 'annexe-f-regisseur', 'G': 'annexe-g-serveur'}
+        anchors = {anchor for block in self.blocks for anchor in block['ids']}
+        notes = json.dumps(comparison, ensure_ascii=False)
+        for group, number in re.findall(r'\[\[([A-Z0-9]+):(\d+(?:\.\d+)+)\]\]', notes):
+            name = labels[group]
+            self.assertRegex(self.sources[f'textes/{name}.md'], rf'(?m)^{re.escape(number)}\. ')
+            self.assertIn(name + '-paragraphe-' + number.replace('.', '-'), anchors)
 
     def test_invalid_numbering_and_missing_links_are_rejected(self):
         broken = self.text.replace('1.1. Le Mess', '1.8. Le Mess', 1)

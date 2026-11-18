@@ -125,33 +125,20 @@
           "statuts-p-4-2"
         ],
         "P:4.3": [
-          "statuts-paragraphe-4-3"
-        ],
-        "P:4.4": [
-          "statuts-paragraphe-4-4"
-        ],
-        "P:4.5": [
-          "statuts-paragraphe-4-5",
+          "statuts-paragraphe-4-3",
           "statuts-p-4-3"
         ],
-        "P:4.6": [
-          "statuts-paragraphe-4-6"
+        "P:4.4": [
+          "statuts-paragraphe-4-4",
+          "statuts-p-4-4"
         ],
-        "P:4.7": [
-          "statuts-paragraphe-4-7"
+        "P:4.4.1": [
+          "statuts-paragraphe-4-4-1",
+          "statuts-p-4-4-1"
         ],
-        "P:4.8": [
-          "statuts-paragraphe-4-8"
-        ],
-        "P:4.9": [
-          "statuts-paragraphe-4-9"
-        ],
-        "P:4.10": [
-          "statuts-paragraphe-4-10"
-        ],
-        "P:4.11": [
-          "statuts-paragraphe-4-11",
-          "statuts-p-4-4",
+        "P:4.4.2": [
+          "statuts-paragraphe-4-4-2",
+          "statuts-p-4-4-2",
           "r5-article-1",
           "r5-section-1",
           "r5-section-heading-1",
@@ -176,17 +163,53 @@
           "r5-p-1-10",
           "r5-paragraphe-1-10"
         ],
-        "P:4.12": [
-          "statuts-paragraphe-4-12",
+        "P:4.4.3": [
+          "statuts-paragraphe-4-4-3",
+          "statuts-p-4-4-3"
+        ],
+        "P:4.4.4": [
+          "statuts-paragraphe-4-4-4",
+          "statuts-p-4-4-4"
+        ],
+        "P:4.4.5": [
+          "statuts-paragraphe-4-4-5",
+          "statuts-p-4-4-5"
+        ],
+        "P:4.5": [
+          "statuts-paragraphe-4-5",
           "statuts-p-4-5"
         ],
-        "P:4.13": [
-          "statuts-paragraphe-4-13",
+        "P:4.5.1": [
+          "statuts-paragraphe-4-5-1",
+          "statuts-p-4-5-1"
+        ],
+        "P:4.5.2": [
+          "statuts-paragraphe-4-5-2",
+          "statuts-p-4-5-2"
+        ],
+        "P:4.5.3": [
+          "statuts-paragraphe-4-5-3",
+          "statuts-p-4-5-3"
+        ],
+        "P:4.5.4": [
+          "statuts-paragraphe-4-5-4",
+          "statuts-p-4-5-4"
+        ],
+        "P:4.5.5": [
+          "statuts-paragraphe-4-5-5",
+          "statuts-p-4-5-5"
+        ],
+        "P:4.6": [
+          "statuts-paragraphe-4-6",
           "statuts-p-4-6"
         ],
-        "P:4.14": [
-          "statuts-paragraphe-4-14",
-          "statuts-p-4-7"
+        "P:4.6.1": [
+          "statuts-paragraphe-4-6-1",
+          "statuts-p-4-6-1"
+        ],
+        "P:4.6.2": [
+          "statuts-paragraphe-4-6-2",
+          "statuts-p-4-6-2"
         ],
         "H:5": [
           "statuts-section-5",
@@ -210,13 +233,7 @@
         ],
         "P:5.2": [
           "statuts-paragraphe-5-2",
-          "statuts-section-6",
-          "statuts-article-6",
-          "statuts-section-heading-6",
-          "statuts-paragraphe-6-1",
-          "statuts-p-6-1",
-          "statuts-paragraphe-6-2",
-          "statuts-p-6-2",
+          "statuts-p-5-2",
           "r5-article-3",
           "r5-section-3",
           "r5-section-heading-3",
@@ -225,7 +242,7 @@
         ],
         "P:5.3": [
           "statuts-paragraphe-5-3",
-          "statuts-p-5-2",
+          "statuts-p-5-3",
           "r5-article-4",
           "r5-section-4",
           "r5-section-heading-4",
@@ -233,7 +250,119 @@
           "r5-paragraphe-4-1"
         ],
         "P:5.4": [
-          "statuts-paragraphe-5-4"
+          "statuts-paragraphe-5-4",
+          "statuts-p-5-4"
+        ],
+        "P:5.5": [
+          "statuts-paragraphe-5-5",
+          "statuts-p-5-5",
+          "r5-article-7",
+          "r5-section-6",
+          "r5-section-heading-6",
+          "r5-p-7-1",
+          "r5-paragraphe-6-1"
+        ],
+        "P:5.6": [
+          "statuts-paragraphe-5-6",
+          "statuts-p-5-6",
+          "r5-article-11",
+          "r5-section-9",
+          "r5-section-heading-9",
+          "r5-p-11-1",
+          "r5-paragraphe-9-1"
+        ],
+        "P:5.7": [
+          "statuts-paragraphe-5-7",
+          "statuts-p-5-7"
+        ],
+        "H:6": [
+          "statuts-section-6",
+          "statuts-article-6",
+          "statuts-section-heading-6"
+        ],
+        "P:6.1": [
+          "statuts-paragraphe-6-1",
+          "statuts-p-6-1"
+        ],
+        "P:6.2": [
+          "statuts-paragraphe-6-2",
+          "statuts-p-6-2"
+        ],
+        "P:6.3": [
+          "statuts-paragraphe-6-3",
+          "statuts-p-6-3"
+        ],
+        "P:6.4": [
+          "statuts-paragraphe-6-4",
+          "statuts-p-6-4"
+        ],
+        "P:6.5": [
+          "statuts-paragraphe-6-5",
+          "statuts-p-6-5"
+        ],
+        "H:7": [
+          "statuts-section-7",
+          "statuts-article-7",
+          "statuts-section-heading-7",
+          "r5-article-9",
+          "r5-section-8",
+          "r5-section-heading-8",
+          "r5-p-9-1",
+          "r5-paragraphe-8-1"
+        ],
+        "P:7.1": [
+          "statuts-paragraphe-7-1",
+          "statuts-p-7-1"
+        ],
+        "P:7.2": [
+          "statuts-paragraphe-7-2",
+          "statuts-p-7-2"
+        ],
+        "P:7.3": [
+          "statuts-paragraphe-7-3",
+          "statuts-p-7-3"
+        ],
+        "P:7.4": [
+          "statuts-paragraphe-7-4",
+          "statuts-p-7-4"
+        ],
+        "P:7.5": [
+          "statuts-paragraphe-7-5",
+          "statuts-p-7-5"
+        ],
+        "P:7.6": [
+          "statuts-paragraphe-7-6",
+          "statuts-p-7-6"
+        ],
+        "P:7.7": [
+          "statuts-paragraphe-7-7",
+          "statuts-p-7-7"
+        ],
+        "P:7.8": [
+          "statuts-paragraphe-7-8",
+          "statuts-p-7-8"
+        ],
+        "P:7.9": [
+          "statuts-paragraphe-7-9",
+          "statuts-p-7-9"
+        ],
+        "P:7.10": [
+          "statuts-paragraphe-7-10",
+          "statuts-p-7-10",
+          "r5-article-27",
+          "r5-section-13",
+          "r5-section-heading-13",
+          "r5-p-27-1",
+          "r5-paragraphe-13-1"
+        ],
+        "P:7.11": [
+          "statuts-paragraphe-7-11",
+          "statuts-p-7-11",
+          "r5-article-8",
+          "r5-section-7",
+          "r5-section-heading-7",
+          "r5-p-8-1",
+          "r5-paragraphe-7-1"
         ],
         "H:8": [
           "statuts-section-8",
@@ -245,98 +374,17 @@
           "statuts-p-8-1"
         ],
         "P:8.2": [
-          "statuts-paragraphe-8-2"
-        ],
-        "P:8.3": [
-          "statuts-paragraphe-8-3"
-        ],
-        "P:8.4": [
-          "statuts-paragraphe-8-4",
+          "statuts-paragraphe-8-2",
           "statuts-p-8-2"
         ],
         "H:9": [
           "statuts-section-9",
           "statuts-article-9",
-          "statuts-section-heading-9",
-          "r5-article-9",
-          "r5-section-8",
-          "r5-section-heading-8",
-          "r5-p-9-1",
-          "r5-paragraphe-8-1"
+          "statuts-section-heading-9"
         ],
         "P:9.1": [
           "statuts-paragraphe-9-1",
-          "statuts-p-9-1"
-        ],
-        "P:9.2": [
-          "statuts-paragraphe-9-2",
-          "statuts-p-9-2"
-        ],
-        "P:9.3": [
-          "statuts-paragraphe-9-3",
-          "statuts-p-9-3"
-        ],
-        "P:9.4": [
-          "statuts-paragraphe-9-4",
-          "statuts-p-9-4"
-        ],
-        "P:9.5": [
-          "statuts-paragraphe-9-5"
-        ],
-        "P:9.6": [
-          "statuts-paragraphe-9-6"
-        ],
-        "P:9.7": [
-          "statuts-paragraphe-9-7",
-          "statuts-p-9-5"
-        ],
-        "P:9.8": [
-          "statuts-paragraphe-9-8",
-          "statuts-p-9-6"
-        ],
-        "P:9.9": [
-          "statuts-paragraphe-9-9",
-          "statuts-p-9-7"
-        ],
-        "P:9.10": [
-          "statuts-paragraphe-9-10",
-          "statuts-p-9-8",
-          "r5-article-27",
-          "r5-section-13",
-          "r5-section-heading-13",
-          "r5-p-27-1",
-          "r5-paragraphe-13-1"
-        ],
-        "P:9.11": [
-          "statuts-paragraphe-9-11",
-          "statuts-p-9-9",
-          "r5-article-8",
-          "r5-section-7",
-          "r5-section-heading-7",
-          "r5-p-8-1",
-          "r5-paragraphe-7-1"
-        ],
-        "H:10": [
-          "statuts-section-10",
-          "statuts-article-10",
-          "statuts-section-heading-10"
-        ],
-        "P:10.1": [
-          "statuts-paragraphe-10-1",
-          "statuts-p-10-1"
-        ],
-        "P:10.2": [
-          "statuts-paragraphe-10-2",
-          "statuts-p-10-2"
-        ],
-        "H:11": [
-          "statuts-section-11",
-          "statuts-article-11",
-          "statuts-section-heading-11"
-        ],
-        "P:11.1": [
-          "statuts-paragraphe-11-1",
-          "statuts-p-11-1",
+          "statuts-p-9-1",
           "r5-article-42",
           "r5-section-17",
           "r5-section-heading-17",
@@ -347,36 +395,6 @@
           "r5-section-heading-18",
           "r5-p-43-1",
           "r5-paragraphe-18-1"
-        ],
-        "P:5.5": [
-          "statuts-paragraphe-5-5",
-          "statuts-p-5-3",
-          "r5-article-7",
-          "r5-section-6",
-          "r5-section-heading-6",
-          "r5-p-7-1",
-          "r5-paragraphe-6-1"
-        ],
-        "P:5.6": [
-          "statuts-paragraphe-5-6",
-          "statuts-p-5-4",
-          "r5-article-11",
-          "r5-section-9",
-          "r5-section-heading-9",
-          "r5-p-11-1",
-          "r5-paragraphe-9-1"
-        ],
-        "P:5.7": [
-          "statuts-paragraphe-5-7",
-          "statuts-section-7",
-          "statuts-article-7",
-          "statuts-section-heading-7",
-          "statuts-paragraphe-7-1",
-          "statuts-p-7-1"
-        ],
-        "P:8.5": [
-          "statuts-paragraphe-8-5",
-          "statuts-p-8-5"
         ]
       },
       "tail_anchors": [],

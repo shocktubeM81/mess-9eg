@@ -12,7 +12,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SOURCE = ROOT / 'textes/archives/constitution.md'
 DATA = ROOT / 'documentation/comparatif-0.12/annotations.json'
 OUT = ROOT / 'exports/comparatif-constitution-0.12'
-REF = re.compile(r'\[\[([A-Z0-9]+):(\d+\.\d+)\]\]')
+REF = re.compile(r'\[\[([A-Z0-9]+):(\d+(?:\.\d+)+)\]\]')
 FILES = {'S':'statuts', 'AP':'avant-propos', **{f'R{i}':f'r{i}' for i in range(1,5)},
          **{c:f'annexe-{c.lower()}' for c in 'ABCDE'},
          'F':'annexe-f-regisseur', 'G':'annexe-g-serveur'}

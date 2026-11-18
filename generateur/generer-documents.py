@@ -25,7 +25,7 @@ def block_key(line):
     if heading:
         num = re.match(r'(\d+)\.', heading[2])
         return 'H:' + (num[1] if num else heading[2])
-    para = re.match(r'^(\d+\.\d+)\.\s', line)
+    para = re.match(r'^(\d+(?:\.\d+)+)\.\s', line)
     return 'P:' + para[1] if para else 'T:' + line
 
 def split_segments(text, structure):
@@ -50,13 +50,15 @@ def validate(text, structure):
     total=0
     for _,_,spec,body in segments:
         seq={}
+        seen=set()
         for line in body:
-            m=re.match(r'^(\d+)\.(\d+)\.\s',line)
+            m=re.match(r'^(\d+(?:\.\d+)+)\.\s',line)
             if m:
-                a,b=map(int,m.groups())
-                if b!=seq.get(a,0)+1:
-                    raise ValueError(f"Numérotation discontinue dans {spec['marker']}: {a}.{b}")
-                seq[a]=b;total+=1
+                parent, value=m[1].rsplit('.',1)
+                value=int(value)
+                if value!=seq.get(parent,0)+1 or ('.' in parent and parent not in seen):
+                    raise ValueError(f"Numérotation discontinue dans {spec['marker']}: {m[1]}")
+                seq[parent]=value;seen.add(m[1]);total+=1
     return segments,total
 
 def local_heading(line, shift):

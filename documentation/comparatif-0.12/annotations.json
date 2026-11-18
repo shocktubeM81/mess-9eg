@@ -4,7 +4,7 @@
   "preliminaires": [
     "Titre et identification — L’appellation « Mess et Instituts » devient « Mess du 9e Escadron du génie » dans [[S:1.1]]. Les noms des deux locaux sont maintenus. La couverture courante porte la mention de projet de modification à la constitution et la version 0.12 du 17 novembre 2026; elle ne reprend pas la date d’adoption du 10 septembre 2022 comme date d’adoption du projet.",
     "Avant-propos 1 — Réécrit et réparti entre [[AP:1.1]], [[AP:1.2]] et [[AP:2.1]]. La désignation de l’autorité est précisée dans [[S:2.2]] : commandant d’unité du 34 RGC ou commandant dont les pouvoirs ont été délégués, plutôt que la seule désignation du commandant du 9 EG.",
-    "Avant-propos 2 — Le vote des membres et l’approbation du commandant sont repris dans [[S:10.1]] et [[S:10.2]]. La phrase indiquant que le document sert de base aux réunions n’est pas reprise telle quelle; le rôle des assemblées est décrit dans [[S:9.1]].",
+    "Avant-propos 2 — Le vote des membres et l’approbation du commandant sont repris dans [[S:8.1]] et [[S:8.2]]. La phrase indiquant que le document sert de base aux réunions n’est pas reprise telle quelle; le rôle des assemblées est décrit dans [[S:7.1]].",
     "Avant-propos 3 et bloc de signature — La date du dernier amendement du 10 septembre 2022 et le nom du capitaine R. Poirier ne sont pas repris dans l’avant-propos proposé. Ils sont remplacés par des champs à remplir pour l’adoption, l’entrée en vigueur, la signature, le grade et le nom du commandant, le lieu et la date."
   ],
   "articles": {
@@ -13,90 +13,165 @@
       "Note 1 — La convention de rédaction au masculin n’est pas reprise comme disposition distincte.",
       "Note 2 — Déplacée et modifiée dans [[S:2.2]] : le terme commandant désigne le commandant du Mess, soit le commandant d’unité du 34 RGC ou le commandant dont les pouvoirs ont été délégués."
     ],
-    "2": ["Déplacé et reformulé dans [[S:1.1]]. « Mess et Instituts » est remplacé par « Mess du 9e Escadron du génie ». Les appellations Club Chimo et Mess Combiné sont conservées; le second groupe est maintenant nommé « sergents, adjudants et officiers » plutôt que « sergents et plus gradés »."],
-    "3": ["Reformulé dans [[S:3.1]]. L’esprit de corps, le bien-être, les liens entre les membres et les deux espaces adaptés aux groupes sont conservés. Les formulations sur l’efficacité et sur l’intimité sont remplacées par celles sur les liens entre membres et les rapports de leadership."],
-    "4": [
-      "Énoncé principal — Les catégories sont réparties dans [[S:4.1]], [[S:4.2]], [[S:4.5]] et [[S:4.7]]. L’accès au comité limité aux membres ordinaires est repris dans [[S:5.1]].",
-      "a(1) et a(2) — Remplacés par [[S:4.1]]. L’inclusion générale du personnel civil comme membre ordinaire n’est plus reprise. Le projet nomme les membres de la Force régulière et de la Première réserve attachés au 9 EG, les militaires étrangers en échange ou détachés et, sur demande, les officiers CIC des unités de cadets directement parrainées utilisant les installations. L’exemple du centre de recrutement disparaît.",
-      "b(1) — La demande écrite appuyée par un membre ordinaire, l’affichage de 30 jours, les observations ou objections écrites, l’examen par le comité et la présentation à l’assemblée ne sont plus décrits dans le texte local. [[S:4.2]] renvoie à l’admissibilité des membres associés du Manuel PSP sans reproduire ces étapes.",
-      "b(2) — Le plafond de 65 % et la liste d’attente sont repris dans [[S:4.11]]. La tenue de la liste d’attente par le secrétaire se retrouve dans [[C:1.7]].",
-      "b(3) — Le renouvellement à la première assemblée de l’année civile pour l’année financière suivante est repris dans [[S:4.11]]. Les dates de l’année financière se retrouvent dans [[R4:4.1]]. La présentation de la question par le comité et la distinction ordinaire ou extraordinaire ne sont plus explicites dans cette clause.",
-      "b(4) et b(5) — Réunis dans [[S:4.13]]. Les motifs de révocation et la nouvelle demande après non-paiement sont conservés. Le renvoi aux anciens alinéas (1) ou (2) disparaît; PCAM devient président. La nouvelle clause n’est pas expressément limitée aux seuls membres associés.",
-      "b(6) — Les privilèges et l’absence de responsabilité au comité sont repris dans [[S:4.4]]. La restriction aux seules activités sociales n’est pas reprise : [[S:9.5]] autorise aussi la présence et les discussions aux assemblées, sans vote.",
-      "b(7) — L’invitation du président pour les événements officiels à caractère militaire est reprise dans [[S:4.12]]. Les exemples de dîners régimentaires, levée du Jour de l’an et visites inter-mess sont retirés.",
-      "b(8), classe I et classe II — Les deux classes et leurs listes ne sont plus reproduites. [[S:4.2]] donne comme exemples les vétérans, les employés actuels et retraités du MDN et des FNP et le Lcol(H) actif. La catégorie des militaires d’une autre unité et celle des civils pouvant être bénéfiques à l’unité ne sont plus énoncées ainsi.",
-      "c(1) — Reformulé dans [[S:4.6]] : tout membre de la Force régulière ou de la Première réserve canadienne est membre honoraire des mess correspondant à son grade, sauf les membres ordinaires du Mess du 9 EG.",
-      "c(2) — Repris dans [[S:4.8]], avec ajout explicite d’un vote majoritaire en assemblée générale avant l’approbation du commandant. La période d’un an et les renouvellements annuels sont conservés.",
-      "c(3)(a) à (c) — Regroupés dans le texte suivant [[S:4.5]]. Les anciens combattants et les personnes ayant contribué au bien ou au prestige de l’unité peuvent être proposés dans la catégorie à laquelle ils sont admissibles; ils ne sont plus présentés comme une liste d’admissibilité automatiquement honoraire.",
-      "d et d(1) à d(4) — Repris avec modification dans [[S:4.7]]. Les quatre groupes et le seuil de plus de 12 ans sont maintenus, mais sous réserve de l’admissibilité du Manuel PSP et parmi les militaires admissibles, à leur retraite; l’expression « de facto » est retirée. La contribution majeure est conservée comme autre reconnaissance possible. La demande pour devenir associé se retrouve, plus généralement pour les membres honoraires fréquentant régulièrement le Mess, dans [[S:4.10]]; le cheminement auprès du commandant par le comité n’y est plus décrit.",
-      "Note sur la révocation à vie — Déplacée dans [[S:4.14]]. Le vote de l’assemblée est conservé et un renvoi aux pouvoirs de l’autorité compétente est ajouté."
+    "2": [
+      "Déplacé et reformulé dans [[S:1.1]]. « Mess et Instituts » est remplacé par « Mess du 9e Escadron du génie ». Les appellations Club Chimo et Mess Combiné sont conservées; le second groupe est maintenant nommé « sergents, adjudants et officiers » plutôt que « sergents et plus gradés »."
     ],
-    "5": ["Déplacé dans [[S:9.2]]. Les assemblées trimestrielles passent de « devraient » à « est tenue ». L’option d’une fréquence différente décidée par le commandant ou le président n’est plus énoncée. Le calendrier tient compte des entraînements."],
-    "6": ["Réuni avec l’ancien article 30 dans [[S:5.2]]. Les élections sont normalement en décembre. La règle locale limitant à 50 % les remplacements à une même assemblée n’est plus chiffrée dans le projet; durée, prolongation et relève échelonnée renvoient au Manuel PSP, chapitre 9-4, paragraphe 18."],
-    "7": ["Déplacé dans [[D:1.3]] et développé par [[R4:11.1]]. Le rapport financier à chaque assemblée est conservé; les fonds, soldes, revenus, dépenses et engagements doivent être distingués."],
-    "8": ["Modifié dans [[S:9.6]]. « Plus de 50 % des membres ordinaires en règle et disponibles en région » devient « 50 % des membres ». L’exclusion des membres absents de la région et la condition de membre ordinaire en règle ne sont plus formulées pour le calcul du quorum. L’annulation après 30 minutes n’est plus énoncée. [[C:1.3]] prévoit la vérification du quorum et une nouvelle convocation après annulation, sans reprendre le délai de 30 minutes."],
-    "9": ["Repris dans [[S:9.5]]. Les membres associés et honoraires peuvent assister aux assemblées et participer aux discussions, sans voter. Le droit de vote des membres ordinaires en règle est ajouté expressément."],
-    "10": ["Remplacé par [[S:9.8]] et [[S:9.9]]. Le commandant peut désormais voter et présenter une motion s’il est membre ordinaire du Mess. Le droit de veto est reformulé en approbation des motions par la signature du procès-verbal, sauf celles indiquées comme non approuvées. L’interdiction de modifier seulement la proposition n’est pas reprise expressément."],
-    "11": ["Déplacé dans [[S:9.11]], qui renvoie au Manuel PSP, chapitre 9-4, paragraphe 40. La possibilité d’une demande des membres est conservée, mais le seuil local de 25 %, l’exigence écrite et l’énumération des personnes pouvant convoquer ne sont plus reproduits dans la clause."],
-    "12": ["Déplacé dans [[S:8.3]] et [[A:1.3]]. La convocation par le commandant ou le président est conservée. [[S:8.1]] à [[S:8.4]] précisent les objets, la fréquence et les comptes rendus des réunions du comité."],
-    "13": ["Non repris — L’interdiction d’assemblées entre le 30 mai et le 30 août est retirée. [[S:9.2]] prévoit seulement que le calendrier des assemblées trimestrielles tient compte des entraînements."],
-    "14": ["Reformulé dans [[S:9.1]] et complété par [[S:5.1]]. Les assemblées examinent finances, activités et questions concernant le Mess, élisent les administrateurs et prennent les décisions réservées aux membres."],
-    "15": ["Regroupé avec l’ancien article 8 dans [[S:9.6]]. La validité des délibérations n’est plus énoncée dans une clause séparée. [[C:1.3]] prévoit le contrôle du quorum à l’ouverture et lorsqu’une perte est signalée."],
-    "16": ["Énoncé principal — La présidence et le remplacement par le vice-président sont déplacés dans [[A:1.3]].",
-      "a — Le respect de la procédure parlementaire est repris par renvoi dans [[S:9.4]] et [[A:1.4]].",
+    "3": [
+      "Reformulé dans [[S:3.1]]. L’esprit de corps, le bien-être, les liens entre les membres et les deux espaces adaptés aux groupes sont conservés. Les formulations sur l’efficacité et sur l’intimité sont remplacées par celles sur les liens entre membres et les rapports de leadership."
+    ],
+    "4": [
+      "Énoncé principal — Les catégories sont réparties dans [[S:4.3]], [[S:4.4]], [[S:4.5]] et [[S:4.5.3]]. L’accès au comité limité aux membres ordinaires est repris dans [[S:5.2]].",
+      "a(1) et a(2) — Remplacés par [[S:4.3]]. L’inclusion générale du personnel civil comme membre ordinaire n’est plus reprise. Le projet nomme les membres de la Force régulière et de la Première réserve attachés au 9 EG, les militaires étrangers en échange ou détachés et, sur demande, les officiers CIC des unités de cadets directement parrainées utilisant les installations. L’exemple du centre de recrutement disparaît.",
+      "b(1) — La demande écrite appuyée par un membre ordinaire, l’affichage de 30 jours, les observations ou objections écrites, l’examen par le comité et la présentation à l’assemblée ne sont plus décrits dans le texte local. [[S:4.4]] renvoie à l’admissibilité des membres associés du Manuel PSP sans reproduire ces étapes.",
+      "b(2) — Le plafond de 65 % et la liste d’attente sont repris dans [[S:4.4.1]]. La tenue de la liste d’attente par le secrétaire se retrouve dans [[C:1.7]].",
+      "b(3) — Le renouvellement à la première assemblée de l’année civile pour l’année financière suivante est repris dans [[S:4.4.2]]. Les dates de l’année financière se retrouvent dans [[R4:4.1]]. La présentation de la question par le comité et la distinction ordinaire ou extraordinaire ne sont plus explicites dans cette clause.",
+      "b(4) et b(5) — Réunis dans [[S:4.6]]. Les motifs de révocation et la nouvelle demande après non-paiement sont conservés. Le renvoi aux anciens alinéas (1) ou (2) disparaît; PCAM devient président. La nouvelle clause n’est pas expressément limitée aux seuls membres associés.",
+      "b(6) — Les privilèges et l’absence de responsabilité au comité sont repris dans [[S:4.4.4]]. La restriction aux seules activités sociales n’est pas reprise : [[S:7.5]] autorise aussi la présence et les discussions aux assemblées, sans vote.",
+      "b(7) — L’invitation du président pour les événements officiels à caractère militaire est reprise dans [[S:4.4.5]]. Les exemples de dîners régimentaires, levée du Jour de l’an et visites inter-mess sont retirés.",
+      "b(8), classe I et classe II — Les deux classes et leurs listes ne sont plus reproduites. [[S:4.4]] donne comme exemples les vétérans, les employés actuels et retraités du MDN et des FNP et le Lcol(H) actif. La catégorie des militaires d’une autre unité et celle des civils pouvant être bénéfiques à l’unité ne sont plus énoncées ainsi.",
+      "c(1) — Reformulé dans [[S:4.5.1]] : les membres de la Force régulière et de la Première réserve canadienne sont membres honoraires du Mess, sauf ceux qui en sont déjà membres ordinaires ou associés.",
+      "c(2) — Repris dans [[S:4.5.2]], avec ajout explicite d’un vote majoritaire en assemblée générale avant l’approbation du commandant. La période d’un an et les renouvellements annuels sont conservés.",
+      "c(3)(a) à (c) — Reformulés dans [[S:4.2]]. Les anciens combattants et les personnes ayant contribué au bien ou au prestige de l’unité peuvent être proposés dans la catégorie à laquelle ils sont admissibles; ils ne sont plus présentés comme une liste d’admissibilité automatiquement honoraire.",
+      "d et d(1) à d(4) — Repris avec modification dans [[S:4.5.3]]. Les quatre groupes et le seuil de plus de 12 ans sont maintenus, mais sous réserve de l’admissibilité du Manuel PSP et parmi les militaires admissibles, à leur retraite; l’expression « de facto » est retirée. La contribution majeure est conservée comme autre reconnaissance possible. La demande pour devenir associé se retrouve, plus généralement pour les membres honoraires fréquentant régulièrement le Mess, dans [[S:4.5.5]]; le cheminement auprès du commandant par le comité n’y est plus décrit.",
+      "Note sur la révocation à vie — Déplacée dans [[S:4.6.2]]. Le vote de l’assemblée est conservé et un renvoi aux pouvoirs de l’autorité compétente est ajouté."
+    ],
+    "5": [
+      "Déplacé dans [[S:7.2]]. Les assemblées trimestrielles passent de « devraient » à « est tenue ». L’option d’une fréquence différente décidée par le commandant ou le président n’est plus énoncée. Le calendrier tient compte des entraînements."
+    ],
+    "6": [
+      "Réuni avec l’ancien article 30 dans [[S:5.3]]. Les élections sont normalement en décembre. La règle locale limitant à 50 % les remplacements à une même assemblée n’est plus chiffrée dans le projet; durée, prolongation et relève échelonnée renvoient au Manuel PSP, chapitre 9-4, paragraphe 18."
+    ],
+    "7": [
+      "Déplacé dans [[D:1.3]] et développé par [[R4:11.1]]. Le rapport financier à chaque assemblée est conservé; les fonds, soldes, revenus, dépenses et engagements doivent être distingués."
+    ],
+    "8": [
+      "Modifié dans [[S:7.6]]. « Plus de 50 % des membres ordinaires en règle et disponibles en région » devient « 50 % des membres ». L’exclusion des membres absents de la région et la condition de membre ordinaire en règle ne sont plus formulées pour le calcul du quorum. L’annulation après 30 minutes n’est plus énoncée. [[C:1.3]] prévoit la vérification du quorum et une nouvelle convocation après annulation, sans reprendre le délai de 30 minutes."
+    ],
+    "9": [
+      "Repris dans [[S:7.5]]. Les membres associés et honoraires peuvent assister aux assemblées et participer aux discussions, sans voter. Le droit de vote des membres ordinaires en règle est ajouté expressément."
+    ],
+    "10": [
+      "Remplacé par [[S:7.8]] et [[S:7.9]]. Le commandant peut désormais voter et présenter une motion s’il est membre ordinaire du Mess. Le droit de veto est reformulé en approbation des motions par la signature du procès-verbal, sauf celles indiquées comme non approuvées. L’interdiction de modifier seulement la proposition n’est pas reprise expressément."
+    ],
+    "11": [
+      "Déplacé dans [[S:7.11]], qui renvoie au Manuel PSP, chapitre 9-4, paragraphe 40. La possibilité d’une demande des membres est conservée, mais le seuil local de 25 %, l’exigence écrite et l’énumération des personnes pouvant convoquer ne sont plus reproduits dans la clause."
+    ],
+    "12": [
+      "Déplacé dans [[S:6.3]] et [[A:1.3]]. La convocation par le commandant ou le président est conservée. [[S:6.1]] à [[S:6.4]] précisent les objets, la fréquence et les comptes rendus des réunions du comité."
+    ],
+    "13": [
+      "Non repris — L’interdiction d’assemblées entre le 30 mai et le 30 août est retirée. [[S:7.2]] prévoit seulement que le calendrier des assemblées trimestrielles tient compte des entraînements."
+    ],
+    "14": [
+      "Reformulé dans [[S:7.1]] et complété par [[S:5.1]]. Les assemblées examinent finances, activités et questions concernant le Mess, élisent les administrateurs et prennent les décisions réservées aux membres."
+    ],
+    "15": [
+      "Regroupé avec l’ancien article 8 dans [[S:7.6]]. La validité des délibérations n’est plus énoncée dans une clause séparée. [[C:1.3]] prévoit le contrôle du quorum à l’ouverture et lorsqu’une perte est signalée."
+    ],
+    "16": [
+      "Énoncé principal — La présidence et le remplacement par le vice-président sont déplacés dans [[A:1.3]].",
+      "a — Le respect de la procédure parlementaire est repris par renvoi dans [[S:7.4]] et [[A:1.4]].",
       "b à d — La possibilité de s’exprimer sans redites, les propos adressés au président et une seule personne parlant à la fois ne sont plus énumérés dans le texte local; la conduite des assemblées renvoie au tableau 9-4-4 du Manuel PSP."
     ],
-    "17": ["Reformulé dans [[S:9.3]]. L’avis est communiqué à tous les membres et l’ordre du jour est affiché une semaine à l’avance. Le libellé de l’invitation comme contenant l’ordre du jour approuvé et l’emplacement précis dans l’entrée du Mess ne sont plus repris. La préparation et la diffusion sont confiées au secrétaire dans [[C:1.2]]."],
-    "18": ["a à i — L’ordre détaillé des délibérations n’est plus reproduit. [[S:9.4]] renvoie au tableau 9-4-4 du Manuel PSP pour la procédure parlementaire, sans énumérer ces neuf étapes."],
-    "19": ["Pour les modifications aux textes, le préavis devient une obligation de 15 jours dans [[S:10.1]]. La communication préalable des propositions est aussi prévue dans [[S:9.10]]. Le conseil de préparation personnelle et la mention particulière des autres propositions complexes ne sont plus reproduits."],
-    "20": ["Le dépôt d’une motion est repris dans [[S:9.7]]. Les auteurs admissibles deviennent les membres ordinaires, sauf le président; [[S:9.8]] autorise le commandant membre ordinaire à présenter une motion. Les consignes de se lever, d’attendre la parole et de faire répéter la proposition ne sont plus décrites localement; [[S:9.4]] renvoie à la procédure parlementaire. La dernière phrase de [[S:9.7]] demeure inachevée dans la version comparée (« selon la »)."],
-    "21": ["Repris dans [[S:9.7]]. L’appui d’un autre membre ordinaire est désormais précisé. La déclaration verbale de proposition irrecevable et le passage au point suivant ne sont plus reproduits."],
-    "22": ["La règle détaillée imposant le débat d’une proposition recevable et appuyée n’est plus reproduite. La procédure des assemblées est donnée par renvoi au tableau 9-4-4 dans [[S:9.4]]."],
-    "23": ["Énoncé principal — La majorité des voix exprimées est conservée explicitement pour les élections dans [[S:5.2]], les fins de mandat dans [[S:5.3]] et les modifications dans [[S:10.1]]. La règle générale de vote, l’incitation à voter, le recomptage en cas d’égalité, le vote prépondérant limité du PCAM, l’interdiction d’amender ou d’appuyer et le nouveau vote erroné ne sont plus décrits ensemble. [[S:9.4]] renvoie à la procédure parlementaire; [[S:9.7]] exclut le président des auteurs de motions.",
-      "a et points 1 à 8 — Le dispositif local de vote par internet n’est pas repris : priorité aux assemblées, publication par le comité, plafond de 200 $, caractère facultatif, statut actif pour l’année financière, quorum, délai de 15 jours et veto ne figurent plus comme conditions d’un scrutin en ligne. Le délai de 15 jours de [[S:10.1]] porte sur l’examen des modifications aux textes et ne rétablit pas ce dispositif."
+    "17": [
+      "Reformulé dans [[S:7.3]]. L’avis est communiqué à tous les membres et l’ordre du jour est affiché une semaine à l’avance. Le libellé de l’invitation comme contenant l’ordre du jour approuvé et l’emplacement précis dans l’entrée du Mess ne sont plus repris. La préparation et la diffusion sont confiées au secrétaire dans [[C:1.2]]."
     ],
-    "24": ["a et b — L’élection du président et du vice-président est regroupée dans [[S:5.1]] et [[S:5.2]]; ces postes figurent dans [[S:6.1]].",
-      "c — La durée minimale locale d’un an selon la disponibilité n’est plus énoncée. [[S:5.2]] renvoie au Manuel PSP pour la durée des mandats, leur prolongation et la relève échelonnée."
+    "18": [
+      "a à i — L’ordre détaillé des délibérations n’est plus reproduit. [[S:7.4]] renvoie au tableau 9-4-4 du Manuel PSP pour la procédure parlementaire, sans énumérer ces neuf étapes."
     ],
-    "25": ["Modifié et regroupé avec l’ancien article 17 dans [[S:9.3]]. Le préavis local de deux semaines, et l’option d’annoncer la réunion à la fin d’une assemblée ordinaire, ne sont plus repris. La clause prévoit la communication à tous et l’affichage de l’ordre du jour une semaine à l’avance."],
-    "26": ["L’admissibilité des seuls membres ordinaires au comité est conservée dans [[S:5.1]]. L’exigence supplémentaire d’un président membre actif du 9 EG, avec l’approbation du commandant, n’est plus énoncée comme condition distincte du poste."],
-    "27": ["Remplacé par la représentation équitable des deux locaux dans [[S:6.2]]. Les proportions obligatoires de 50/50, les origines opposées du président et du vice-président, l’alternance annuelle et la répartition selon les années paires ou impaires sont retirées du texte local."],
-    "28": ["a à c — Le minimum de composition devient président, vice-président et secrétaire ou trésorier dans [[S:6.1]]. Le poste initial de secrétaire-trésorier n’est plus imposé dans cette liste.",
-      "d et e — Les deux postes de responsables des activités ne sont plus requis. [[E:1.1]] prévoit un seul responsable pour les deux locaux. [[S:6.2]] permet de confier d’autres fonctions selon les besoins."
+    "19": [
+      "Pour les modifications aux textes, le préavis devient une obligation de 15 jours dans [[S:8.1]]. La communication préalable des propositions est aussi prévue dans [[S:7.10]]. Le conseil de préparation personnelle et la mention particulière des autres propositions complexes ne sont plus reproduits."
     ],
-    "29": ["La possibilité de séparer secrétaire et trésorier n’est plus formulée comme telle. Le projet distingue leurs fonctions dans les annexes C et D; [[S:6.1]] exige au minimum un secrétaire ou un trésorier, et [[S:6.2]] permet d’autres fonctions."],
-    "30": ["Déplacé dans [[S:5.2]] : majorité simple, élections normalement en décembre et nomination du régisseur par le commandant conservées. La durée des mandats et la relève échelonnée sont désormais visées par renvoi."],
-    "31": ["Reformulé dans [[S:6.2]], qui demande une représentation équitable des deux locaux. La représentation de tous les grades, dans la mesure du possible, n’est plus énoncée explicitement."],
-    "32": ["Non repris — L’obligation de combler un poste vacant à la première réunion suivant la vacance n’a pas d’équivalent explicite dans les textes proposés."],
-    "33": ["La gestion et les limites des autorisations sont réparties dans [[S:5.1]], [[S:7.1]], [[R4:1.1]] et [[R4:3.1]]. La destitution automatique pour mauvaise gestion flagrante et l’obligation de réparer les torts ne sont plus énoncées dans cette clause. [[S:5.3]] prévoit une procédure de fin de mandat; elle ne reproduit pas cette sanction financière."],
-    "34": ["Remplacé par [[S:5.3]]. Le seuil de 75 % devient la majorité des voix exprimées. Le préavis d’au moins un mois est conservé, désormais avec motifs écrits et possibilité de présenter ses observations. La clause vise d’abord la recherche d’une solution lorsque le titulaire ne participe plus ou n’assume plus ses fonctions."],
-    "35": ["a et b — Regroupés dans [[S:5.1]], [[A:1.2]] et [[A:1.7]] : administration courante, mise en œuvre des décisions et respect des textes.",
+    "20": [
+      "Le dépôt d’une motion est repris dans [[S:7.7]]. Les auteurs admissibles deviennent les membres ordinaires, sauf le président; [[S:7.8]] autorise le commandant membre ordinaire à présenter une motion. Les consignes de se lever, d’attendre la parole et de faire répéter la proposition ne sont plus décrites localement; [[S:7.4]] renvoie à la procédure parlementaire. La dernière phrase de [[S:7.7]] demeure inachevée dans la version comparée (« selon la »)."
+    ],
+    "21": [
+      "Repris dans [[S:7.7]]. L’appui d’un autre membre ordinaire est désormais précisé. La déclaration verbale de proposition irrecevable et le passage au point suivant ne sont plus reproduits."
+    ],
+    "22": [
+      "La règle détaillée imposant le débat d’une proposition recevable et appuyée n’est plus reproduite. La procédure des assemblées est donnée par renvoi au tableau 9-4-4 dans [[S:7.4]]."
+    ],
+    "23": [
+      "Énoncé principal — La majorité des voix exprimées est conservée explicitement pour les élections dans [[S:5.3]], les fins de mandat dans [[S:5.5]] et les modifications dans [[S:8.1]]. La règle générale de vote, l’incitation à voter, le recomptage en cas d’égalité, le vote prépondérant limité du PCAM, l’interdiction d’amender ou d’appuyer et le nouveau vote erroné ne sont plus décrits ensemble. [[S:7.4]] renvoie à la procédure parlementaire; [[S:7.7]] exclut le président des auteurs de motions.",
+      "a et points 1 à 8 — Le dispositif local de vote par internet n’est pas repris : priorité aux assemblées, publication par le comité, plafond de 200 $, caractère facultatif, statut actif pour l’année financière, quorum, délai de 15 jours et veto ne figurent plus comme conditions d’un scrutin en ligne. Le délai de 15 jours de [[S:8.1]] porte sur l’examen des modifications aux textes et ne rétablit pas ce dispositif."
+    ],
+    "24": [
+      "a et b — L’élection du président et du vice-président est regroupée dans [[S:5.1]] et [[S:5.3]]; ces postes figurent dans [[S:5.2]].",
+      "c — La durée minimale locale d’un an selon la disponibilité n’est plus énoncée. [[S:5.4]] renvoie au Manuel PSP pour la durée des mandats, leur prolongation et la relève échelonnée."
+    ],
+    "25": [
+      "Modifié et regroupé avec l’ancien article 17 dans [[S:7.3]]. Le préavis local de deux semaines, et l’option d’annoncer la réunion à la fin d’une assemblée ordinaire, ne sont plus repris. La clause prévoit la communication à tous et l’affichage de l’ordre du jour une semaine à l’avance."
+    ],
+    "26": [
+      "L’admissibilité des seuls membres ordinaires au comité est conservée dans [[S:5.2]]. L’exigence supplémentaire d’un président membre actif du 9 EG, avec l’approbation du commandant, n’est plus énoncée comme condition distincte du poste."
+    ],
+    "27": [
+      "Remplacé par la représentation équitable des deux locaux dans [[S:5.2]]. Les proportions obligatoires de 50/50, les origines opposées du président et du vice-président, l’alternance annuelle et la répartition selon les années paires ou impaires sont retirées du texte local."
+    ],
+    "28": [
+      "a à c — Le minimum de composition devient président, vice-président et secrétaire ou trésorier dans [[S:5.2]]. Le poste initial de secrétaire-trésorier n’est plus imposé dans cette liste.",
+      "d et e — Les deux postes de responsables des activités ne sont plus requis. [[E:1.1]] prévoit un seul responsable pour les deux locaux. [[S:5.2]] permet de confier d’autres fonctions selon les besoins."
+    ],
+    "29": [
+      "La possibilité de séparer secrétaire et trésorier n’est plus formulée comme telle. Le projet distingue leurs fonctions dans les annexes C et D; [[S:5.2]] exige au minimum un secrétaire ou un trésorier, et [[S:5.2]] permet d’autres fonctions."
+    ],
+    "30": [
+      "Déplacé dans [[S:5.3]] : majorité simple, élections normalement en décembre conservées; la désignation du responsable du bar avec l’approbation du commandant ou de son délégué est précisée dans [[S:5.2]]. La durée des mandats et la relève échelonnée sont désormais visées par renvoi."
+    ],
+    "31": [
+      "Reformulé dans [[S:5.2]], qui demande une représentation équitable des deux locaux. La représentation de tous les grades, dans la mesure du possible, n’est plus énoncée explicitement."
+    ],
+    "32": [
+      "Non repris — L’obligation de combler un poste vacant à la première réunion suivant la vacance n’a pas d’équivalent explicite dans les textes proposés."
+    ],
+    "33": [
+      "La gestion et les limites des autorisations sont réparties dans [[S:5.1]], [[S:5.7]], [[R4:1.1]] et [[R4:3.1]]. La destitution automatique pour mauvaise gestion flagrante et l’obligation de réparer les torts ne sont plus énoncées dans cette clause. [[S:5.5]] prévoit une procédure de fin de mandat; elle ne reproduit pas cette sanction financière."
+    ],
+    "34": [
+      "Remplacé par [[S:5.5]]. Le seuil de 75 % devient la majorité des voix exprimées. Le préavis d’au moins un mois est conservé, désormais avec motifs écrits et possibilité de présenter ses observations. La clause vise d’abord la recherche d’une solution lorsque le titulaire ne participe plus ou n’assume plus ses fonctions."
+    ],
+    "35": [
+      "a et b — Regroupés dans [[S:5.1]], [[A:1.2]] et [[A:1.7]] : administration courante, mise en œuvre des décisions et respect des textes.",
       "c — Le rôle d’intermédiaire entre commandant et membres n’est plus formulé comme devoir collectif distinct. Les fonctions de compte rendu au commandant et de réponse aux questions sont précisées dans [[A:1.1]] et [[A:1.7]]."
     ],
-    "36": ["a — Déplacé dans [[A:1.1]]. b et i — Réunis dans [[A:1.3]]; la convocation du comité est également prévue dans [[S:8.3]].",
-      "c — Les règles détaillées sur amendements, appuis, vote erroné et égalité ne sont plus reprises dans les fonctions du président; [[A:1.4]] et [[S:9.4]] renvoient à la procédure parlementaire. [[S:9.7]] interdit au président de présenter une motion.",
+    "36": [
+      "a — Déplacé dans [[A:1.1]]. b et i — Réunis dans [[A:1.3]]; la convocation du comité est également prévue dans [[S:6.3]].",
+      "c — Les règles détaillées sur amendements, appuis, vote erroné et égalité ne sont plus reprises dans les fonctions du président; [[A:1.4]] et [[S:7.4]] renvoient à la procédure parlementaire. [[S:7.7]] interdit au président de présenter une motion.",
       "d et h — Réunis dans [[A:1.6]] pour la signature des procès-verbaux et la mise à jour des statuts après modifications approuvées. e et f — Regroupés dans [[A:1.7]]. g et j — Regroupés dans [[A:1.8]], qui vise aussi le régisseur.",
       "k — L’interdiction faite au personnel des finances d’être président n’est plus énoncée dans les textes proposés."
     ],
-    "37": ["a — Déplacé dans [[B:1.1]]. b — Déplacé dans [[B:1.2]] et [[A:1.3]]. c — Déplacé dans [[B:1.3]]. d — Déplacé dans [[B:1.4]] et développé dans [[R2:5.1]].",
+    "37": [
+      "a — Déplacé dans [[B:1.1]]. b — Déplacé dans [[B:1.2]] et [[A:1.3]]. c — Déplacé dans [[B:1.3]]. d — Déplacé dans [[B:1.4]] et développé dans [[R2:5.1]].",
       "e — L’interdiction faite au personnel des finances d’être vice-président n’est plus énoncée. [[B:1.5]] ajoute des tâches sur la provenance, la propriété, les dons, les prêts et les assurances."
     ],
-    "38": ["a — Déplacé dans [[C:1.1]]. b — Repris et développé dans [[C:1.2]]. c — Réparti entre [[C:1.4]] et [[C:1.8]]; la référence locale au PFC 262, article 319, est remplacée par les références du projet sur les procès-verbaux et leur approbation, notamment [[S:9.9]].",
+    "38": [
+      "a — Déplacé dans [[C:1.1]]. b — Repris et développé dans [[C:1.2]]. c — Réparti entre [[C:1.4]] et [[C:1.8]]; la référence locale au PFC 262, article 319, est remplacée par les références du projet sur les procès-verbaux et leur approbation, notamment [[S:7.9]].",
       "d — Repris dans [[C:1.5]]. e et f — Regroupés dans [[C:1.7]]. g — Repris avec modification dans [[C:1.6]] et [[AP:3.1]] : copies dans les locaux et accès pour chaque nouveau membre, plutôt qu’obligation d’afficher la constitution elle-même.",
       "h — L’autorisation explicite au personnel des finances d’occuper le poste de secrétaire n’est plus énoncée. Les contrôles de quorum et la relève documentaire sont ajoutés dans [[C:1.3]] et [[C:1.8]]."
     ],
-    "39": ["a — La liste des membres en règle est reprise et détaillée dans [[D:1.1]]. Les dates de l’année financière sont déplacées dans [[R4:4.1]]. b — L’interdiction de tenir les livres et le recours à une tierce personne sont repris dans [[D:1.4]] et [[R4:11.1]]. c — Les recommandations de dépenses sont reprises dans [[D:1.2]], avec précision des délégations financières et de leurs limites."],
-    "40": ["a — Déplacé dans [[G:1.1]]. b à d et f — Regroupés dans [[G:1.5]], qui vise le nettoyage du bar, des verres, de l’équipement, des chopes et de l’argenterie. Le ramassage des verres à mesure n’est plus détaillé. e et g — Regroupés dans [[G:1.6]]. h et i — Regroupés dans [[G:1.7]]. j — L’obligation de rester alerte pour un service immédiat n’est plus énoncée. k — Intégré aux opérations de fermeture dans [[G:1.8]], sans liste expresse des lumières et fenêtres.",
+    "39": [
+      "a — La liste des membres en règle est reprise et détaillée dans [[D:1.1]]. Les dates de l’année financière sont déplacées dans [[R4:4.1]]. b — L’interdiction de tenir les livres et le recours à une tierce personne sont repris dans [[D:1.4]] et [[R4:11.1]]. c — Les recommandations de dépenses sont reprises dans [[D:1.2]], avec précision des délégations financières et de leurs limites."
+    ],
+    "40": [
+      "a — Déplacé dans [[G:1.1]]. b à d et f — Regroupés dans [[G:1.5]], qui vise le nettoyage du bar, des verres, de l’équipement, des chopes et de l’argenterie. Le ramassage des verres à mesure n’est plus détaillé. e et g — Regroupés dans [[G:1.6]]. h et i — Regroupés dans [[G:1.7]]. j — L’obligation de rester alerte pour un service immédiat n’est plus énoncée. k — Intégré aux opérations de fermeture dans [[G:1.8]], sans liste expresse des lumières et fenêtres.",
       "l(1) à l(3) — Les interdictions locales de vente de spiritueux à la bouteille et de bière à la caisse, ainsi que l’exception du vin régimentaire à la bouteille ou à la caisse et pour consommation à l’extérieur, ne sont plus reproduites. [[R3:1.2]] renvoie aux règles applicables au service et aux ventes d’alcool; [[G:1.10]] précise les moyens de paiement."
     ],
-    "41": ["a — Le compte rendu au président est repris dans [[E:1.1]], qui confie la fonction à une seule personne pour les deux locaux. b et c — Regroupés dans [[E:1.2]]. d et la note — Repris dans [[E:1.4]], qui permet de confier l’organisation tout en suivant le programme et le budget. e — Déplacé dans [[E:1.5]]. f — Déplacé dans [[E:1.6]]. g — L’obligation générale d’exécuter toute autre tâche assignée n’est plus énoncée. [[E:1.3]] ajoute le traitement des propositions d’activités."],
-    "42": ["a — Déplacé dans [[F:1.1]]. b — Repris dans [[F:1.2]], avec ajout du soutien aux refus de service et aux incidents. c et d — Réunis dans [[F:1.3]]. e — L’obligation générale de toute autre tâche assignée n’est plus reproduite. Les paragraphes [[F:1.4]] à [[F:1.7]] ajoutent ou regroupent ouverture, fermeture, réservations, pièces justificatives et garde des jeux."],
-    "43": ["Déplacé et remplacé par le renvoi sur les conflits d’intérêts et avantages dans [[S:5.4]] au Manuel PSP, chapitre 9-4, paragraphes 27 et 28. Le bénévolat est explicité. L’interdiction et la déclaration au commandant ne sont plus reproduites avec leur libellé initial; le renvoi au PFC 262 est retiré."],
-    "44": ["Énoncé principal et (2) — Regroupés dans [[R4:2.1]]. Le bénévolat demeure la règle, sauf emploi auprès des SBMFC selon leurs directives et le budget approuvé.",
+    "41": [
+      "a — Le compte rendu au président est repris dans [[E:1.1]], qui confie la fonction à une seule personne pour les deux locaux. b et c — Regroupés dans [[E:1.2]]. d et la note — Repris dans [[E:1.4]], qui permet de confier l’organisation tout en suivant le programme et le budget. e — Déplacé dans [[E:1.5]]. f — Déplacé dans [[E:1.6]]. g — L’obligation générale d’exécuter toute autre tâche assignée n’est plus énoncée. [[E:1.3]] ajoute le traitement des propositions d’activités."
+    ],
+    "42": [
+      "a — Déplacé dans [[F:1.1]]. b — Repris dans [[F:1.2]], avec ajout du soutien aux refus de service et aux incidents. c et d — Réunis dans [[F:1.3]]. e — L’obligation générale de toute autre tâche assignée n’est plus reproduite. Les paragraphes [[F:1.4]] à [[F:1.7]] ajoutent ou regroupent ouverture, fermeture, réservations, pièces justificatives et garde des jeux."
+    ],
+    "43": [
+      "Déplacé et remplacé par le renvoi sur les conflits d’intérêts et avantages dans [[S:5.6]] au Manuel PSP, chapitre 9-4, paragraphes 27 et 28. Le bénévolat est explicité. L’interdiction et la déclaration au commandant ne sont plus reproduites avec leur libellé initial; le renvoi au PFC 262 est retiré."
+    ],
+    "44": [
+      "Énoncé principal et (2) — Regroupés dans [[R4:2.1]]. Le bénévolat demeure la règle, sauf emploi auprès des SBMFC selon leurs directives et le budget approuvé.",
       "(1) — La chaîne de supervision serveur–régisseur–président est répartie dans [[G:1.1]] et [[F:1.1]]. (3) — Le remboursement des déplacements du régisseur et son plafond annuel de 500 $ ne sont plus énoncés dans le projet."
     ],
-    "45": ["a — Les cotisations renvoient au Manuel PSP dans [[R4:4.1]]. Les phrases sur leur rôle de revenu, leur utilisation limitée aux besoins du Mess et l’affiliation obligatoire de tout militaire ne sont plus reprises dans cette rubrique. [[R4:8.1]] précise la distinction avec le fonds d’unité et la destination des biens.",
-      "b — L’exemption des membres honoraires est désormais explicite dans [[S:4.9]]. La phrase limitant le paiement aux seuls membres ordinaires et associés n’est plus reproduite à cet endroit.",
+    "45": [
+      "a — Les cotisations renvoient au Manuel PSP dans [[R4:4.1]]. Les phrases sur leur rôle de revenu, leur utilisation limitée aux besoins du Mess et l’affiliation obligatoire de tout militaire ne sont plus reprises dans cette rubrique. [[R4:8.1]] précise la distinction avec le fonds d’unité et la destination des biens.",
+      "b — L’exemption des membres honoraires est désormais explicite dans [[S:4.5.4]]. La phrase limitant le paiement aux seuls membres ordinaires et associés n’est plus reproduite à cet endroit.",
       "c — Le calcul sur dix mois et l’exclusion des deux mois d’été ne sont plus énoncés. [[R4:4.1]] définit l’année financière du 1er avril au 31 mars, sans préciser le nombre de mois facturés.",
       "d et e — Regroupés dans [[R4:4.2]] : taux votés normalement en mars à la dernière assemblée de l’année financière, tout changement soumis au vote, approbation et communication des taux.",
       "f — Le vote local de mars sur le ou les comptes de dépôt n’est plus repris. [[R4:9.1]] à [[R4:9.6]] et [[R4:10.1]] prévoient d’autres modalités pour les sources, destinations et transferts de fonds, sans reprendre ce mécanisme.",
@@ -104,105 +179,243 @@
       "i et j — Remplacés par les renvois du [[R4:4.4]] sur changements d’unité, services temporaires, affectations, déploiements et congés sans solde. Les formules locales de prorata journalier et la preuve de paiement de l’autre Mess ne sont plus reproduites.",
       "k — Le remboursement par chèque nominatif est remplacé dans [[R4:4.5]] par une régularisation et un remboursement du trop-perçu par les moyens autorisés par les SBMFC."
     ],
-    "46": ["a — Le retrait du privilège de chèque personnel et la récupération des frais de chèque sans fonds ne sont plus énoncés. [[R3:5.1]] prévoit les espèces et cartes de débit ou crédit au bar.",
+    "46": [
+      "a — Le retrait du privilège de chèque personnel et la récupération des frais de chèque sans fonds ne sont plus énoncés. [[R3:5.1]] prévoit les espèces et cartes de débit ou crédit au bar.",
       "b — L’affichage des prix est repris dans [[R3:4.1]]. L’approbation préalable des changements de prix est déplacée dans [[R4:5.1]]. c — Le paiement de tous les achats par chèque est remplacé dans [[R4:5.2]] par des virements via les SBMFC et la possibilité d’une carte autorisée.",
       "d — La carte du commandant de 50 $ par mois, non cumulative, et son utilisation par le PCAM en l’absence du commandant ne sont plus reprises.",
       "e — Remplacé par [[R4:5.3]] : consommations offertes selon les références citées et, pour les boissons sans alcool, une consommation par membre présent dans le plafond annuel approuvé. Le maximum local de trois traites annuelles, les événements nommés, l’usage unique par événement et le privilège particulier au dîner de la troupe ne sont plus reproduits.",
-      "f — Le paiement intégral de la cotisation annuelle comme définition expresse de membre en règle n’est plus repris. Le projet emploie toujours « en règle », notamment dans [[S:9.5]], sans reprendre cette définition. g — L’obligation locale de deux signatures sur les chèques est retirée; [[R4:5.2]] décrit les moyens de paiement autorisés."
+      "f — Le paiement intégral de la cotisation annuelle comme définition expresse de membre en règle n’est plus repris. Le projet emploie toujours « en règle », notamment dans [[S:7.5]], sans reprendre cette définition. g — L’obligation locale de deux signatures sur les chèques est retirée; [[R4:5.2]] décrit les moyens de paiement autorisés."
     ],
-    "47": ["a, (1) à (3) — L’exécution d’un programme et d’un budget approuvés est reprise plus généralement dans [[R4:14.1]], [[S:5.1]] et [[E:1.4]]. L’autorisation mensuelle et les trois conditions formulées comme liste ne sont plus reproduites; les délégations financières sont visées dans [[R4:1.1]]. b — La certification de toute dépense de divertissement par le PCAM n’est plus énoncée comme pouvoir attaché au seul poste."],
-    "48": ["Déplacé dans [[R4:6.1]]. Le pouvoir du commandant et les circonstances et limites des radiations renvoient à l’A-FN-105, sans montant local ajouté."],
-    "49": ["Non repris — La répartition selon le pourcentage des ventes et la priorité explicite des frais d’exploitation sur les activités sociales ne sont plus énoncées. [[R4:11.1]] décrit le suivi financier mais ne rétablit pas cette clé de répartition."],
-    "50": ["Non repris — Le pouvoir de dépenses de 100 $ par mois pour petits achats et sa ratification à l’assemblée suivante sont retirés. [[R4:1.1]] et [[R4:7.1]] renvoient aux délégations valides et au budget, sans plafond local de petits achats."],
-    "51": ["Déplacé et modifié dans [[R4:7.1]] et [[D:1.5]]. La finalité, le suivi par président et trésorier et la présentation à la prochaine assemblée sont conservés. Le pouvoir d’autoriser du seul fait d’occuper l’un de ces postes est expressément remplacé par les délégations valides; les dépenses sont présentées, plutôt qu’énoncées comme devant être acceptées à la prochaine réunion."],
-    "52": ["Non repris — Le montant mensuel non cumulatif de 100 $ par activité et par local ainsi que l’obligation de générer au minimum l’investissement de départ ne figurent plus dans le projet. [[R4:14.1]] prévoit le programme et le budget approuvés sans reprendre ces conditions chiffrées."],
-    "53": ["Non repris — L’indemnité de 75 $ par activité spéciale, le plafond annuel de 300 $ et l’exception concernant les réceptions privées sont retirés. [[R4:2.1]] prévoit le bénévolat ou un emploi SBMFC selon directives et budget approuvé, sans reprendre ces montants."],
-    "54": ["Reformulé dans [[R4:11.1]] et [[D:1.3]]. Les pièces, opérations et fonds font l’objet d’un suivi. La comptabilisation mensuelle des caisses enregistreuses par les FNP n’est plus énoncée comme modalité précise; [[D:1.4]] maintient une tierce personne pour les livres."],
-    "55": ["Non repris — La division égale des revenus et dépenses des activités conjointes entre utilisateurs ne figure plus dans le projet. Aucun pourcentage de remplacement n’est fixé dans [[R4:11.1]]."],
-    "56": ["Réparti dans [[R3:1.1]], [[R3:1.2]] et [[R3:4.1]]. Les règles de vente, service, formation et protection des mineurs sont données par renvoi; l’affichage des prix est conservé à l’ouverture. La référence au PFC 262, article 309, n’est plus reprise."],
-    "57": ["Déplacé et précisé dans [[A:1.9]]. Le président demeure responsable de la discipline; le membre le plus haut gradé présent intervient désormais en l’absence à la fois du président et du vice-président. Le renvoi au PFC 262, article 310, est retiré."],
-    "58": ["L’obligation de sobriété pendant le service est déplacée dans [[R3:1.3]]. Le suivi du déroulement de l’activité est repris dans [[E:1.4]]. L’interdiction expresse de toute consommation pour le responsable d’activité et les serveurs devient une obligation de sobriété du personnel pendant le service; les deux formulations ne sont pas identiques."],
-    "59": ["Reformulé dans [[R3:2.1]], [[G:1.2]] et [[F:1.2]]. Le refus de service aux personnes en état d’ébriété est conservé et complété par l’explication calme, les boissons sans alcool et l’aide au retour. La délégation explicite « au nom du commandant » n’est plus reproduite."],
-    "60": ["Non repris — L’autorité particulière du responsable des drogues et alcools de l’unité dans les deux locaux n’est plus énoncée."],
-    "61": ["Déplacé et modifié dans [[R3:3.1]] et [[G:1.4]]. Le déclencheur devient menace, malaise ou danger immédiat, avec suspension du service et fermeture du bar si nécessaire. Les secours appropriés sont conservés. Le règlement prévoit le signalement au président et un relevé factuel, tandis que l’annexe G conserve le signalement au capitaine-adjudant; les deux destinataires coexistent dans la version comparée."],
-    "62": ["Le rappel à l’ordre et le signalement au sergent-major sont repris dans [[R1:6.1]]. L’application générale aux membres et invités est décrite dans [[AP:2.1]]. La référence à la conservation d’un climat amical n’est plus reproduite."],
-    "63": ["Le signalement des dommages est réparti dans [[R1:10.2]] et [[R2:4.2]]. L’obligation générale de faire respecter l’ordre n’est pas répétée dans cette clause. La facturation possible est remplacée par [[R2:4.3]], qui précise que le signalement ne reconnaît pas une dette et qu’aucune facturation n’est automatique."],
-    "64": ["Regroupé avec les articles 69a et 95 dans [[R1:4.1]]. L’accompagnement du membre et le départ de l’invité avec lui sont conservés. La responsabilité générale de conduite n’y est plus réénoncée; [[AP:2.1]] soumet les invités aux dispositions qui les concernent."],
-    "65": ["Déplacé dans [[R1:1.1]], par renvoi au Manuel PSP, chapitre 9-1, paragraphes 29 à 31. La répartition des locaux est dans [[S:1.1]]. Les exceptions pour fonctions ou invitation spéciale ne sont plus recopiées dans la clause locale."],
-    "66": ["Déplacé dans [[R1:10.1]]. Propreté et remise des meubles à leur place sont conservées; la propreté des équipements de jeu y est aussi regroupée."],
-    "67": ["L’accès des membres mineurs et des conjoints autorisés est repris dans [[R1:3.1]], qui inclut aussi les enfants. L’accord du commandant pour les conjoints mineurs n’est plus nommé expressément. L’interdiction d’alcool aux mineurs est traitée par les renvois de [[R3:1.2]]."],
-    "68": ["Regroupé avec les autres dispositions sur les mineurs dans [[R3:1.2]], qui renvoie aux articles 103.1 à 103.3 de la référence G. Le seuil de 18 ans n’est plus reproduit en toutes lettres dans la clause locale."],
-    "69": ["a — L’accompagnement et le départ conjoint sont repris dans [[R1:4.1]]. La responsabilité explicite de la tenue et du comportement de l’invité n’est plus réénoncée dans cette clause.",
+    "47": [
+      "a, (1) à (3) — L’exécution d’un programme et d’un budget approuvés est reprise plus généralement dans [[R4:14.1]], [[S:5.1]] et [[E:1.4]]. L’autorisation mensuelle et les trois conditions formulées comme liste ne sont plus reproduites; les délégations financières sont visées dans [[R4:1.1]]. b — La certification de toute dépense de divertissement par le PCAM n’est plus énoncée comme pouvoir attaché au seul poste."
+    ],
+    "48": [
+      "Déplacé dans [[R4:6.1]]. Le pouvoir du commandant et les circonstances et limites des radiations renvoient à l’A-FN-105, sans montant local ajouté."
+    ],
+    "49": [
+      "Non repris — La répartition selon le pourcentage des ventes et la priorité explicite des frais d’exploitation sur les activités sociales ne sont plus énoncées. [[R4:11.1]] décrit le suivi financier mais ne rétablit pas cette clé de répartition."
+    ],
+    "50": [
+      "Non repris — Le pouvoir de dépenses de 100 $ par mois pour petits achats et sa ratification à l’assemblée suivante sont retirés. [[R4:1.1]] et [[R4:7.1]] renvoient aux délégations valides et au budget, sans plafond local de petits achats."
+    ],
+    "51": [
+      "Déplacé et modifié dans [[R4:7.1]] et [[D:1.5]]. La finalité, le suivi par président et trésorier et la présentation à la prochaine assemblée sont conservés. Le pouvoir d’autoriser du seul fait d’occuper l’un de ces postes est expressément remplacé par les délégations valides; les dépenses sont présentées, plutôt qu’énoncées comme devant être acceptées à la prochaine réunion."
+    ],
+    "52": [
+      "Non repris — Le montant mensuel non cumulatif de 100 $ par activité et par local ainsi que l’obligation de générer au minimum l’investissement de départ ne figurent plus dans le projet. [[R4:14.1]] prévoit le programme et le budget approuvés sans reprendre ces conditions chiffrées."
+    ],
+    "53": [
+      "Non repris — L’indemnité de 75 $ par activité spéciale, le plafond annuel de 300 $ et l’exception concernant les réceptions privées sont retirés. [[R4:2.1]] prévoit le bénévolat ou un emploi SBMFC selon directives et budget approuvé, sans reprendre ces montants."
+    ],
+    "54": [
+      "Reformulé dans [[R4:11.1]] et [[D:1.3]]. Les pièces, opérations et fonds font l’objet d’un suivi. La comptabilisation mensuelle des caisses enregistreuses par les FNP n’est plus énoncée comme modalité précise; [[D:1.4]] maintient une tierce personne pour les livres."
+    ],
+    "55": [
+      "Non repris — La division égale des revenus et dépenses des activités conjointes entre utilisateurs ne figure plus dans le projet. Aucun pourcentage de remplacement n’est fixé dans [[R4:11.1]]."
+    ],
+    "56": [
+      "Réparti dans [[R3:1.1]], [[R3:1.2]] et [[R3:4.1]]. Les règles de vente, service, formation et protection des mineurs sont données par renvoi; l’affichage des prix est conservé à l’ouverture. La référence au PFC 262, article 309, n’est plus reprise."
+    ],
+    "57": [
+      "Déplacé et précisé dans [[A:1.9]]. Le président demeure responsable de la discipline; le membre le plus haut gradé présent intervient désormais en l’absence à la fois du président et du vice-président. Le renvoi au PFC 262, article 310, est retiré."
+    ],
+    "58": [
+      "L’obligation de sobriété pendant le service est déplacée dans [[R3:1.3]]. Le suivi du déroulement de l’activité est repris dans [[E:1.4]]. L’interdiction expresse de toute consommation pour le responsable d’activité et les serveurs devient une obligation de sobriété du personnel pendant le service; les deux formulations ne sont pas identiques."
+    ],
+    "59": [
+      "Reformulé dans [[R3:2.1]], [[G:1.2]] et [[F:1.2]]. Le refus de service aux personnes en état d’ébriété est conservé et complété par l’explication calme, les boissons sans alcool et l’aide au retour. La délégation explicite « au nom du commandant » n’est plus reproduite."
+    ],
+    "60": [
+      "Non repris — L’autorité particulière du responsable des drogues et alcools de l’unité dans les deux locaux n’est plus énoncée."
+    ],
+    "61": [
+      "Déplacé et modifié dans [[R3:3.1]] et [[G:1.4]]. Le déclencheur devient menace, malaise ou danger immédiat, avec suspension du service et fermeture du bar si nécessaire. Les secours appropriés sont conservés. Le règlement prévoit le signalement au président et un relevé factuel, tandis que l’annexe G conserve le signalement au capitaine-adjudant; les deux destinataires coexistent dans la version comparée."
+    ],
+    "62": [
+      "Le rappel à l’ordre et le signalement au sergent-major sont repris dans [[R1:6.1]]. L’application générale aux membres et invités est décrite dans [[AP:2.1]]. La référence à la conservation d’un climat amical n’est plus reproduite."
+    ],
+    "63": [
+      "Le signalement des dommages est réparti dans [[R1:10.2]] et [[R2:4.2]]. L’obligation générale de faire respecter l’ordre n’est pas répétée dans cette clause. La facturation possible est remplacée par [[R2:4.3]], qui précise que le signalement ne reconnaît pas une dette et qu’aucune facturation n’est automatique."
+    ],
+    "64": [
+      "Regroupé avec les articles 69a et 95 dans [[R1:4.1]]. L’accompagnement du membre et le départ de l’invité avec lui sont conservés. La responsabilité générale de conduite n’y est plus réénoncée; [[AP:2.1]] soumet les invités aux dispositions qui les concernent."
+    ],
+    "65": [
+      "Déplacé dans [[R1:1.1]], par renvoi au Manuel PSP, chapitre 9-1, paragraphes 29 à 31. La répartition des locaux est dans [[S:1.1]]. Les exceptions pour fonctions ou invitation spéciale ne sont plus recopiées dans la clause locale."
+    ],
+    "66": [
+      "Déplacé dans [[R1:10.1]]. Propreté et remise des meubles à leur place sont conservées; la propreté des équipements de jeu y est aussi regroupée."
+    ],
+    "67": [
+      "L’accès des membres mineurs et des conjoints autorisés est repris dans [[R1:3.1]], qui inclut aussi les enfants. L’accord du commandant pour les conjoints mineurs n’est plus nommé expressément. L’interdiction d’alcool aux mineurs est traitée par les renvois de [[R3:1.2]]."
+    ],
+    "68": [
+      "Regroupé avec les autres dispositions sur les mineurs dans [[R3:1.2]], qui renvoie aux articles 103.1 à 103.3 de la référence G. Le seuil de 18 ans n’est plus reproduit en toutes lettres dans la clause locale."
+    ],
+    "69": [
+      "a — L’accompagnement et le départ conjoint sont repris dans [[R1:4.1]]. La responsabilité explicite de la tenue et du comportement de l’invité n’est plus réénoncée dans cette clause.",
       "b et c — Les enfants avant 19 h lors des activités officielles, l’exception familiale et la salle de télévision sous surveillance parentale sont regroupés dans [[R1:3.1]]. La protection des mineurs quant à l’alcool est déplacée vers [[R3:1.2]]."
     ],
-    "70": ["a(1) à a(3) — Repris dans [[R1:5.2]] : torse couvert, chaussures et vêtements convenables, sans vêtements dégradants ou répulsifs. La propreté est précisée.",
+    "70": [
+      "a(1) à a(3) — Repris dans [[R1:5.2]] : torse couvert, chaussures et vêtements convenables, sans vêtements dégradants ou répulsifs. La propreté est précisée.",
       "a(4) — Repris dans [[R1:5.1]] avec exception pour les symboles religieux; [[R1:5.2]] ajoute des renvois aux instructions de tenue et de coiffure.",
       "b — Le pouvoir particulier du commandant ou du président d’imposer un standard minimum en cas d’abus n’est plus énoncé. [[R1:5.2]] prévoit l’annonce de la tenue pour une activité particulière.",
       "c(1) à c(3) — La tenue détaillée des serveurs (chemise blanche, nœud papillon, pantalon noir et règles selon les jours) n’est plus reproduite. Les règles générales de [[R1:5.2]] s’appliquent."
     ],
-    "71": ["Déplacé dans [[R1:7.1]]. L’interdiction de dormir dans les locaux, y compris derrière le bar, est conservée. Les motifs d’hygiène et de sécurité ne sont plus inscrits."],
-    "72": ["Modifié dans [[R1:8.1]]. L’exception du seul chien guide devient l’exception des animaux d’assistance."],
-    "73": ["L’approbation du commandant pour tout avis n’est plus énoncée individuellement. [[S:9.10]] prévoit des validations et autorisations avant diffusion; [[C:1.2]] confie au secrétaire l’organisation de ces validations sans en désigner systématiquement l’autorité."],
-    "74": ["Déplacé et condensé dans [[R1:2.1]]. L’accès sans le membre, la possibilité de s’identifier et le même traitement durant l’absence hors région sont conservés. La procédure demandant à un membre du comité d’identifier un conjoint inconnu n’est plus reproduite."],
-    "75": ["a — La définition de l’invité officiel et la prise en charge de tous ses frais dans les limites établies ne sont plus énoncées. b — L’invité personnel et son accompagnement sont traités dans [[R1:4.1]], sans reprendre la définition ni l’« entière responsabilité ».",
+    "71": [
+      "Déplacé dans [[R1:7.1]]. L’interdiction de dormir dans les locaux, y compris derrière le bar, est conservée. Les motifs d’hygiène et de sécurité ne sont plus inscrits."
+    ],
+    "72": [
+      "Modifié dans [[R1:8.1]]. L’exception du seul chien guide devient l’exception des animaux d’assistance."
+    ],
+    "73": [
+      "L’approbation du commandant pour tout avis n’est plus énoncée individuellement. [[S:7.10]] prévoit des validations et autorisations avant diffusion; [[C:1.2]] confie au secrétaire l’organisation de ces validations sans en désigner systématiquement l’autorité."
+    ],
+    "74": [
+      "Déplacé et condensé dans [[R1:2.1]]. L’accès sans le membre, la possibilité de s’identifier et le même traitement durant l’absence hors région sont conservés. La procédure demandant à un membre du comité d’identifier un conjoint inconnu n’est plus reproduite."
+    ],
+    "75": [
+      "a — La définition de l’invité officiel et la prise en charge de tous ses frais dans les limites établies ne sont plus énoncées. b — L’invité personnel et son accompagnement sont traités dans [[R1:4.1]], sans reprendre la définition ni l’« entière responsabilité ».",
       "c — L’accès selon le grade et les invitations est traité par renvoi dans [[R1:1.1]], avec les groupes de [[S:1.1]]. La demande et l’autorisation du commandant ou du PCAM ne sont plus recopiées localement.",
       "d — L’accès d’un accompagnateur moyennant le coût du repas et son exclusion des prix de présence ne sont plus repris."
     ],
-    "76": ["Déplacé dans [[R2:2.1]]. Le consentement du président ou du commandant est conservé, avec ajout de l’autorisation de remettre les meubles à leur place après usage."],
-    "77": ["Remplacé par [[R2:4.1]] à [[R2:4.3]]. La prise en charge obligatoire par le Mess de tout dommage ou perte accidentels n’est plus énoncée. Les procédures, assurances et responsabilités sont visées par renvoi; l’indemnisation intégrale n’est pas garantie."],
-    "78": ["Remplacé par [[R2:4.1]] à [[R2:4.3]]. La facturation obligatoire au membre pour négligence ou geste volontaire n’est plus énoncée. Le projet exclut la facturation automatique et distingue le signalement de la reconnaissance d’une dette."],
-    "79": ["Déplacé et modifié dans [[R2:4.1]] et [[R2:4.2]]. La disposition suit les références citées; la propriété et les conditions des dons ou prêts sont vérifiées. L’approbation du seul « conseil » n’est plus formulée comme règle suffisante pour tout retrait ou vente."],
-    "80": ["Non repris — L’interdiction de sortir les livres, journaux et revues acquis pour les membres ne figure plus explicitement. [[R2:2.1]] exige généralement le consentement pour déplacer un bien, sans disposition propre aux publications."],
-    "81": ["Déplacé dans [[R2:1.1]]. L’approbation d’une décoration permanente demeure, par le comité et dans les limites de ses pouvoirs. Le projet ajoute qu’une inscription commémorative ne prouve pas la propriété."],
-    "82": ["Remplacé par les renvois d’assurance dans [[R2:4.1]] et la confirmation de la couverture par le vice-président dans [[R2:4.2]] et [[B:1.5]]. La garantie locale de pleine valeur et de valeur au moins égale à la dernière évaluation n’est plus énoncée; [[R2:4.3]] ne garantit pas une indemnisation intégrale."],
-    "83": ["Reformulé dans [[S:11.1]] et [[A:1.11]], par renvoi au Manuel PSP pour le traitement et par un suivi confié au président. Le livre conservé sur place et l’examen systématique par le conseil avec présentation au besoin à l’assemblée ne sont plus décrits comme tels. Un registre consultable est évoqué par exclusion des dossiers confidentiels."],
-    "84": ["Reformulé dans [[S:11.1]]. L’acheminement direct au président est maintenant explicite pour les questions confidentielles ou de personnel. Le critère général d’urgence pour toute plainte ou suggestion n’est plus énoncé dans cette clause."],
-    "85": ["Déplacé dans [[S:9.10]]. L’affichage est conservé et complété par un canal commun accessible à tous et un accès équivalent sans moyen numérique. [[C:1.6]] confie la communication au secrétaire."],
-    "86": ["L’approbation de tout message par un membre du conseil n’est plus formulée avec cette autorité précise. [[S:9.10]] exige des validations et autorisations avant diffusion; [[C:1.2]] en confie l’organisation au secrétaire."],
-    "87": ["Modifié dans [[AP:3.1]] et [[C:1.6]]. L’accès à un exemplaire à jour et les copies dans les locaux remplacent l’obligation d’affichage permanent de la constitution sur le tableau."],
-    "88": ["Modifié dans [[AP:3.1]] et [[C:1.6]]. L’accès offert à chaque nouveau membre et la possibilité d’en prendre connaissance remplacent la remise obligatoire d’une copie individuelle dès l’acceptation."],
-    "89": ["Regroupé avec l’ancien article 102 dans [[S:9.10]], [[C:1.6]] et [[E:1.6]]. La communication des activités et l’affichage sont conservés dans des dispositions générales; le calendrier et les avis spéciaux ne sont plus énumérés ensemble dans une clause distincte."],
-    "90": ["La possibilité de réceptions privées pour membres et non-membres n’est plus formulée comme énoncé autonome. Elle se retrouve dans les frais distincts prévus dans [[R4:13.2]] et [[R4:13.3]], ainsi que dans la réservation visée par [[R1:11.1]]."],
-    "91": ["La transmission régisseur–président–commandant est déplacée dans [[F:1.5]]. L’approbation du commandant, la faculté de refus sans justification, la priorité des membres et la restriction normale les jours d’entraînement sont regroupées dans [[R1:11.1]]."],
-    "92": ["Déplacé dans [[R4:12.1]]. La réservation sans frais de location du Mess Combiné pour les membres associés, honoraires et honoraires à vie est conservée; les frais du bar restent payables, désignés désormais comme frais de service."],
-    "93": ["Énoncé principal — Repris dans [[R4:13.1]] : frais fixés par le comité et inscrits au contrat.",
+    "76": [
+      "Déplacé dans [[R2:2.1]]. Le consentement du président ou du commandant est conservé, avec ajout de l’autorisation de remettre les meubles à leur place après usage."
+    ],
+    "77": [
+      "Remplacé par [[R2:4.1]] à [[R2:4.3]]. La prise en charge obligatoire par le Mess de tout dommage ou perte accidentels n’est plus énoncée. Les procédures, assurances et responsabilités sont visées par renvoi; l’indemnisation intégrale n’est pas garantie."
+    ],
+    "78": [
+      "Remplacé par [[R2:4.1]] à [[R2:4.3]]. La facturation obligatoire au membre pour négligence ou geste volontaire n’est plus énoncée. Le projet exclut la facturation automatique et distingue le signalement de la reconnaissance d’une dette."
+    ],
+    "79": [
+      "Déplacé et modifié dans [[R2:4.1]] et [[R2:4.2]]. La disposition suit les références citées; la propriété et les conditions des dons ou prêts sont vérifiées. L’approbation du seul « conseil » n’est plus formulée comme règle suffisante pour tout retrait ou vente."
+    ],
+    "80": [
+      "Non repris — L’interdiction de sortir les livres, journaux et revues acquis pour les membres ne figure plus explicitement. [[R2:2.1]] exige généralement le consentement pour déplacer un bien, sans disposition propre aux publications."
+    ],
+    "81": [
+      "Déplacé dans [[R2:1.1]]. L’approbation d’une décoration permanente demeure, par le comité et dans les limites de ses pouvoirs. Le projet ajoute qu’une inscription commémorative ne prouve pas la propriété."
+    ],
+    "82": [
+      "Remplacé par les renvois d’assurance dans [[R2:4.1]] et la confirmation de la couverture par le vice-président dans [[R2:4.2]] et [[B:1.5]]. La garantie locale de pleine valeur et de valeur au moins égale à la dernière évaluation n’est plus énoncée; [[R2:4.3]] ne garantit pas une indemnisation intégrale."
+    ],
+    "83": [
+      "Reformulé dans [[S:9.1]] et [[A:1.11]], par renvoi au Manuel PSP pour le traitement et par un suivi confié au président. Le livre conservé sur place et l’examen systématique par le conseil avec présentation au besoin à l’assemblée ne sont plus décrits comme tels. Un registre consultable est évoqué par exclusion des dossiers confidentiels."
+    ],
+    "84": [
+      "Reformulé dans [[S:9.1]]. L’acheminement direct au président est maintenant explicite pour les questions confidentielles ou de personnel. Le critère général d’urgence pour toute plainte ou suggestion n’est plus énoncé dans cette clause."
+    ],
+    "85": [
+      "Déplacé dans [[S:7.10]]. L’affichage est conservé et complété par un canal commun accessible à tous et un accès équivalent sans moyen numérique. [[C:1.6]] confie la communication au secrétaire."
+    ],
+    "86": [
+      "L’approbation de tout message par un membre du conseil n’est plus formulée avec cette autorité précise. [[S:7.10]] exige des validations et autorisations avant diffusion; [[C:1.2]] en confie l’organisation au secrétaire."
+    ],
+    "87": [
+      "Modifié dans [[AP:3.1]] et [[C:1.6]]. L’accès à un exemplaire à jour et les copies dans les locaux remplacent l’obligation d’affichage permanent de la constitution sur le tableau."
+    ],
+    "88": [
+      "Modifié dans [[AP:3.1]] et [[C:1.6]]. L’accès offert à chaque nouveau membre et la possibilité d’en prendre connaissance remplacent la remise obligatoire d’une copie individuelle dès l’acceptation."
+    ],
+    "89": [
+      "Regroupé avec l’ancien article 102 dans [[S:7.10]], [[C:1.6]] et [[E:1.6]]. La communication des activités et l’affichage sont conservés dans des dispositions générales; le calendrier et les avis spéciaux ne sont plus énumérés ensemble dans une clause distincte."
+    ],
+    "90": [
+      "La possibilité de réceptions privées pour membres et non-membres n’est plus formulée comme énoncé autonome. Elle se retrouve dans les frais distincts prévus dans [[R4:13.2]] et [[R4:13.3]], ainsi que dans la réservation visée par [[R1:11.1]]."
+    ],
+    "91": [
+      "La transmission régisseur–président–commandant est déplacée dans [[F:1.5]]. L’approbation du commandant, la faculté de refus sans justification, la priorité des membres et la restriction normale les jours d’entraînement sont regroupées dans [[R1:11.1]]."
+    ],
+    "92": [
+      "Déplacé dans [[R4:12.1]]. La réservation sans frais de location du Mess Combiné pour les membres associés, honoraires et honoraires à vie est conservée; les frais du bar restent payables, désignés désormais comme frais de service."
+    ],
+    "93": [
+      "Énoncé principal — Repris dans [[R4:13.1]] : frais fixés par le comité et inscrits au contrat.",
       "a — Repris dans [[R4:13.2]] : frais réels, profits du bar affectés à leur couverture et solde à payer par le membre. b — Repris dans [[R4:13.3]] pour l’activité d’un non-membre et le montant d’amortissement. L’autorité du barman en l’absence d’un représentant membre ordinaire en règle est déplacée dans [[G:1.9]]."
     ],
-    "94": ["Modifié dans [[R2:4.1]] à [[R2:4.3]] et [[R1:10.2]]. Le signalement est exigé; le contrat de réception est pris en compte. L’imputation automatique de tout dommage au responsable et l’obligation du comité d’obtenir son remboursement ne sont plus énoncées. Les biens de la Couronne sont explicitement soumis à leur propre procédure."],
-    "95": ["Regroupé avec les anciens articles 64 et 69a dans [[R1:4.1]]. L’accompagnement reste requis et le départ avec le membre est précisé. La responsabilité générale pour tout invité n’est plus formulée séparément."],
-    "96": ["a et b — Non repris. La présentation obligatoire de l’invité au commandant pour un officier, ou au SME pour un sergent ou adjudant, est retirée."],
-    "97": ["La tenue et le comportement sont regroupés dans les articles 5 et 6 du R1, notamment [[R1:5.1]], [[R1:5.2]] et [[R1:6.1]]. [[AP:2.1]] précise l’application aux invités des dispositions qui les concernent; il n’y a plus de clause distincte consacrée à leur assujettissement."],
-    "98": ["Regroupé avec l’ancien article 66 dans [[R1:10.1]]. La propreté des locaux et des équipements de jeu après utilisation est conservée."],
-    "99": ["Déplacé dans [[F:1.7]]. Le régisseur contrôle les équipements de jeu ou confie leur garde à une personne désignée. Le billard n’est plus nommé séparément."],
-    "100": ["Remplacé par [[R1:9.1]], qui interdit les loteries, tirages et activités lorsqu’ils sont prohibés par la loi et renvoie au Manuel PSP, chapitre 9-4, paragraphes 66 à 69. L’interdiction locale formulée sans cette condition, les exemples sweepstakes et appareils à sous et la référence OAFC 19-1 ne sont plus reproduits."],
-    "101": ["La réception des propositions et leur transmission pour approbation sont déplacées dans [[E:1.3]]. [[R4:14.1]] prévoit qu’une activité déjà comprise dans un programme et un budget approuvés peut être organisée dans ce cadre. Le vote ou l’approbation du commandant pour chaque suggestion n’est plus énoncé comme exigence systématique."],
-    "102": ["Regroupé avec l’ancien article 89 dans [[S:9.10]], [[C:1.6]] et [[E:1.6]]. L’affichage et l’accessibilité sont maintenus par les règles générales de diffusion, sans phrase autonome imposant l’affichage du calendrier."],
-    "103": ["Déplacé dans [[R4:14.2]] et [[E:1.2]]. Le budget de décembre et la coordination avec les exercices et les autres occupants du manège sont conservés."],
-    "104": ["Déplacé dans [[R4:15.1]]. Le Noël annuel des enfants et le plafond de financement de 150 $ sont conservés; la formulation est condensée."],
-    "105": ["Déplacé dans [[R4:16.1]]. Le plafond de 50 $, les proches visés et le doublement possible au décès d’un membre sont conservés. « Réguliers » devient « ordinaires » et « des fleurs ou autres » devient « des fleurs ou un autre présent »."],
-    "106": ["Déplacé dans [[R4:17.1]]. Le maximum de 75 $, l’envoi à l’hôpital ou au domicile et le doublement si les deux parents sont membres sont conservés."],
-    "107": ["Déplacé dans [[R4:18.1]]. Le maximum de 50 $, le seuil d’au moins 48 heures, l’hôpital ou le domicile et les catégories de membres sont conservés; « réguliers » devient « ordinaires »."],
-    "108": ["a — Déplacé dans [[R4:19.1]], avec maintien de plus d’un an et du maximum de 30 $. b — Déplacé dans [[R4:19.2]], avec maintien de plus de trois ans et du maximum de 75 $, gravure comprise; « mug » devient « chope ». c — Déplacé dans [[R4:19.3]], avec maintien de la réussite du cours et du maximum de 25 $; « coin » devient « pièce »."],
-    "109": ["Déplacé dans [[R4:20.1]]. Les titulaires, le seuil de plus de 12 ans d’appartenance au Mess et le maximum de 150 $ sont conservés; les abréviations sont développées."],
-    "110": ["Déplacé dans [[R4:21.1]]. Le maximum de 50 $, le détachement en opération, la qualité habituelle de membre en règle et le maintien du droit malgré l’absence de cotisation pendant le déploiement sont conservés. La formulation est condensée."],
-    "111": ["Déplacé dans [[R4:22.1]]. Les fleurs aux deux conjoints et le plafond de 50 $ sont conservés; le projet précise « à chacun des conjoints ».",
+    "94": [
+      "Modifié dans [[R2:4.1]] à [[R2:4.3]] et [[R1:10.2]]. Le signalement est exigé; le contrat de réception est pris en compte. L’imputation automatique de tout dommage au responsable et l’obligation du comité d’obtenir son remboursement ne sont plus énoncées. Les biens de la Couronne sont explicitement soumis à leur propre procédure."
+    ],
+    "95": [
+      "Regroupé avec les anciens articles 64 et 69a dans [[R1:4.1]]. L’accompagnement reste requis et le départ avec le membre est précisé. La responsabilité générale pour tout invité n’est plus formulée séparément."
+    ],
+    "96": [
+      "a et b — Non repris. La présentation obligatoire de l’invité au commandant pour un officier, ou au SME pour un sergent ou adjudant, est retirée."
+    ],
+    "97": [
+      "La tenue et le comportement sont regroupés dans les articles 5 et 6 du R1, notamment [[R1:5.1]], [[R1:5.2]] et [[R1:6.1]]. [[AP:2.1]] précise l’application aux invités des dispositions qui les concernent; il n’y a plus de clause distincte consacrée à leur assujettissement."
+    ],
+    "98": [
+      "Regroupé avec l’ancien article 66 dans [[R1:10.1]]. La propreté des locaux et des équipements de jeu après utilisation est conservée."
+    ],
+    "99": [
+      "Déplacé dans [[F:1.7]]. Le régisseur contrôle les équipements de jeu ou confie leur garde à une personne désignée. Le billard n’est plus nommé séparément."
+    ],
+    "100": [
+      "Remplacé par [[R1:9.1]], qui interdit les loteries, tirages et activités lorsqu’ils sont prohibés par la loi et renvoie au Manuel PSP, chapitre 9-4, paragraphes 66 à 69. L’interdiction locale formulée sans cette condition, les exemples sweepstakes et appareils à sous et la référence OAFC 19-1 ne sont plus reproduits."
+    ],
+    "101": [
+      "La réception des propositions et leur transmission pour approbation sont déplacées dans [[E:1.3]]. [[R4:14.1]] prévoit qu’une activité déjà comprise dans un programme et un budget approuvés peut être organisée dans ce cadre. Le vote ou l’approbation du commandant pour chaque suggestion n’est plus énoncé comme exigence systématique."
+    ],
+    "102": [
+      "Regroupé avec l’ancien article 89 dans [[S:7.10]], [[C:1.6]] et [[E:1.6]]. L’affichage et l’accessibilité sont maintenus par les règles générales de diffusion, sans phrase autonome imposant l’affichage du calendrier."
+    ],
+    "103": [
+      "Déplacé dans [[R4:14.2]] et [[E:1.2]]. Le budget de décembre et la coordination avec les exercices et les autres occupants du manège sont conservés."
+    ],
+    "104": [
+      "Déplacé dans [[R4:15.1]]. Le Noël annuel des enfants et le plafond de financement de 150 $ sont conservés; la formulation est condensée."
+    ],
+    "105": [
+      "Déplacé dans [[R4:16.1]]. Le plafond de 50 $, les proches visés et le doublement possible au décès d’un membre sont conservés. « Réguliers » devient « ordinaires » et « des fleurs ou autres » devient « des fleurs ou un autre présent »."
+    ],
+    "106": [
+      "Déplacé dans [[R4:17.1]]. Le maximum de 75 $, l’envoi à l’hôpital ou au domicile et le doublement si les deux parents sont membres sont conservés."
+    ],
+    "107": [
+      "Déplacé dans [[R4:18.1]]. Le maximum de 50 $, le seuil d’au moins 48 heures, l’hôpital ou le domicile et les catégories de membres sont conservés; « réguliers » devient « ordinaires »."
+    ],
+    "108": [
+      "a — Déplacé dans [[R4:19.1]], avec maintien de plus d’un an et du maximum de 30 $. b — Déplacé dans [[R4:19.2]], avec maintien de plus de trois ans et du maximum de 75 $, gravure comprise; « mug » devient « chope ». c — Déplacé dans [[R4:19.3]], avec maintien de la réussite du cours et du maximum de 25 $; « coin » devient « pièce »."
+    ],
+    "109": [
+      "Déplacé dans [[R4:20.1]]. Les titulaires, le seuil de plus de 12 ans d’appartenance au Mess et le maximum de 150 $ sont conservés; les abréviations sont développées."
+    ],
+    "110": [
+      "Déplacé dans [[R4:21.1]]. Le maximum de 50 $, le détachement en opération, la qualité habituelle de membre en règle et le maintien du droit malgré l’absence de cotisation pendant le déploiement sont conservés. La formulation est condensée."
+    ],
+    "111": [
+      "Déplacé dans [[R4:22.1]]. Les fleurs aux deux conjoints et le plafond de 50 $ sont conservés; le projet précise « à chacun des conjoints ».",
       "Note commune aux cadeaux — Le signalement de l’événement par le membre ou sa famille à la salle des rapports ou au comité est déplacé dans [[R4:22.2]]. La remise par le supérieur immédiat est déplacée dans [[A:1.12]]. Le renvoi global aux articles précédents n’est plus reproduit dans la clause de signalement."
     ],
-    "112": ["L’inscription et la remise de toute plainte au commandant adjoint ne sont plus énoncées. [[S:11.1]] renvoie au Manuel PSP pour le traitement; les questions confidentielles ou de personnel vont directement au président. [[A:1.11]] lui confie l’organisation du suivi."],
-    "113": ["La remise au commandant adjoint des suggestions, propositions et observations n’est plus énoncée. [[S:11.1]] et [[A:1.11]] traitent les suggestions; les modifications aux textes sont transmises au président selon [[S:10.1]]."],
-    "114": ["Réuni avec les articles 115 et 116 dans [[S:10.1]] et [[S:10.2]]. Le destinataire de la proposition écrite devient le président, plutôt que le secrétaire. La majorité porte sur les voix exprimées des membres ayant droit de vote, plutôt que sur les membres présents en général; le préavis de 15 jours et l’approbation du commandant sont explicités."],
-    "115": ["Reformulé dans [[S:10.1]], [[S:2.3]] et [[AP:4.1]]. La proposition écrite au président et le délai de 15 jours sont conservés, sous forme de communication aux membres avant examen. La transmission obligatoire au comité, son filtrage des propositions, la communication des motifs de rejet et l’exclusion du registre des motions ne sont plus repris. L’assemblée demeure le lieu du vote. Le respect des références est énoncé dans les dispositions d’administration."],
-    "116": ["Repris dans [[S:10.1]] et [[S:10.2]]. L’adoption en assemblée puis l’approbation du commandant sont conservées; le quorum est traité séparément dans [[S:9.6]]. La communication du texte à jour et de sa date d’entrée en vigueur est ajoutée."]
+    "112": [
+      "L’inscription et la remise de toute plainte au commandant adjoint ne sont plus énoncées. [[S:9.1]] renvoie au Manuel PSP pour le traitement; les questions confidentielles ou de personnel vont directement au président. [[A:1.11]] lui confie l’organisation du suivi."
+    ],
+    "113": [
+      "La remise au commandant adjoint des suggestions, propositions et observations n’est plus énoncée. [[S:9.1]] et [[A:1.11]] traitent les suggestions; les modifications aux textes sont transmises au président selon [[S:8.1]]."
+    ],
+    "114": [
+      "Réuni avec les articles 115 et 116 dans [[S:8.1]] et [[S:8.2]]. Le destinataire de la proposition écrite devient le président, plutôt que le secrétaire. La majorité porte sur les voix exprimées des membres ayant droit de vote, plutôt que sur les membres présents en général; le préavis de 15 jours et l’approbation du commandant sont explicités."
+    ],
+    "115": [
+      "Reformulé dans [[S:8.1]], [[S:2.3]] et [[AP:4.1]]. La proposition écrite au président et le délai de 15 jours sont conservés, sous forme de communication aux membres avant examen. La transmission obligatoire au comité, son filtrage des propositions, la communication des motifs de rejet et l’exclusion du registre des motions ne sont plus repris. L’assemblée demeure le lieu du vote. Le respect des références est énoncé dans les dispositions d’administration."
+    ],
+    "116": [
+      "Repris dans [[S:8.1]] et [[S:8.2]]. L’adoption en assemblée puis l’approbation du commandant sont conservées; le quorum est traité séparément dans [[S:7.6]]. La communication du texte à jour et de sa date d’entrée en vigueur est ajoutée."
+    ]
   },
   "ajouts": [
     "Organisation des textes — Les dispositions sont séparées en statuts, quatre règlements et sept annexes de fonctions. [[S:2.3]] précise que les règlements ne peuvent modifier les pouvoirs ou les droits des statuts. Le projet ne comporte plus de règlement distinct consacré aux assemblées ou à l’administration.",
-    "Gouvernance — [[S:5.1]] réserve expressément élections, destitutions, cotisations, budgets et modifications aux membres en assemblée; [[S:8.1]] à [[S:8.4]] distinguent les réunions du comité et prévoient notamment une fréquence mensuelle et des comptes rendus distinguant décisions, recommandations et suivis.",
-    "Affiliation — [[S:4.3]] précise les affiliations associées à plusieurs mess et les cotisations correspondantes. [[S:4.9]] précise l’absence de cotisation et de poste pour les membres honoraires, avec possibilité de partager les frais d’activités. [[S:4.10]] prévoit la demande d’affiliation associée en cas de fréquentation régulière.",
-    "Diffusion et procès-verbaux — [[S:9.10]] ajoute un canal commun, un accès sans moyen numérique et l’accès au relevé des décisions et au projet de procès-verbal dans les 14 jours, avec statut et approbations attendues.",
+    "Gouvernance — [[S:5.1]] réserve expressément élections, destitutions, cotisations, budgets et modifications aux membres en assemblée; [[S:6.1]] à [[S:6.4]] distinguent les réunions du comité et prévoient notamment une fréquence mensuelle et des comptes rendus distinguant décisions, recommandations et suivis.",
+    "Affiliation — [[S:4.4.3]] précise les affiliations associées à plusieurs mess et les cotisations correspondantes. [[S:4.5.4]] précise l’absence de cotisation et de poste pour les membres honoraires, avec possibilité de partager les frais d’activités. [[S:4.5.5]] prévoit la demande d’affiliation associée en cas de fréquentation régulière.",
+    "Diffusion et procès-verbaux — [[S:7.10]] ajoute un canal commun, un accès sans moyen numérique et l’accès au relevé des décisions et au projet de procès-verbal dans les 14 jours, avec statut et approbations attendues.",
     "Cadets et tenue — [[R1:3.2]] interdit l’accès des cadets en uniforme et en service; [[R1:5.1]] prévoit une exception religieuse pour les couvre-chefs. Les autres changements de tenue figurent à l’annotation de l’article 70.",
     "Biens — [[R2:3.1]] décrit les conditions d’acceptation des dons, les coûts d’entretien et les limites des promesses de reçus ou de transfert de propriété. [[R2:5.1]] distingue les propriétaires, la provenance et les conditions d’utilisation ou de restitution; les coordonnées personnelles sont masquées dans la version accessible aux membres.",
     "Bar — [[R3:1.1]] et [[R3:1.2]] précisent la formation et les références applicables; [[R3:2.1]] ajoute eau ou boisson sans alcool et aide au retour. [[R3:3.1]] ajoute un relevé factuel des incidents et [[R3:4.1]] détaille les conditions d’ouverture et de fermeture.",
     "Finances — [[R4:1.1]] et [[R4:3.1]] explicitent les délégations et les règles d’achats. [[R4:8.1]] distingue le fonds d’unité. [[R4:9.1]] à [[R4:9.6]] décrivent le suivi du fonds cadeau et la confirmation écrite avant financement ou transfert; [[R4:10.1]] traite l’approbation des prestations et opérations; [[R4:11.1]] détaille les rapports et pièces justificatives.",
-    "Fonctions — Les annexes ajoutent notamment le suivi financier et des approbations dans [[A:1.10]], les vérifications sur les biens dans [[B:1.5]], la protection des renseignements et la relève documentaire dans [[C:1.7]] et [[C:1.8]], ainsi que les pièces et moyens de paiement dans [[D:1.6]] et [[F:1.6]]. Les autres ajouts liés à une disposition initiale sont indiqués après celle-ci."
+    "Fonctions — Les annexes ajoutent notamment le suivi financier et des approbations dans [[A:1.10]], les vérifications sur les biens dans [[B:1.5]], la protection des renseignements et la relève documentaire dans [[C:1.7]] et [[C:1.8]], ainsi que les pièces et moyens de paiement dans [[D:1.6]] et [[F:1.6]]. Les autres ajouts liés à une disposition initiale sont indiqués après celle-ci.",
+    "Responsable du bar — [[S:5.2]] distingue la voix délibérative du militaire membre ordinaire, bénévole et élu ou nommé au comité, et la voix consultative du responsable employé des FNP. [[S:6.5]] prévoit les convocations, les points à l’ordre du jour et le retrait des délibérations touchant ses intérêts personnels. [[F:1.9]] reprend sa participation aux réunions.",
+    "Service et emploi au bar — [[R3:1.4]] et [[F:1.8]] permettent au responsable d’assurer aussi le service, dans les limites des autorisations et contrôles applicables. [[R4:2.1]] permet l’exercice bénévole ou dans un emploi du Personnel des FNP; [[R4:2.2]] maintient l’absence de rémunération pour les fonctions au comité et les règles sur les conflits d’intérêts."
   ]
 }

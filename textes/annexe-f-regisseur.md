@@ -18,4 +18,4 @@
 
 1.8. Au besoin, assurer également les tâches de serveur prévues à [l’annexe G](#annexe-g-serveur-section-1), dans les conditions de service, de formation et de sobriété prévues au [règlement 3](#r3-section-1). Ce cumul ne modifie ni les délégations financières ni les contrôles applicables.
 
-1.9. Participer aux réunions du comité, présenter la situation du bar, ses besoins et ses recommandations et proposer des points à l’ordre du jour, selon les modalités du [paragraphe 8.5 des statuts](#statuts-paragraphe-8-5).
+1.9. Participer aux réunions du comité, présenter la situation du bar, ses besoins et ses recommandations et proposer des points à l’ordre du jour, selon les modalités du [paragraphe 6.5 des statuts](#statuts-paragraphe-6-5).
