@@ -20,7 +20,7 @@
 
 4.1. Les propositions de modification sont transmises au président et traitées selon la procédure prévue aux statuts. Après adoption et approbation, la version à jour et sa date d’entrée en vigueur sont communiquées aux membres.
 
-### Approbation du commandant
+### Approbation du cmdt
 
 Adoptés en assemblée générale le : ____________________
 

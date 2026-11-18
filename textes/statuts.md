@@ -8,7 +8,7 @@
 
 2.1. L’établissement et l’administration du Mess relèvent de la [réf. B, art. 27.01](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/ordonnances-reglements-royaux/vol-1-administration/chapitre-27-mess-cantines-instituts.html).
 
-2.2. Le terme « commandant » désigne le commandant du mess. Le commandant du mess est le commandant d'unité, soit le 34 RGC, ou le commandant dont les pouvoirs ont été délégués.
+2.2. Le terme « commandant » désigne le commandant du mess. Le cmdt du mess est le cmdt d'unité, soit le 34 RGC, ou le cmdt dont les pouvoirs ont été délégués.
 
 2.3. Le Mess est administré conformément à la [réf. A, chap. 9-4](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=281) et à la [réf. C](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/directives-ordonnances-administratives-defense/serie-9000/9003/9003-1-biens-non-publics.html). Les règlements complètent les statuts et en précisent l’application; ils ne peuvent en modifier les pouvoirs ou les droits.
 
@@ -28,7 +28,7 @@
 - b. les militaires des forces armées de pays étrangers d'un programme d’échange ou qui sont détachés auprès du 9 EG;
 - c. les officiers du Cadre des instructeurs de cadets (CIC) appartenant aux unités de cadets directement parrainées qui utilisent les installations du 9 EG, s’ils en font la demande.
 
-4.4. **Membres associés.** Peuvent devenir membres associés, avec l’approbation du commandant, les personnes admissibles selon la [réf. A, chap. 9-1, para. 14](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=269), notamment :
+4.4. **Membres associés.** Peuvent devenir membres associés, avec l’approbation du cmdt, les personnes admissibles selon la [réf. A, chap. 9-1, para. 14](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=269), notamment :
 
 - a. les vétérans;
 - b. les employés actuels et retraités du MDN et des FNP;
@@ -42,15 +42,15 @@
 
 4.4.4. Privilèges et participation aux comités. Les membres associés bénéficient des privilèges du Mess, mais ne peuvent siéger au comité du Mess. Ils peuvent apporter leur concours au comité ou à un sous-comité, sans y assumer de responsabilités, conformément à la [réf. A, chap. 9-1, para. 17](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=270).
 
-4.4.5. Participation aux événements officiels. La participation des membres associés aux événements officiels à caractère militaire exige une invitation du président.
+4.4.5. Participation aux événements officiels. La participation des membres associés aux événements officiels à caractère militaire exige une invitation du PCM.
 
 4.5. **Membres honoraires.** L’affiliation honoraire permet de reconnaître la position d’une personne ou sa contribution au pays ou aux forces armées en lui permettant de fréquenter occasionnellement le Mess. Elle est accordée selon les dispositions de la [réf. A, chap. 9-1, para. 18 à 23](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=270).
 
 4.5.1. Militaires en service. Tous les membres de la Force régulière et de la Première réserve canadienne sont membres honoraires du Mess, à l’exception des personnes qui en sont déjà membres ordinaires ou associés, conformément à la [réf. A, chap. 9-1, para. 18](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=270).
 
-4.5.2. Personnes de marque. Une personne de marque peut être invitée à devenir membre honoraire pour une période maximale d’un an, renouvelable par périodes d’un an. L’affiliation est accordée sur recommandation du comité du Mess, après un vote majoritaire à une assemblée générale et avec l’approbation du commandant, conformément à la [réf. A, chap. 9-1, para. 19](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=270).
+4.5.2. Personnes de marque. Une personne de marque peut être invitée à devenir membre honoraire pour une période maximale d’un an, renouvelable par périodes d’un an. L’affiliation est accordée sur recommandation du comité du Mess, après un vote majoritaire à une assemblée générale et avec l’approbation du cmdt, conformément à la [réf. A, chap. 9-1, para. 19](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=270).
 
-4.5.3. Membres honoraires à vie. L’affiliation honoraire à vie peut être accordée à un militaire qui prend sa retraite ou qui est déjà à la retraite, conformément à la [réf. A, chap. 9-1, para. 21](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=270). Parmi les militaires admissibles, cette reconnaissance bénéficie, à leur retraite, aux anciens commandants, sergents-majors et lieutenants-colonels honoraires du 9 EG, ainsi qu’aux membres ayant plus de 12 ans de service au 9 EG. Elle peut également reconnaître une contribution majeure à l’unité.
+4.5.3. Membres honoraires à vie. L’affiliation honoraire à vie peut être accordée à un militaire qui prend sa retraite ou qui est déjà à la retraite, conformément à la [réf. A, chap. 9-1, para. 21](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=270). Parmi les militaires admissibles, cette reconnaissance bénéficie, à leur retraite, aux anciens cmdts, sergents-majors et lieutenants-colonels honoraires du 9 EG, ainsi qu’aux membres ayant plus de 12 ans de service au 9 EG. Elle peut également reconnaître une contribution majeure à l’unité.
 
 4.5.4. Privilèges, cotisations et fonctions. Les membres honoraires, y compris les membres honoraires à vie, bénéficient des privilèges du Mess, sont exemptés de cotisations et ne peuvent y occuper aucun poste. Ils peuvent toutefois être tenus de payer leur part des frais occasionnés par les réceptions ou divertissements auxquels ils participent, conformément à la [réf. A, chap. 9-1, para. 22](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=270).
 
@@ -58,43 +58,43 @@
 
 4.6. Révocation. Sous réserve des pouvoirs de l’autorité compétente, le comité du Mess peut révoquer les privilèges d’un membre pour non-paiement, inconduite, non-respect des statuts et règlements du Mess ou tout autre motif valable.
 
-4.6.1. Nouvelle demande après un non-paiement. Une personne dont les privilèges ont été révoqués pour non-paiement doit présenter une nouvelle demande d’adhésion, sauf si le défaut de paiement est justifié auprès du président.
+4.6.1. Nouvelle demande après un non-paiement. Une personne dont les privilèges ont été révoqués pour non-paiement doit présenter une nouvelle demande d’adhésion, sauf si le défaut de paiement est justifié auprès du PCM.
 
-4.6.2. Révocation d’une affiliation honoraire. L’annulation d’une affiliation honoraire relève du commandant, conformément à la [réf. A, chap. 9-1, para. 22](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=270). Dans le cas d’un membre honoraire à vie, une proposition de révocation pour un manquement portant ombrage à l’escadron ou au Mess est soumise au vote de l’assemblée générale avant d’être transmise au commandant pour décision.
+4.6.2. Révocation d’une affiliation honoraire. L’annulation d’une affiliation honoraire relève du cmdt, conformément à la [réf. A, chap. 9-1, para. 22](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=270). Dans le cas d’un membre honoraire à vie, une proposition de révocation pour un manquement portant ombrage à l’escadron ou au Mess est soumise au vote de l’assemblée générale avant d’être transmise au cmdt pour décision.
 
 ### 5. Comité du Mess
 
-5.1. **Administration et pouvoirs.** Le Mess est administré par un comité, ci-après appelé « le comité », qui assure l’administration courante et la mise en œuvre des décisions de l’assemblée générale, dans les limites du budget et des délégations approuvés. Sous réserve des pouvoirs du commandant, les élections, les destitutions des membres élus, les cotisations, les budgets et les modifications aux statuts relèvent de l’assemblée générale et ne peuvent être décidés en réunion du comité.
+5.1. **Administration et pouvoirs.** Le Mess est administré par un comité, ci-après appelé « le comité », qui assure l’administration courante et la mise en œuvre des décisions de l’assemblée générale, dans les limites du budget et des délégations approuvés. Sous réserve des pouvoirs du cmdt, les élections, les destitutions des membres élus, les cotisations, les budgets et les modifications aux statuts relèvent de l’assemblée générale et ne peuvent être décidés en réunion du comité.
 
 5.2. **Composition et représentation.** Le comité comprend au moins trois membres ordinaires :
 
-- a. un président;
-- b. un vice-président;
+- a. le président du comité du mess (PCM);
+- b. le vice-président du comité du mess (VPCM);
 - c. un secrétaire ou un trésorier.
 
 Les membres des deux locaux doivent être équitablement représentés au sein du comité. D’autres postes ou fonctions peuvent être ajoutés selon les besoins et pourvus par élection ou nomination.
 
-Le comité est appuyé par un responsable du bar et des serveurs. Le responsable du bar, désigné avec l’approbation du commandant ou de son délégué, relève du président pour le fonctionnement du bar et supervise les serveurs. Ces fonctions peuvent notamment être confiées à un militaire autorisé ou à un employé du Personnel des fonds non publics, Forces canadiennes, selon les modalités d’emploi applicables. Elles ne confèrent pas, à elles seules, le statut de membre du comité. Les liens hiérarchiques et les conditions d’emploi du personnel des FNP demeurent applicables.
+Le comité est appuyé par un responsable du bar et des serveurs. Le responsable du bar, désigné avec l’approbation du cmdt ou de son délégué, relève du président pour le fonctionnement du bar et supervise les serveurs. Ces fonctions peuvent notamment être confiées à un militaire autorisé ou à un employé du Personnel des fonds non publics, Forces canadiennes, selon les modalités d’emploi applicables. Elles ne confèrent pas, à elles seules, le statut de membre du comité. Les liens hiérarchiques et les conditions d’emploi du personnel des FNP demeurent applicables.
 
 Lorsque le responsable du bar est militaire, membre ordinaire du Mess et qu’il exerce cette fonction bénévolement, il peut être élu ou nommé au comité et y disposer d’une voix délibérative, sous réserve des règles sur les conflits d’intérêts.
 
 Lorsqu’il exerce cette fonction dans le cadre d’un emploi au sein du Personnel des FNP, ou qu’il n’est pas élu ou nommé au comité, il participe aux réunions à titre consultatif, sans droit de vote et sans être compté dans le quorum du comité. Cette participation consultative reprend, pour le responsable du bar, le rôle de conseil prévu pour le gérant à la [réf. A, chap. 9-4, para. 185](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=340).
 
-5.3. **Élections et nominations.** Les membres du comité sont élus en assemblée générale par les membres ayant droit de vote ou nommés par le commandant, conformément à la [réf. A, chap. 9-4, para. 16](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=284). Les élections se tiennent normalement en décembre, à la majorité simple des voix exprimées.
+5.3. **Élections et nominations.** Les membres du comité sont élus en assemblée générale par les membres ayant droit de vote ou nommés par le cmdt, conformément à la [réf. A, chap. 9-4, para. 16](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=284). Les élections se tiennent normalement en décembre, à la majorité simple des voix exprimées.
 
 5.4. **Mandats et relève.** La durée des mandats, leur prolongation et la relève échelonnée respectent la [réf. A, chap. 9-4, para. 18](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=284).
 
 5.5. **Fin de mandat.** Lorsqu’un membre ne participe plus aux travaux du comité ou n’assume plus ses fonctions, une solution est d’abord recherchée avec lui. Si la situation persiste :
 
 - a. pour un membre élu, l’assemblée générale peut mettre fin à son mandat à la majorité des voix exprimées. Le membre concerné reçoit les motifs par écrit au moins un mois avant le vote et peut présenter ses observations;
-- b. pour un membre nommé, la situation est soumise au commandant pour décision.
+- b. pour un membre nommé, la situation est soumise au cmdt pour décision.
 
 5.6. **Bénévolat et conflits d’intérêts.** Les fonctions au comité sont bénévoles. Les conflits d’intérêts et les avantages liés à la gestion du Mess sont régis par la [réf. A, chap. 9-4, para. 27](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=289) et la [réf. A, chap. 9-4, para. 28](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=290).
 
 5.7. **Fonctions et responsabilités.** Les fonctions et responsabilités des membres du comité ainsi que celles du responsable du bar et des serveurs sont détaillées dans les annexes suivantes :
 
-- a. [Annexe A — Président du comité du Mess](#annexe-a-section-1);
-- b. [Annexe B — Vice-président du comité du Mess](#annexe-b-section-1);
+- a. [Annexe A — PCM](#annexe-a-section-1);
+- b. [Annexe B — VPCM](#annexe-b-section-1);
 - c. [Annexe C — Secrétaire](#annexe-c-section-1);
 - d. [Annexe D — Trésorier](#annexe-d-section-1);
 - e. [Annexe E — Responsable des activités](#annexe-e-section-1);
@@ -109,7 +109,7 @@ Ces descriptions de fonctions n’élargissent pas les pouvoirs des titulaires. 
 
 6.2. Les réunions du comité ont lieu au moins une fois par mois, conformément à la [réf. A, chap. 9-4, para. 39](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=296).
 
-6.3. Le commandant ou le président ont pour rôle de convoquer les réunions du comité,  agit dans les limites du budget et des délégations approuvés; il ne tranche pas les questions réservées à l’assemblée générale.
+6.3. Le cmdt ou le PCM ont pour rôle de convoquer les réunions du comité,  agit dans les limites du budget et des délégations approuvés; il ne tranche pas les questions réservées à l’assemblée générale.
 
 6.4. Les comptes rendus distinguent les décisions du comité, ses recommandations et les suivis.
 
@@ -129,7 +129,7 @@ Ces descriptions de fonctions n’élargissent pas les pouvoirs des titulaires. 
 
 7.6. Le quorum est atteint lorsque 50% des membres sont présents, conformément à la [réf. A, chap. 9-4, para. 43](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=297).
 
-7.7. Tout membre ordinaire peut présenter une motion, excepté le président. Une motion est recevable seulement si elle est appuyée par un autre membre ordinaire. Les motions doivent être présentées à l'avance selon la
+7.7. Tout membre ordinaire peut présenter une motion, excepté le PCM. Une motion est recevable seulement si elle est appuyée par un autre membre ordinaire. Les motions doivent être présentées à l'avance selon la
 
 7.8. Le cmdt peut assister aux assemblées et participer aux discussions. S'il est membre ordinaire du mess, il peut exercer son droit de vote et peut présenter une motion.
 
@@ -141,10 +141,10 @@ Ces descriptions de fonctions n’élargissent pas les pouvoirs des titulaires. 
 
 ### 8. Modification des textes
 
-8.1. Toute proposition de modification aux statuts ou à leurs règlements, y compris leurs annexes, est transmise par écrit au président et communiquée aux membres au moins 15 jours avant son examen. Son adoption exige la majorité des voix exprimées par les membres ayant droit de vote, lors d’une assemblée générale.
+8.1. Toute proposition de modification aux statuts ou à leurs règlements, y compris leurs annexes, est transmise par écrit au PCM et communiquée aux membres au moins 15 jours avant son examen. Son adoption exige la majorité des voix exprimées par les membres ayant droit de vote, lors d’une assemblée générale.
 
-8.2. Une modification adoptée entre en vigueur après l’approbation du commandant. Le texte à jour et sa date d’entrée en vigueur sont communiqués aux membres.
+8.2. Une modification adoptée entre en vigueur après l’approbation du cmdt. Le texte à jour et sa date d’entrée en vigueur sont communiqués aux membres.
 
 ### 9. Suggestions et plaintes
 
-9.1. Le traitement des suggestions et des plaintes suit la [réf. A, chap. 9-4, para. 57](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=308). Les questions confidentielles ou concernant le personnel sont remises directement au président, hors du registre consultable.
+9.1. Le traitement des suggestions et des plaintes suit la [réf. A, chap. 9-4, para. 57](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=308). Les questions confidentielles ou concernant le personnel sont remises directement au PCM, hors du registre consultable.

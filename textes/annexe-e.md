@@ -2,7 +2,7 @@
 
 #### 1. Responsabilités
 
-1.1. Un seul responsable des activités est nommé pour le Club Chimo et le Mess Combiné. Il rend compte au président.
+1.1. Un seul responsable des activités est nommé pour le Club Chimo et le Mess Combiné. Il rend compte au PCM.
 
 1.2. Planifier le programme des activités et préparer le budget de décembre. Coordonner le calendrier avec l’unité et les autres occupants du manège.
 

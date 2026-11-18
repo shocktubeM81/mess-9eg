@@ -2,7 +2,7 @@
 
 #### 1. Responsabilités
 
-1.1. Rendre compte au président du fonctionnement du bar, dans le respect des liens hiérarchiques et des conditions d’emploi applicables au personnel des FNP.
+1.1. Rendre compte au PCM du fonctionnement du bar, dans le respect des liens hiérarchiques et des conditions d’emploi applicables au personnel des FNP.
 
 1.2. Superviser et former le personnel du bar, en coordination avec les responsables des ressources humaines des FNP lorsque le personnel est employé. Appuyer les refus de service et organiser l’aide nécessaire en cas d’incident.
 
@@ -10,7 +10,7 @@
 
 1.4. Vérifier les conditions d’ouverture : personnel, hygiène, stocks, prix et autorisations. Assurer le suivi des écarts signalés à la fermeture.
 
-1.5. Recevoir les demandes de réservation et les transmettre au président pour présentation au commandant.
+1.5. Recevoir les demandes de réservation et les transmettre au PCM pour présentation au cmdt.
 
 1.6. Transmettre les pièces justificatives des commandes au trésorier.
 

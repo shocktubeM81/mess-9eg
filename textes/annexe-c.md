@@ -2,7 +2,7 @@
 
 #### 1. Responsabilités
 
-1.1. Rendre compte au président.
+1.1. Rendre compte au PCM.
 
 1.2. Préparer les ordres du jour et transmettre les convocations et documents dans les délais. Organiser les validations et autorisations d’affichage avant diffusion.
 

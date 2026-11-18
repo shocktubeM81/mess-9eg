@@ -1,6 +1,6 @@
 ### Annexe D — Trésorier
 
-#### 1. Responsabilités
+#### 1. Responsabilités du trésorier
 
 1.1. Tenir la liste des membres par catégorie et suivre les cotisations. Distinguer la liste des personnes ayant droit de vote du dénombrement servant au quorum selon le [paragraphe 7.5 des statuts](#statuts-paragraphe-7-5) et le [paragraphe 7.6 des statuts](#statuts-paragraphe-7-6).
 
@@ -10,6 +10,6 @@
 
 1.4. Faire assurer la tenue des livres par une tierce personne; ne pas l’effectuer soi-même.
 
-1.5. Gérer le fonds du président avec celui-ci.
+1.5. Gérer le fonds du PCM avec celui-ci.
 
 1.6. Préparer et transmettre les demandes de virement électronique de fonds par l’entremise des SBMFC. Assurer le suivi des pièces justificatives des achats par carte de crédit, selon les directives des SBMFC.

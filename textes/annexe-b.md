@@ -1,12 +1,12 @@
-### Annexe B — Vice-président du comité du Mess
+t### Annexe B — VPCM
 
 #### 1. Responsabilités
 
-1.1. Rendre compte au président.
+1.1. Rendre compte au PCM.
 
-1.2. Assister le président et le remplacer en son absence.
+1.2. Assister le PCM et le remplacer en son absence.
 
-1.3. Accomplir les tâches confiées par le président.
+1.3. Accomplir les tâches confiées par le PCM.
 
 1.4. Tenir à jour l’inventaire des meubles et équipements, en distinguant le Club Chimo et le Mess Combiné.
 

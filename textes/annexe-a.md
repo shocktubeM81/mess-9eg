@@ -1,12 +1,12 @@
-### Annexe A — Président du comité du Mess
+### Annexe A — PCM
 
 #### 1. Responsabilités
 
-1.1. Rendre compte au commandant de l’administration du Mess.
+1.1. Rendre compte au cmdt de l’administration du Mess.
 
 1.2. Préparer les dossiers du comité, faire exécuter les décisions et rendre compte à l’assemblée.
 
-1.3. Convoquer et présider les assemblées et les réunions du comité. Le vice-président le remplace en son absence.
+1.3. Convoquer et présider les assemblées et les réunions du comité. Le VPCM le remplace en son absence.
 
 1.4. Conduire les assemblées conformément à la [réf. A, chap. 9-4, tableau 9-4-4](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=298).
 
@@ -18,7 +18,7 @@
 
 1.8. Superviser les membres du comité et assurer le suivi du fonctionnement du bar avec le responsable du bar, dans le respect des liens hiérarchiques et des conditions d’emploi du personnel des FNP. Examiner régulièrement les états financiers.
 
-1.9. Veiller à la discipline dans les locaux. En l’absence du président et du vice-président, le membre le plus haut gradé présent veille au maintien de l’ordre.
+1.9. Veiller à la discipline dans les locaux. En l’absence du PCM et du VPCM, le membre le plus haut gradé présent veille au maintien de l’ordre.
 
 1.10. Faire confirmer les modalités BNP avant tout nouveau financement ou transfert et préparer la proposition chiffrée destinée aux membres.
 
