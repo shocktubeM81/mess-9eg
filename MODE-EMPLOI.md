@@ -62,7 +62,7 @@ Depuis le dossier **site/** :
 
 ```powershell
 bundle install
-bundle exec jekyll serve --livereload
+bundle exec jekyll serve
 ```
 
 Ouvrez **http://localhost:4000**. Les modifications dans **textes/** déclenchent
