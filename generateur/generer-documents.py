@@ -290,8 +290,8 @@ def reportlab_pdf(blocks,profile,target):
                     self.drawString(profile['marge_gauche_cm']*cm,1.2*cm,f'{self._pageNumber-1}/{count-1}')
                 super().showPage()
             super().save()
-    styles={n:ParagraphStyle(n,fontName='Times-Roman',fontSize=12,leading=14,spaceAfter=7) for n in ['body','ref']
-    styles['continuation']=ParagraphStyle('continuation',parent=styles['body'],leftIndent=1.1*cm)}
+    styles={n:ParagraphStyle(n,fontName='Times-Roman',fontSize=12,leading=14,spaceAfter=7) for n in ['body','ref']}
+    styles['continuation']=ParagraphStyle('continuation',parent=styles['body'],leftIndent=1.1*cm)
     styles['numbered']=ParagraphStyle('numbered',parent=styles['body'],leftIndent=1.1*cm,
         bulletIndent=0,bulletFontName='Times-Roman',bulletFontSize=12)
     styles['lettered']=ParagraphStyle('lettered',parent=styles['body'],leftIndent=1.8*cm,
