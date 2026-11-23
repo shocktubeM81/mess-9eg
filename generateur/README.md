@@ -23,3 +23,7 @@ py -m unittest discover -s generateur -p 'test_*.py'
 Le comparatif lit `textes/comparatif.json` et `textes/archives/constitution.md`; sa génération vérifie la conservation intégrale des 116 articles initiaux. Le PDF destiné au site est recréé automatiquement par GitHub Actions.
 
 Voir le [mode d’emploi](../MODE-EMPLOI.md).
+
+Les articles numérotés ont un retrait suspendu : numéro à 0 cm et texte à 1,1 cm. Les alinéas `- a.`, `- b.`, etc. sont davantage décalés : lettre à 1,1 cm et texte à 1,8 cm. Les lignes suivantes restent alignées sur le texte de l’alinéa. Ces retraits s’appliquent au recueil Word et PDF.
+
+Le retrait des paragraphes sans numéro dépend du contexte : après un article numéroté, ils commencent à 1,1 cm, y compris après une liste lettrée. Chaque titre met fin à ce rattachement. Les paragraphes d’ouverture, les textes préliminaires et les références restent donc sans retrait tant qu’aucun article numéroté n’a commencé sous le titre. Les titres, la couverture, les en-têtes, les pieds de page et la table des matières conservent leur mise en page propre.
