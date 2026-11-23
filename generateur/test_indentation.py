@@ -17,12 +17,18 @@ BLOCKS = [
     {'text': '# Constitution du Mess', 'ids': []},
     {'text': 'Version de vérification', 'ids': []},
     {'text': '## Statuts', 'ids': ['statuts']},
+    {'text': 'Texte préliminaire.', 'ids': []},
+    {'text': 'Autre paragraphe préliminaire.', 'ids': []},
     {'text': '1.1. Introduction.', 'ids': []},
     {'text': 'Suite avant la liste.', 'ids': []},
     {'text': '- a. Premier alinéa avec **du gras** et [un lien](https://exemple.ca).', 'ids': []},
     {'text': '- b. Deuxième alinéa.', 'ids': []},
     {'text': 'Suite après la liste.', 'ids': []},
     {'text': '1.2. Retour aux articles.', 'ids': []},
+    {'text': '### Nouvelle section', 'ids': []},
+    {'text': 'Introduction de section.', 'ids': []},
+    {'text': '## Références', 'ids': []},
+    {'text': 'Réf. A. Manuel.', 'ids': []},
 ]
 
 
@@ -50,6 +56,11 @@ class IndentationTest(unittest.TestCase):
                 p = next(p for p in doc.paragraphs if p.text == text)
                 self.assertAlmostEqual(p.paragraph_format.left_indent.cm, 1.1, places=2)
                 self.assertEqual(p.paragraph_format.first_line_indent, 0)
+            for text in ('Texte préliminaire.', 'Autre paragraphe préliminaire.',
+                         'Introduction de section.', 'Réf. A. Manuel.'):
+                p = next(p for p in doc.paragraphs if p.text == text)
+                self.assertEqual(p.paragraph_format.left_indent, 0)
+                self.assertEqual(p.paragraph_format.first_line_indent, 0)
             heading = next(p for p in doc.paragraphs if p.text == 'Statuts')
             self.assertIn(heading.paragraph_format.left_indent, (None, 0))
 
@@ -64,7 +75,9 @@ class IndentationTest(unittest.TestCase):
                 def visit(value, cm, tm, font, size):
                     token = value.strip()
                     if token in ('1.1.', '1.2.', 'a.', 'b.', 'Premier alinéa avec',
-                                 'Suite avant la liste.', 'Suite après la liste.', 'Statuts'):
+                                 'Suite avant la liste.', 'Suite après la liste.', 'Statuts',
+                                 'Texte préliminaire.', 'Autre paragraphe préliminaire.',
+                                 'Introduction de section.', 'Réf. A. Manuel.'):
                         positions[token] = tm[4] * cm[0] + tm[5] * cm[2] + cm[4]
                 text += page.extract_text(visitor_text=visit)
             for label in ('1.1.', '1.2.', 'a.', 'b.'):
@@ -76,6 +89,10 @@ class IndentationTest(unittest.TestCase):
                 self.assertIn(token, positions)
                 self.assertAlmostEqual(positions[token], positions['a.'], places=2)
             self.assertAlmostEqual(positions['Statuts'], positions['1.1.'], places=2)
+            for token in ('Texte préliminaire.', 'Autre paragraphe préliminaire.',
+                          'Introduction de section.', 'Réf. A. Manuel.'):
+                self.assertIn(token, positions)
+                self.assertAlmostEqual(positions[token], positions['1.1.'], places=2)
             self.assertIn('Premier alinéa', text)
             self.assertNotIn('- a.', text)
 

@@ -139,6 +139,23 @@ def paragraph_layout(line):
         return lettered[1], lettered[2], 1.1, 1.8
     return None
 
+def body_layouts(blocks):
+    """Les titres ferment l'article; seuls ses paragraphes de suite sont décalés."""
+    in_article=False
+    for block in blocks:
+        line=block['text']
+        if re.match(r'^#+ ',line):
+            in_article=False
+            yield block,None
+            continue
+        layout=paragraph_layout(line)
+        if layout and layout[0][0].isdigit():
+            in_article=True
+        if layout is None:
+            indent=1.1 if in_article else 0.0
+            layout=('',line,indent,indent)
+        yield block,layout
+
 def make_docx(blocks,profile,target):
     from docx import Document
     from docx.shared import Cm,Pt,RGBColor
@@ -210,7 +227,7 @@ def make_docx(blocks,profile,target):
         else:node=OxmlElement('w:t');node.text=value
         run.append(node);p._p.append(run)
     bookmark_id=1;first=True;after_part_two=False;signature=False
-    for b in blocks:
+    for b,layout in body_layouts(blocks):
         line=b['text']
         if line.startswith('# ') or line.startswith('Version '):continue
         h=re.match(r'^(#+) (.+)',line)
@@ -223,16 +240,15 @@ def make_docx(blocks,profile,target):
             signature='Approbation du commandant' in text
             first=False
         else:
-            p=doc.add_paragraph();layout=paragraph_layout(line)
-            if layout:
-                label,content,label_indent,text_indent=layout
+            p=doc.add_paragraph()
+            label,content,label_indent,text_indent=layout
+            if label:
                 p.paragraph_format.left_indent=Cm(text_indent)
                 p.paragraph_format.first_line_indent=Cm(label_indent-text_indent)
                 p.paragraph_format.tab_stops.add_tab_stop(Cm(text_indent))
                 p.add_run(label+'\t');add_runs(p,content)
             else:
-                # Un paragraphe sans numéro prolonge l'article, même après une liste.
-                p.paragraph_format.left_indent=Cm(1.1)
+                p.paragraph_format.left_indent=Cm(text_indent)
                 p.paragraph_format.first_line_indent=Cm(0)
                 add_runs(p,line.removeprefix('- '))
             p.paragraph_format.widow_control=True
@@ -274,7 +290,8 @@ def reportlab_pdf(blocks,profile,target):
                     self.drawString(profile['marge_gauche_cm']*cm,1.2*cm,f'{self._pageNumber-1}/{count-1}')
                 super().showPage()
             super().save()
-    styles={n:ParagraphStyle(n,fontName='Times-Roman',fontSize=12,leading=14,spaceAfter=7,leftIndent=1.1*cm) for n in ['body','ref']}
+    styles={n:ParagraphStyle(n,fontName='Times-Roman',fontSize=12,leading=14,spaceAfter=7) for n in ['body','ref']
+    styles['continuation']=ParagraphStyle('continuation',parent=styles['body'],leftIndent=1.1*cm)}
     styles['numbered']=ParagraphStyle('numbered',parent=styles['body'],leftIndent=1.1*cm,
         bulletIndent=0,bulletFontName='Times-Roman',bulletFontSize=12)
     styles['lettered']=ParagraphStyle('lettered',parent=styles['body'],leftIndent=1.8*cm,
@@ -296,7 +313,7 @@ def reportlab_pdf(blocks,profile,target):
     toc=TableOfContents()
     toc.levelStyles=[ParagraphStyle('toc0',fontName='Times-Roman',fontSize=12,leading=15,spaceAfter=3),ParagraphStyle('toc1',fontName='Times-Roman',fontSize=12,leading=15,leftIndent=0.6*cm,spaceAfter=3)]
     story.extend([toc,PageBreak()]);first=True;after_part_two=False
-    for b in blocks:
+    for b,layout in body_layouts(blocks):
         line=b['text'];h=re.match(r'^(#+) (.+)',line)
         if line.startswith('# ') or line.startswith('Version '):continue
         if h:
@@ -305,10 +322,13 @@ def reportlab_pdf(blocks,profile,target):
             style=styles[str(min(4,len(h[1])-1))];line=title;first=False;after_part_two=title.startswith('Partie II')
         else:style=styles['body'];after_part_two=False
         label=None
-        layout=paragraph_layout(line) if not h else None
         if layout:
-            label,line,_,_=layout
-            style=styles['lettered' if b['text'].startswith('- ') else 'numbered']
+            label,line,_,text_indent=layout
+            if label:
+                style=styles['lettered' if b['text'].startswith('- ') else 'numbered']
+            else:
+                label=None
+                style=styles['continuation' if text_indent else 'body']
         anchor=''.join('<a name="'+bookmark_name(i)+'"/>' for i in b['ids'])
         flow=Paragraph(anchor+pdf_markup(line.removeprefix('- '), bookmark_name),style,bulletText=label)
         flow._export_anchors=b['ids']
