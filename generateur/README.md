@@ -25,3 +25,5 @@ Le comparatif lit `textes/comparatif.json` et `textes/archives/constitution.md`;
 Voir le [mode d’emploi](../MODE-EMPLOI.md).
 
 Les articles numérotés ont un retrait suspendu : numéro à 0 cm et texte à 1,1 cm. Les alinéas `- a.`, `- b.`, etc. sont davantage décalés : lettre à 1,1 cm et texte à 1,8 cm. Les lignes suivantes restent alignées sur le texte de l’alinéa. Ces retraits s’appliquent au recueil Word et PDF.
+
+Tous les paragraphes de texte sans numéro commencent également à 1,1 cm : ils prolongent le paragraphe numéroté précédent, y compris après une liste lettrée. Les titres conservent leur alignement sans retrait. La couverture, les en-têtes, les pieds de page et la table des matières gardent leur mise en page propre.

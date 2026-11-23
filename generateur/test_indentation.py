@@ -18,8 +18,10 @@ BLOCKS = [
     {'text': 'Version de vérification', 'ids': []},
     {'text': '## Statuts', 'ids': ['statuts']},
     {'text': '1.1. Introduction.', 'ids': []},
+    {'text': 'Suite avant la liste.', 'ids': []},
     {'text': '- a. Premier alinéa avec **du gras** et [un lien](https://exemple.ca).', 'ids': []},
     {'text': '- b. Deuxième alinéa.', 'ids': []},
+    {'text': 'Suite après la liste.', 'ids': []},
     {'text': '1.2. Retour aux articles.', 'ids': []},
 ]
 
@@ -44,6 +46,12 @@ class IndentationTest(unittest.TestCase):
             self.assertTrue(any(r.bold and 'du gras' in r.text for r in paras['a.'].runs))
             self.assertIn('https://exemple.ca', [r.target_ref for r in doc.part.rels.values()])
             self.assertAlmostEqual(paras['1.2.'].paragraph_format.left_indent.cm, 1.1, places=2)
+            for text in ('Suite avant la liste.', 'Suite après la liste.'):
+                p = next(p for p in doc.paragraphs if p.text == text)
+                self.assertAlmostEqual(p.paragraph_format.left_indent.cm, 1.1, places=2)
+                self.assertEqual(p.paragraph_format.first_line_indent, 0)
+            heading = next(p for p in doc.paragraphs if p.text == 'Statuts')
+            self.assertIn(heading.paragraph_format.left_indent, (None, 0))
 
     def test_pdf_places_letters_beyond_numbered_labels(self):
         from pypdf import PdfReader
@@ -55,7 +63,8 @@ class IndentationTest(unittest.TestCase):
             for page in PdfReader(path).pages:
                 def visit(value, cm, tm, font, size):
                     token = value.strip()
-                    if token in ('1.1.', '1.2.', 'a.', 'b.', 'Premier alinéa avec'):
+                    if token in ('1.1.', '1.2.', 'a.', 'b.', 'Premier alinéa avec',
+                                 'Suite avant la liste.', 'Suite après la liste.', 'Statuts'):
                         positions[token] = tm[4] * cm[0] + tm[5] * cm[2] + cm[4]
                 text += page.extract_text(visitor_text=visit)
             for label in ('1.1.', '1.2.', 'a.', 'b.'):
@@ -63,6 +72,10 @@ class IndentationTest(unittest.TestCase):
             self.assertAlmostEqual(positions['1.1.'], positions['1.2.'], places=2)
             self.assertAlmostEqual(positions['a.'], positions['b.'], places=2)
             self.assertAlmostEqual(positions['a.'] - positions['1.1.'], 1.1 * 72 / 2.54, places=2)
+            for token in ('Suite avant la liste.', 'Suite après la liste.'):
+                self.assertIn(token, positions)
+                self.assertAlmostEqual(positions[token], positions['a.'], places=2)
+            self.assertAlmostEqual(positions['Statuts'], positions['1.1.'], places=2)
             self.assertIn('Premier alinéa', text)
             self.assertNotIn('- a.', text)
 

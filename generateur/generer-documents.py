@@ -230,7 +230,11 @@ def make_docx(blocks,profile,target):
                 p.paragraph_format.first_line_indent=Cm(label_indent-text_indent)
                 p.paragraph_format.tab_stops.add_tab_stop(Cm(text_indent))
                 p.add_run(label+'\t');add_runs(p,content)
-            else:add_runs(p,line.removeprefix('- '))
+            else:
+                # Un paragraphe sans numéro prolonge l'article, même après une liste.
+                p.paragraph_format.left_indent=Cm(1.1)
+                p.paragraph_format.first_line_indent=Cm(0)
+                add_runs(p,line.removeprefix('- '))
             p.paragraph_format.widow_control=True
             if signature and not line.startswith('Signé à'):p.paragraph_format.keep_with_next=True
             after_part_two=False
@@ -270,7 +274,7 @@ def reportlab_pdf(blocks,profile,target):
                     self.drawString(profile['marge_gauche_cm']*cm,1.2*cm,f'{self._pageNumber-1}/{count-1}')
                 super().showPage()
             super().save()
-    styles={n:ParagraphStyle(n,fontName='Times-Roman',fontSize=12,leading=14,spaceAfter=7) for n in ['body','ref']}
+    styles={n:ParagraphStyle(n,fontName='Times-Roman',fontSize=12,leading=14,spaceAfter=7,leftIndent=1.1*cm) for n in ['body','ref']}
     styles['numbered']=ParagraphStyle('numbered',parent=styles['body'],leftIndent=1.1*cm,
         bulletIndent=0,bulletFontName='Times-Roman',bulletFontSize=12)
     styles['lettered']=ParagraphStyle('lettered',parent=styles['body'],leftIndent=1.8*cm,
